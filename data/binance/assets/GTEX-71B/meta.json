@@ -1,0 +1,21 @@
+{
+  "symbol": "GTEX-71B",
+  "name": "GTEX",
+  "email": "info@gtexgame.io",
+  "web": "https://gtexgame.io/",
+  "decimals": null,
+  "supply": 4000000000,
+  "links": {
+    "telegram": "https://t.me/gtexgame",
+    "reddit": "https://www.reddit.com/user/GTEXGame",
+    "youtube": "https://www.youtube.com/channel/UCI2-yRphxoHEIEAOV7pwyDQ",
+    "twitter": "https://twitter.com/GTEXGame",
+    "facebook": "https://www.facebook.com/GTEXGame",
+    "github": "https://github.com/gtexgame"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

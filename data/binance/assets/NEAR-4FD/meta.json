@@ -1,0 +1,16 @@
+{
+  "symbol": "NEAR-4FD",
+  "name": "NEARProtocol",
+  "email": null,
+  "web": null,
+  "decimals": 18,
+  "supply": 2500000,
+  "links": {
+    "research": "https://research.binance.com/en/projects/near-protocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

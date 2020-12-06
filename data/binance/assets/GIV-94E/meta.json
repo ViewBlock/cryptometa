@@ -1,0 +1,20 @@
+{
+  "symbol": "GIV-94E",
+  "name": "Givly Coin",
+  "email": "admin@cryptolocally.com",
+  "web": "https://cryptolocally.com/en/giv/",
+  "decimals": 8,
+  "supply": 500000000,
+  "links": {
+    "telegram": "https://t.me/cryptolocally",
+    "medium": "https://medium.com/@cryptolocally",
+    "youtube": "https://www.youtube.com/channel/UCbiPMMS-wW_S9A4-X7H5olw/about",
+    "twitter": "https://twitter.com/cryptolocally?lang=en",
+    "reddit": "https://www.reddit.com/user/CryptoLocally"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

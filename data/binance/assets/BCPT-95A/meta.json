@@ -1,0 +1,23 @@
+{
+  "symbol": "BCPT-95A",
+  "name": "Blockmason Credit Protocol",
+  "email": "info@blockmason.io",
+  "web": "https://blockmason.io/the-credit-protocol",
+  "decimals": null,
+  "supply": 116158667,
+  "links": {
+    "telegram": "https://t.me/blockmason",
+    "reddit": "https://www.reddit.com/r/blockmason",
+    "medium": "https://medium.com/@blockmason",
+    "youtube": "https://www.youtube.com/channel/UCqv0UBWjgjM5JZkxdQR7DYw",
+    "twitter": "https://twitter.com/blockmasonio",
+    "facebook": "https://www.facebook.com/blockmasonio",
+    "github": "https://github.com/blockmason/credit-protocol",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/blockmason"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

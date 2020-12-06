@@ -1,0 +1,17 @@
+{
+  "symbol": "ETHBEAR-B2B",
+  "name": "3X Short Ethereum Token",
+  "email": null,
+  "web": null,
+  "decimals": null,
+  "supply": 78821,
+  "links": {},
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 0
+  }
+}

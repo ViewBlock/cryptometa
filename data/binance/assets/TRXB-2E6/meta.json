@@ -1,0 +1,21 @@
+{
+  "symbol": "TRXB-2E6",
+  "name": "TRXB",
+  "email": "service@tron.network",
+  "web": "https://tron.network/",
+  "decimals": null,
+  "supply": 100000000,
+  "links": {
+    "telegram": "https://t.me/tronnetworkEN",
+    "reddit": "https://www.reddit.com/r/Tronix",
+    "medium": "https://medium.com/tron-foundation",
+    "youtube": "https://www.youtube.com/channel/UC5OPOGRq02iK-0T9sKse_kA",
+    "twitter": "https://twitter.com/Tronfoundation",
+    "facebook": "https://www.facebook.com/tronfoundation"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

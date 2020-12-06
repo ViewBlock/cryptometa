@@ -1,0 +1,21 @@
+{
+  "symbol": "FRM-DE7",
+  "name": "Ferrum Network Token",
+  "email": "info@ferrum.network",
+  "web": "https://ferrum.network/",
+  "decimals": null,
+  "supply": 164609374.5,
+  "links": {
+    "medium": "http://medium.ferrum.network",
+    "twitter": "http://twitter.ferrum.network",
+    "facebook": "http://facebook.ferrum.network",
+    "coinmarketcap": "http://cmc.ferrum.network",
+    "youtube": "http://youtube.ferrum.network",
+    "reddit": "http://reddit.ferrum.network"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

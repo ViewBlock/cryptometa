@@ -1,0 +1,20 @@
+{
+  "symbol": "PYN-C37",
+  "name": "paycentos",
+  "email": "support@paycent.com",
+  "web": "https://paycent.com/",
+  "decimals": null,
+  "supply": 100000000,
+  "links": {
+    "telegram": "https://t.me/paycent",
+    "medium": "https://medium.com/@paycent",
+    "twitter": "https://twitter.com/@PaycentGlobal",
+    "facebook": "https://www.facebook.com/paycent.sg",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/paycent"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

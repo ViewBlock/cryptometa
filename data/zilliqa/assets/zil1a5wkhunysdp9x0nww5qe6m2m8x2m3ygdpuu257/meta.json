@@ -1,0 +1,13 @@
+{
+  "name": "RedChillies",
+  "symbol": "RedC",
+  "links": {
+    "twitter": "https://twitter.com/_redchillies",
+    "telegram": "https://t.me/redchilliesRedC"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 5
+  }
+}

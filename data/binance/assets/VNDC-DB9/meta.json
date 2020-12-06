@@ -1,0 +1,20 @@
+{
+  "symbol": "VNDC-DB9",
+  "name": "VNDC",
+  "email": "hi@vndc.io",
+  "web": "https://vndc.io/",
+  "decimals": null,
+  "supply": 2050000000,
+  "links": {
+    "telegram": "https://t.me/vndcvietnam",
+    "medium": "https://medium.com/vndc-ltd",
+    "twitter": "https://twitter.com/Vndcstable",
+    "facebook": "https://www.facebook.com/vndc.io",
+    "github": "https://github.com/vndc-it"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

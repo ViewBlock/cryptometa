@@ -1,0 +1,23 @@
+{
+  "symbol": "MVL-7B0",
+  "name": "Mass Vehicle Ledger",
+  "email": "support@mvlchain.io",
+  "web": "https://mvlchain.io/",
+  "decimals": null,
+  "supply": 8000000000,
+  "links": {
+    "telegram": "https://t.me/mvlchain_kr",
+    "reddit": "https://www.reddit.com/r/MVL",
+    "medium": "http://medium.com/@mvlchain",
+    "youtube": "https://www.youtube.com/channel/UCWIwx5KcQIaf7Ti6piFhnKw",
+    "twitter": "https://twitter.com/mvlchain",
+    "facebook": "https://www.facebook.com/mvlchain",
+    "github": "https://github.com/mvlchain",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/mvl"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

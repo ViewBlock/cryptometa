@@ -1,0 +1,24 @@
+{
+  "symbol": "WICC-01D",
+  "name": "WaykiChain Coin",
+  "email": "biz@waykichainhk.com",
+  "web": "https://www.waykichain.com/",
+  "decimals": null,
+  "supply": 210000000,
+  "links": {
+    "telegram": "https://t.me/wiccofficial",
+    "facebook": "https://www.facebook.com/waykichainofficial",
+    "reddit": "https://www.reddit.com/r/WICCProject",
+    "medium": "https://medium.com/@waykichainwicc",
+    "youtube": " https://www.youtube.com/channel/UCjudZhgPcAX74LVxi23kKvg",
+    "twitter": "https://twitter.com/wayki_chain",
+    "coinmarketcap": "https://coinmarketcap.com/zh/currencies/waykichain",
+    "linkedin": "https://www.linkedin.com/company/waykichain%E7%BB%B4%E5%9F%BA%E9%93%BE",
+    "github": "https://github.com/WaykiChain/WaykiChain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 24
+  }
+}

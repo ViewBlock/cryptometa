@@ -1,0 +1,14 @@
+{
+  "symbol": "EET-45C",
+  "name": "Energy Eco Token",
+  "email": null,
+  "web": "https://www.energyecochain.com",
+  "decimals": null,
+  "supply": 600000000,
+  "links": {},
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 5
+  }
+}

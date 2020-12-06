@@ -1,0 +1,24 @@
+{
+  "symbol": "TOMOB-4BC",
+  "name": "TomoChain",
+  "email": "admin@tomochain.com",
+  "web": "https://tomochain.com",
+  "decimals": null,
+  "supply": 5000000,
+  "links": {
+    "telegram": "https://t.me/tomochain",
+    "reddit": "https://www.reddit.com/r/Tomochain",
+    "medium": "https://medium.com/tomochain",
+    "youtube": "https://www.youtube.com/channel/UCXZ2rmjM84qS80RCj6vQ1gw",
+    "twitter": "https://twitter.com/TomoChainANN",
+    "facebook": "https://www.facebook.com/tomochainofficial",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/tomochain",
+    "github": "https://github.com/tomochain",
+    "research": "https://research.binance.com/en/projects/tomochain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 29
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "ADA-9F4",
+  "name": "CardanoBEP2",
+  "email": null,
+  "web": null,
+  "decimals": 18,
+  "supply": 200000000,
+  "links": {
+    "research": "https://research.binance.com/en/projects/cardano"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

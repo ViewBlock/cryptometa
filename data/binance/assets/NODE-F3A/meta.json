@@ -1,0 +1,19 @@
+{
+  "symbol": "NODE-F3A",
+  "name": "NODE",
+  "email": "support@pocketnode.net",
+  "web": "https://pocketnode.net/",
+  "decimals": null,
+  "supply": 2000000000,
+  "links": {
+    "telegram": "https://t.me/Pocketnode_techsupport",
+    "reddit": "https://www.reddit.com/r/PocketNode",
+    "medium": "https://medium.com/pocket-node",
+    "twitter": "https://twitter.com/pocketnodes"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

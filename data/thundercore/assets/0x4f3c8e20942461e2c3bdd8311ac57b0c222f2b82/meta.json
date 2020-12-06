@@ -1,0 +1,10 @@
+{
+  "name": "TT-USDT",
+  "symbol": "TT-USDT",
+  "trusted": true,
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 100
+  }
+}

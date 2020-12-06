@@ -1,0 +1,23 @@
+{
+  "symbol": "DARC-24B",
+  "name": "Konstellation Network",
+  "email": "admin@konstellation.tech",
+  "web": "https://konstellation.tech",
+  "decimals": null,
+  "supply": 1000000000,
+  "links": {
+    "telegram": "https://t.me/Konstellation",
+    "medium": "https://medium.com/@KONSTELLATION",
+    "github": "https://github.com/Konstellation",
+    "twitter": "https://twitter.com/KNSTL_TECH",
+    "facebook": "https://www.facebook.com/Konstellation.tech",
+    "linkedin": "https://www.linkedin.com/company/konstellation-tech",
+    "reddit": "https://www.reddit.com/r/KONSTELLATION",
+    "steemit": "https://steemit.com/@darc"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 24
+  }
+}

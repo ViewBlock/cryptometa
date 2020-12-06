@@ -1,0 +1,17 @@
+{
+  "symbol": "BET-844",
+  "name": "BET Token",
+  "email": "contact@earnbet.io",
+  "web": "https://earnbet.io",
+  "decimals": null,
+  "supply": 88000000,
+  "links": {
+    "telegram": "https://t.me/earnbetcasino",
+    "twitter": "https://twitter.com/EarnBetCasino"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

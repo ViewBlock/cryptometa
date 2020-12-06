@@ -1,0 +1,26 @@
+{
+  "symbol": "NPXSXEM-89C",
+  "name": "Pundi X NEM",
+  "email": "contact@pundix.com",
+  "web": "https://pundix.com/",
+  "decimals": null,
+  "supply": 44788634981.98,
+  "links": {
+    "telegram": "https://t.me/nemxpos",
+    "facebook": "https://www.facebook.com/pundixlabs",
+    "reddit": "https://www.reddit.com/r/PundiX",
+    "medium": "https://medium.com/pundix",
+    "youtube": " https://www.youtube.com/channel/UCOIf6WeLEzZi3DQxzenTZeA",
+    "twitter": "https://twitter.com/PundiXLabs",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/pundi-x-nem",
+    "linkedin": "https://www.linkedin.com/company/pundix",
+    "github": "https://github.com/pundix",
+    "instagram": "https://www.instagram.com/pundi_x",
+    "research": "https://research.binance.com/en/projects/pundix"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 33
+  }
+}

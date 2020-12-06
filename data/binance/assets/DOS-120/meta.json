@@ -1,0 +1,18 @@
+{
+  "symbol": "DOS-120",
+  "name": "DOS Network Token",
+  "email": null,
+  "web": "https://dos.network/",
+  "decimals": 18,
+  "supply": 1000000000,
+  "links": {
+    "twitter": "https://twitter.com/DosNetwork",
+    "medium": "https://medium.com/dos-network",
+    "telegram": "https://t.me/dosnetwork_en"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

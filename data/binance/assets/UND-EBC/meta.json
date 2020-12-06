@@ -1,0 +1,19 @@
+{
+  "symbol": "UND-EBC",
+  "name": "United Network Distribution",
+  "email": null,
+  "web": "http://www.unification.com",
+  "decimals": null,
+  "supply": 1000000000,
+  "links": {
+    "twitter": "https://twitter.com/unificationUND",
+    "medium": " https://medium.com/unificationfoundation",
+    "youtube": "https://www.youtube.com/channel/UCUrnvYlnrchkeIFBx4LzPGA",
+    "telegram": "https://t.me/unificationfoundation"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

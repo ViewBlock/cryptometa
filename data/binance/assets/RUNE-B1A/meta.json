@@ -1,0 +1,14 @@
+{
+  "symbol": "RUNE-B1A",
+  "name": "Rune",
+  "email": null,
+  "web": "https://thorchain.org",
+  "decimals": null,
+  "supply": 500000000,
+  "links": {},
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 5
+  }
+}

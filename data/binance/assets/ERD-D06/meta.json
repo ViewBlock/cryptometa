@@ -1,0 +1,14 @@
+{
+  "symbol": "ERD-D06",
+  "name": "Elrond",
+  "email": null,
+  "web": null,
+  "decimals": null,
+  "supply": 13000000000,
+  "links": {},
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 0
+  }
+}

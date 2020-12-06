@@ -1,0 +1,16 @@
+{
+  "symbol": "IOTX-0ED",
+  "name": "IoTeXNetwork",
+  "email": null,
+  "web": null,
+  "decimals": 18,
+  "supply": 3000000,
+  "links": {
+    "research": "https://research.binance.com/en/projects/iotx"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

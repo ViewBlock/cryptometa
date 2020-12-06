@@ -1,0 +1,22 @@
+{
+  "symbol": "ONE-5F9",
+  "name": "Harmony.One",
+  "email": null,
+  "web": "https://harmony.one/",
+  "decimals": null,
+  "supply": 12600000000,
+  "links": {
+    "telegram": "https://t.me/harmony_one",
+    "twitter": "https://twitter.com/harmonyprotocol",
+    "facebook": "https://www.facebook.com/harmonyoneprotocol",
+    "medium": "https://medium.com/harmony-one",
+    "youtube": "https://harmony.one/youtube",
+    "github": "https://github.com/harmony-one",
+    "research": "https://research.binance.com/en/projects/harmony"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 29
+  }
+}

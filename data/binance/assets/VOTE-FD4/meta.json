@@ -1,0 +1,20 @@
+{
+  "symbol": "VOTE-FD4",
+  "name": "Vote",
+  "email": "ico@agora.vote",
+  "web": "https://agora.vote",
+  "decimals": null,
+  "supply": 1000000000,
+  "links": {
+    "telegram": "https://t.me/agorablockchain",
+    "reddit": "https://www.reddit.com/r/agora",
+    "medium": "https://medium.com/agorablockchain",
+    "twitter": "https://twitter.com/AgoraBlockchain",
+    "linkedin": "https://www.linkedin.com/company/agorablockchain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 14
+  }
+}

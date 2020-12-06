@@ -1,0 +1,19 @@
+{
+  "name": "cryptometa",
+  "version": "0.0.9",
+  "main": "src",
+  "scripts": {
+    "gen": "node bin/generate",
+    "clean-whites": "git checkout data/***/logo-white.png"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "axios": "^0.21.0",
+    "image-pixels": "^2.2.2",
+    "nearest-color": "^0.4.4",
+    "svg2img": "^0.9.0"
+  },
+  "dependencies": {
+    "isomorphic-fetch": "^3.0.0"
+  }
+}

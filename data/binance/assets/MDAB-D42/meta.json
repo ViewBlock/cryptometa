@@ -1,0 +1,17 @@
+{
+  "symbol": "MDAB-D42",
+  "name": "MDAB",
+  "email": null,
+  "web": "https://blocplatform.com/",
+  "decimals": null,
+  "supply": 1000000000,
+  "links": {
+    "twitter": "https://twitter.com/BlocPlatform",
+    "telegram": "https://t.me/BlocPlatformChat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

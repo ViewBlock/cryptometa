@@ -1,0 +1,21 @@
+{
+  "symbol": "CBM-4B2",
+  "name": "CryptoBonusMiles",
+  "email": "info@cryptobonusmiles.com",
+  "web": "https://cryptobonusmiles.com",
+  "decimals": null,
+  "supply": 5000000000,
+  "links": {
+    "telegram": "https://t.me/aeronaero",
+    "reddit": "https://www.reddit.com/r/AeronAero",
+    "medium": "https://medium.com/@aeronaero",
+    "twitter": "https://twitter.com/aeron_aero",
+    "facebook": "https://www.facebook.com/aeronpublic",
+    "github": "https://github.com/aeronaero/aeron"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

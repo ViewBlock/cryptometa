@@ -1,0 +1,10 @@
+{
+  "name": "TT-ETH",
+  "symbol": "TT-ETH",
+  "trusted": true,
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 100
+  }
+}

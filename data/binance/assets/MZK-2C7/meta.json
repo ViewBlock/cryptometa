@@ -1,0 +1,18 @@
+{
+  "symbol": "MZK-2C7",
+  "name": "Muzika",
+  "email": null,
+  "web": null,
+  "decimals": null,
+  "supply": 1000000000,
+  "links": {
+    "twitter": "https://twitter.com/muzika_official",
+    "medium": "https://medium.com/@muzika_official",
+    "telegram": "https://t.me/muzika_english"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 5
+  }
+}

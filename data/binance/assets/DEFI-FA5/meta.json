@@ -1,0 +1,18 @@
+{
+  "symbol": "DEFI-FA5",
+  "name": "DeFi Token",
+  "email": null,
+  "web": "https://www.defilab.com",
+  "decimals": null,
+  "supply": 2500000000,
+  "links": {
+    "twitter": "https://twitter.com/DefiLab",
+    "facebook": "https://www.facebook.com/Definetwork",
+    "telegram": "https://t.me/DefiDFT"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

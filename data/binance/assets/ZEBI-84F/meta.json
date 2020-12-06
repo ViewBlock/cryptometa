@@ -1,0 +1,23 @@
+{
+  "symbol": "ZEBI-84F",
+  "name": "ZEBI",
+  "email": "info@zebi.co",
+  "web": "https://zebi.io/",
+  "decimals": null,
+  "supply": 1000000000,
+  "links": {
+    "telegram": "https://t.me/ZebiData",
+    "linkedin": "https://www.linkedin.com/company/zebidata",
+    "reddit": "https://www.reddit.com/r/Zebidataindia",
+    "medium": "https://medium.com/@Zebidata",
+    "youtube": "https://www.youtube.com/channel/UCrEFyjIGGznac_8nj9uhu2Q",
+    "twitter": "https://twitter.com/ZebidataIndia",
+    "facebook": "https://www.facebook.com/ZebidataIndia",
+    "github": "https://github.com/zebidata"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 24
+  }
+}

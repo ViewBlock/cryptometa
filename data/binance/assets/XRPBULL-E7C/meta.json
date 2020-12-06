@@ -1,0 +1,16 @@
+{
+  "symbol": "XRPBULL-E7C",
+  "name": "3X Long XRP Token",
+  "email": null,
+  "web": "https://ftx.com/",
+  "decimals": null,
+  "supply": 121291,
+  "links": {
+    "telegram": "https://t.me/FTX_Official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 5
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "symbol": "BKBT-3A6",
+  "name": "Bitwires Token",
+  "email": null,
+  "web": "https://www.bitwires.com/en",
+  "decimals": null,
+  "supply": 10000000000,
+  "links": {},
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 5
+  }
+}

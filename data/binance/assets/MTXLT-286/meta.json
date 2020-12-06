@@ -1,0 +1,23 @@
+{
+  "symbol": "MTXLT-286",
+  "name": "Tixl",
+  "email": "mail@tixl.me",
+  "web": "https://tixl.me",
+  "decimals": null,
+  "supply": 900000,
+  "links": {
+    "telegram": "https://t.me/tixlcurrency",
+    "discord": "https://discord.gg/dzVzMdp",
+    "medium": "https://medium.com/tixlcurrency",
+    "twitter": "https://twitter.com/tixlcurrency",
+    "github": "https://github.com/tixl",
+    "facebook": "https://www.facebook.com/tixlcurrency",
+    "reddit": "https://reddit.com/r/tixl",
+    "youtube": "https://www.youtube.com/channel/UCo0U8FPLV9hqju-gSN2Nang"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "TOP-491",
+  "name": "TOP Network",
+  "email": "contact@topnetwork.org",
+  "web": "https://www.topnetwork.org/",
+  "decimals": null,
+  "supply": 20000000000,
+  "links": {
+    "telegram": "https://t.me/topnetwork_top",
+    "reddit": "https://www.reddit.com/user/topnetwork_top",
+    "medium": "https://medium.com/@topnetwork",
+    "youtube": "https://www.youtube.com/channel/UCmqgnSFc6JoebcT3FJWSv-g?view_as=subscriber",
+    "twitter": "https://twitter.com/topnetwork_top",
+    "facebook": "https://www.facebook.com/topnetworktop"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

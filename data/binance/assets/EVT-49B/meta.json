@@ -1,0 +1,22 @@
+{
+  "symbol": "EVT-49B",
+  "name": "everiToken",
+  "email": "harrywong@everitoken.io",
+  "web": "https://everitoken.io",
+  "decimals": null,
+  "supply": 1000000000,
+  "links": {
+    "telegram": "https://t.me/everitoken",
+    "medium": "https://medium.com/@everitoken",
+    "github": "https://github.com/everitoken",
+    "twitter": "https://twitter.com/EveriToken",
+    "facebook": "https://www.facebook.com/everiToken",
+    "reddit": "https://www.reddit.com/r/everitoken",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/everitoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

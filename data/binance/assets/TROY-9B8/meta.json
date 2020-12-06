@@ -1,0 +1,20 @@
+{
+  "symbol": "TROY-9B8",
+  "name": "TROY",
+  "email": "business@troytrade.com",
+  "web": "https://troytrade.com/",
+  "decimals": null,
+  "supply": 10000000000,
+  "links": {
+    "telegram": "https://t.me/troytrade_official",
+    "medium": "https://medium.com/troy-trade",
+    "youtube": "https://www.youtube.com/channel/UCKwLClDMSYXqkV9517OQdaA",
+    "twitter": "https://twitter.com/troytrade",
+    "research": "https://research.binance.com/en/projects/troy"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

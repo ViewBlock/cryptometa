@@ -1,0 +1,14 @@
+{
+  "symbol": "LTO-BDF",
+  "name": "LTO Network",
+  "email": null,
+  "web": "https://lto.network",
+  "decimals": 18,
+  "supply": 500000000,
+  "links": {},
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 5
+  }
+}

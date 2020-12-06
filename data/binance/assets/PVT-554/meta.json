@@ -1,0 +1,17 @@
+{
+  "symbol": "PVT-554",
+  "name": "Pivot Token",
+  "email": "support@pivot.one",
+  "web": "https://www.pivot.one",
+  "decimals": null,
+  "supply": 6283185307,
+  "links": {
+    "telegram": "https://t.me/pivotglobal",
+    "twitter": "https://twitter.com/pivot_pvt"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "symbol": "KAVA-10C",
+  "name": "Kava BEP2 Token",
+  "email": "hello@kava.io",
+  "web": "https://kava.io/",
+  "decimals": null,
+  "supply": 271190.721819,
+  "links": {
+    "telegram": "https://t.me/kavalabs",
+    "medium": "https://medium.com/kava-labs",
+    "youtube": "https://www.youtube.com/channel/UChauw9EMD1DC-ny_cjoLs8A",
+    "twitter": "https://twitter.com/kava_labs",
+    "github": "https://github.com/kava-labs",
+    "linkedin": "https://www.linkedin.com/company/kava-labs/about",
+    "research": "https://research.binance.com/en/projects/kava"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 33
+  }
+}

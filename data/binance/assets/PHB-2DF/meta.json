@@ -1,0 +1,16 @@
+{
+  "symbol": "PHB-2DF",
+  "name": "Red Pulse Phoenix Binance",
+  "email": null,
+  "web": "https://www.redpulse.com/",
+  "decimals": null,
+  "supply": 3374307751.0453196,
+  "links": {
+    "twitter": "https://twitter.com/red_pulse_china"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

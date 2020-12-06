@@ -1,0 +1,15 @@
+{
+  "name": "Bolt",
+  "web": "https://bolt.global",
+  "links": {
+    "medium": "https://medium.com/bolt-global",
+    "twitter": "https://twitter.com/bolt_global",
+    "linkedin": "https://www.linkedin.com/company/bolt-global"
+  },
+  "publicTeam": true,
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 33
+  }
+}

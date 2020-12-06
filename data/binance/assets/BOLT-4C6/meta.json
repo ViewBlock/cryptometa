@@ -1,0 +1,18 @@
+{
+  "symbol": "BOLT-4C6",
+  "name": "BOLT Token",
+  "email": null,
+  "web": "https://www.bolt.global",
+  "decimals": null,
+  "supply": 980230000,
+  "links": {
+    "twitter": "https://twitter.com/Bolt_Global",
+    "telegram": "https://t.me/BoltGlobal",
+    "medium": "https://medium.com/bolt-global"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

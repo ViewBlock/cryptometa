@@ -1,0 +1,21 @@
+{
+  "symbol": "ECO-083",
+  "name": "Ormeus Ecosystem",
+  "email": "info@eco-system.io",
+  "web": "http://eco-system.io/",
+  "decimals": null,
+  "supply": 5000000000,
+  "links": {
+    "telegram": "https://t.me/OfficialORME",
+    "reddit": "https://www.reddit.com/r/OrmeusEcosystem",
+    "medium": "https://medium.com/ormeus",
+    "youtube": "https://www.youtube.com/c/OrmeusEcosystem",
+    "twitter": "https://twitter.com/ormeusecosystem",
+    "facebook": "https://www.facebook.com/ormeusecosystem"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

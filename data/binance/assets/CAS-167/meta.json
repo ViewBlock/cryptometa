@@ -1,0 +1,18 @@
+{
+  "symbol": "CAS-167",
+  "name": "CASHAA",
+  "email": null,
+  "web": "https://cashaa.com/",
+  "decimals": null,
+  "supply": 1000000000,
+  "links": {
+    "medium": "https://medium.com/cashaa",
+    "twitter": "https://twitter.com/CashaaLtd",
+    "telegram": "https://t.me/cashaanews"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

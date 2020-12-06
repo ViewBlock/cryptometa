@@ -1,0 +1,16 @@
+{
+  "symbol": "MATIC-84A",
+  "name": "Matic Token",
+  "email": null,
+  "web": null,
+  "decimals": null,
+  "supply": 10000000000,
+  "links": {
+    "research": "https://research.binance.com/en/projects/matic-network"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

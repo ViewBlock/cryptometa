@@ -1,0 +1,15 @@
+{
+  "name": "Carbon",
+  "symbol": "CARB",
+  "web": "https://www.carbontoken.info",
+  "supply": "10000000",
+  "links": {
+    "telegram": "https://t.me/carbontoken",
+    "github": "https://github.com/GenesysLabs"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 14
+  }
+}

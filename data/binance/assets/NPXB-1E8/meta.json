@@ -1,0 +1,14 @@
+{
+  "symbol": "NPXB-1E8",
+  "name": "NPX Binance token",
+  "email": null,
+  "web": null,
+  "decimals": null,
+  "supply": 29800000,
+  "links": {},
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 0
+  }
+}

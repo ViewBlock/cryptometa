@@ -1,0 +1,21 @@
+{
+  "symbol": "NEXO-A84",
+  "name": "Nexo",
+  "email": "info@nexo.io",
+  "web": "https://nexo.io/",
+  "decimals": null,
+  "supply": 100000000,
+  "links": {
+    "medium": "https://medium.com/nexo",
+    "twitter": "https://twitter.com/NexoFinance",
+    "facebook": "https://www.facebook.com/NexoFinance",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/nexo",
+    "youtube": "https://www.youtube.com/nexofinance",
+    "reddit": "https://www.reddit.com/r/Nexo"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "WISH-2D5",
+  "name": "MyWish",
+  "email": null,
+  "web": "https://mywish.io/",
+  "decimals": null,
+  "supply": 9546650.62357825,
+  "links": {
+    "twitter": "https://twitter.com/mywishplatform",
+    "telegram": "https://t.me/MyWish_platform"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

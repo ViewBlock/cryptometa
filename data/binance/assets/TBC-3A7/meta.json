@@ -1,0 +1,19 @@
+{
+  "symbol": "TBC-3A7",
+  "name": "TBCC Coin",
+  "email": "wallet@tbccwallet.com",
+  "web": "https://tbccwallet.com/",
+  "decimals": null,
+  "supply": 1000000000,
+  "links": {
+    "telegram": "https://t.me/joinchat/AAAAAFKdWltCBS0pf0ETiQ",
+    "instagram": "https://www.instagram.com/tbcc_labs",
+    "twitter": "https://twitter.com/LabsTbcc",
+    "facebook": "https://www.facebook.com/TBCC-Labs-112734580490523"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "symbol": "JDXU-706",
+  "name": "JDXUCoin",
+  "email": "info@jdxcoin.com",
+  "web": "https://jdxcoin.com/",
+  "decimals": null,
+  "supply": 1000000000,
+  "links": {
+    "twitter": "https://twitter.com/CoinJdx",
+    "facebook": "https://www.facebook.com/jdxcoin",
+    "linkedin": "https://www.linkedin.com/company/jdx-coin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 14
+  }
+}

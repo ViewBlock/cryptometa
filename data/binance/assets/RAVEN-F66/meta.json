@@ -1,0 +1,19 @@
+{
+  "symbol": "RAVEN-F66",
+  "name": "Raven Protocol",
+  "email": null,
+  "web": "https://www.ravenprotocol.com",
+  "decimals": 18,
+  "supply": 10000000000,
+  "links": {
+    "twitter": "https://twitter.com/raven_protocol",
+    "facebook": "https://facebook.com/ravenprotocol",
+    "telegram": "https://t.me/ravenprotocol",
+    "medium": "https://medium.com/ravenprotocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

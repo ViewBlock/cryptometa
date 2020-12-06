@@ -1,0 +1,16 @@
+{
+  "symbol": "BKRW-AB7",
+  "name": "Binance KRW",
+  "email": "bkrw@binance.kr",
+  "web": "https://www.binance.com/en/support/articles/360040135172",
+  "decimals": null,
+  "supply": 4219086339,
+  "links": {
+    "research": "https://research.binance.com/en/projects/binance-krw"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 14
+  }
+}

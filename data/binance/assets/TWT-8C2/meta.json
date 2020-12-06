@@ -1,0 +1,21 @@
+{
+  "symbol": "TWT-8C2",
+  "name": "Trust Wallet",
+  "email": "support@trustwallet.com",
+  "web": "https://trustwallet.com/",
+  "decimals": 18,
+  "supply": 1000000000,
+  "links": {
+    "telegram": "https://t.me/trust_announcements",
+    "reddit": "https://www.reddit.com/r/trustapp",
+    "youtube": "https://www.youtube.com/channel/UCrYnRK55nYUDd6flEZ2Kf6g",
+    "twitter": "https://twitter.com/trustwalletapp",
+    "facebook": "https://facebook.com/trustwalletapp",
+    "github": "https://github.com/trustwallet"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

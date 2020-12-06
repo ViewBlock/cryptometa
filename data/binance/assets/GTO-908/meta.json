@@ -1,0 +1,19 @@
+{
+  "symbol": "GTO-908",
+  "name": "Gifto",
+  "email": null,
+  "web": "https://gifto.io/",
+  "decimals": null,
+  "supply": 1000000000,
+  "links": {
+    "telegram": "https://t.me/GIFTOOfficial",
+    "facebook": "https://www.facebook.com/gifto.io",
+    "twitter": "https://twitter.com/GIFTO_io",
+    "research": "https://research.binance.com/en/projects/gifto"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

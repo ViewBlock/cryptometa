@@ -1,0 +1,13 @@
+{
+  "name": "Governance ZIL",
+  "symbol": "gZIL",
+  "trusted": true,
+  "config": {
+    "dark": true
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "score": 100
+  }
+}

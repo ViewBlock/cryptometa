@@ -1,0 +1,18 @@
+{
+  "symbol": "VRAB-B56",
+  "name": "VERA",
+  "email": null,
+  "web": "https://verasity.io",
+  "decimals": null,
+  "supply": 10739985784,
+  "links": {
+    "telegram": "http://t.me/verasitychat",
+    "twitter": "https://twitter.com/verasitytech",
+    "facebook": "https://facebook.com/verasitytech"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

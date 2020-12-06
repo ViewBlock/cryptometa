@@ -1,0 +1,19 @@
+{
+  "symbol": "FTM-A64",
+  "name": "Fantom",
+  "email": null,
+  "web": " https://fantom.foundation",
+  "decimals": null,
+  "supply": 952500000,
+  "links": {
+    "twitter": "https://twitter.com/FantomFDN",
+    "reddit": "https://www.reddit.com/r/FantomFoundation",
+    "medium": "https://medium.com/fantomfoundation",
+    "telegram": "https://t.me/Fantom_English"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

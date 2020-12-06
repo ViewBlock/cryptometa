@@ -1,0 +1,21 @@
+{
+  "symbol": "BTTB-D31",
+  "name": "BTTB",
+  "email": "bizdev@bittorrent.com",
+  "web": "https://www.bittorrent.com/btt/",
+  "decimals": null,
+  "supply": 1000000000,
+  "links": {
+    "telegram": "https://t.me/BitTorrentToken",
+    "medium": "https://medium.com/bittorrent",
+    "discord": "https://discordapp.com/invite/JPUTmw2",
+    "twitter": "https://twitter.com/BitTorrent",
+    "facebook": "https://www.facebook.com/bittorrent",
+    "research": "https://research.binance.com/en/projects/bittorrent"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

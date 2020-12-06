@@ -1,0 +1,19 @@
+{
+  "symbol": "WINB-41F",
+  "name": "WINB",
+  "email": "pr@wink.org",
+  "web": "https://www.wink.org/#/",
+  "decimals": null,
+  "supply": 1000000000,
+  "links": {
+    "telegram": "https://t.me/WINk_org_official",
+    "medium": "https://medium.com/@winkfoundation",
+    "twitter": "https://twitter.com/winkorg",
+    "research": "https://research.binance.com/en/projects/wink"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "symbol": "LBA-340",
+  "name": "Lend-Borrow-Asset",
+  "email": null,
+  "web": "https://www.mycred.io",
+  "decimals": null,
+  "supply": 1000000000,
+  "links": {
+    "twitter": "https://twitter.com/ihavecred",
+    "telegram": "https://t.me/ihaveCred",
+    "medium": "https://medium.com/@ihaveCred"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

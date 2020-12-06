@@ -1,0 +1,16 @@
+{
+  "symbol": "BULL-BE4",
+  "name": "3x Long Bitcoin Token",
+  "email": null,
+  "web": "https://ftx.com/",
+  "decimals": null,
+  "supply": 604.8,
+  "links": {
+    "telegram": "https://t.me/FTX_Official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 5
+  }
+}

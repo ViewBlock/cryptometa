@@ -1,0 +1,24 @@
+{
+  "symbol": "SXP-CCC",
+  "name": "Swipe",
+  "email": "help@swipe.io",
+  "web": "https://www.swipe.io/",
+  "decimals": 18,
+  "supply": 289714926,
+  "links": {
+    "twitter": "https://twitter.com/SwipeWallet",
+    "facebook": "https://www.facebook.com/Swipe",
+    "reddit": "https://www.reddit.com/r/Swipe_io",
+    "instagram": "https://www.instagram.com/Swipe",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/swipe",
+    "youtube": "https://www.youtube.com/SwipeWallet",
+    "telegram": "https://t.me/Swipe",
+    "linkedin": "https://www.linkedin.com/company/SwipeWallet",
+    "github": "https://github.com/SwipeWallet"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 24
+  }
+}

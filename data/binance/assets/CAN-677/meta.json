@@ -1,0 +1,19 @@
+{
+  "symbol": "CAN-677",
+  "name": "CanYaCoin",
+  "email": null,
+  "web": " https://canya.io/",
+  "decimals": 18,
+  "supply": 95827000,
+  "links": {
+    "telegram": " https://t.me/canyacoin",
+    "twitter": " https://twitter.com/canyacoin",
+    "facebook": "https://www.facebook.com/CanYaCoin",
+    "medium": "http://www.medium.com/CanYaCoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "SHARK",
+  "symbol": "SHRK",
+  "links": {
+    "twitter": "https://twitter.com/sharkfinancial"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": false,
+    "score": 5
+  }
+}

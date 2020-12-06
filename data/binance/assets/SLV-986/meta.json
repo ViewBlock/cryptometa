@@ -1,0 +1,19 @@
+{
+  "symbol": "SLV-986",
+  "name": "Silverway",
+  "email": "sergey@silverway.io",
+  "web": "https://silverway.io",
+  "decimals": null,
+  "supply": 1000000000,
+  "links": {
+    "telegram": "https://t.me/silverwayotc",
+    "medium": "https://medium.com/silverwayplatform",
+    "twitter": "https://twitter.com/silverwayotc",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/silverway"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "symbol": "MEDB-87E",
+  "name": "MediBloc",
+  "email": "partner@medibloc.org",
+  "web": "https://medibloc.org/",
+  "decimals": null,
+  "supply": 10000000000,
+  "links": {
+    "twitter": "https://twitter.com/_MediBloc",
+    "facebook": "https://www.facebook.com/medibloc",
+    "reddit": "https://www.reddit.com/r/MediBloc",
+    "medium": "https://medium.com/@MediBloc",
+    "steemit": "https://steemit.com/@medibloc",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/medibloc",
+    "youtube": "https://www.youtube.com/channel/UC_bbdfVECp1qRJCR6P_-UDQ",
+    "telegram": "https://t.me/medibloc",
+    "github": "https://github.com/Medibloc"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

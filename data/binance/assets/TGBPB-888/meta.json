@@ -1,0 +1,21 @@
+{
+  "symbol": "TGBPB-888",
+  "name": "TrueGBP",
+  "email": "exchange-support@trusttoken.com",
+  "web": "https://trusttoken.com",
+  "decimals": null,
+  "supply": 90000000000,
+  "links": {
+    "reddit": "https://www.reddit.com/r/TrustToken",
+    "github": "https://github.com/TrustToken",
+    "linkedin": "https://www.linkedin.com/company/trusttoken",
+    "medium": "https://blog.trusttoken.com",
+    "telegram": "https://t.me/joinchat/HihkMkTja1gIyBRM1J1_vg",
+    "twitter": "https://twitter.com/TrustToken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 24
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "symbol": "ANKR-E97",
+  "name": "ANKR",
+  "email": null,
+  "web": "https://www.ankr.com",
+  "decimals": 18,
+  "supply": 10000000000,
+  "links": {
+    "twitter": "https://twitter.com/ankrnetwork?lang=en",
+    "medium": "https://t.me/ankrnetwork",
+    "telegram": "https://t.me/ankrnetwork",
+    "research": "https://research.binance.com/en/projects/ankr-network"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

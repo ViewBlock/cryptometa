@@ -1,0 +1,16 @@
+{
+  "symbol": "ATOM-596",
+  "name": "ATOMBEP2",
+  "email": null,
+  "web": null,
+  "decimals": 18,
+  "supply": 1000000,
+  "links": {
+    "research": "https://research.binance.com/en/projects/cosmos-network"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "symbol": "LYFE-6AB",
+  "name": "LYFE",
+  "email": "cs@lyfe.health",
+  "web": "https://lyfe.health/",
+  "decimals": null,
+  "supply": 231250000,
+  "links": {
+    "telegram": "https://t.me/lyfeofficial",
+    "instagram": "https://www.instagram.com/lyfe.health",
+    "medium": "https://medium.com/@lyfehealth",
+    "youtube": "https://www.youtube.com/channel/UCUQFj9mpVjP0M2yGWeR3wMg",
+    "twitter": "https://twitter.com/lyfehealthofc",
+    "facebook": "https://facebook.com/lyfecommunity",
+    "linkedin": "https://www.linkedin.com/company/lyfehealth"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 14
+  }
+}

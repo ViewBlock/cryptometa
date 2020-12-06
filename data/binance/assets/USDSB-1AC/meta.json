@@ -1,0 +1,19 @@
+{
+  "symbol": "USDSB-1AC",
+  "name": "USDS",
+  "email": null,
+  "web": "https://www.stably.io",
+  "decimals": null,
+  "supply": 90000000000,
+  "links": {
+    "facebook": "https://www.facebook.com/stablycoin",
+    "twitter": "https://twitter.com/stablycoin",
+    "medium": "https://medium.com/stably-blog",
+    "instagram": "https://www.instagram.com/stableusd"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

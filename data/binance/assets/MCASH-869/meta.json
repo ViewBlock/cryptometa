@@ -1,0 +1,20 @@
+{
+  "symbol": "MCASH-869",
+  "name": "Mcashchain",
+  "email": "contact@mcash.network",
+  "web": "https://mcash.network",
+  "decimals": null,
+  "supply": 200000000,
+  "links": {
+    "telegram": "https://t.me/mcashchain",
+    "medium": "https://medium.com/@mcashchain",
+    "twitter": "https://twitter.com/@mcashchain",
+    "facebook": "https://www.facebook.com/mcashchain",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/mcashchain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

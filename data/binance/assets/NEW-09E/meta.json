@@ -1,0 +1,23 @@
+{
+  "symbol": "NEW-09E",
+  "name": "NEWTON",
+  "email": "contact@newtonproject.org",
+  "web": "https://www.newtonproject.org/",
+  "decimals": null,
+  "supply": 90000000000,
+  "links": {
+    "telegram": "https://t.me/newtonproject",
+    "reddit": "https://www.reddit.com/user/newtonproject",
+    "medium": "https://medium.com/@newtonproject",
+    "youtube": "https://www.youtube.com/channel/UCO3hbqzT5abDbVKzK5EQigg",
+    "twitter": "https://twitter.com/newton_project",
+    "facebook": "https://www.facebook.com/newtonproject",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/newton",
+    "research": "https://research.binance.com/en/projects/newton"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "symbol": "COS-2E4",
+  "name": "Contentos",
+  "email": "service@contentos.io",
+  "web": "https://www.contentos.io",
+  "decimals": null,
+  "supply": 9400000000,
+  "links": {
+    "telegram": "https://t.me/ContentosGlobal",
+    "reddit": "https://www.reddit.com/r/Contentosofficial",
+    "medium": "https://medium.com/contentos-io",
+    "youtube": "https://www.youtube.com/channel/UCTHA9CYW8UxZOSjCFckMX6A",
+    "twitter": "https://twitter.com/contentosio",
+    "facebook": "https://www.facebook.com/ContentosOfficial",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/contentos",
+    "github": "https://github.com/coschain",
+    "research": "https://research.binance.com/en/projects/contentos"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 29
+  }
+}

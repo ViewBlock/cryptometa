@@ -1,0 +1,16 @@
+{
+  "symbol": "EOS-CDD",
+  "name": "EOS BEP2",
+  "email": null,
+  "web": null,
+  "decimals": 18,
+  "supply": 10640000,
+  "links": {
+    "research": "https://research.binance.com/en/projects/eos"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "symbol": "CRPT-8C9",
+  "name": "Crypterium Token",
+  "email": "info@crypterium.com",
+  "web": "https://crypterium.com",
+  "decimals": null,
+  "supply": 99968575.1428572,
+  "links": {
+    "telegram": "https://t.me/crypterium",
+    "medium": "https://medium.com/@crypterium",
+    "youtube": "https://www.youtube.com/crypterium",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/crpt",
+    "twitter": "https://twitter.com/crypterium",
+    "facebook": "https://fb.com/crypterium.org",
+    "linkedin": "https://www.linkedin.com/company/crypterium"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 14
+  }
+}

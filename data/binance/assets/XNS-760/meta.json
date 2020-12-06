@@ -1,0 +1,23 @@
+{
+  "symbol": "XNS-760",
+  "name": "Xeonbit Token",
+  "email": null,
+  "web": "https://xeonbit.com/",
+  "decimals": null,
+  "supply": 300000000,
+  "links": {
+    "twitter": "https://twitter.com/xeonbit",
+    "facebook": "https://www.facebook.com/xeonbit",
+    "telegram": "https://t.me/xeonbitgroup",
+    "discord": "https://discordapp.com/invite/HYcJPFG",
+    "youtube": "https://www.youtube.com/channel/UCn04eVg2x_j7BjuSoV1mC0g",
+    "medium": "https://medium.com/@xeonbit",
+    "reddit": "https://www.reddit.com/r/Xeonbit",
+    "linkedin": "https://www.linkedin.com/company/xeonbit"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 14
+  }
+}

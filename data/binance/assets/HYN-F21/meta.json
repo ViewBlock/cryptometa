@@ -1,0 +1,21 @@
+{
+  "symbol": "HYN-F21",
+  "name": "Hyperion Token",
+  "email": "info@hyn.space",
+  "web": "https://www.hyn.space",
+  "decimals": null,
+  "supply": 10000000000,
+  "links": {
+    "telegram": "https://t.me/HyperionOfficialHYN",
+    "medium": "https://medium.com/@hyperionsgoffical",
+    "youtube": "https://www.youtube.com/channel/UCJTt-dNx7i7_azkyeEn7Yag",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/hyperion",
+    "twitter": "https://twitter.com/HyperionHYN?lang=en",
+    "facebook": "https://www.facebook.com/Hyperion-854025704797996"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

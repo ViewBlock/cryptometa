@@ -1,0 +1,23 @@
+{
+  "symbol": "BUSD-BD1",
+  "name": "Binance USD",
+  "email": null,
+  "web": "https://www.paxos.com/busd/",
+  "decimals": 18,
+  "supply": 121000000,
+  "links": {
+    "telegram": "https://t.me/binance_announcements",
+    "reddit": "https://www.reddit.com/r/binanceexchange",
+    "coinmarketcap": "https://coinmarketcap.com/exchanges/binance",
+    "medium": "https://medium.com/binanceexchange",
+    "youtube": "https://www.youtube.com/channel/UCfYw6dhiwGBJQY_-Jcs8ozw/videos",
+    "twitter": "https://twitter.com/binance",
+    "facebook": "https://www.facebook.com/bittorrent",
+    "research": "https://research.binance.com/en/projects/binance-usd"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "IRIS-D88",
+  "name": "IRIS Network",
+  "email": "operation@irisnet.org",
+  "web": "https://www.irisnet.org/",
+  "decimals": null,
+  "supply": 2000000000,
+  "links": {
+    "telegram": "https://t.me/irisnetwork",
+    "medium": "https://medium.com/irisnet-blog",
+    "twitter": "https://twitter.com/irisnetwork",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/irisnet",
+    "github": "https://github.com/irisnet",
+    "research": "https://research.binance.com/en/projects/irisnet"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 29
+  }
+}

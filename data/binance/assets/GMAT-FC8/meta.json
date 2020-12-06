@@ -1,0 +1,23 @@
+{
+  "symbol": "GMAT-FC8",
+  "name": "GoWithMi",
+  "email": "biz@gowithmi.com",
+  "web": "https://www.gowithmi.com/",
+  "decimals": null,
+  "supply": 14900000000,
+  "links": {
+    "telegram": "https://t.me/gowithmi_en",
+    "medium": "https://medium.com/@gowithmigl",
+    "twitter": "https://twitter.com/GoWithMi_GL",
+    "facebook": "https://www.facebook.com/gowithmi.fans",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/gowithmi",
+    "instagram": "https://www.instagram.com/gowithmi.id",
+    "youtube": "https://www.youtube.com/c/GoWithMi",
+    "github": "https://github.com/GoWithMi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

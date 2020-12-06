@@ -1,0 +1,16 @@
+{
+  "symbol": "SNX-C26",
+  "name": "SynthetixNetworkToken",
+  "email": null,
+  "web": null,
+  "decimals": 18,
+  "supply": 1000000,
+  "links": {
+    "research": "https://research.binance.com/en/projects/synthetix"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

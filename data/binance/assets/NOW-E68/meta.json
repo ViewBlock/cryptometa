@@ -1,0 +1,21 @@
+{
+  "symbol": "NOW-E68",
+  "name": "NOW Token",
+  "email": null,
+  "web": "https://changenow.io/",
+  "decimals": null,
+  "supply": 99939495.7,
+  "links": {
+    "twitter": "https://twitter.com/ChangeNOW_io",
+    "facebook": "https://www.facebook.com/ChangeNOW.io",
+    "reddit": "https://www.reddit.com/user/ChangeNow_io",
+    "medium": "https://medium.com/@changenow_io",
+    "youtube": "https://www.youtube.com/channel/UCpnkFY4kom0q3RJnhHiuMnw",
+    "telegram": "https://t.me/NOWtoken_Bounty"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

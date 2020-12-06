@@ -1,0 +1,14 @@
+{
+  "symbol": "BZNT-464",
+  "name": "Bezant Token",
+  "email": null,
+  "web": "https://bezant.io/",
+  "decimals": null,
+  "supply": 964511442,
+  "links": {},
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 5
+  }
+}

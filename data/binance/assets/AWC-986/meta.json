@@ -1,0 +1,21 @@
+{
+  "symbol": "AWC-986",
+  "name": "Atomic Wallet Token",
+  "email": null,
+  "web": " https://atomicwallet.io",
+  "decimals": null,
+  "supply": 50000000,
+  "links": {
+    "twitter": "https://twitter.com/atomicwallet",
+    "reddit": "https://www.reddit.com/r/atomicwallet",
+    "medium": "https://medium.com/atomic-wallet",
+    "facebook": "https://www.facebook.com/atomicwallet",
+    "youtube": " https://www.youtube.com/channel/UCLMnUt6BBtA67eic1vRGF3g",
+    "telegram": "https://t.me/atomicwalletchat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "symbol": "SHR-DB6",
+  "name": "ShareToken",
+  "email": "hello@sharering.network",
+  "web": "https://sharering.network/",
+  "decimals": null,
+  "supply": 4396000000,
+  "links": {
+    "telegram": "https://t.me/ShareRing",
+    "reddit": "https://www.reddit.com/r/ShareRing",
+    "medium": "https://medium.com/ShareRing",
+    "youtube": "http://youtube.com/sharering",
+    "twitter": "https://twitter.com/ShareRingGlobal",
+    "facebook": "https://www.facebook.com/ShareRing.Network",
+    "github": "https://github.com/sharering"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

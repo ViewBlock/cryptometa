@@ -1,0 +1,10 @@
+{
+  "name": "TT-SAI",
+  "symbol": "TT-SAI",
+  "trusted": true,
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 100
+  }
+}

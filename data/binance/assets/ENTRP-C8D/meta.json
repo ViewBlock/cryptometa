@@ -1,0 +1,18 @@
+{
+  "symbol": "ENTRP-C8D",
+  "name": "Hut34 Entropy",
+  "email": null,
+  "web": "https://www.hut34.io",
+  "decimals": null,
+  "supply": 100000000,
+  "links": {
+    "medium": "https://medium.com/the-hut34-project",
+    "twitter": "https://twitter.com/hut34project",
+    "telegram": "https://t.me/hut34"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

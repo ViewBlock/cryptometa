@@ -1,0 +1,23 @@
+{
+  "symbol": "MITX-CAA",
+  "name": "Morpheus Infrastructure Token",
+  "email": "info@morpheuslabs.io",
+  "web": "https://www.morpheuslabs.io",
+  "decimals": null,
+  "supply": 400000000,
+  "links": {
+    "telegram": "https://t.me/morpheuslabs",
+    "reddit": "https://www.reddit.com/r/MorpheusLabs",
+    "medium": " https://medium.com/@morpheuslabs_io",
+    "youtube": "https://www.youtube.com/channel/UCBDcCbFiFDZOcfkGkAo-iLQ",
+    "twitter": "https://twitter.com/morpheuslabs_io",
+    "facebook": "www.facebook.com/morpheuslabs.io",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/morpheus-labs",
+    "github": "https://github.com/Morpheuslabs-io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

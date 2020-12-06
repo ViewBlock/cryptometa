@@ -1,0 +1,10 @@
+{
+  "name": "Thorchain",
+  "symbol": "RUNE",
+  "web": "https://thorchain.org",
+  "explorer": "https://viewblock.io/thorchain",
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": false
+  }
+}

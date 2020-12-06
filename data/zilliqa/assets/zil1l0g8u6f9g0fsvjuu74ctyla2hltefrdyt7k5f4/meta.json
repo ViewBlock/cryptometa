@@ -1,0 +1,16 @@
+{
+  "name": "ZilPay",
+  "symbol": "ZLP",
+  "web": "https://zilpay.xyz",
+  "links": {
+    "github": "https://github.com/zilpay",
+    "telegram": "https://t.me/zilpay"
+  },
+  "whitepaper": "https://zilpay.xyz/whitePaper.pdf",
+  "product": true,
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": false,
+    "score": 52
+  }
+}

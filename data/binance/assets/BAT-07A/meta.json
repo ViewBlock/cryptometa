@@ -1,0 +1,16 @@
+{
+  "symbol": "BAT-07A",
+  "name": "BasicAttentionToken",
+  "email": null,
+  "web": null,
+  "decimals": 18,
+  "supply": 25000000,
+  "links": {
+    "research": "https://research.binance.com/en/projects/basic-attention-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

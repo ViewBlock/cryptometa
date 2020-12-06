@@ -1,0 +1,19 @@
+{
+  "symbol": "CHZ-ECD",
+  "name": "Chiliz",
+  "email": null,
+  "web": "https://www.chiliz.com",
+  "decimals": null,
+  "supply": 8888888888,
+  "links": {
+    "twitter": " https://twitter.com/chiliz",
+    "telegram": "https://t.me/chiliz_io",
+    "medium": " https://medium.com/chiliz",
+    "research": "https://research.binance.com/projects/chiliz"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

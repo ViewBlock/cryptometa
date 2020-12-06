@@ -1,0 +1,16 @@
+{
+  "symbol": "YFI-1A4",
+  "name": "yearnfinance",
+  "email": null,
+  "web": null,
+  "decimals": 18,
+  "supply": 600,
+  "links": {
+    "research": "https://research.binance.com/en/projects/yearnfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

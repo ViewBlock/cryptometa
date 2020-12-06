@@ -1,0 +1,14 @@
+{
+  "symbol": "MEETONE-031",
+  "name": "MEET.ONE",
+  "email": null,
+  "web": "https://meet.one",
+  "decimals": null,
+  "supply": 1000000000,
+  "links": {},
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 5
+  }
+}

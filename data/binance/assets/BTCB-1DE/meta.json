@@ -1,0 +1,14 @@
+{
+  "symbol": "BTCB-1DE",
+  "name": "Bitcoin BEP2",
+  "email": null,
+  "web": null,
+  "decimals": 18,
+  "supply": 9001,
+  "links": {},
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 0
+  }
+}

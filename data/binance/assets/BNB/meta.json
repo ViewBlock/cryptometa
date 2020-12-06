@@ -1,0 +1,22 @@
+{
+  "symbol": "BNB",
+  "name": "Binance Chain Native Token",
+  "email": null,
+  "web": "https://binance.com/",
+  "decimals": null,
+  "supply": 174153539.9,
+  "links": {
+    "reddit": "https://www.reddit.com/r/binanceexchange",
+    "medium": "https://medium.com/binanceexchange",
+    "coinmarketcap": "https://coinmarketcap.com/exchanges/binance",
+    "twitter": "https://twitter.com/binance",
+    "telegram": "https://t.me/binance_announcements",
+    "youtube": "https://www.youtube.com/channel/UCfYw6dhiwGBJQY_-Jcs8ozw/videos",
+    "research": "https://research.binance.com/en/projects/bnb"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

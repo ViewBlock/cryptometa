@@ -1,0 +1,18 @@
+{
+  "symbol": "OWTX-A6B",
+  "name": "OpenWeb Token",
+  "email": null,
+  "web": "https://openweb.network/",
+  "decimals": null,
+  "supply": 1000000000,
+  "links": {
+    "twitter": " https://twitter.com/openweb_network",
+    "telegram": " https://t.me/openweb_network",
+    "medium": " https://medium.com/openweb-network"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

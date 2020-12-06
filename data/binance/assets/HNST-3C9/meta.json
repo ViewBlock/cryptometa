@@ -1,0 +1,14 @@
+{
+  "symbol": "HNST-3C9",
+  "name": "Honest",
+  "email": null,
+  "web": "https://honestmining.com",
+  "decimals": null,
+  "supply": 400000000,
+  "links": {},
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 5
+  }
+}

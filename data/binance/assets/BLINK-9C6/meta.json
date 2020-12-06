@@ -1,0 +1,21 @@
+{
+  "symbol": "BLINK-9C6",
+  "name": "Blockmason Link",
+  "email": "info@blockmason.io",
+  "web": "https://blockmason.link",
+  "decimals": null,
+  "supply": 5000000000,
+  "links": {
+    "telegram": "https://t.me/blockmasonlink",
+    "reddit": "https://www.reddit.com/r/blockmason",
+    "medium": "https://medium.com/@blockmason",
+    "youtube": "https://www.youtube.com/channel/UCqv0UBWjgjM5JZkxdQR7DYw",
+    "twitter": "https://twitter.com/blockmasonio",
+    "facebook": "https://www.facebook.com/blockmasonio"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

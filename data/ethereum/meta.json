@@ -1,0 +1,10 @@
+{
+  "name": "Ethereum",
+  "symbol": "ETH",
+  "web": "https://ethereum.org",
+  "explorer": "https://etherscan.io",
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true
+  }
+}

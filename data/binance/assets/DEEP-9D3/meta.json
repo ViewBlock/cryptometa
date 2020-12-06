@@ -1,0 +1,21 @@
+{
+  "symbol": "DEEP-9D3",
+  "name": "DeepCloud",
+  "email": "enquiries@deepcloudai.com",
+  "web": "https://www.deepcloudai.com/",
+  "decimals": null,
+  "supply": 200000000,
+  "links": {
+    "telegram": "https://tele.me/telegram/groups/deepcloud_ai",
+    "reddit": "https://www.reddit.com/r/DeepCloudPlatform/comments/a1659c/deepcloud_ai",
+    "medium": "https://medium.com/@DeepCloud_AI",
+    "youtube": "https://www.youtube.com/channel/UCsFttSUlJuYbDvAiED_MlRg",
+    "twitter": "https://twitter.com/deepcloud_ai",
+    "facebook": "https://www.facebook.com/DeepCloudOfficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

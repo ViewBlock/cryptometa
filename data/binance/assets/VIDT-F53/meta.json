@@ -1,0 +1,24 @@
+{
+  "symbol": "VIDT-F53",
+  "name": "V-ID Token",
+  "email": "service@v-id.org",
+  "web": "https://about.v-id.org/token",
+  "decimals": null,
+  "supply": 36800000,
+  "links": {
+    "telegram": "https://t.me/vidtoken",
+    "reddit": "https://www.reddit.com/r/VIDT",
+    "medium": "https://medium.com/@pim_vee",
+    "youtube": "https://www.youtube.com/channel/UCh6xfbjMUeYFUO-2O_wRSBA/videos",
+    "twitter": "https://twitter.com/v_id_blockchain",
+    "github": "https://github.com/V-ID/V-ID-Token",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/v-id",
+    "linkedin": "https://www.linkedin.com/company/v-id",
+    "research": "https://research.binance.com/en/projects/vidt"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 33
+  }
+}

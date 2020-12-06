@@ -1,0 +1,15 @@
+{
+  "name": "ZilFlip",
+  "symbol": "ZLF",
+  "web": "https://zilflip.com",
+  "whitepaper": "https://zilflip.com/whitepaper/whitepaper.pdf",
+  "product": true,
+  "links": {
+    "twitter": "https://twitter.com/zilflip"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 48
+  }
+}

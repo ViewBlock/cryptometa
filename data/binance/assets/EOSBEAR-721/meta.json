@@ -1,0 +1,19 @@
+{
+  "symbol": "EOSBEAR-721",
+  "name": "3X Short EOS Token",
+  "email": null,
+  "web": "https://ftx.com/",
+  "decimals": null,
+  "supply": 32301,
+  "links": {
+    "telegram": "https://t.me/FTX_Official"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 5
+  }
+}

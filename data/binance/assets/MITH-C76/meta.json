@@ -1,0 +1,19 @@
+{
+  "symbol": "MITH-C76",
+  "name": "Mithril",
+  "email": null,
+  "web": "https://mith.io/",
+  "decimals": null,
+  "supply": 988855068.0040944,
+  "links": {
+    "facebook": "https://www.facebook.com/MithrilOfficial",
+    "twitter": "https://twitter.com/MithrilOfficial",
+    "medium": "https://medium.com/mithriltoken",
+    "reddit": "https://www.reddit.com/r/MithrilToken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

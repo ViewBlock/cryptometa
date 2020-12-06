@@ -1,0 +1,18 @@
+{
+  "symbol": "BETX-A0C",
+  "name": "BETX Token",
+  "email": null,
+  "web": "https://www.betx.fun",
+  "decimals": null,
+  "supply": 200000000,
+  "links": {
+    "medium": "https://medium.com/@betx",
+    "twitter": "https://twitter.com/therealbetx",
+    "telegram": "https://t.me/betxgroup"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

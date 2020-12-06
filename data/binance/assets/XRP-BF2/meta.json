@@ -1,0 +1,16 @@
+{
+  "symbol": "XRP-BF2",
+  "name": "XRP BEP2",
+  "email": null,
+  "web": null,
+  "decimals": 18,
+  "supply": 52000000,
+  "links": {
+    "research": "https://research.binance.com/en/projects/xrp"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

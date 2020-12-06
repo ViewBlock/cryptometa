@@ -1,0 +1,20 @@
+{
+  "symbol": "IDRTB-178",
+  "name": "Rupiah Token",
+  "email": "support@rupiahtoken.com",
+  "web": "https://rupiahtoken.com",
+  "decimals": null,
+  "supply": 90000000000,
+  "links": {
+    "github": "https://github.com/rupiah-token",
+    "linkedin": "https://www.linkedin.com/company/rupiah-token",
+    "medium": "https://medium.com/rupiahtoken-blog",
+    "telegram": "https://t.me/joinchat/IecbjxEy6xVf1dyZhGZxpw",
+    "twitter": "https://twitter.com/RupiahTokenIDRT"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 24
+  }
+}

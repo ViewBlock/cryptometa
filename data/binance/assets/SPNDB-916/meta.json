@@ -1,0 +1,21 @@
+{
+  "symbol": "SPNDB-916",
+  "name": "Spendcoin",
+  "email": null,
+  "web": "https://spendcoin.org",
+  "decimals": null,
+  "supply": 2000000000,
+  "links": {
+    "twitter": "https://twitter.com/SpendFoundation",
+    "facebook": "https://facebook.com/SpendFoundation",
+    "telegram": "https://t.me/SpendChat",
+    "reddit": "https://reddit.com/r/Spend",
+    "instagram": "https://www.instagram.com/SpendCard",
+    "medium": "https://medium.com/spend"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}
