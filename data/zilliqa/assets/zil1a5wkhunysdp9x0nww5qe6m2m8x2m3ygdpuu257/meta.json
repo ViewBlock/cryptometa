@@ -9,10 +9,9 @@
     "coinmarketcap": "https://coinmarketcap.com/currencies/redchillies/"
   },
   "whitepaper": "https://github.com/RedChillies-Core/RedChillies-IP/blob/main/Whitepaper.md",
-  "product": true,
   "gen": {
     "logo": "logo.png",
     "hasDark": false,
-    "score": 60
+    "score": 30
   }
 }
