@@ -4,7 +4,7 @@
   "main": "src",
   "scripts": {
     "gen": "node bin/generate",
-    "clean-whites": "git checkout data/***/logo-white.png"
+    "clean": "git checkout data/{**/,}**/{logo-white,fallback}.png"
   },
   "license": "MIT",
   "devDependencies": {
