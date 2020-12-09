@@ -33,7 +33,12 @@
 | links.telegram      | `String` | `false`    |         |                                                           |
 | links.instagram     | `String` | `false`    |         |                                                           |
 
+- No need to calculate and specify the score yourself, as it will be automatically
+  generated based on the provided properties
 - Create and submit a PR
+
+Upon disagreements as to which property a token has/deserves, remember that we
+ultimately have the final say in what gets to show in our products.
 
 #### Usage
 
