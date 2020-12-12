@@ -1,0 +1,19 @@
+{
+  "name": "Proof Of Receipt Token",
+  "symbol": "PORT",
+  "web": "https://www.packageportal.com",
+  "supply": "10000000",
+  "links": {
+    "telegram": "https://t.me/packageportal",
+    "linkedin": "https://www.linkedin.com/company/PackagePortal",
+    "twitter": "https://twitter.com/PackagePortal",
+    "instagram": "https://www.instagram.com/packageportal",
+    "facebook": "https://www.facebook.com/packageportal"
+  },
+  "whitepaper": "",
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 29
+  }
+}
