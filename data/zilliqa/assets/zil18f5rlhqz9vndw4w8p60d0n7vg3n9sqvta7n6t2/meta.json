@@ -7,8 +7,11 @@
     "telegram": "https://t.me/packageportal",
     "linkedin": "https://www.linkedin.com/company/PackagePortal",
     "twitter": "https://twitter.com/PackagePortal",
+    "github": "https://github.com/PackagePortal",
     "instagram": "https://www.instagram.com/packageportal",
     "facebook": "https://www.facebook.com/packageportal"
   },
-  "whitepaper": ""
+  "whitepaper": "",
+  "publicTeam": true,
+  "product": true
 }
