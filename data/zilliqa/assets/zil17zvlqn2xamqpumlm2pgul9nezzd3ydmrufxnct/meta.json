@@ -3,12 +3,11 @@
   "symbol": "BARTER",
   "web": "https://cryptobarter.group/",
   "whitepaper": "https://cryptobarter.group/wp-content/uploads/2020/12/whitepaper.pdf",
-  "product": false,
   "links": {
      "github": "https://github.com/CryptoBarterGroup",
   },
   "gen": {
-    "logo": "logo.png",
+    "logo": "logo.svg",
     "hasDark": false,
     "score": 25
   }
