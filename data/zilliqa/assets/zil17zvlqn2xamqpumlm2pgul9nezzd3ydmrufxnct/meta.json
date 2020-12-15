@@ -5,10 +5,5 @@
   "whitepaper": "https://cryptobarter.group/wp-content/uploads/2020/12/whitepaper.pdf",
   "links": {
      "github": "https://github.com/CryptoBarterGroup",
-  },
-  "gen": {
-    "logo": "logo.svg",
-    "hasDark": false,
-    "score": 25
   }
 }
