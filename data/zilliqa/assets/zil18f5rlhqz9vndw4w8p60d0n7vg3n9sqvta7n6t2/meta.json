@@ -11,5 +11,10 @@
     "instagram": "https://www.instagram.com/packageportal",
     "facebook": "https://www.facebook.com/packageportal"
   },
-  "product": true
+  "product": true,
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 52
+  }
 }
