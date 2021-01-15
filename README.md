@@ -19,13 +19,15 @@
 | email               | `String` | `false`    |         | Email of the team                                         |
 | whitepaper          | `String` | `false`    | 10      | Link to the WP                                            |
 | holders             | `Bool`   | `false`    | 10      | Only specify if more than 1000 holders without airdrops   |
-| publicTeam          | `Bool`   | `false`    | 20      |                                                           |
+| publicTeam          | `Bool`   | `false`    | 20      | Teams members with public profiles, non-anon              |
 | product             | `Bool`   | `false`    | 30      | Usable product on mainnet with users giving token utility |
 | links.research      | `String` | `false`    | 10      | Either binance research, TokenData or the like            |
-| links.github        | `String` | `false`    | 10      |                                                           |
+| links.github        | `String` | `false`    | 10      | Org or account with repos related to the project          |
 | links.linkedin      | `String` | `false`    | 10      |                                                           |
 | links.twitter       | `String` | `false`    | 5       |                                                           |
 | links.medium        | `String` | `false`    |         |                                                           |
+| links.blog          | `String` | `false`    |         |                                                           |
+| links.discord       | `String` | `false`    |         |                                                           |
 | links.facebook      | `String` | `false`    |         |                                                           |
 | links.reddit        | `String` | `false`    |         |                                                           |
 | links.coinmarketcap | `String` | `false`    |         |                                                           |
