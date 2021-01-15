@@ -6,7 +6,7 @@
 
 - Fork the repo
 - Create a folder in the appropriate chain folder named after your contract address
-- Your image must be either SVG or PNG 256x256 (max 100kb) and named `logo.<extension>`
+- Your image must be either SVG or PNG 256x256 (max 100kb) and named `logo.<extension>` (do not base64 encode your PNG in a SVG)
 - Add information of your project using the following spec:
 
 | Param               | Type     | Required   | Points  | Notes                                                     |
