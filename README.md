@@ -25,14 +25,15 @@
 | links.github        | `String` | `false`    | 10      | Org or account with repos related to the project          |
 | links.linkedin      | `String` | `false`    | 10      |                                                           |
 | links.twitter       | `String` | `false`    | 5       |                                                           |
+| links.coinmarketcap | `String` | `false`    |         |                                                           |
+| links.coingecko     | `String` | `false`    |         |                                                           |
 | links.medium        | `String` | `false`    |         |                                                           |
 | links.blog          | `String` | `false`    |         |                                                           |
+| links.telegram      | `String` | `false`    |         |                                                           |
 | links.discord       | `String` | `false`    |         |                                                           |
 | links.facebook      | `String` | `false`    |         |                                                           |
 | links.reddit        | `String` | `false`    |         |                                                           |
-| links.coinmarketcap | `String` | `false`    |         |                                                           |
 | links.youtube       | `String` | `false`    |         |                                                           |
-| links.telegram      | `String` | `false`    |         |                                                           |
 | links.instagram     | `String` | `false`    |         |                                                           |
 
 - No need to calculate and specify the score yourself, as it will be automatically
