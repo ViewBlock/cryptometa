@@ -10,7 +10,8 @@
     "twitter": "https://twitter.com/zil_fred"
   },
   "gen": {
-    "logo": "logo.svg",
-    "hasDark": false
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 14
   }
 }
