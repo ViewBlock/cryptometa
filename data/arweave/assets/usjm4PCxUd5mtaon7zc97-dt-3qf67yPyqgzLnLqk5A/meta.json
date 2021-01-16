@@ -5,7 +5,7 @@
   "supply": 250000000,
   "email": "tate@verto.exchange",
   "product": true,
-  "publicTeam": true,
+  "publicTeam": false,
   "links": {
     "github": "https://github.com/useverto",
     "twitter": "https://twitter.com/vertoexchange",
