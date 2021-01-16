@@ -77,7 +77,12 @@ const updateMeta = async (path, { skipScore } = {}) => {
     } catch {}
   }
 
-  if (logoName && (!isSVG || hasFallback) && get(meta, 'config.dark') !== false) {
+  if (
+    logoName &&
+    (!isSVG || hasFallback) &&
+    get(meta, 'config.dark') !== false &&
+    !get(meta, 'config.manualDark')
+  ) {
     const imgPath = isSVG ? join(path, 'fallback.png') : join(path, logoName)
     const isDark = await checkDark(imgPath)
 
@@ -94,7 +99,7 @@ const updateMeta = async (path, { skipScore } = {}) => {
 
     gen: {
       logo: logoName,
-      hasDark,
+      hasDark: get(meta, 'config.manualDark', false) || hasDark,
       score: skipScore ? undefined : getScore(meta),
     },
   }

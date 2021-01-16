@@ -12,9 +12,12 @@
     "blog": "https://blog.th8ta.org",
     "discord": "https://verto.exchange/chat"
   },
+  "config": {
+    "manualDark": true
+  },
   "gen": {
     "logo": "logo.png",
     "hasDark": true,
-    "score": 0
+    "score": 48
   }
 }
