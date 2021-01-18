@@ -5,7 +5,7 @@
   "supply": 100000000,
   "email": "multiverse@openbits.world",
   "product": true,
-  "withepaper": "https://gitlab.com/cervoneluca/openbits/-/blob/master/README.md",
+  "whitepaper": "https://gitlab.com/cervoneluca/openbits/-/blob/master/README.md",
   "links": {
     "github": "https://gitlab.com/cervoneluca/openbits",
     "twitter": "https://twitter.com/OpenBitsWorld",
