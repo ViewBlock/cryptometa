@@ -17,5 +17,10 @@
   },
   "config": {
     "manualDark": true
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 62
   }
 }
