@@ -1,0 +1,17 @@
+{
+  "name": "Evermore",
+  "symbol": "EMD_PST_TOKEN",
+  "web": "https://everemoredata.store",
+  "explorer": "https://viewblock.io/arweave/address/1TFZeEewEgUpqT5i2dsZSIRKJq3h1C7ZVi-gE8G-W6U",
+  "email": "support@evermoredata.store",
+  "links": {
+    "github": "https://github.com/MikeHibbert/evermore",
+    "twitter": "https://twitter.com/evermoredata",
+    "discord": "https://discord.com/channels/752833738370580530/752834427444396135",
+    "facebook": "https://www.facebook.com/evermoredata"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true
+  }
+}
