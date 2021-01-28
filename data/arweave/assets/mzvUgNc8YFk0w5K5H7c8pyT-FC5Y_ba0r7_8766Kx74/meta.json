@@ -2,10 +2,8 @@
   "name": "CommunityXYZ",
   "symbol": "XYZ",
   "web": "https://community.xyz",
-  "supply": 0,
-  "email": "",
+  "email": "community@mailthink.net",
   "product": true,
-  "publicTeam": true,
   "links": {
     "github": "https://github.com/CommunityXYZ",
     "twitter": "https://twitter.com/CommunityXyz",
@@ -17,6 +15,6 @@
   "gen": {
     "logo": "logo.png",
     "hasDark": true,
-    "score": 0
+    "score": 48
   }
 }
