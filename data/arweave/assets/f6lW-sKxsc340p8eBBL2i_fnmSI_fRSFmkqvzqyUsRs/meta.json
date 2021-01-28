@@ -1,0 +1,22 @@
+{
+  "name": "ArVerify",
+  "symbol": "ARVERIFY",
+  "web": "https://arverify.org",
+  "supply": 100000000,
+  "email": "john@arverify.org",
+  "product": true,
+  "publicTeam": true,
+  "links": {
+    "github": "https://github.com/ArVerify",
+    "twitter": "https://twitter.com/arbluetick",
+    "discord": "https://discord.gg/NtkcUYd"
+  },
+  "config": {
+    "manualDark": true
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 0
+  }
+}
