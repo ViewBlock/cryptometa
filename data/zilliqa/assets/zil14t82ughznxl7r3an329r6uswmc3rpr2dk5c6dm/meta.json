@@ -1,0 +1,13 @@
+{
+  "name": "Anacas Iron",
+  "symbol": "ANCS",
+  "trusted": true,
+  "config": {
+    "dark": true
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "score": 100
+  }
+}
