@@ -1,0 +1,15 @@
+{
+  "name": "ZilSwap",
+  "symbol": "ZWAP",
+  "web": "http://zilswap.io/",
+  "links": {
+    "twitter": "https://twitter.com/SwitcheoNetwork",
+    "discord": "https://discord.com/invite/Cpsxb2d",
+    "github": "https://github.com/switcheo/zilswap"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": false,
+    "score": 100
+  }
+}
