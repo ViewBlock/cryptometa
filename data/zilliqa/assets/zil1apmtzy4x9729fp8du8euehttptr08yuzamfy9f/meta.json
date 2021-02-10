@@ -2,14 +2,17 @@
   "name": "DragonZIL",
   "symbol": "DZT",
   "web": "https://dragonzil.xyz",
+  "product": true,
   "links": {
     "twitter": "https://twitter.com/dragons_eth",
+    "facebook": "https://www.facebook.com/ethdragons",
+    "medium": "https://medium.com/@dragons_eth",
     "telegram": "tg://join?invite=DEnpkgr31xVjG4io-wmwLQ",
     "github": "https://github.com/DeepDragons"
   },
   "gen": {
     "logo": "logo.png",
     "hasDark": false,
-    "score": 100
+    "score": 48
   }
 }
