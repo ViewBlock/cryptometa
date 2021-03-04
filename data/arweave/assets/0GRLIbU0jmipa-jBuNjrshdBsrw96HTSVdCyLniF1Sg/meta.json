@@ -3,8 +3,8 @@
   "symbol": "PBT",
   "web": "https://permabot.xyz",
   "supply": 100000000,  
-  "product": true,
-  "publicTeam": true,
+  "product": false,
+  "publicTeam": false,
   "links": {
     "github": "https://github.com/layinka/permabot",    
     "twitter": "https://twitter.com/permabot",
