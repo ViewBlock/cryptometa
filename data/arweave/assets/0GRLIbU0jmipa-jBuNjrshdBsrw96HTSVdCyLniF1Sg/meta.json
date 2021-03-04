@@ -2,11 +2,11 @@
   "name": "PermaBot",
   "symbol": "PBT",
   "web": "https://permabot.xyz",
-  "supply": 100000000,  
+  "supply": 100000000,
   "product": false,
   "publicTeam": false,
   "links": {
-    "github": "https://github.com/layinka/permabot",    
+    "github": "https://github.com/layinka/permabot",
     "twitter": "https://twitter.com/permabot",
     "blog": "https://blog.permabot.xyz",
     "discord": "https://discord.gg/eWR6UQGP"
@@ -14,6 +14,6 @@
   "gen": {
     "logo": "logo.png",
     "hasDark": false,
-    "score": 71
+    "score": 19
   }
 }
