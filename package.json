@@ -1,13 +1,15 @@
 {
   "name": "cryptometa",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "main": "src",
   "scripts": {
     "gen": "node bin/generate",
+    "test": "ava",
     "clean": "git checkout data/{**/,}**/logo-white.png"
   },
   "license": "MIT",
   "devDependencies": {
+    "ava": "^3.15.0",
     "axios": "^0.21.0",
     "image-pixels": "^2.2.2",
     "nearest-color": "^0.4.4",

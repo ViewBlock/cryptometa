@@ -1,5 +1,4 @@
 const { BASE, DEFAULT_IMG } = require('./config')
-const mapping = require('./mapping.json')
 
 const get = (obj, path, defaultValue) => {
   const res = path.split('.').reduce((acc, key) => (acc ? acc[key] : null), obj)
@@ -28,15 +27,25 @@ const filter = (obj, select) => {
   }, {})
 }
 
-const transformData = (meta, { chain, assetKey, select }) => {
+const transformData = (
+  meta,
+  {
+    chain,
+    assetKey,
+    select,
+
+    base,
+    defaultImg,
+  },
+) => {
   const item = {
     ...meta,
     score: get(meta, 'gen.score'),
     logo: get(meta, 'gen.logo')
-      ? `${BASE}/${chain}${assetKey ? `/assets/${assetKey}` : ''}/${get(meta, 'gen.logo')}`
-      : DEFAULT_IMG,
+      ? `${base || BASE}/${chain}${assetKey ? `/assets/${assetKey}` : ''}/${get(meta, 'gen.logo')}`
+      : defaultImg || DEFAULT_IMG,
     logoDark: get(meta, 'gen.hasDark')
-      ? `${BASE}/${chain}${assetKey ? `/assets/${assetKey}` : ''}/logo-white.png`
+      ? `${base || BASE}/${chain}${assetKey ? `/assets/${assetKey}` : ''}/logo-white.png`
       : undefined,
     gen: undefined,
   }
@@ -50,9 +59,18 @@ const transformData = (meta, { chain, assetKey, select }) => {
   return filter(item, select)
 }
 
-const getParams = key => {
+const getParams = (key, data) => {
   const [chainKey, assetKey] = Array.isArray(key) ? key : key.split('.')
-  const chain = mapping[chainKey] === 1 ? chainKey : mapping[chainKey]
+
+  if (!data) {
+    return [chainKey, assetKey]
+  }
+
+  const chain = data._symbols[chainKey] ? data._symbols[chainKey] : chainKey
+
+  if (chain === assetKey || chain === data._symbols[assetKey]) {
+    return [chain]
+  }
 
   return [chain, assetKey]
 }

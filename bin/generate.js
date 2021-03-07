@@ -114,8 +114,7 @@ const main = async () => {
 
   const chains = (await readdir(ROOT)).filter(d => !d.includes('.'))
 
-  const full = {}
-  const mapping = {}
+  const full = { _symbols: {}, _chains: {} }
 
   for (const chain of chains) {
     const path = join(ROOT, chain)
@@ -125,8 +124,8 @@ const main = async () => {
     full[chain] = { ...meta, config: undefined }
 
     const lower = meta.path || meta.name.toLowerCase()
-    mapping[lower] = 1
-    mapping[meta.symbol] = meta.path || lower
+    full._chains[lower] = meta.symbol
+    full._symbols[meta.symbol] = meta.path || lower
 
     if (files.includes('assets')) {
       const assets = await readdir(join(path, 'assets'))
@@ -140,7 +139,6 @@ const main = async () => {
     }
   }
 
-  writeFile(join(__dirname, '../src/mapping.json'), JSON.stringify(mapping))
   writeFile(join(__dirname, '../src/full.json'), JSON.stringify(full))
 
   await exec('rm -f data/***/fallback.png')

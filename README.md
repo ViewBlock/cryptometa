@@ -42,28 +42,3 @@
 
 Upon disagreements as to which property a token has/deserves, remember that we
 ultimately have the final say in what gets to show in our products.
-
-#### Usage
-
-```
-yarn add cryptometa
-```
-
-| Param               | Type             | Required | Example                                                 |
-| ------------------- | ---------------- | -------- | ------------------------------------------------------- |
-| payload             | `String`/`Array` | `true`   | `ETH`, `BNB.AVA-645`, `zilliqa.zil14x...`               |
-| select              | `String`         | `false`  | `logo score name symbol`                                |
-
-```js
-const meta = require('cryptometa')
-
-const exOne = await meta('ETH')
-const exTwo = await meta(['BNB.AVA-645', 'ETH'], 'logo')
-```
-
-Use the server entry point if you do not mind loading all the token data once.
-It is cached for 30 minutes but can grow big, thus it's exclusion from the bundle.
-
-```js
-const meta = require('cryptometa/src/server')
-```
