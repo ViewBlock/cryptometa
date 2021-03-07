@@ -1,0 +1,10 @@
+{
+  "name": "Litecoin",
+  "symbol": "LTC",
+  "web": "https://litecoin.org",
+  "explorer": "https://blockchair.com/litecoin",
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Cardano",
+  "symbol": "ADA",
+  "web": "https://www.cardano.org",
+  "explorer": "https://explorer.cardano.org",
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Polkadot",
+  "symbol": "DOT",
+  "web": "https://polkadot.network",
+  "explorer": "https://polkascan.io",
+  "config": {
+    "dark": true
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true
+  }
+}

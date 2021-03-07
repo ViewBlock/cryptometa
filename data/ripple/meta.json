@@ -1,0 +1,10 @@
+{
+  "name": "Ripple",
+  "symbol": "XRP",
+  "web": "https://ripple.com",
+  "explorer": "https://xrpscan.com",
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true
+  }
+}
