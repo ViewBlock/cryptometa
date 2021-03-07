@@ -1,0 +1,9 @@
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+ <mask id="m">
+    <ellipse stroke-width="0" ry="50" rx="50" id="svg_1" cy="50" cx="50" opacity="undefined" stroke="#000" fill="white" />
+    <rect stroke="#000" id="svg_3" height="21.14286" width="21.71428" y="39.42857" x="39.14286" opacity="undefined" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" fill="black"/>
+ </mask>
+ <g>
+  <rect width="100%" height="100%" fill="#e8e8e8" mask="url(#m)" />
+ </g>
+</svg>

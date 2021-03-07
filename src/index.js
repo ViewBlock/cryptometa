@@ -61,7 +61,7 @@ module.exports = {
         select,
 
         base: config.base ? `${config.base}/data` : null,
-        defaultImg: config.base ? `${config.base}/data/default.png` : null,
+        defaultImg: config.base ? `${config.base}/data/default.svg` : null,
       })
     })
 
