@@ -45,7 +45,11 @@ const transformData = (
       ? `${base || BASE}/${chain}${assetKey ? `/assets/${assetKey}` : ''}/${get(meta, 'gen.logo')}`
       : defaultImg || DEFAULT_IMG,
     logoDark: get(meta, 'gen.hasDark')
-      ? `${base || BASE}/${chain}${assetKey ? `/assets/${assetKey}` : ''}/logo-white.png`
+      ? `${base || BASE}/${chain}${assetKey ? `/assets/${assetKey}` : ''}/logo-white.${get(
+          meta,
+          'gen.darkExt',
+          'png',
+        )}`
       : undefined,
     gen: undefined,
   }

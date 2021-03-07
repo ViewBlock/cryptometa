@@ -64,6 +64,7 @@ const updateMeta = async (path, { skipScore } = {}) => {
   const meta = await readMeta(metaPath)
 
   const logoName = files.find(file => file.startsWith('logo.'))
+  const logoDark = files.find(f => f.startsWith('logo-white.'))
   const logo = logoName ? `${BASE}/${relativePath(path)}/${logoName}` : DEFAULT_IMG
   const isSVG = logoName && logoName.endsWith('svg')
 
@@ -100,6 +101,10 @@ const updateMeta = async (path, { skipScore } = {}) => {
     gen: {
       logo: logoName,
       hasDark: get(meta, 'config.manualDark', false) || hasDark,
+      darkExt:
+        get(meta, 'config.manualDark') && logoDark && logoDark.split('.')[1] !== 'png'
+          ? logoDark.split('.')[1]
+          : undefined,
       score: skipScore ? undefined : getScore(meta),
     },
   }
