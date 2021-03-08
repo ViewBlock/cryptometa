@@ -124,8 +124,8 @@ const main = async () => {
     _chains: {},
     _remap: {
       bsc: 'binance',
-      'binance.ETH1C9': 'ethereum',
       huobi: 'ethereum.0x6f259637dcd74c767781e37bc6133cd6a68aa161',
+      'binance.ETH-1C9': 'ethereum',
     },
   }
 

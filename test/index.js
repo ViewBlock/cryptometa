@@ -62,11 +62,19 @@ test('Selection', async t => {
   t.is(multi[1], ethLogo)
 })
 
-// test.only('Linked asset', async t => {
-//   const eth = await getMeta('BNB.ETH-1C9')
+test('Linked assets', async t => {
+  const eth = await getMeta('BNB.ETH-1C9')
+  t.is(eth.name, 'Ethereum')
+  t.is(eth.symbol, 'ETH')
+  t.is(eth.explorer, 'https://etherscan.io')
 
-//   console.log(eth)
-// })
+  const bsc = await getMeta('BSC')
+  t.is(bsc.name, 'Binance Chain')
+
+  const huobi = await getMeta('huobi')
+  t.is(huobi.name, 'Huobi Token')
+  t.truthy(huobi.links)
+})
 
 test.serial('Custom image base', async t => {
   setConfig({
