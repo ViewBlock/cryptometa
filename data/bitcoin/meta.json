@@ -1,0 +1,17 @@
+{
+  "name": "Bitcoin",
+  "symbol": "BTC",
+  "web": "http://www.bitcoin.org",
+  "explorer": "https://blockchair.com/bitcoin",
+  "links": {
+    "github": "bitcoin",
+    "coingecko": "bitcoin",
+    "twitter": "btc",
+    "facebook": "bitcoins",
+    "reddit": "r/Bitcoin"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": false
+  }
+}

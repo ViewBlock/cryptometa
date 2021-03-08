@@ -62,6 +62,12 @@ test('Selection', async t => {
   t.is(multi[1], ethLogo)
 })
 
+// test.only('Linked asset', async t => {
+//   const eth = await getMeta('BNB.ETH-1C9')
+
+//   console.log(eth)
+// })
+
 test.serial('Custom image base', async t => {
   setConfig({
     base: 'https://google.com',

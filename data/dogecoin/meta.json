@@ -1,0 +1,17 @@
+{
+  "name": "Dogecoin",
+  "symbol": "DOGE",
+  "web": "http://dogecoin.com",
+  "explorer": "https://blockchair.com/dogecoin",
+  "links": {
+    "github": "dogecoin",
+    "coingecko": "dogecoin",
+    "twitter": "dogecoin",
+    "facebook": "OfficialDogecoin",
+    "reddit": "r/dogecoin"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": false
+  }
+}

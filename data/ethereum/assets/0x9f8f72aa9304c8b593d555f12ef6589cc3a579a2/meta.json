@@ -1,0 +1,17 @@
+{
+  "name": "Maker",
+  "symbol": "MKR",
+  "web": "https://makerdao.com",
+  "explorer": "https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+  "links": {
+    "github": "makerdao",
+    "coingecko": "maker",
+    "twitter": "MakerDAO",
+    "reddit": "r/MakerDAO"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": false,
+    "score": 19
+  }
+}

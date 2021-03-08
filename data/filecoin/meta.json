@@ -1,0 +1,15 @@
+{
+  "name": "Filecoin",
+  "symbol": "FIL",
+  "web": "https://filecoin.io",
+  "explorer": "https://filfox.info/en",
+  "links": {
+    "github": "filecoin-project",
+    "coingecko": "filecoin",
+    "twitter": "Filecoin"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": false
+  }
+}

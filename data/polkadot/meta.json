@@ -3,6 +3,13 @@
   "symbol": "DOT",
   "web": "https://polkadot.network",
   "explorer": "https://polkascan.io",
+  "links": {
+    "github": "w3f",
+    "coingecko": "polkadot",
+    "twitter": "Polkadot",
+    "telegram": "PolkadotOfficial",
+    "reddit": "https://www.reddit.com"
+  },
   "config": {
     "dark": true
   },

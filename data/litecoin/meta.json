@@ -3,6 +3,12 @@
   "symbol": "LTC",
   "web": "https://litecoin.org",
   "explorer": "https://blockchair.com/litecoin",
+  "links": {
+    "github": "litecoin-project",
+    "coingecko": "litecoin",
+    "twitter": "LTCFoundation",
+    "reddit": "r/litecoin"
+  },
   "gen": {
     "logo": "logo.svg",
     "hasDark": false

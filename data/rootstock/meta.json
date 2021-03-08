@@ -1,0 +1,17 @@
+{
+  "name": "RSK Infrastructure Framework",
+  "symbol": "RIF",
+  "web": "https://www.rifos.org",
+  "explorer": "https://explorer.rsk.co/address/0x2acc95758f8b5f583470ba265eb685a8f45fc9d5",
+  "links": {
+    "github": "riflabs",
+    "coingecko": "rif-token",
+    "twitter": "rif_os",
+    "telegram": "rif_os_community",
+    "reddit": "r/rootstock"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": false
+  }
+}

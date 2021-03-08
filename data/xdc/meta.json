@@ -1,0 +1,17 @@
+{
+  "name": "XDC Network",
+  "symbol": "XDC",
+  "web": "http://www.xinfin.io",
+  "links": {
+    "github": "XinFinOrg",
+    "coingecko": "xdce-crowd-sale",
+    "twitter": "XinFin_Official",
+    "facebook": "XinFinHybridBlockchain",
+    "telegram": "xinfintalk",
+    "reddit": "r/xinfin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true
+  }
+}

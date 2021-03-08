@@ -1,0 +1,18 @@
+{
+  "name": "Decred",
+  "symbol": "DCR",
+  "web": "https://www.decred.org",
+  "explorer": "https://dcrdata.decred.org",
+  "links": {
+    "github": "decred",
+    "coingecko": "decred",
+    "twitter": "decredproject",
+    "facebook": "https://www.facebook.com/decredproject",
+    "telegram": "Decred",
+    "reddit": "r/decred"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": false
+  }
+}

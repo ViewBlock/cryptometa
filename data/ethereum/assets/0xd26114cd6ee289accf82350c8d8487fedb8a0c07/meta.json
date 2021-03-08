@@ -1,0 +1,18 @@
+{
+  "name": "OMG Network",
+  "symbol": "OMG",
+  "web": "https://omg.network",
+  "explorer": "https://etherscan.io/token/0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
+  "links": {
+    "github": "omgnetwork",
+    "coingecko": "omisego",
+    "twitter": "omgnetworkhq",
+    "facebook": "omgnetworkhq",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "score": 19
+  }
+}

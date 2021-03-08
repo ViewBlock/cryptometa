@@ -1,0 +1,18 @@
+{
+  "name": "Ark",
+  "symbol": "ARK",
+  "web": "https://ark.io",
+  "explorer": "https://explorer.ark.io",
+  "links": {
+    "github": "ArkEcosystem",
+    "coingecko": "ark",
+    "twitter": "arkecosystem",
+    "facebook": "ArkEcosystem",
+    "telegram": "arkannouncements",
+    "reddit": "r/ArkEcosystem"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": false
+  }
+}

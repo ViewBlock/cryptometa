@@ -1,0 +1,18 @@
+{
+  "name": "0x",
+  "symbol": "ZRX",
+  "web": "https://0x.org",
+  "explorer": "https://etherscan.io/token/0xe41d2489571d322189246dafa5ebde1f4699f498",
+  "links": {
+    "github": "0xProject",
+    "coingecko": "0x",
+    "twitter": "0xproject",
+    "telegram": "official_0x",
+    "reddit": "r/0xProject"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "score": 19
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Energy Web Token",
+  "symbol": "EWT",
+  "web": "https://www.energyweb.org",
+  "explorer": "https://explorer.energyweb.org",
+  "links": {
+    "coingecko": "energy-web-token",
+    "twitter": "energywebx",
+    "facebook": "EnergyWebFoundation",
+    "telegram": "energyweb",
+    "reddit": "r/EnergyWeb"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": false
+  }
+}

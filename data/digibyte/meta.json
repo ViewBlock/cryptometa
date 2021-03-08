@@ -1,0 +1,18 @@
+{
+  "name": "DigiByte",
+  "symbol": "DGB",
+  "web": "https://digibyte.io",
+  "explorer": "https://digiexplorer.info",
+  "links": {
+    "github": "digibyte",
+    "coingecko": "digibyte",
+    "twitter": "digibytecoin",
+    "facebook": "digibytecoin",
+    "telegram": "OfficialDigiByteGroups",
+    "reddit": "r/Digibyte"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": false
+  }
+}

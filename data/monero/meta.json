@@ -1,0 +1,17 @@
+{
+  "name": "Monero",
+  "symbol": "XMR",
+  "web": "https://getmonero.org",
+  "explorer": "https://xmrchain.net",
+  "links": {
+    "github": "monero-project",
+    "coingecko": "monero",
+    "twitter": "monero",
+    "facebook": "monerocurrency",
+    "reddit": "r/monero"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": false
+  }
+}

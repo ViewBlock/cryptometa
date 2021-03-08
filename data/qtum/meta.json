@@ -1,0 +1,17 @@
+{
+  "name": "Qtum",
+  "symbol": "QTUM",
+  "web": "https://qtum.org/en",
+  "explorer": "https://qtum.info",
+  "links": {
+    "github": "qtumproject",
+    "coingecko": "qtum",
+    "twitter": "qtum",
+    "facebook": "QtumOfficial",
+    "reddit": "r/Qtum"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": false
+  }
+}

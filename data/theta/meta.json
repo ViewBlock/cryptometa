@@ -1,0 +1,17 @@
+{
+  "name": "Theta Network",
+  "symbol": "THETA",
+  "web": "https://www.thetatoken.org",
+  "explorer": "https://explorer.thetatoken.org",
+  "links": {
+    "github": "thetatoken",
+    "coingecko": "theta-token",
+    "twitter": "Theta_Network",
+    "facebook": "ThetaNetwork",
+    "reddit": "theta_network"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": false
+  }
+}

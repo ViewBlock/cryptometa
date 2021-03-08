@@ -1,0 +1,17 @@
+{
+  "name": "Electroneum",
+  "symbol": "ETN",
+  "web": "http://electroneum.com",
+  "explorer": "https://blockexplorer.electroneum.com",
+  "links": {
+    "github": "electroneum",
+    "coingecko": "electroneum",
+    "twitter": "electroneum",
+    "facebook": "electroneum",
+    "reddit": "r/Electroneum"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": false
+  }
+}

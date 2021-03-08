@@ -115,28 +115,43 @@ const updateMeta = async (path, { skipScore } = {}) => {
 }
 
 const main = async () => {
-  await exec('rm -f ../data/***/logo-white.png')
+  // await exec('rm -f ../data/***/logo-white.png')
 
   const chains = (await readdir(ROOT)).filter(d => !d.includes('.'))
 
-  const full = { _symbols: {}, _chains: {} }
+  const full = {
+    _symbols: {},
+    _chains: {},
+    _remap: {
+      bsc: 'binance',
+      'binance.ETH1C9': 'ethereum',
+      huobi: 'ethereum.0x6f259637dcd74c767781e37bc6133cd6a68aa161',
+    },
+  }
 
   for (const chain of chains) {
+    if (full._remap[chain]) {
+      continue
+    }
+
     const path = join(ROOT, chain)
     const files = await readdir(path)
 
     const meta = await updateMeta(path, { skipScore: true })
     full[chain] = { ...meta, config: undefined }
 
-    const lower = meta.path || meta.name.toLowerCase()
-    full._chains[lower] = meta.symbol
-    full._symbols[meta.symbol] = meta.path || lower
+    full._chains[chain] = meta.symbol
+    full._symbols[meta.symbol] = chain
 
     if (files.includes('assets')) {
       const assets = await readdir(join(path, 'assets'))
 
       await Promise.all(
         assets.map(async hash => {
+          if (full._remap[`${chain}.${hash}`]) {
+            return null
+          }
+
           const meta = await updateMeta(join(path, `assets/${hash}`))
           full[`${chain}.${hash}`] = { ...meta, config: undefined }
         }),

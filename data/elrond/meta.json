@@ -1,0 +1,17 @@
+{
+  "name": "Elrond",
+  "symbol": "EGLD",
+  "web": "https://elrond.com",
+  "explorer": "https://explorer.elrond.com",
+  "links": {
+    "github": "ElrondNetwork",
+    "coingecko": "elrond-erd-2",
+    "twitter": "elrondnetwork",
+    "telegram": "ElrondNetwork",
+    "reddit": "r/elrondnetwork"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Celo",
+  "symbol": "CELO",
+  "web": "https://celo.org",
+  "explorer": "https://explorer.celo.org/blocks",
+  "links": {
+    "github": "celo-org",
+    "coingecko": "celo",
+    "twitter": "CeloOrg",
+    "telegram": "Celo_Philippines"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": false
+  }
+}

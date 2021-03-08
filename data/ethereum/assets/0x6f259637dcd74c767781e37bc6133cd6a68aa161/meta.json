@@ -1,0 +1,17 @@
+{
+  "name": "Huobi Token",
+  "symbol": "HT",
+  "web": "https://www.hbg.com",
+  "explorer": "https://etherscan.io/token/0x6f259637dcd74c767781e37bc6133cd6a68aa161",
+  "links": {
+    "coingecko": "huobi-token",
+    "twitter": "HuobiGlobal",
+    "telegram": "huobiglobalofficial",
+    "reddit": "r/huobi"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": false,
+    "score": 10
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Harmony",
+  "symbol": "ONE",
+  "web": "https://harmony.one",
+  "explorer": "https://explorer.harmony.one",
+  "links": {
+    "github": "harmony-one",
+    "coingecko": "harmony",
+    "twitter": "harmonyprotocol",
+    "telegram": "harmony_one",
+    "reddit": "r/harmony_one"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": false
+  }
+}

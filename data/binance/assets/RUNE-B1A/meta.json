@@ -1,14 +1,22 @@
 {
-  "symbol": "RUNE-B1A",
   "name": "Rune",
-  "email": null,
+  "symbol": "RUNE-B1A",
   "web": "https://thorchain.org",
+  "explorer": "https://explorer.binance.org/asset/RUNE-B1A",
+  "links": {
+    "github": "thorchain",
+    "coingecko": "thorchain",
+    "twitter": "thorchain_org",
+    "facebook": "thorchain.org",
+    "telegram": "thorchain_org",
+    "reddit": "r/thorchain"
+  },
+  "email": null,
   "decimals": null,
   "supply": 500000000,
-  "links": {},
   "gen": {
     "logo": "logo.png",
     "hasDark": false,
-    "score": 5
+    "score": 19
   }
 }

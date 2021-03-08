@@ -1,0 +1,19 @@
+{
+  "name": "BitTorrent",
+  "symbol": "BTT",
+  "web": "https://www.bittorrent.com/btt",
+  "explorer": "https://tronscan.org/#/token/1002000",
+  "links": {
+    "github": "bittorrent",
+    "coingecko": "bittorrent-2",
+    "twitter": "bittorrent",
+    "facebook": "bittorrent",
+    "telegram": "BTTBitTorrent",
+    "reddit": "r/Bittorrent"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "score": 19
+  }
+}

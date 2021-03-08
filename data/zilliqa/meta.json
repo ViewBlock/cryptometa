@@ -1,9 +1,16 @@
 {
   "name": "Zilliqa",
   "symbol": "ZIL",
-  "description": "A public blockchain platform designed to scale to thousands of transactions per second",
   "web": "https://zilliqa.com",
   "explorer": "https://viewblock.io/zilliqa",
+  "links": {
+    "github": "Zilliqa",
+    "coingecko": "zilliqa",
+    "twitter": "zilliqa",
+    "telegram": "zilliqachat",
+    "reddit": "r/zilliqa"
+  },
+  "description": "A public blockchain platform designed to scale to thousands of transactions per second",
   "gen": {
     "logo": "logo.svg",
     "hasDark": false

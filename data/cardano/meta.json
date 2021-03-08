@@ -3,6 +3,12 @@
   "symbol": "ADA",
   "web": "https://www.cardano.org",
   "explorer": "https://explorer.cardano.org",
+  "links": {
+    "github": "input-output-hk",
+    "coingecko": "cardano",
+    "twitter": "CardanoStiftung",
+    "reddit": "r/cardano"
+  },
   "gen": {
     "logo": "logo.svg",
     "hasDark": true

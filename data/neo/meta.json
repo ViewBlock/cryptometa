@@ -1,0 +1,16 @@
+{
+  "name": "NEO",
+  "symbol": "NEO",
+  "web": "https://neo.org",
+  "explorer": "https://neo.tokenview.com",
+  "links": {
+    "github": "neo-project",
+    "coingecko": "neo",
+    "twitter": "NEO_Blockchain",
+    "reddit": "r/NEO"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": false
+  }
+}

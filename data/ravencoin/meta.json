@@ -1,0 +1,18 @@
+{
+  "name": "Ravencoin",
+  "symbol": "RVN",
+  "web": "https://ravencoin.org",
+  "explorer": "https://ravencoin.network",
+  "links": {
+    "github": "RavenProject",
+    "coingecko": "ravencoin",
+    "twitter": "ravencoin",
+    "facebook": "Ravencoinofficial",
+    "telegram": "RavencoinDev",
+    "reddit": "r/Ravencoin"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": false
+  }
+}

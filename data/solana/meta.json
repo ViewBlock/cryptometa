@@ -1,0 +1,17 @@
+{
+  "name": "Solana",
+  "symbol": "SOL",
+  "web": "https://solana.com",
+  "explorer": "https://explorer.solana.com",
+  "links": {
+    "github": "solana-labs",
+    "coingecko": "solana",
+    "twitter": "solana",
+    "telegram": "solanaio",
+    "reddit": "r/solana"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": false
+  }
+}
