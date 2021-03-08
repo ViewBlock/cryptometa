@@ -1,0 +1,17 @@
+{
+  "name": "WINk",
+  "symbol": "WIN",
+  "web": "https://wink.org/#",
+  "explorer": "https://trxplorer.io/token/TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7",
+  "links": {
+    "coingecko": "wink",
+    "twitter": "WINkorg",
+    "telegram": "WINk_org_official",
+    "reddit": "r/WINk_org"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

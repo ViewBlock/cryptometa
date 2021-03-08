@@ -1,0 +1,17 @@
+{
+  "name": "QiSwap",
+  "symbol": "QI",
+  "web": "https://qiswap.com",
+  "explorer": "https://qtum.info/qrc20/54fefdb5b31164f66ddb68becd7bdd864cacd65b",
+  "links": {
+    "github": "qiswap",
+    "coingecko": "qiswap",
+    "twitter": "QiSwap",
+    "telegram": "qiswapofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

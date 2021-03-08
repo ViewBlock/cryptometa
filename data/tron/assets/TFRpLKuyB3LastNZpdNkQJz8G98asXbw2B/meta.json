@@ -1,0 +1,17 @@
+{
+  "name": "EOX",
+  "symbol": "EOX",
+  "web": "https://eoxcoin.com",
+  "explorer": "https://tronscan.org/#/token20/TFRpLKuyB3LastNZpdNkQJz8G98asXbw2B",
+  "links": {
+    "coingecko": "eox",
+    "twitter": "eoxcoin",
+    "facebook": "eox2020",
+    "telegram": "eox_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

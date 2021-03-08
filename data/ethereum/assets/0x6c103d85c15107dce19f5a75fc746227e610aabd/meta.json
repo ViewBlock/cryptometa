@@ -1,0 +1,14 @@
+{
+  "name": "Universal Euro",
+  "symbol": "UPEUR",
+  "web": "https://universalprotocol.io",
+  "explorer": "https://etherscan.io/token/0x6c103d85c15107dce19f5a75fc746227e610aabd",
+  "links": {
+    "coingecko": "universal-euro"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 5
+  }
+}

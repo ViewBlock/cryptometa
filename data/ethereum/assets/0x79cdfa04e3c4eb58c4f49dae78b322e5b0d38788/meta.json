@@ -1,0 +1,17 @@
+{
+  "name": "Truefeedback Token",
+  "symbol": "TFB",
+  "web": "https://www.truefeedbackchain.com",
+  "explorer": "https://etherscan.io/token/0x79cdfa04e3c4eb58c4f49dae78b322e5b0d38788",
+  "links": {
+    "github": "TrueFeedBack",
+    "coingecko": "truefeedbackchain",
+    "twitter": "Tfbchain",
+    "telegram": "TrueFeedbackChain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

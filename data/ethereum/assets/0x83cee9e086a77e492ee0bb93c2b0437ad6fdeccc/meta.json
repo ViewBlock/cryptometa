@@ -1,0 +1,19 @@
+{
+  "name": "Goldmint",
+  "symbol": "MNTP",
+  "web": "https://www.goldmint.io",
+  "explorer": "https://etherscan.io/token/0x83cee9e086a77e492ee0bb93c2b0437ad6fdeccc",
+  "links": {
+    "github": "Goldmint",
+    "coingecko": "goldmint",
+    "twitter": "goldmint_io",
+    "facebook": "goldmint.io",
+    "telegram": "goldmintio",
+    "reddit": "r/goldmintio"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

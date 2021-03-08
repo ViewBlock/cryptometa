@@ -1,0 +1,18 @@
+{
+  "name": "Quai Dao",
+  "symbol": "QUAI",
+  "web": "https://quaidao.io",
+  "explorer": "https://etherscan.io/token/0x40821cd074dfecb1524286923bc69315075b5c89",
+  "links": {
+    "github": "QUAIDAO",
+    "coingecko": "quai-dao",
+    "twitter": "QUAI_DAO",
+    "telegram": "QuaiDAOCommunity",
+    "reddit": "r/QUAIDAO"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

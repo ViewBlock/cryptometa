@@ -1,0 +1,19 @@
+{
+  "name": "Pebbles",
+  "symbol": "PBL",
+  "web": "https://publica.io",
+  "explorer": "https://etherscan.io/token/0x55648de19836338549130b1af587f16bea46f66b",
+  "links": {
+    "github": "PublicaIO",
+    "coingecko": "publica",
+    "twitter": "PublicaIO",
+    "facebook": "OfficialPublica",
+    "telegram": "publicaio",
+    "reddit": "r/publicaio"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

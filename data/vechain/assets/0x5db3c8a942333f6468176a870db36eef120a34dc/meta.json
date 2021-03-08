@@ -1,0 +1,19 @@
+{
+  "name": "Safe Haven",
+  "symbol": "SHA",
+  "web": "https://safehaven.io",
+  "explorer": "https://explore.vechain.org/accounts/0x5db3c8a942333f6468176a870db36eef120a34dc",
+  "links": {
+    "github": "Safehaven-io",
+    "coingecko": "safe-haven",
+    "twitter": "safeHavenio",
+    "facebook": "SafeHaven.io",
+    "telegram": "safehavenio",
+    "reddit": "r/safehavenio"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

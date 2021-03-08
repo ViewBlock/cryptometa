@@ -1,0 +1,12 @@
+{
+  "name": "Midas Dollar Share",
+  "symbol": "MDS",
+  "web": "https://midasdollar.fi",
+  "explorer": "https://bscscan.com/token/0x242E46490397ACCa94ED930F2C4EdF16250237fa",
+  "links": {
+    "github": "MidasCore",
+    "coingecko": "midas-dollar-share",
+    "twitter": "MidasDollar",
+    "telegram": "midasprotocolglobal"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "IRISnet",
+  "symbol": "IRIS",
+  "web": "https://www.irisnet.org",
+  "explorer": "https://www.mintscan.io/iris",
+  "links": {
+    "github": "irisnet",
+    "coingecko": "iris-network",
+    "twitter": "irisnetwork",
+    "telegram": "irisnetwork"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": false
+  }
+}

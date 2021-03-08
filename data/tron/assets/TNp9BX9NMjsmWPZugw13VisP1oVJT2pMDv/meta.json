@@ -1,0 +1,16 @@
+{
+  "name": "Digital Currency Daily",
+  "symbol": "DCD",
+  "web": "https://www.digitalcurrencydaily.com",
+  "explorer": "https://tronscan.org/#/token20/TNp9BX9NMjsmWPZugw13VisP1oVJT2pMDv",
+  "links": {
+    "coingecko": "digital-currency-daily",
+    "twitter": "digitalcdaily",
+    "telegram": "digitalcurrencydaily"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

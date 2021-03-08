@@ -1,0 +1,15 @@
+{
+  "name": "Wirex",
+  "symbol": "WXT",
+  "web": "https://wirexapp.com",
+  "explorer": "https://stellar.expert/explorer/public/asset/WXT-GASBLVHS5FOABSDNW5SPPH3QRJYXY5JHA2AOA2QHH2FJLZBRXSG4SWXT",
+  "links": {
+    "coingecko": "wirex",
+    "telegram": "wirexchat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 5
+  }
+}

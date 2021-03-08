@@ -1,0 +1,17 @@
+{
+  "name": "Grafsound",
+  "symbol": "GSMT",
+  "web": "http://mygrafsound.com",
+  "explorer": "https://etherscan.io/token/0x7713bCda5106424FF6B0Ae1e7Fa05C3f4ae3ecB0",
+  "links": {
+    "github": "suusofttruongnv",
+    "coingecko": "grafsound",
+    "facebook": "officialGrafSound",
+    "telegram": "token_gsmt"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 14
+  }
+}

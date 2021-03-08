@@ -1,0 +1,11 @@
+{
+  "name": "Naruto BSC",
+  "symbol": "NARUTO2",
+  "web": "https://www.narutobsc.com",
+  "explorer": "https://bscscan.com/token/0xe3c40ca5a0d8b48c45a2609e558cea98c5805351",
+  "links": {
+    "coingecko": "naruto-bsc",
+    "twitter": "BscNaruto",
+    "telegram": "NarutoBSC"
+  }
+}

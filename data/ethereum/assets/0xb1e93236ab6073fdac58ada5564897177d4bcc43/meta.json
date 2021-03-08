@@ -1,0 +1,18 @@
+{
+  "name": "Seele",
+  "symbol": "SEELE",
+  "web": "http://seelen.pro",
+  "explorer": "https://etherscan.io/token/0xb1e93236ab6073fdac58ada5564897177d4bcc43",
+  "links": {
+    "github": "seeleteam",
+    "coingecko": "seele",
+    "twitter": "n_seele",
+    "facebook": "seeletech",
+    "telegram": "seelenseelen2020"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "score": 19
+  }
+}

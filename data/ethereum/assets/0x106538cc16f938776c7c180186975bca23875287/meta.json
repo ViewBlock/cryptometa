@@ -1,0 +1,17 @@
+{
+  "name": "Basis Share",
+  "symbol": "BAS",
+  "web": "https://basis.cash",
+  "explorer": "https://etherscan.io/token/0x106538CC16F938776c7c180186975BCA23875287",
+  "links": {
+    "github": "Basis-Cash",
+    "coingecko": "basis-share",
+    "twitter": "BasisCash",
+    "telegram": "basiscash"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

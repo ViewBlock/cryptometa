@@ -1,0 +1,11 @@
+{
+  "name": "Unifi Protocol DAO",
+  "symbol": "UNFI",
+  "web": "https://unifiprotocol.com",
+  "explorer": "https://etherscan.io/token/0x441761326490cACF7aF299725B6292597EE822c2",
+  "links": {
+    "coingecko": "unifi-protocol-dao",
+    "twitter": "unifiprotocol",
+    "telegram": "unifi_protocol"
+  }
+}

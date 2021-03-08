@@ -1,0 +1,12 @@
+{
+  "name": "Berry Data",
+  "symbol": "BRY",
+  "web": "https://berrydata.co",
+  "explorer": "https://bscscan.com/token/0xf859Bf77cBe8699013d6Dbc7C2b926Aaf307F830",
+  "links": {
+    "github": "berrydata",
+    "coingecko": "berry-data",
+    "twitter": "berry_data",
+    "telegram": "berrydata"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Gene Source Code Token",
+  "symbol": "GENE",
+  "web": "http://www.gscchain.org",
+  "explorer": "https://etherscan.io/token/0x884181554dfa9e578d36379919c05c25dc4a15bb",
+  "links": {
+    "github": "GeneSourceCodeChain",
+    "coingecko": "gene-source-code-token",
+    "twitter": "gsc_chain",
+    "telegram": "GeneSourceCode"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

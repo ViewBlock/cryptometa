@@ -1,0 +1,16 @@
+{
+  "name": "Bytom",
+  "symbol": "BTM",
+  "web": "http://bytom.io",
+  "explorer": "https://etherscan.io/token/0xcb97e65f07da24d46bcdd078ebebd7c6e6e3d750",
+  "links": {
+    "github": "bytom",
+    "coingecko": "bytom",
+    "twitter": "Bytom_Official",
+    "reddit": "r/BytomBlockchain"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "BitGuild PLAT",
+  "symbol": "PLAT",
+  "web": "https://bitguild.io",
+  "explorer": "https://tronscan.org/#/token20/TG37mUxRUaH1E8DWSrrmoQ79BnZn1yHztb",
+  "links": {
+    "github": "BitGuildPlatform",
+    "coingecko": "bitguild",
+    "twitter": "BitGuild",
+    "facebook": "bitguildplat",
+    "telegram": "BitGuildOfficial",
+    "reddit": "r/BitGuild"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

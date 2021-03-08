@@ -1,0 +1,19 @@
+{
+  "name": "Kleros",
+  "symbol": "PNK",
+  "web": "https://kleros.io",
+  "explorer": "https://etherscan.io/token/0x93ed3fbe21207ec2e8f2d3c3de6e058cb73bc04d",
+  "links": {
+    "github": "kleros",
+    "coingecko": "kleros",
+    "twitter": "kleros_io",
+    "facebook": "kleros.io",
+    "telegram": "kleros",
+    "reddit": "r/Kleros"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

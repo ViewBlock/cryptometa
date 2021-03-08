@@ -1,0 +1,19 @@
+{
+  "name": "Bottos",
+  "symbol": "BTO",
+  "web": "https://www.bottos.org",
+  "explorer": "https://etherscan.io/token/0x36905fc93280f52362a1cbab151f25dc46742fb5",
+  "links": {
+    "github": "Bottos-project",
+    "coingecko": "bottos",
+    "twitter": "ai_bottos",
+    "facebook": "BottosAIchain",
+    "telegram": "bottosofficial",
+    "reddit": "r/bottos"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "score": 19
+  }
+}

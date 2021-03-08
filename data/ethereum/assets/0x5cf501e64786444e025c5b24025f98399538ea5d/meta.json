@@ -1,0 +1,14 @@
+{
+  "name": "Galaxy Pool Coin",
+  "symbol": "GPO",
+  "web": "https://galaxypool.top",
+  "explorer": "https://etherscan.io/token/0x5cf501e64786444e025c5b24025f98399538ea5d",
+  "links": {
+    "coingecko": "galaxy-pool-coin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 5
+  }
+}

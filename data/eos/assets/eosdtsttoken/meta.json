@@ -1,0 +1,19 @@
+{
+  "name": "EOSDT",
+  "symbol": "EOSDT",
+  "web": "https://eosdt.com",
+  "explorer": "https://bloks.io/tokens/EOSDT-eos-eosdtsttoken",
+  "links": {
+    "github": "equilibrium-eosdt",
+    "coingecko": "equilibrium-eosdt",
+    "twitter": "eosdt_official",
+    "facebook": "EquilibriumFramework/",
+    "telegram": "equilibrium_eosdt_official",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

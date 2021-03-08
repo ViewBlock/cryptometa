@@ -1,0 +1,16 @@
+{
+  "name": "StrongHold",
+  "symbol": "STRNG",
+  "web": "https://thestronghold.finance",
+  "explorer": "https://etherscan.io/token/0x350a6a30c79df3600c4e0e67deab0a64b645e2c2",
+  "links": {
+    "coingecko": "stronghold",
+    "twitter": "yTheStrongHold",
+    "telegram": "TheStrongHold"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

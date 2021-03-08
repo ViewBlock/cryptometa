@@ -1,0 +1,12 @@
+{
+  "name": "Cross Finance",
+  "symbol": "CRP",
+  "web": "https://crossfin.io",
+  "explorer": "https://bscscan.com/token/0x1ad8d89074afa789a027b9a31d0bd14e254711d0",
+  "links": {
+    "github": "crossfin",
+    "coingecko": "cross-finance",
+    "twitter": "Crossfinio",
+    "telegram": "Crossfin"
+  }
+}

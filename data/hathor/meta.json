@@ -1,0 +1,17 @@
+{
+  "name": "Hathor",
+  "symbol": "HTR",
+  "web": "https://hathor.network",
+  "explorer": "https://explorer.hathor.network",
+  "links": {
+    "github": "HathorNetwork",
+    "coingecko": "hathor",
+    "twitter": "HathorNetwork",
+    "telegram": "HathorOfficial",
+    "reddit": "r/HathorNetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false
+  }
+}

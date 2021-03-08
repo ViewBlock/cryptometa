@@ -1,0 +1,17 @@
+{
+  "name": "PegShares",
+  "symbol": "PEGS",
+  "web": "https://www.pegs.cash",
+  "explorer": "https://etherscan.io/token/0x88bd6efe33bc82860278c044efa33364c6285032",
+  "links": {
+    "github": "pegsfinance",
+    "coingecko": "pegshares",
+    "twitter": "pegscash",
+    "telegram": "pegscash"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Artis Turba",
+  "symbol": "ARTIS",
+  "web": "https://www.artisturba.com",
+  "explorer": "https://etherscan.io/token/0x082e13494f12ebb7206fbf67e22a6e1975a1a669",
+  "links": {
+    "github": "ArtisTurba",
+    "coingecko": "artis-turba",
+    "twitter": "ArtisTurba",
+    "facebook": "ArtisTurba",
+    "telegram": "artisturba",
+    "reddit": "r/ArtisTurba"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Mirrored Facebook",
+  "symbol": "MFB",
+  "web": "https://mirror.finance",
+  "explorer": "https://etherscan.io/token/0x0e99cC0535BB6251F6679Fa6E65d6d3b430e840B",
+  "links": {
+    "github": "mirror-protocol",
+    "coingecko": "mirrored-facebook",
+    "twitter": "mirror_protocol",
+    "telegram": "mirror_protocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "BitFarmings",
+  "symbol": "BFI",
+  "web": "https://bitfarmings.com",
+  "explorer": "https://etherscan.io/token/0xC980be019F2ac10A1C96F964b971A5F44551D318",
+  "links": {
+    "coingecko": "bitfarmings",
+    "twitter": "BFarmings",
+    "telegram": "bitfarmings"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

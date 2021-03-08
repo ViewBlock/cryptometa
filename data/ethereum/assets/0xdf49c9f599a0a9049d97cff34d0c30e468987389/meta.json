@@ -1,0 +1,18 @@
+{
+  "name": "SaTT",
+  "symbol": "SATT",
+  "web": "http://www.satt-token.com",
+  "explorer": "https://etherscan.io/token/0xdf49c9f599a0a9049d97cff34d0c30e468987389",
+  "links": {
+    "github": "Atayen",
+    "coingecko": "satt",
+    "twitter": "SaTT_Token",
+    "facebook": "SaTT.Token",
+    "telegram": "satttoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

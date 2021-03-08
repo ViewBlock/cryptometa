@@ -1,0 +1,11 @@
+{
+  "name": "Bitcoin Flash Cash",
+  "symbol": "BTFC",
+  "web": "https://www.bitcoinflashcash.cf",
+  "explorer": "https://wavesdesk.com/asset/AKemFVxKesFJeecAGqy1ujUK8YFa2hqewtucxAit7Z8c",
+  "links": {
+    "coingecko": "bitcoin-flash-cash",
+    "twitter": "BitcoinFCASH",
+    "telegram": "bitcoinflashcash"
+  }
+}

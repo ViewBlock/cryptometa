@@ -1,0 +1,19 @@
+{
+  "name": "Effect.AI",
+  "symbol": "EFX",
+  "web": "https://www.effect.ai",
+  "explorer": "https://bloks.io/tokens/EFX-eos-effecttokens",
+  "links": {
+    "github": "effectai",
+    "coingecko": "effect-ai",
+    "twitter": "effectaix",
+    "facebook": "effectai",
+    "telegram": "effectai",
+    "reddit": "r/effectai"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

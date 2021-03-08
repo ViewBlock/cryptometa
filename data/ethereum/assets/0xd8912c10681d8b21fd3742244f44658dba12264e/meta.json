@@ -1,0 +1,17 @@
+{
+  "name": "Pluton",
+  "symbol": "PLU",
+  "web": "https://plutus.it",
+  "explorer": "https://etherscan.io/token/0xD8912C10681D8B21Fd3742244f44658dBA12264E",
+  "links": {
+    "coingecko": "pluton",
+    "twitter": "plutus",
+    "facebook": "Plutusit",
+    "reddit": "r/plutus"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "score": 10
+  }
+}

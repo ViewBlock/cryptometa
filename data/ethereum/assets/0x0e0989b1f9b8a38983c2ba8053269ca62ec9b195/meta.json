@@ -1,0 +1,16 @@
+{
+  "name": "Po.et",
+  "symbol": "POE",
+  "web": "https://po.et",
+  "explorer": "https://etherscan.io/token/0x0e0989b1f9b8a38983c2ba8053269ca62ec9b195",
+  "links": {
+    "github": "poetapp",
+    "coingecko": "poet",
+    "reddit": "r/poetproject"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": false,
+    "score": 14
+  }
+}

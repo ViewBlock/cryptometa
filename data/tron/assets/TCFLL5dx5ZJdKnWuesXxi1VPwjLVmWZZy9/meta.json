@@ -1,0 +1,16 @@
+{
+  "name": "JUST",
+  "symbol": "JST",
+  "web": "https://www.just.network/#",
+  "explorer": "https://tronscan.org/#/token20/TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9",
+  "links": {
+    "coingecko": "just",
+    "twitter": "DeFi_JUST",
+    "telegram": "just_defi"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": false,
+    "score": 10
+  }
+}

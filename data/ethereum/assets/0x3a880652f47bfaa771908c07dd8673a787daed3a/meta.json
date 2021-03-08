@@ -1,0 +1,17 @@
+{
+  "name": "DerivaDAO",
+  "symbol": "DDX",
+  "web": "https://derivadex.com",
+  "explorer": "https://etherscan.io/token/0x3a880652f47bfaa771908c07dd8673a787daed3a",
+  "links": {
+    "coingecko": "derivadao",
+    "twitter": "DDX_Official",
+    "telegram": "DerivaDEX",
+    "reddit": "r/derivadex"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "score": 10
+  }
+}

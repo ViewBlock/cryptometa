@@ -1,0 +1,16 @@
+{
+  "name": "Wolfage Finance Governance Token",
+  "symbol": "WEFI",
+  "web": "https://wolfage.finance",
+  "explorer": "https://etherscan.io/token/0x31735f0292d42801dce3b0f83b0d9a09bff75b07",
+  "links": {
+    "coingecko": "wolfage-finance-governance-token",
+    "twitter": "WolfageFinance ",
+    "telegram": "WolfageFinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

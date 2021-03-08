@@ -1,0 +1,16 @@
+{
+  "name": "GEEQ",
+  "symbol": "GEEQ",
+  "web": "https://geeq.io",
+  "explorer": "https://etherscan.io/token/0x6b9f031d718dded0d681c20cb754f97b3bb81b78",
+  "links": {
+    "coingecko": "geeq",
+    "twitter": "GeeqOfficial",
+    "telegram": "GeeqOfficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

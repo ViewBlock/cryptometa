@@ -1,13 +1,15 @@
 {
-  "symbol": "LTC-F07",
   "name": "LTC BEP2",
-  "email": null,
+  "symbol": "LTC-F07",
   "web": null,
-  "decimals": 18,
-  "supply": 210000,
+  "explorer": "https://explorer.binance.org/asset/LTC-F07",
   "links": {
+    "coingecko": "litecoin-bep2",
     "research": "https://research.binance.com/en/projects/litecoin"
   },
+  "email": null,
+  "decimals": 18,
+  "supply": 210000,
   "gen": {
     "logo": "logo.png",
     "hasDark": false,

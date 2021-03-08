@@ -1,0 +1,16 @@
+{
+  "name": "UnityDAO",
+  "symbol": "UTY",
+  "web": "https://unitydao.biz",
+  "explorer": "https://etherscan.io/token/0xc6bf2a2a43ca360bb0ec6770f57f77cdde64bb3f",
+  "links": {
+    "coingecko": "unitydao",
+    "twitter": "UnityDAO",
+    "telegram": "OfficialUNTDAO"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

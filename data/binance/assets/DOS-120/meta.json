@@ -12,7 +12,7 @@
   },
   "gen": {
     "logo": "logo.png",
-    "hasDark": true,
+    "hasDark": false,
     "score": 10
   }
 }

@@ -1,0 +1,12 @@
+{
+  "name": "Crow Token",
+  "symbol": "CROW",
+  "web": "https://www.crowfinance.net",
+  "explorer": "https://bscscan.com/token/0xcc2e12a9b5b75360c6fbf23b584c275d52cddb0e",
+  "links": {
+    "github": "crowfinance",
+    "coingecko": "crow-token",
+    "twitter": "crowfinance",
+    "telegram": "CrowFinance"
+  }
+}

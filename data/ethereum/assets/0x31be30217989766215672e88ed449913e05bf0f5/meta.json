@@ -1,0 +1,16 @@
+{
+  "name": "Groovy Finance",
+  "symbol": "GVY",
+  "web": "https://groovy.finance",
+  "explorer": "https://etherscan.io/token/0x31be30217989766215672e88ed449913e05bf0f5",
+  "links": {
+    "coingecko": "groovy-finance",
+    "twitter": "financegroovy",
+    "telegram": "groovyfinancechat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

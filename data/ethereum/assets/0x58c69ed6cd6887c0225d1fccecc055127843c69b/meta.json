@@ -1,0 +1,16 @@
+{
+  "name": "HalalChain",
+  "symbol": "HLC",
+  "web": "http://www.hlc.com",
+  "explorer": "https://etherscan.io/token/0x58c69ed6cd6887c0225d1fccecc055127843c69b",
+  "links": {
+    "coingecko": "halalchain",
+    "twitter": "halalchain",
+    "reddit": "r/halalchain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

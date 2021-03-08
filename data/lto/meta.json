@@ -1,0 +1,17 @@
+{
+  "name": "LTO Network",
+  "symbol": "LTO",
+  "web": "https://www.ltonetwork.com",
+  "explorer": "https://etherscan.io/token/0x3db6ba6ab6f95efed1a6e794cad492faaabf294d",
+  "links": {
+    "github": "ltonetwork",
+    "coingecko": "lto-network",
+    "twitter": "TheLTONetwork",
+    "telegram": "LTOnetwork",
+    "reddit": "r/LTONetwork"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": false
+  }
+}

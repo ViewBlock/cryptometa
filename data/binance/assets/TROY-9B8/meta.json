@@ -1,20 +1,25 @@
 {
-  "symbol": "TROY-9B8",
   "name": "TROY",
-  "email": "business@troytrade.com",
+  "symbol": "TROY-9B8",
   "web": "https://troytrade.com/",
-  "decimals": null,
-  "supply": 10000000000,
+  "explorer": "https://explorer.binance.org/asset/TROY-9B8",
   "links": {
+    "coingecko": "troy",
+    "twitter": "https://twitter.com/troytrade",
     "telegram": "https://t.me/troytrade_official",
     "medium": "https://medium.com/troy-trade",
     "youtube": "https://www.youtube.com/channel/UCKwLClDMSYXqkV9517OQdaA",
-    "twitter": "https://twitter.com/troytrade",
     "research": "https://research.binance.com/en/projects/troy"
+  },
+  "email": "business@troytrade.com",
+  "decimals": null,
+  "supply": 10000000000,
+  "config": {
+    "dark": false
   },
   "gen": {
     "logo": "logo.png",
-    "hasDark": true,
+    "hasDark": false,
     "score": 19
   }
 }

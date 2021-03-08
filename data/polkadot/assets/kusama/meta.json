@@ -1,0 +1,16 @@
+{
+  "name": "Kusama",
+  "symbol": "KSM",
+  "web": "https://kusama.network",
+  "explorer": "https://polkascan.io/pre/kusama-cc3",
+  "links": {
+    "github": "kusamanetwork",
+    "coingecko": "kusama",
+    "twitter": "kusamanetwork"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": false,
+    "score": 19
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Supra Token",
+  "symbol": "SUPRA",
+  "web": "https://www.supra.finance",
+  "explorer": "https://bscscan.com/token/0x4ae2f11df681eec979bd93085dd1a05e9593c8c6",
+  "links": {
+    "coingecko": "supra-token",
+    "twitter": "finance_supra",
+    "telegram": "suprafinance"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Oikos",
+  "symbol": "OKS",
+  "web": "https://oikos.cash",
+  "explorer": "https://tronscan.org/#/token20/TWVVcRqRmpyAi9dASvTXrqnS7FrwvDezMn",
+  "links": {
+    "github": "oikos-cash",
+    "coingecko": "oikos",
+    "twitter": "oikos-cash",
+    "facebook": "oikos.cash",
+    "telegram": "oikoscash",
+    "reddit": "r/OikosCash"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

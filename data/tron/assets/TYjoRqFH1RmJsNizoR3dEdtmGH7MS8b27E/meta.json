@@ -1,0 +1,16 @@
+{
+  "name": "CashPay",
+  "symbol": "CPZ",
+  "web": "https://coin.cashpaygroup.com",
+  "explorer": "https://tronscan.org/#/token20/TYjoRqFH1RmJsNizoR3dEdtmGH7MS8b27E",
+  "links": {
+    "coingecko": "cashpay",
+    "twitter": "CashPayCPZ",
+    "telegram": "Cashpayofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

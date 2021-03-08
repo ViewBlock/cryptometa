@@ -1,0 +1,17 @@
+{
+  "name": "Frax",
+  "symbol": "FRAX",
+  "web": "https://frax.finance",
+  "explorer": "https://etherscan.io/token/0x853d955acef822db058eb8505911ed77f175b99e",
+  "links": {
+    "github": "fraxfinance",
+    "coingecko": "frax",
+    "twitter": "fraxfinance",
+    "telegram": "fraxfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

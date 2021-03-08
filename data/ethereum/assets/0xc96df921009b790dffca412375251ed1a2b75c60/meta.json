@@ -1,0 +1,18 @@
+{
+  "name": "Ormeus Coin",
+  "symbol": "ORME",
+  "web": "https://ormeuscoin.com",
+  "explorer": "https://etherscan.io/token/0xc96df921009b790dffca412375251ed1a2b75c60",
+  "links": {
+    "coingecko": "ormeuscoin",
+    "twitter": "ormeusecosystem",
+    "facebook": "ormeusecosystem",
+    "telegram": "OrmeusEcoSystemDAO",
+    "reddit": "r/OrmeusEcosystem"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Realio Network",
+  "symbol": "RIO",
+  "web": "https://realio.fund",
+  "explorer": "https://stellar.expert/explorer/public/asset/RIO-GBNLJIYH34UWO5YZFA3A3HD3N76R6DOI33N4JONUOHEEYZYCAYTEJ5AK",
+  "links": {
+    "coingecko": "realio-network",
+    "twitter": "realio_network",
+    "telegram": "realio_fund"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

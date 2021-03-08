@@ -1,0 +1,18 @@
+{
+  "name": "Chimpion",
+  "symbol": "BNANA",
+  "web": "https://www.chimpion.io",
+  "explorer": "https://etherscan.io/token/0x07ef9e82721ac16809d24dafbe1792ce01654db4",
+  "links": {
+    "coingecko": "banana-token",
+    "twitter": "chimpionio",
+    "facebook": "Chimpionio",
+    "telegram": "chimpionio",
+    "reddit": "r/Chimpion"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "score": 10
+  }
+}

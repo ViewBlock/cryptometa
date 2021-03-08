@@ -1,0 +1,11 @@
+{
+  "name": "Trinity (BSC)",
+  "symbol": "BTRI",
+  "web": "https://www.trinityprotocol.io",
+  "explorer": "https://bscscan.com/token/0x30c18c9cb3de61f2bd1974749a6f5725150208f3",
+  "links": {
+    "coingecko": "trinity-bsc",
+    "twitter": "triprotocol",
+    "telegram": "TrinityprotocolBSC"
+  }
+}

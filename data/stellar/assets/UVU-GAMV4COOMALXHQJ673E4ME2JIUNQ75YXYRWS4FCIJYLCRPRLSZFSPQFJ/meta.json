@@ -1,0 +1,18 @@
+{
+  "name": "CCUniverse",
+  "symbol": "UVU",
+  "web": "https://ccuniverse.org",
+  "explorer": "https://stellar.expert/explorer/public/asset/UVU-GAMV4COOMALXHQJ673E4ME2JIUNQ75YXYRWS4FCIJYLCRPRLSZFSPQFJ",
+  "links": {
+    "coingecko": "ccuniverse",
+    "twitter": "ccuniversefound",
+    "facebook": "CCUniverseUVU",
+    "telegram": "uvuccuniverse",
+    "reddit": "r/CCUniverseUvu"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

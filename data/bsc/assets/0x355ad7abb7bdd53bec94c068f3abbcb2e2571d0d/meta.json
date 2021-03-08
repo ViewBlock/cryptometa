@@ -1,0 +1,11 @@
+{
+  "name": "Ape Tools",
+  "symbol": "NANA",
+  "web": "https://apetools.gg",
+  "explorer": "https://bscscan.com/token/0x355ad7abb7bdd53bec94c068f3abbcb2e2571d0d",
+  "links": {
+    "coingecko": "ape-tools",
+    "twitter": "apetoolsgg",
+    "telegram": "apetoolsgg"
+  }
+}

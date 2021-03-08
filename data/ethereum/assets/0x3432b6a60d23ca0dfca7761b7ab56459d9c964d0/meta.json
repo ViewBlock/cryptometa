@@ -1,0 +1,17 @@
+{
+  "name": "Frax Share",
+  "symbol": "FXS",
+  "web": "https://frax.finance",
+  "explorer": "https://etherscan.io/token/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
+  "links": {
+    "github": "fraxfinance",
+    "coingecko": "frax-share",
+    "twitter": "fraxfinance",
+    "telegram": "fraxfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

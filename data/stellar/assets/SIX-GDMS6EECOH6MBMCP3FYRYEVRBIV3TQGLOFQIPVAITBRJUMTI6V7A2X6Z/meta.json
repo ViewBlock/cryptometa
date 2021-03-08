@@ -1,0 +1,19 @@
+{
+  "name": "SIX Network",
+  "symbol": "SIX",
+  "web": "https://six.network",
+  "explorer": "https://stellar.expert/explorer/public/asset/SIX-GDMS6EECOH6MBMCP3FYRYEVRBIV3TQGLOFQIPVAITBRJUMTI6V7A2X6Z",
+  "links": {
+    "github": "thesixnetwork",
+    "coingecko": "six-network",
+    "twitter": "theSIXnetwork",
+    "facebook": "thesixnetwork",
+    "telegram": "SIXnetwork",
+    "reddit": "r/sixnetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

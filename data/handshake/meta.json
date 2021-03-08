@@ -1,0 +1,17 @@
+{
+  "name": "Handshake",
+  "symbol": "HNS",
+  "web": "https://handshake.org",
+  "explorer": "https://hnscan.com",
+  "links": {
+    "github": "handshake-org",
+    "coingecko": "handshake",
+    "twitter": "hns",
+    "telegram": "handshaketalk",
+    "reddit": "r/handshake"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Aeryus",
+  "symbol": "AER",
+  "web": "https://aeryus.com",
+  "explorer": "https://etherscan.io/token/0xac4d22e40bf0b8ef4750a99ed4e935b99a42685e",
+  "links": {
+    "github": "AeryusIO",
+    "coingecko": "aeryus",
+    "twitter": "Aeryus_one",
+    "facebook": "AeryusOne",
+    "telegram": "Aeryus1"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

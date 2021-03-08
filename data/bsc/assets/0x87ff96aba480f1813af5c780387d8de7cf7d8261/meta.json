@@ -1,0 +1,11 @@
+{
+  "name": "Falopa",
+  "symbol": "FLP",
+  "web": "https://www.supra.finance",
+  "explorer": "https://bscscan.com/token/0x87ff96aba480f1813af5c780387d8de7cf7d8261",
+  "links": {
+    "coingecko": "falopa",
+    "twitter": "finance_supra",
+    "telegram": "suprafinance"
+  }
+}

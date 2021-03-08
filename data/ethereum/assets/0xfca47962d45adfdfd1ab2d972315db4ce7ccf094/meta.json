@@ -1,0 +1,17 @@
+{
+  "name": "iXledger",
+  "symbol": "IXT",
+  "web": "https://www.ixledger.com",
+  "explorer": "https://etherscan.io/token/0xfca47962d45adfdfd1ab2d972315db4ce7ccf094",
+  "links": {
+    "coingecko": "insurex",
+    "twitter": "insurextech",
+    "telegram": "insurex",
+    "reddit": "r/insureX"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

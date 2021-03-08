@@ -1,0 +1,17 @@
+{
+  "name": "BeFasterHolderToken",
+  "symbol": "BFHT",
+  "web": "https://www.befaster.fit",
+  "explorer": "https://tronscan.org/#/token/1003360",
+  "links": {
+    "coingecko": "befasterholdertoken",
+    "twitter": "Befasterfit",
+    "facebook": "befaster.fit",
+    "telegram": "BeFasterEnglishOfficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

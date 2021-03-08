@@ -1,0 +1,17 @@
+{
+  "name": "TitanSwap",
+  "symbol": "TITAN",
+  "web": "https://titanswap.org",
+  "explorer": "https://etherscan.io/token/0x3A8cCCB969a61532d1E6005e2CE12C200caeCe87",
+  "links": {
+    "github": "titanSwap",
+    "coingecko": "titanswap",
+    "twitter": "TitanSwaporg",
+    "telegram": "TitanSwap"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

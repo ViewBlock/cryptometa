@@ -1,0 +1,17 @@
+{
+  "name": "Mirrored Invesco QQQ Trust",
+  "symbol": "MQQQ",
+  "web": "https://mirror.finance",
+  "explorer": "https://etherscan.io/token/0x13B02c8dE71680e71F0820c996E4bE43c2F57d15",
+  "links": {
+    "github": "mirror-protocol",
+    "coingecko": "mirrored-invesco-qqq-trust",
+    "twitter": "mirror_protocol",
+    "telegram": "mirror_protocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

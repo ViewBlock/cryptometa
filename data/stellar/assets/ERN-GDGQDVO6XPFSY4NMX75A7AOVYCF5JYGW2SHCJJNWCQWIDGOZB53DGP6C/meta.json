@@ -1,0 +1,19 @@
+{
+  "name": "Ternio",
+  "symbol": "TERN",
+  "web": "https://www.ternio.io",
+  "explorer": "https://stellar.expert/explorer/public/asset/TERN-GDGQDVO6XPFSY4NMX75A7AOVYCF5JYGW2SHCJJNWCQWIDGOZB53DGP6C",
+  "links": {
+    "github": "Ternio",
+    "coingecko": "ternio",
+    "twitter": "terniotoken",
+    "facebook": "terniotoken",
+    "telegram": "ternio_token",
+    "reddit": "r/TernioToken"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": false,
+    "score": 19
+  }
+}

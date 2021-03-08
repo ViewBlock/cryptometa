@@ -1,0 +1,16 @@
+{
+  "name": "Cover Protocol",
+  "symbol": "COVER",
+  "web": "https://www.coverprotocol.com",
+  "explorer": "https://etherscan.io/token/0x4688a8b1f292fdab17e9a90c8bc379dc1dbd8713",
+  "links": {
+    "github": "CoverProtocol",
+    "coingecko": "cover-protocol",
+    "twitter": "COVERProtocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Boom Token",
+  "symbol": "BOOM",
+  "web": "https://www.boomtoken.io",
+  "explorer": "https://etherscan.io/token/0xdb7eab9ba6be88b869f738f6deeba96d49fe13fd",
+  "links": {
+    "coingecko": "boom-token",
+    "twitter": "boomtoken",
+    "telegram": "boomtoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

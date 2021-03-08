@@ -1,0 +1,11 @@
+{
+  "name": "StableXSwap",
+  "symbol": "STAX",
+  "web": "https://stablexswap.com",
+  "links": {
+    "github": "stablexlabs",
+    "coingecko": "stablexswap",
+    "twitter": "stablexswap",
+    "telegram": "stablexfinance"
+  }
+}

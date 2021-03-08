@@ -1,0 +1,12 @@
+{
+  "name": "Goose Finance",
+  "symbol": "EGG",
+  "web": "https://www.goosedefi.com",
+  "explorer": "https://bscscan.com/token/0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6",
+  "links": {
+    "github": "goosedefi",
+    "coingecko": "goose-finance",
+    "twitter": "FinanceGoose",
+    "telegram": "goosedefi"
+  }
+}

@@ -13,6 +13,7 @@
   "devDependencies": {
     "ava": "^3.15.0",
     "axios": "^0.21.0",
+    "axios-retry": "^3.1.9",
     "image-pixels": "^2.2.2",
     "lodash": "^4.17.21",
     "nearest-color": "^0.4.4",

@@ -1,0 +1,17 @@
+{
+  "name": "Jupiter",
+  "symbol": "JUP",
+  "web": "https://gojupiter.tech",
+  "explorer": "https://etherscan.io/token/0x4B1E80cAC91e2216EEb63e29B957eB91Ae9C2Be8",
+  "links": {
+    "github": "SigwoTechnologies",
+    "coingecko": "jupiter",
+    "twitter": "JUP_project",
+    "telegram": "jupiterproject"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

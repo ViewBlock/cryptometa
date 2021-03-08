@@ -1,0 +1,17 @@
+{
+  "name": "BountyMarketCap",
+  "symbol": "BMC",
+  "web": "https://bountymarketcap.com",
+  "explorer": "https://etherscan.io/token/0xd945d2031b4c63c0e363304fb771f709b502dc0a",
+  "links": {
+    "coingecko": "bountymarketcap",
+    "twitter": "BountyMarketCap",
+    "facebook": "BountyMarketCap",
+    "telegram": "bountymarketnews"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "score": 10
+  }
+}

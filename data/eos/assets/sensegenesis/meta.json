@@ -1,0 +1,19 @@
+{
+  "name": "Sense",
+  "symbol": "SENSE",
+  "web": "https://sensetoken.com",
+  "explorer": "https://bloks.io/tokens/SENSE-eos-sensegenesis",
+  "links": {
+    "github": "sensay",
+    "coingecko": "sense",
+    "twitter": "SenseToken",
+    "facebook": "SenseChatApp",
+    "telegram": "sensetoken",
+    "reddit": "r/sensetoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

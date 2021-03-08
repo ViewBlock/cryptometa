@@ -1,0 +1,17 @@
+{
+  "name": "Emanate",
+  "symbol": "EMT",
+  "web": "https://emanate.live",
+  "links": {
+    "coingecko": "emanate",
+    "twitter": "emanateofficial",
+    "facebook": "emanateofficial",
+    "telegram": "emanateofficial",
+    "reddit": "r/emanateofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

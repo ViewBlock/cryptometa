@@ -1,0 +1,15 @@
+{
+  "name": "r/CryptoCurrency Moons",
+  "symbol": "MOON",
+  "web": "https://www.reddit.com/r/CryptoCurrency",
+  "explorer": "https://info.honeyswap.org/token/0x1e16aa4df73d29c029d94ceda3e3114ec191e25a",
+  "links": {
+    "coingecko": "moon",
+    "reddit": "r/CryptoCurrency"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": false,
+    "score": 5
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "BSCswap",
+  "symbol": "BSWAP",
+  "web": "https://bscswap.com",
+  "explorer": "https://bscscan.com/token/0xf388ee045cab30321db3fb69eab7dfb0c20f10ec",
+  "links": {
+    "github": "bscswap",
+    "coingecko": "bscswap",
+    "twitter": "bSWAPDAO",
+    "telegram": "bscswapgroup"
+  }
+}

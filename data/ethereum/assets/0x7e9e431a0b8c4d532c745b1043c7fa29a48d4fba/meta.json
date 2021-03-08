@@ -1,0 +1,17 @@
+{
+  "name": "eosDAC",
+  "symbol": "EOSDAC",
+  "web": "https://eosdac.io",
+  "explorer": "https://etherscan.io/token/0x7e9e431a0b8c4d532c745b1043c7fa29a48d4fba",
+  "links": {
+    "github": "eosdac",
+    "coingecko": "eosdac",
+    "twitter": "eosdac",
+    "reddit": "r/EOSDAC"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

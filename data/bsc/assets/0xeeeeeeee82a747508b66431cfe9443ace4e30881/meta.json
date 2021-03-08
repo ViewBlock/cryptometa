@@ -1,0 +1,11 @@
+{
+  "name": "Shrimp Capital",
+  "symbol": "SHRMP",
+  "web": "https://www.shrimp.capital",
+  "explorer": "https://bscscan.com/token/0xeeEEeEEe82a747508b66431cFe9443aCE4e30881",
+  "links": {
+    "coingecko": "shrimp-capital",
+    "twitter": "Shrimp_Capital",
+    "telegram": "ShrimpCapital"
+  }
+}

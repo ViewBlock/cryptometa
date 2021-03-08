@@ -1,0 +1,11 @@
+{
+  "name": "Venus LINK",
+  "symbol": "VLINK",
+  "web": "https://venus.io",
+  "explorer": "https://bscscan.com/token/0x650b940a1033b8a1b1873f78730fcfc73ec11f1f",
+  "links": {
+    "coingecko": "venus-link",
+    "twitter": "VenusProtocol",
+    "telegram": "VenusProtocol"
+  }
+}

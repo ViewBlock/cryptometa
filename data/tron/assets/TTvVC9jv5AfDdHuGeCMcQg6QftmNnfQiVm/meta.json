@@ -1,0 +1,18 @@
+{
+  "name": "Helgro",
+  "symbol": "HGRO",
+  "web": "https://helgro.org",
+  "explorer": "https://tronscan.org/#/token20/TTvVC9jv5AfDdHuGeCMcQg6QftmNnfQiVm",
+  "links": {
+    "github": "HelPro-Token-Team",
+    "coingecko": "helgro",
+    "twitter": "HelgroT",
+    "facebook": "helgro.token",
+    "telegram": "helgroofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

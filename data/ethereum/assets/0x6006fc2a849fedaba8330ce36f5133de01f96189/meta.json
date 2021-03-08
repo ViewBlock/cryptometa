@@ -1,0 +1,17 @@
+{
+  "name": "SHAKE",
+  "symbol": "SHAKE",
+  "web": "https://spaceswap.app",
+  "explorer": "https://etherscan.io/token/0x6006FC2a849fEdABa8330ce36F5133DE01F96189",
+  "links": {
+    "github": "spaceswap",
+    "coingecko": "shake",
+    "twitter": "spaceswapdefi",
+    "telegram": "spaceswap"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

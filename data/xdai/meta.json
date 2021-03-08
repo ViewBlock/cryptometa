@@ -1,0 +1,16 @@
+{
+  "name": "xDAI",
+  "symbol": "XDAI",
+  "web": "https://www.xdaichain.com",
+  "explorer": "https://blockscout.com/xdai/mainnet",
+  "links": {
+    "github": "xdaichain",
+    "coingecko": "xdai-stake",
+    "twitter": "xdaichain",
+    "telegram": "xdaistable"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": false
+  }
+}

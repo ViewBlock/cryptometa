@@ -1,0 +1,16 @@
+{
+  "name": "Indexed Finance",
+  "symbol": "NDX",
+  "web": "https://indexed.finance",
+  "explorer": "https://etherscan.io/token/0x86772b1409b61c639eaac9ba0acfbb6e238e5f83",
+  "links": {
+    "github": "indexed-finance",
+    "coingecko": "indexed-finance",
+    "twitter": "ndxfi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

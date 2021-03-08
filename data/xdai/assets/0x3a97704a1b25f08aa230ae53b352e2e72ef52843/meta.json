@@ -1,0 +1,17 @@
+{
+  "name": "Agave Token",
+  "symbol": "AGVE",
+  "web": "https://1hive.org/#/home",
+  "explorer": "https://blockscout.com/poa/xdai/tokens/0x3a97704a1b25F08aa230ae53B352e2e72ef52843/token-transfers",
+  "links": {
+    "github": "1Hive",
+    "coingecko": "agave-token",
+    "twitter": "Agave_lending",
+    "reddit": "r/AGVE"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

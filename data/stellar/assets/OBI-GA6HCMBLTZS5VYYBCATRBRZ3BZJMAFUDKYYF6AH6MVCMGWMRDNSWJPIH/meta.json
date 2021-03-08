@@ -1,0 +1,19 @@
+{
+  "name": "Mobius",
+  "symbol": "MOBI",
+  "web": "https://mobius.network",
+  "explorer": "https://stellar.expert/explorer/asset/MOBI-GA6HCMBLTZS5VYYBCATRBRZ3BZJMAFUDKYYF6AH6MVCMGWMRDNSWJPIH",
+  "links": {
+    "github": "mobius-network",
+    "coingecko": "mobius",
+    "twitter": "mobius_network",
+    "facebook": "mobiusnet",
+    "telegram": "mobius_network",
+    "reddit": "r/MobiusNetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

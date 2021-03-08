@@ -1,0 +1,18 @@
+{
+  "name": "FLETA",
+  "symbol": "FLETA",
+  "web": "https://fleta.io",
+  "explorer": "https://etherscan.io/token/0x7788d759f21f53533051a9ae657fa05a1e068fc6",
+  "links": {
+    "github": "fletaio",
+    "coingecko": "fleta",
+    "twitter": "fletachain",
+    "telegram": "FLETAofficialGroup",
+    "reddit": "r/fletachain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

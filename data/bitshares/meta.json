@@ -1,0 +1,17 @@
+{
+  "name": "BitShares",
+  "symbol": "BTS",
+  "web": "http://bitshares.org",
+  "explorer": "http://cryptofresh.com",
+  "links": {
+    "github": "bitshares",
+    "coingecko": "bitshares",
+    "twitter": "bitsharesorg",
+    "facebook": "officialbitshares",
+    "reddit": "r/BitShares"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": false
+  }
+}

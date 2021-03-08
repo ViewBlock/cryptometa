@@ -1,0 +1,16 @@
+{
+  "name": "Ignis",
+  "symbol": "IGNIS",
+  "web": "https://www.jelurida.com/ignis",
+  "explorer": "https://ardor.tools",
+  "links": {
+    "coingecko": "ignis",
+    "twitter": "Jelurida",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": false,
+    "score": 10
+  }
+}

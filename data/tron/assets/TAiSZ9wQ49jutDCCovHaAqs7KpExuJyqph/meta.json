@@ -1,0 +1,16 @@
+{
+  "name": "SHD Cash",
+  "symbol": "SHDC",
+  "web": "https://shdcash.com",
+  "explorer": "https://tronscan.org/#/token20/TAiSZ9wQ49jutDCCovHaAqs7KpExuJyqph",
+  "links": {
+    "coingecko": "shd-cash",
+    "twitter": "shdcash",
+    "telegram": "shdcashofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

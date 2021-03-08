@@ -1,0 +1,17 @@
+{
+  "name": "ALIS",
+  "symbol": "ALIS",
+  "web": "https://alismedia.jp",
+  "explorer": "https://etherscan.io/token/0xEA610B1153477720748DC13ED378003941d84fAB",
+  "links": {
+    "github": "AlisProject",
+    "coingecko": "alis",
+    "twitter": "ALIS_media",
+    "facebook": "ALIS-Co-Ltd-249493195551126"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Bytecoin",
+  "symbol": "BCN",
+  "web": "https://bytecoin.org",
+  "explorer": "https://minergate.com/blockchain/bcn/blocks",
+  "links": {
+    "github": "bcndev",
+    "coingecko": "bytecoin",
+    "twitter": "Bytecoin_BCN",
+    "reddit": "r/BytecoinBCN"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": false
+  }
+}

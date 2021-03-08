@@ -1,0 +1,17 @@
+{
+  "name": "Xion Global Token",
+  "symbol": "XGT",
+  "web": "https://xion.finance",
+  "explorer": "https://blockscout.com/poa/xdai/tokens/0xf1738912ae7439475712520797583ac784ea9033/token-transfers",
+  "links": {
+    "github": "xion-global",
+    "coingecko": "xion-global-token",
+    "twitter": "xion_global",
+    "telegram": "xionglobal"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

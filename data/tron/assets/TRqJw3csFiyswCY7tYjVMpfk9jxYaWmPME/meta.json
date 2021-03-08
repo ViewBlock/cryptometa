@@ -1,0 +1,16 @@
+{
+  "name": "MoonRabbit",
+  "symbol": "MRK",
+  "web": "https://moonrabbit.finance",
+  "explorer": "https://tronscan.io/#/token20/TRqJw3csFiyswCY7tYjVMpfk9jxYaWmPME",
+  "links": {
+    "coingecko": "moonrabbit",
+    "twitter": "MoonRabbitFin",
+    "telegram": "moonrabbit2020"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

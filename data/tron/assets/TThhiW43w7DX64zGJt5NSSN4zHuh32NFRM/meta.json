@@ -1,0 +1,16 @@
+{
+  "name": "Animal Friends United",
+  "symbol": "AFU",
+  "web": "https://afuproject.com",
+  "explorer": "https://tronscan.org/#/token/1003356",
+  "links": {
+    "coingecko": "animal-friends-united",
+    "twitter": "AFU_Project",
+    "telegram": "AFUProject"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

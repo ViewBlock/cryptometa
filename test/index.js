@@ -63,10 +63,10 @@ test('Selection', async t => {
 })
 
 test('Linked assets', async t => {
-  const eth = await getMeta('BNB.ETH-1C9')
-  t.is(eth.name, 'Ethereum')
-  t.is(eth.symbol, 'ETH')
-  t.is(eth.explorer, 'https://etherscan.io')
+  // const eth = await getMeta('BNB.ETH-1C9')
+  // t.is(eth.name, 'Ethereum')
+  // t.is(eth.symbol, 'ETH')
+  // t.is(eth.explorer, 'https://etherscan.io')
 
   const bsc = await getMeta('BSC')
   t.is(bsc.name, 'Binance Chain')

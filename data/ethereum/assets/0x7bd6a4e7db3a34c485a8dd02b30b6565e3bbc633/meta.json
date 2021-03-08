@@ -1,0 +1,18 @@
+{
+  "name": "KOK Coin",
+  "symbol": "KOK",
+  "web": "https://kok-play.io",
+  "explorer": "https://etherscan.io/token/0x7bd6a4e7db3a34c485a8dd02b30b6565e3bbc633",
+  "links": {
+    "github": "KOK-Foundation",
+    "coingecko": "kok-coin",
+    "twitter": "KOKPLAYofficial",
+    "facebook": " https://www.facebook.com/kokplayofficial",
+    "telegram": "kokworld"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

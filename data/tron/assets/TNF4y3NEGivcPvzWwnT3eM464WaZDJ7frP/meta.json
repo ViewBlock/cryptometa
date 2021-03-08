@@ -1,0 +1,16 @@
+{
+  "name": "Kilopi",
+  "symbol": "LOP",
+  "web": "https://kilopi.net",
+  "explorer": "https://tronscan.org/#/token/1002482",
+  "links": {
+    "coingecko": "kilopi",
+    "twitter": "kilopicoin",
+    "telegram": "kilopienglish"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

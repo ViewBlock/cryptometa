@@ -1,0 +1,19 @@
+{
+  "name": "Pylon Network",
+  "symbol": "PYLNT",
+  "web": "https://pylon-network.org",
+  "explorer": "https://etherscan.io/token/0x7703C35CfFdC5CDa8D27aa3df2F9ba6964544b6e",
+  "links": {
+    "github": "klenergy",
+    "coingecko": "pylon-network",
+    "twitter": "KlenergyTech",
+    "facebook": "KlenergyTechOfficial",
+    "telegram": "pylonnetworkofficialtelegram",
+    "reddit": "r/PylonNetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Komodo",
+  "symbol": "KMD",
+  "web": "https://komodoplatform.com",
+  "explorer": "https://kmd.explorer.dexstats.info",
+  "links": {
+    "github": "KomodoPlatform",
+    "coingecko": "komodo",
+    "twitter": "KomodoPlatform",
+    "facebook": "KomodoPlatform",
+    "reddit": "r/komodoplatform"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": false
+  }
+}

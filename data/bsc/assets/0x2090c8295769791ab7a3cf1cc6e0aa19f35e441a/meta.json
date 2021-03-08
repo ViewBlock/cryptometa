@@ -1,0 +1,11 @@
+{
+  "name": "Jetfuel Finance",
+  "symbol": "FUEL",
+  "web": "https://jetfuel.finance",
+  "links": {
+    "github": "jetfuelfinance",
+    "coingecko": "fuel-token",
+    "twitter": "Jetfuelfinance",
+    "telegram": "jetfuelfinance"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Proof Of Liquidity",
+  "symbol": "POL",
+  "web": "https://pool-x.io/staking",
+  "explorer": "https://tronscan.org/#/token20/TWcDDx1Q6QEoBrJi9qehtZnD4vcXXuVLer",
+  "links": {
+    "coingecko": "proof-of-liquidity",
+    "twitter": "pool_x_official",
+    "telegram": "PoolXOfficial",
+    "reddit": "r/poolx"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "DefiSocial",
+  "symbol": "DFSOCIAL",
+  "web": "https://dfsocial.com",
+  "explorer": "https://etherscan.io/token/0x54ee01beB60E745329E6a8711Ad2D6cb213e38d7",
+  "links": {
+    "coingecko": "defisocial",
+    "twitter": "DFSocial_Gaming",
+    "telegram": "defisocial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

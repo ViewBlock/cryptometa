@@ -1,0 +1,19 @@
+{
+  "name": "Newscrypto Coin",
+  "symbol": "NWC",
+  "web": "https://newscrypto.io",
+  "explorer": "https://stellar.expert/explorer/public/asset/NWC-GDZJD363YP7P3TNYDK3ZD6GLXFMAI3GLVIH7CGFLNZWIZBQUCVE6PTU7",
+  "links": {
+    "github": "itsBunneh",
+    "coingecko": "newscrypto-coin",
+    "twitter": "@NwcPublic",
+    "facebook": "Newscrypto.io",
+    "telegram": "NWC_Public",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
+  }
+}

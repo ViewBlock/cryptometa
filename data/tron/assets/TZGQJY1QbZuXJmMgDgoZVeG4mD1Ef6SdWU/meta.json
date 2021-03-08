@@ -1,0 +1,16 @@
+{
+  "name": "UP Token",
+  "symbol": "UP",
+  "web": "https://tronup.io",
+  "explorer": "https://tronscan.org/#/token20/TZGQJY1QbZuXJmMgDgoZVeG4mD1Ef6SdWU",
+  "links": {
+    "coingecko": "up-token",
+    "twitter": "TRONUP1",
+    "telegram": "tronupofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "MyToken",
+  "symbol": "MT",
+  "web": "https://mytoken.io/en",
+  "explorer": "https://etherscan.io/token/0x9b4e2b4b13d125238aa0480dd42b4f6fc71b37cc",
+  "links": {
+    "coingecko": "mytoken",
+    "twitter": "mytokenio",
+    "facebook": "MyTokenio-175148076435932",
+    "telegram": "mytoken_en"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

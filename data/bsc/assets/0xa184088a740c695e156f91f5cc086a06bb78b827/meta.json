@@ -1,0 +1,12 @@
+{
+  "name": "Auto",
+  "symbol": "AUTO",
+  "web": "https://autofarm.network",
+  "explorer": "https://bscscan.com/token/0xa184088a740c695e156f91f5cc086a06bb78b827",
+  "links": {
+    "github": "autofarm-network",
+    "coingecko": "auto",
+    "twitter": "autofarmnetwork",
+    "telegram": "autofarm_network"
+  }
+}

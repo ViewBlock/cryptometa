@@ -1,17 +1,22 @@
 {
-  "symbol": "WISH-2D5",
   "name": "MyWish",
-  "email": null,
+  "symbol": "WISH-2D5",
   "web": "https://mywish.io/",
+  "explorer": "https://explorer.binance.org/asset/WISH-2D5",
+  "links": {
+    "github": "mywishplatform",
+    "coingecko": "mywish",
+    "twitter": "https://twitter.com/mywishplatform",
+    "facebook": "MyWish.io",
+    "telegram": "https://t.me/MyWish_platform",
+    "reddit": "https://www.reddit.com"
+  },
+  "email": null,
   "decimals": null,
   "supply": 9546650.62357825,
-  "links": {
-    "twitter": "https://twitter.com/mywishplatform",
-    "telegram": "https://t.me/MyWish_platform"
-  },
   "gen": {
     "logo": "logo.png",
     "hasDark": false,
-    "score": 10
+    "score": 19
   }
 }

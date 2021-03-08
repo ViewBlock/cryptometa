@@ -1,0 +1,16 @@
+{
+  "name": "Pearl Finance",
+  "symbol": "PEARL",
+  "web": "https://pearl.finance",
+  "explorer": "https://tronscan.org/#/token20/TGbu32VEGpS4kDmjrmn5ZZJgUyHQiaweoq",
+  "links": {
+    "coingecko": "pearl-finance",
+    "twitter": "TronFi_io",
+    "telegram": "TronFi_io"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": false,
+    "score": 10
+  }
+}

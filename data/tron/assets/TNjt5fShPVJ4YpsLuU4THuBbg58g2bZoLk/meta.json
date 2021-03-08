@@ -1,0 +1,17 @@
+{
+  "name": "HORA Token",
+  "symbol": "HORA",
+  "web": "https://cryptoidleminer.com",
+  "explorer": "https://tronscan.org/#/token20/TNjt5fShPVJ4YpsLuU4THuBbg58g2bZoLk",
+  "links": {
+    "coingecko": "hora",
+    "twitter": "cryptoidleminer",
+    "facebook": "cryptoidleminergame",
+    "reddit": "r/CryptoIdleMiner"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

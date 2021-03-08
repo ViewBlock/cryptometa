@@ -1,0 +1,16 @@
+{
+  "name": "AmonD",
+  "symbol": "AMON",
+  "web": "http://www.amond.cc",
+  "explorer": "https://etherscan.io/token/0x00059ae69c1622a7542edc15e8d17b060fe307b6",
+  "links": {
+    "github": "amond-project",
+    "coingecko": "amond",
+    "telegram": "amondcommunity"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 14
+  }
+}

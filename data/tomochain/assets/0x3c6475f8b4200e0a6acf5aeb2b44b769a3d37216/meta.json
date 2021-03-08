@@ -1,0 +1,16 @@
+{
+  "name": "TriipMiles",
+  "symbol": "TIIM",
+  "web": "https://www.triip.me",
+  "explorer": "https://scan.tomochain.com/tokens/0x3c6475f8b4200e0a6acf5aeb2b44b769a3d37216",
+  "links": {
+    "github": "triipme",
+    "coingecko": "triipmiles",
+    "reddit": "r/triipmiles"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 14
+  }
+}

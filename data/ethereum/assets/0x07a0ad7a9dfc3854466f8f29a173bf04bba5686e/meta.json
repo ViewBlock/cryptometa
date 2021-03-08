@@ -1,0 +1,17 @@
+{
+  "name": "Solomon Defi",
+  "symbol": "SLM",
+  "web": "https://solomondefi.com",
+  "explorer": "https://etherscan.io/token/0x07a0ad7a9dfc3854466f8f29a173bf04bba5686e",
+  "links": {
+    "github": "solomondefi",
+    "coingecko": "solomon-defi",
+    "twitter": "solomondefi",
+    "telegram": "solomondefiproject"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

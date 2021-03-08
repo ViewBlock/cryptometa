@@ -1,0 +1,16 @@
+{
+  "name": "Jur",
+  "symbol": "JUR",
+  "web": "https://jur.io",
+  "links": {
+    "github": "jurteam",
+    "coingecko": "jur",
+    "twitter": "JurProject",
+    "facebook": "JurNetwork",
+    "telegram": "jurcommunity"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false
+  }
+}

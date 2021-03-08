@@ -1,0 +1,11 @@
+{
+  "name": "Tsuki DAO",
+  "symbol": "TSUKI",
+  "web": "http://tsuki.finance",
+  "explorer": "https://bscscan.com/token/0x3fd9e7041c45622e8026199a46f763c9807f66f3",
+  "links": {
+    "coingecko": "tsuki-dao",
+    "twitter": "DaoTsuki",
+    "telegram": "TSUKIDAO"
+  }
+}

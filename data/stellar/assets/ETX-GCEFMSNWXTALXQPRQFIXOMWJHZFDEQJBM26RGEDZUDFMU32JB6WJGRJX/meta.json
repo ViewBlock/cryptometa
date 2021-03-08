@@ -1,0 +1,16 @@
+{
+  "name": "EthereumX",
+  "symbol": "ETX",
+  "web": "https://etxco.com",
+  "explorer": "https://stellar.expert/explorer/public/asset/ETX-GCEFMSNWXTALXQPRQFIXOMWJHZFDEQJBM26RGEDZUDFMU32JB6WJGRJX",
+  "links": {
+    "coingecko": "ethereumx",
+    "twitter": "ETXCOINOFFICIAL",
+    "telegram": "etxcoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

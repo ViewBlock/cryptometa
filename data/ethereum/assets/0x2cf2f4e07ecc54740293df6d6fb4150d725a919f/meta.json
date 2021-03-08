@@ -1,0 +1,16 @@
+{
+  "name": "Winsor Token",
+  "symbol": "WST",
+  "web": "https://www.winsor.network",
+  "explorer": "https://etherscan.io/token/0x2cf2f4e07ecc54740293df6d6fb4150d725a919f",
+  "links": {
+    "coingecko": "winsor-token",
+    "twitter": "Winsortoken",
+    "telegram": "winsortoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

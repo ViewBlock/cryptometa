@@ -1,18 +1,20 @@
 {
-  "symbol": "CBM-4B2",
   "name": "CryptoBonusMiles",
-  "email": "info@cryptobonusmiles.com",
+  "symbol": "CBM-4B2",
   "web": "https://cryptobonusmiles.com",
-  "decimals": null,
-  "supply": 5000000000,
+  "explorer": "https://explorer.binance.org/asset/CBM-4B2",
   "links": {
-    "telegram": "https://t.me/aeronaero",
-    "reddit": "https://www.reddit.com/r/AeronAero",
-    "medium": "https://medium.com/@aeronaero",
+    "github": "https://github.com/aeronaero/aeron",
+    "coingecko": "cryptobonusmiles",
     "twitter": "https://twitter.com/aeron_aero",
     "facebook": "https://www.facebook.com/aeronpublic",
-    "github": "https://github.com/aeronaero/aeron"
+    "telegram": "https://t.me/aeronaero",
+    "reddit": "https://www.reddit.com/r/AeronAero",
+    "medium": "https://medium.com/@aeronaero"
   },
+  "email": "info@cryptobonusmiles.com",
+  "decimals": null,
+  "supply": 5000000000,
   "gen": {
     "logo": "logo.png",
     "hasDark": false,

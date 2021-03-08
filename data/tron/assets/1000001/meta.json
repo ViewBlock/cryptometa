@@ -1,0 +1,17 @@
+{
+  "name": "Sesameseed",
+  "symbol": "SEED",
+  "web": "https://www.sesameseed.org",
+  "explorer": "https://tronscan.org/#/token/1000001",
+  "links": {
+    "coingecko": "seeder-network-token",
+    "twitter": "sesameseed_sr",
+    "telegram": "SesameseedOrg",
+    "reddit": "https://www.reddit.comr/sesameseed_community"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

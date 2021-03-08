@@ -1,0 +1,17 @@
+{
+  "name": "Stabilize",
+  "symbol": "STBZ",
+  "web": "https://www.stabilize.finance",
+  "explorer": "https://etherscan.io/token/0xb987d48ed8f2c468d52d6405624eadba5e76d723",
+  "links": {
+    "github": "stabilize-token",
+    "coingecko": "stabilize",
+    "twitter": "StabilizePro",
+    "telegram": "stabilizeprotocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

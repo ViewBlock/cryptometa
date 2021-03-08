@@ -1,0 +1,18 @@
+{
+  "name": "Plair",
+  "symbol": "PLA",
+  "web": "https://plair.life",
+  "explorer": "https://explore.vechain.org/accounts/0x89827f7bb951fd8a56f8ef13c5bfee38522f2e1f",
+  "links": {
+    "coingecko": "plair",
+    "twitter": "plair_life",
+    "facebook": "plairlife",
+    "telegram": "plair_life",
+    "reddit": "r/Plair"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 10
+  }
+}

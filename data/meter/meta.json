@@ -1,0 +1,17 @@
+{
+  "name": "Meter Governance",
+  "symbol": "MTRG",
+  "web": "https://www.meter.io",
+  "links": {
+    "github": "meterio",
+    "coingecko": "meter",
+    "twitter": "Meter_IO",
+    "facebook": "MeterFoundation",
+    "telegram": "Meter_IO",
+    "reddit": "r/Meter_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false
+  }
+}

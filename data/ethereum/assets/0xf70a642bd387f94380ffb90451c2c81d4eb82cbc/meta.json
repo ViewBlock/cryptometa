@@ -1,0 +1,19 @@
+{
+  "name": "Starbase",
+  "symbol": "STAR",
+  "web": "https://starbase.co",
+  "explorer": "https://etherscan.io/token/0xf70a642bd387f94380ffb90451c2c81d4eb82cbc",
+  "links": {
+    "github": "StarbaseCo",
+    "coingecko": "starbase",
+    "twitter": "StarbaseCo",
+    "facebook": "StarbaseCo",
+    "telegram": "starbase",
+    "reddit": "r/starbase"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}
