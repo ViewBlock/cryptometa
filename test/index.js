@@ -1,6 +1,14 @@
 const test = require('ava')
 
 const { setConfig, getMeta } = require('../src')
+// const { readFile } = require('../bin/utils')
+
+// setConfig({
+//   getData: async () => {
+//     const data = JSON.parse(await readFile('src/full.json'))
+//     return data
+//   },
+// })
 
 test('Chain symbol', async t => {
   const eth = await getMeta('ETH')
@@ -28,6 +36,12 @@ test('Dot notation', async t => {
 
   const unknown = await getMeta('AR.BTC')
   t.falsy(unknown.symbol)
+
+  const btc = await getMeta('BTC.BTC')
+  t.is(btc.name, 'Bitcoin')
+
+  const thor1 = await getMeta('THOR')
+  t.is(thor1.name, 'Thorchain')
 })
 
 test('Unique asset', async t => {
@@ -74,6 +88,12 @@ test('Linked assets', async t => {
   const huobi = await getMeta('huobi')
   t.is(huobi.name, 'Huobi Token')
   t.truthy(huobi.links)
+
+  const thor2 = await getMeta('THOR.RUNE')
+  t.is(thor2.name, 'Thorchain')
+
+  const thor3 = await getMeta('RUNE')
+  t.is(thor3.name, 'Thorchain')
 })
 
 test.serial('Custom image base', async t => {

@@ -74,8 +74,8 @@ const getParams = (key, data) => {
 
   const remapKey =
     data._remap &&
-    ((!assetKey && data._remap[chainKey.toLowerCase()]) ||
-      (assetKey && (data._remap[key] || data._remap[`${chain}.${assetKey}`])))
+    ((!assetKey && (data._remap[chainKey.toLowerCase()] || data._remap[chainKey])) ||
+      (assetKey && (data._remap[key] || data._remap[key] || data._remap[`${chain}.${assetKey}`])))
 
   if (remapKey) {
     return getParams(remapKey)
