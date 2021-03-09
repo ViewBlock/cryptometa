@@ -1,9 +1,10 @@
 const { join } = require('path')
+const merge = require('lodash/merge')
 
 const { BASE, DEFAULT_IMG } = require('../src/config')
 const { get } = require('../src/utils')
 const { checkDark } = require('./colors')
-const { toImg, exec, readdir, readFile, writeFile } = require('./utils')
+const { toImg, loadFull, exec, readdir, readFile, writeFile } = require('./utils')
 
 const ROOT = join(__dirname, '../data')
 
@@ -109,7 +110,9 @@ const updateMeta = async (path, { skipScore } = {}) => {
 const main = async () => {
   const chains = (await readdir(ROOT)).filter(d => !d.includes('.'))
 
-  const full = {
+  const filters = process.argv[2] && process.argv[2].split('/')
+
+  const full = merge(await loadFull(), {
     _symbols: {},
     _chains: {},
     _remap: {
@@ -123,10 +126,10 @@ const main = async () => {
       'THOR.RUNE': 'thorchain',
       // 'binance.ETH-1C9': 'ethereum',
     },
-  }
+  })
 
   for (const chain of chains) {
-    if (full._remap[chain]) {
+    if (full._remap[chain] || (filters && filters[0] !== chain)) {
       continue
     }
 
@@ -145,7 +148,10 @@ const main = async () => {
 
       for (let i = 0; i < assetsLength; ++i) {
         const hash = assets[i]
-        if (full._remap[`${chain}.${hash}`]) {
+        if (
+          full._remap[`${chain}.${hash}`] ||
+          (filters && filters[1] && !hash.includes(filters[1]))
+        ) {
           continue
         }
 

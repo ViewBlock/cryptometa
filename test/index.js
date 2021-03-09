@@ -1,13 +1,10 @@
 const test = require('ava')
 
 const { setConfig, getMeta } = require('../src')
-// const { readFile } = require('../bin/utils')
+// const { loadFull } = require('../bin/utils')
 
 // setConfig({
-//   getData: async () => {
-//     const data = JSON.parse(await readFile('src/full.json'))
-//     return data
-//   },
+//   getData: loadFull,
 // })
 
 test('Chain symbol', async t => {
