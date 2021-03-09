@@ -4,12 +4,9 @@
   "web": "https://decent.land",
   "supply": 10000000,
   "product": true,
-  "publicTeam": false,
   "links": {
     "github": "https://github.com/decentland",
     "twitter": "https://twitter.com/decentLand_",
     "telegram": "https://t.me/decentland"
-
   }
-
 }
