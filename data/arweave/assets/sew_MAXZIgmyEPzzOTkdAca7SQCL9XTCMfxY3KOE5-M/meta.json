@@ -7,5 +7,10 @@
     "github": "https://github.com/decentland",
     "twitter": "https://twitter.com/decentLand_",
     "telegram": "https://t.me/decentland"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 19
   }
 }
