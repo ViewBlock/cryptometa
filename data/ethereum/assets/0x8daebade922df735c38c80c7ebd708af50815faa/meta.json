@@ -8,7 +8,7 @@
     "coingecko": "tbtc"
   },
   "gen": {
-    "logo": "logo.png",
+    "logo": "logo.svg",
     "hasDark": false,
     "score": 14
   }
