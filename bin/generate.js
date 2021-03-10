@@ -60,9 +60,9 @@ const updateMeta = async (path, { skipScore } = {}) => {
   const isSVG = logoName && logoName.endsWith('svg')
 
   let hasFallback = false
-  let hasDark = false
+  let hasDark = logoDark && logoDark === 'logo-white.svg'
 
-  if (isSVG && (!logoDark || logoDark.endsWith('.png'))) {
+  if (isSVG && !hasDark) {
     try {
       await writeFile(join(path, 'fallback.png'), await toImg(join(path, logoName)))
       hasFallback = true

@@ -9,7 +9,7 @@
   },
   "gen": {
     "logo": "logo.svg",
-    "hasDark": false,
+    "hasDark": true,
     "score": 14
   }
 }
