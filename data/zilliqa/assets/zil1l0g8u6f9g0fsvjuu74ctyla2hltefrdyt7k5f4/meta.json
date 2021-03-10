@@ -10,7 +10,6 @@
   "product": true,
   "gen": {
     "logo": "logo.svg",
-    "hasDark": false,
     "score": 52
   }
 }

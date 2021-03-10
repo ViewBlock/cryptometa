@@ -10,7 +10,6 @@
     "reddit": "r/BytecoinBCN"
   },
   "gen": {
-    "logo": "logo.svg",
-    "hasDark": false
+    "logo": "logo.svg"
   }
 }

@@ -12,7 +12,6 @@
     "reddit": "r/Ravencoin"
   },
   "gen": {
-    "logo": "logo.svg",
-    "hasDark": false
+    "logo": "logo.svg"
   }
 }

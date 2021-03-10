@@ -11,7 +11,6 @@
   "whitepaper": "https://github.com/RedChillies-Core/RedChillies-IP/blob/main/Whitepaper.md",
   "gen": {
     "logo": "logo.png",
-    "hasDark": false,
     "score": 29
   }
 }

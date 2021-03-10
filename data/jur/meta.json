@@ -10,7 +10,6 @@
     "telegram": "jurcommunity"
   },
   "gen": {
-    "logo": "logo.png",
-    "hasDark": false
+    "logo": "logo.png"
   }
 }

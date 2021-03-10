@@ -12,7 +12,6 @@
     "reddit": "r/safenetwork"
   },
   "gen": {
-    "logo": "logo.svg",
-    "hasDark": false
+    "logo": "logo.svg"
   }
 }

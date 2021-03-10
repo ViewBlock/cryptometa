@@ -94,10 +94,7 @@ const updateMeta = async (path, { skipScore } = {}) => {
     gen: {
       logo: logoName,
       hasDark: get(meta, 'config.manualDark', false) || hasDark,
-      darkExt:
-        get(meta, 'config.manualDark') && logoDark && logoDark.split('.')[1] !== 'png'
-          ? logoDark.split('.')[1]
-          : undefined,
+      darkExt: logoDark && logoDark.split('.')[1] !== 'png' ? logoDark.split('.')[1] : undefined,
       score: skipScore ? undefined : getScore(meta),
     },
   }

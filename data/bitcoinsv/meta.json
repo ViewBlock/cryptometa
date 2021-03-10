@@ -8,7 +8,6 @@
     "coingecko": "bitcoin-cash-sv"
   },
   "gen": {
-    "logo": "logo.svg",
-    "hasDark": false
+    "logo": "logo.svg"
   }
 }

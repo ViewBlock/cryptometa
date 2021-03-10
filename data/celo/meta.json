@@ -10,7 +10,6 @@
     "telegram": "Celo_Philippines"
   },
   "gen": {
-    "logo": "logo.svg",
-    "hasDark": false
+    "logo": "logo.svg"
   }
 }

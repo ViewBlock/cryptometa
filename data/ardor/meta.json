@@ -10,7 +10,6 @@
     "reddit": "r/Ardor"
   },
   "gen": {
-    "logo": "logo.svg",
-    "hasDark": false
+    "logo": "logo.svg"
   }
 }

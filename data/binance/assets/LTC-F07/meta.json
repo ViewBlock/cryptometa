@@ -12,7 +12,6 @@
   "supply": 210000,
   "gen": {
     "logo": "logo.png",
-    "hasDark": false,
     "score": 10
   }
 }

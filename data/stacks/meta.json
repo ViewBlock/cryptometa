@@ -11,7 +11,6 @@
     "reddit": "https://www.reddit.com"
   },
   "gen": {
-    "logo": "logo.svg",
-    "hasDark": false
+    "logo": "logo.svg"
   }
 }
