@@ -12,6 +12,7 @@
   },
   "gen": {
     "logo": "logo.svg",
-    "hasDark": true
+    "hasDark": true,
+    "darkExt": "svg"
   }
 }
