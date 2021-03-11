@@ -11,8 +11,9 @@
   "decimals": 18,
   "supply": 52000000,
   "gen": {
-    "logo": "logo.png",
+    "logo": "logo.svg",
     "hasDark": true,
+    "darkExt": "svg",
     "score": 10
   }
 }

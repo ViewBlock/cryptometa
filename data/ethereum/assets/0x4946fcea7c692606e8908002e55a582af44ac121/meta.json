@@ -12,7 +12,8 @@
     "reddit": "r/foamprotocol"
   },
   "gen": {
-    "logo": "logo.svg",
+    "logo": "logo.png",
+    "hasDark": true,
     "score": 19
   }
 }
