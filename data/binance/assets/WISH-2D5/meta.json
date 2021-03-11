@@ -1,7 +1,7 @@
 {
   "name": "MyWish",
   "symbol": "WISH-2D5",
-  "web": "https://mywish.io/",
+  "web": "https://mywish.io",
   "explorer": "https://explorer.binance.org/asset/WISH-2D5",
   "links": {
     "github": "mywishplatform",
@@ -15,7 +15,7 @@
   "decimals": null,
   "supply": 9546650.62357825,
   "gen": {
-    "logo": "logo.png",
+    "logo": "logo.svg",
     "score": 19
   }
 }
