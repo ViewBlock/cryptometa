@@ -3,9 +3,12 @@
   "symbol": "CARB",
   "web": "https://www.carbontoken.info",
   "supply": "10000000",
+  "email": "contact@carbontoken.info",
+  "whitepaper": "https://github.com/GenesysLabs/whitepapers"
   "links": {
     "telegram": "https://t.me/carbontoken",
-    "github": "https://github.com/GenesysLabs"
+    "github": "https://github.com/GenesysLabs",
+    "twitter": "https://twitter.com/contact_carbon"
   },
   "gen": {
     "logo": "logo.png",
