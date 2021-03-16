@@ -2,7 +2,29 @@
 
 > Public repository used by ViewBlock to display token information and compute score
 
-#### How to add/update your token
+### How to use in your app
+
+Thanks to our auto-updated CDN, you can add any chain and token icons in your app seamlessly
+using the following url:
+
+    https://meta.viewblock.io/{key}/logo
+
+The key accepts different formats `chainSymbol`, `chainName`, `chainSymbol.tokenHash`, for example:
+
+    <img src="https://meta.viewblock.io/BTC/logo" />
+    <img src="https://meta.viewblock.io/zilliqa/logo" />
+    <img src="https://meta.viewblock.io/AR.usjm4PCxUd5mtaon7zc97-dt-3qf67yPyqgzLnLqk5A/logo" />
+
+The CDN will automatically route to the right icon, SVG if existing or PNG fallback.
+
+Another cool thing is our dark support. Let's say you have a dark theme,
+we have some icons specially made for this case. You simply need to add the `?t=dark` query parameter:
+
+    <img src="https://meta.viewblock.io/AR.usjm4PCxUd5mtaon7zc97-dt-3qf67yPyqgzLnLqk5A/logo?t=dark" />
+
+If the image has a dark alternative, that's what you will get otherwise it will fallback to the default one.
+
+### How to add/update your token
 
 - Fork the repo
 - Create a folder in the appropriate chain folder named after your contract address
