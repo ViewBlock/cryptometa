@@ -4,7 +4,7 @@
   "web": "https://www.carbontoken.info",
   "supply": "10000000",
   "email": "contact@carbontoken.info",
-  "whitepaper": "https://github.com/GenesysLabs/whitepapers"
+  "whitepaper": "https://github.com/GenesysLabs/whitepapers",
   "links": {
     "telegram": "https://t.me/carbontoken",
     "github": "https://github.com/GenesysLabs",
@@ -13,6 +13,6 @@
   "gen": {
     "logo": "logo.png",
     "hasDark": true,
-    "score": 14
+    "score": 29
   }
 }
