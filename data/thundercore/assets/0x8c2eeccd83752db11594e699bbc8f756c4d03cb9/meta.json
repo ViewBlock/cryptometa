@@ -9,5 +9,9 @@
     "twitter": "https://twitter.com/punchlinefox",
     "linkedin": "https://www.linkedin.com/in/foxreymann"
   },
-  "publicTeam": true
+  "publicTeam": true,
+  "gen": {
+    "logo": "logo.png",
+    "score": 43
+  }
 }
