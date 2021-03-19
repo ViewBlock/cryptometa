@@ -1,7 +1,7 @@
 const test = require('ava')
 
 const { setConfig, getMeta } = require('../src')
-// const { loadFull } = require('../bin/utils')
+const { loadFull } = require('../bin/utils')
 
 // setConfig({
 //   getData: loadFull,
@@ -91,6 +91,12 @@ test('Linked assets', async t => {
 
   const thor3 = await getMeta('RUNE')
   t.is(thor3.name, 'Thorchain')
+})
+
+test('Aliases', async t => {
+  const token = await getMeta('zilliqa.zil1zu72vac254htqpg3mtywdcfm84l3dfd9qzww8t')
+
+  t.truthy(token.trusted)
 })
 
 test.serial('Custom image base', async t => {

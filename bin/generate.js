@@ -160,7 +160,18 @@ const main = async () => {
           ).toFixed(2)}%)`,
         )
 
-        full[`${chain}.${hash}`] = { ...meta, config: undefined }
+        if (meta.aliases && meta.aliases.length) {
+          const aliasPayload = { _target: `${chain}.${hash}` }
+
+          meta.aliases
+            .filter(f => f)
+            .forEach(alias => {
+              const [first, second] = alias.split('.')
+              full[second ? `${first}.${second}` : first] = aliasPayload
+            })
+        }
+
+        full[`${chain}.${hash}`] = { ...meta, aliases: undefined, config: undefined }
       }
     }
   }
