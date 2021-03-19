@@ -61,8 +61,8 @@ module.exports = {
       const meta = aliasTarget ? data[aliasTarget] : rawMeta
 
       return transformData(meta, {
-        chain,
-        assetKey,
+        chain: aliasTarget ? aliasTarget.split('.')[0] : chain,
+        assetKey: aliasTarget ? aliasTarget.split('.')[1] : assetKey,
         select,
 
         base: config.base ? `${config.base}/data` : null,

@@ -97,6 +97,10 @@ test('Aliases', async t => {
   const token = await getMeta('zilliqa.zil1zu72vac254htqpg3mtywdcfm84l3dfd9qzww8t')
 
   t.truthy(token.trusted)
+  t.is(
+    token.logo,
+    'https://raw.githubusercontent.com/Ashlar/cryptometa/master/data/zilliqa/assets/zil180v66mlw007ltdv8tq5t240y7upwgf7djklmwh/logo.svg',
+  )
 })
 
 test.serial('Custom image base', async t => {
