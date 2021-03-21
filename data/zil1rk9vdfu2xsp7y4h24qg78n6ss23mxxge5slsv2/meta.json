@@ -3,12 +3,11 @@
     "symbol": "AXT",
     "web": "https://axholding.medium.com/",
     "whitepaper": "https://axholding.medium.com/axt-tokenomics-6d32d0f3b20a",
-    "product": "yes",
     "links": {
       "twitter": "AxValidator",
       "telegram": "AXvalidator"
    },
     "gen": {
-      "logo": "logo.png"
+      "logo": "logo.svg"
     }
   }
