@@ -28,7 +28,7 @@ If the image has a dark alternative, that's what you will get otherwise it will 
 
 - Fork the repo
 - Create a folder in the appropriate chain folder named after your contract address
-- Your image must be either SVG or PNG 256x256 (max 100kb) and named `logo.<extension>` (do not base64 encode your PNG in a SVG)
+- Your image must be either SVG or PNG 100x100 (max 40kb) and named `logo.<extension>` (do not base64 encode your PNG in a SVG)
 - Add information of your project using the following spec:
 
 | Param               | Type     | Required   | Points  | Notes                                                     |
@@ -42,7 +42,7 @@ If the image has a dark alternative, that's what you will get otherwise it will 
 | whitepaper          | `String` | `false`    | 10      | Link to the WP                                            |
 | holders             | `Bool`   | `false`    | 10      | Only specify if more than 1000 holders without airdrops   |
 | publicTeam          | `Bool`   | `false`    | 20      | Teams members with public profiles, non-anon              |
-| product             | `Bool`   | `false`    | 30      | Usable product on mainnet with users giving token utility |
+| product             | `Bool`   | `false`    | 30      | Usable product on mainnet with decent activity and users giving token utility |
 | links.research      | `String` | `false`    | 10      | Either binance research, TokenData or the like            |
 | links.github        | `String` | `false`    | 10      | Org or account with repos related to the project          |
 | links.linkedin      | `String` | `false`    | 10      |                                                           |
@@ -63,4 +63,4 @@ If the image has a dark alternative, that's what you will get otherwise it will 
 - Create and submit a PR
 
 Upon disagreements as to which property a token has/deserves, remember that we
-ultimately have the final say in what gets to show in our products.
+ultimately have the final say in order to protect people as much as we can.
