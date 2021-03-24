@@ -1,0 +1,13 @@
+{
+  "name": "Review Capital",
+  "symbol": "RECAP",
+  "web": "https://reviewcapital.org/",
+  "links": {
+    "twitter": "https://twitter.com/recapblockchain",
+    "telegram": "https://t.me/RECAPCommunity",
+    "github": "https://github.com/Review-Capital-Blockchain-Ecosystem"
+  },
+  "gen": {
+    "logo": "RECAP.png"
+    }
+}
