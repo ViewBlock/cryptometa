@@ -1,7 +1,7 @@
 require('isomorphic-fetch')
 
 const { ROOT, CACHE_DURATION } = require('./config')
-const { getParams, transformData } = require('./utils')
+const { get, getParams, transformData } = require('./utils')
 
 const config = {
   cacheDuration: CACHE_DURATION,
@@ -55,9 +55,14 @@ module.exports = {
     const out = params.map(key => {
       const [chain, assetKey] = getParams(key, data)
 
-      return transformData(data[`${chain}${assetKey ? `.${assetKey}` : ''}`], {
-        chain,
-        assetKey,
+      const dataKey = `${chain}${assetKey ? `.${assetKey}` : ''}`
+      const rawMeta = data[dataKey]
+      const aliasTarget = get(rawMeta, '_target')
+      const meta = aliasTarget ? data[aliasTarget] : rawMeta
+
+      return transformData(meta, {
+        chain: aliasTarget ? aliasTarget.split('.')[0] : chain,
+        assetKey: aliasTarget ? aliasTarget.split('.')[1] : assetKey,
         select,
 
         base: config.base ? `${config.base}/data` : null,

@@ -7,8 +7,9 @@
   "supply": 13000000000,
   "links": {},
   "gen": {
-    "logo": "logo.png",
+    "logo": "logo.svg",
     "hasDark": true,
+    "darkExt": "svg",
     "score": 0
   }
 }
