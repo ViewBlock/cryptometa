@@ -5,6 +5,7 @@
   "supply": "10000000",
   "email": "contact@carbontoken.info",
   "whitepaper": "https://github.com/GenesysLabs/whitepapers",
+  "holders": true,
   "links": {
     "telegram": "https://t.me/carbontoken",
     "github": "https://github.com/GenesysLabs",
