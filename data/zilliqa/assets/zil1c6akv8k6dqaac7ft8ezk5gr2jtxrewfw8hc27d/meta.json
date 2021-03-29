@@ -1,0 +1,12 @@
+{
+  "name": "DuckDuck",
+  "symbol": "Duck",
+  "product": false,
+  "links": {
+    "twitter": "https://twitter.com/zilduck",
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}
