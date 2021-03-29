@@ -1,0 +1,15 @@
+{
+  "name": "fQR Weave",
+  "symbol": "FQR",
+  "web": "https://fqrweave.tech",
+  "whitepaper": "https://fqrweave.tech/docs/paper.pdf",
+  "supply": 100000000,
+  "product": false,
+  "publicTeam": true,
+  "links": {
+    "github": "https://github.com/fQR-Weave",
+    "twitter": "https://twitter.com/fqr_weave",
+    "telegram": "https://t.me/fqr_weave"
+  }
+  
+}
