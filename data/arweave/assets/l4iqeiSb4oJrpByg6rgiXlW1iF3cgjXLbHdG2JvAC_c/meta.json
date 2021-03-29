@@ -10,5 +10,9 @@
     "github": "https://github.com/fQR-Weave",
     "twitter": "https://twitter.com/fqr_weave",
     "telegram": "https://t.me/fqr_weave"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 29
   }
 }
