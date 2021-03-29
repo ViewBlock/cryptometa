@@ -1,0 +1,16 @@
+{
+  "name": "Lucky Clover",
+  "symbol": "CLOVER",
+  "web": "https://luckyclover.xyz",
+  "supply": "77777.778",
+  "email": "dev1@luckyclover.xyz",
+  "whitepaper": "https://luckyclover.xyz/index.php/download_file/view/2/1",
+    "links": {
+    "telegram": "https://t.me/LuckyClover-official",
+    "github": "https://github.com/LuckyCloverTeam",
+    "twitter": "https://twitter.com/LuckyCloverZil"
+  },
+  "gen": {
+    "logo": "logo.png",
+     }
+}
