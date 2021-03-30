@@ -2,8 +2,13 @@
   "name": "DuckDuck",
   "symbol": "Duck",
   "product": false,
+  "whitepaper": "https://duckduckzil.medium.com/duck-token-on-zilliqa-zrc-20-3eebaf485d3",
   "links": {
-    "twitter": "https://twitter.com/zilduck"
+    "twitter": "https://twitter.com/zilduck",
+    "medium": "https://duckduckzil.medium.com",
+    "telegram": "https://t.me/zilduck",
+    "discord": "https://discord.gg/rm936388X7",
+    "github": "https://https://github.com/ZilDuck"
   },
   "gen": {
     "logo": "logo.png",
