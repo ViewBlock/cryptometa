@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg4259" style="enable-background:new" viewBox="0 0 220.05 220.05" version="1.0">
+  <defs id="defs4261">
+    <radialGradient id="radialGradient4299" gradientUnits="userSpaceOnUse" cy="115.08" cx="97.789" gradientTransform="translate(0 .000027632)" r="110.03">
+      <stop id="stop4295" stop-color="#015122" offset="0"/>
+      <stop id="stop5276" stop-color="#228424" offset=".45"/>
+      <stop id="stop5274" stop-color="#4a9a21" offset=".7"/>
+      <stop id="stop4297" stop-color="#1fe60a" offset="1"/>
+    </radialGradient>
+  </defs>
+  <g id="heart" transform="translate(12.238 -5.0525)">
+    <path id="use6775" stroke-linejoin="round" d="m-4.8076 54.401c-3.9468 3.984-6.5844 9.082-7.1814 14.606-4.427 40.933 51.225 43.063 87.372 46.093-36.147 3.03-91.799 5.12-87.372 46.05 2.1237 19.64 29.92 33.81 51.508 12.22-21.588 21.59-7.443 49.36 12.198 51.49 40.911 4.42 43.045-51.16 46.072-87.31 3.031 36.15 5.161 91.73 46.071 87.31 19.64-2.13 33.81-29.88 12.22-51.47 21.59 21.59 49.36 7.4 51.49-12.24 4.42-40.93-51.23-43.02-87.37-46.05 36.14-3.03 91.79-5.16 87.37-46.093-2.13-19.64-29.9-33.786-51.49-12.197 21.59-21.589 7.42-49.385-12.22-51.509-40.96-4.4289-43.04 51.293-46.071 87.438-3.032-36.145-5.115-91.867-46.072-87.438-19.641 2.1241-33.808 29.92-12.22 51.509-15.517-15.517-34.218-12.591-44.305-2.409z" stroke-dashoffset=".5" stroke-linecap="round" stroke-width="4" fill="url(#radialGradient4299)"/>
+  </g>
+  
+</svg>
