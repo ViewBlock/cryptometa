@@ -5,9 +5,9 @@
   "links": {
     "twitter": "LuckyCloverZil",
     "telegram": "LuckyClover-official"
-   },
-  
+  },
   "gen": {
-    "logo": "logo.svg"
+    "logo": "logo.svg",
+    "score": 10
   }
 }
