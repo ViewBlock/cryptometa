@@ -1,16 +1,13 @@
 {
-  "name": "Zilliqa",
-  "symbol": "ZIL",
-  "web": "https://zilliqa.com",
+  "name": "LuckyClover",
+  "symbol": "CLOVER",
+  "web": "https://luckyclover.xyz",
   "explorer": "https://viewblock.io/zilliqa",
   "links": {
-    "github": "Zilliqa",
-    "coingecko": "zilliqa",
-    "twitter": "zilliqa",
-    "telegram": "zilliqachat",
-    "reddit": "r/zilliqa"
-  },
-  "description": "A public blockchain platform designed to scale to thousands of transactions per second",
+    "twitter": "LuckyCloverZil",
+    "telegram": "LuckyClover-official",
+   },
+  
   "gen": {
     "logo": "logo.svg"
   }
