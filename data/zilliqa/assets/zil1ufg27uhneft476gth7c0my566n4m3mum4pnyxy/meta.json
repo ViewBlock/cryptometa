@@ -4,14 +4,10 @@
   "web": "https://luckyclover.xyz",
   "links": {
     "twitter": "LuckyCloverZil",
-    "telegram": "LuckyClover-official",
+    "telegram": "LuckyClover-official"
    },
   
   "gen": {
     "logo": "logo.svg"
   }
 }
-
-
-
-meta.json
