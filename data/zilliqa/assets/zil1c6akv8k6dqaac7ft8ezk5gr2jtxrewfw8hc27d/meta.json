@@ -3,7 +3,11 @@
   "symbol": "Duck",
   "product": false,
   "links": {
-    "twitter": "https://twitter.com/zilduck"
+    "twitter": "https://twitter.com/zilduck",
+    "medium": "https://duckduckzil.medium.com",
+    "telegram": "https://t.me/zilduck",
+    "discord": "https://discord.gg/rm936388X7",
+    "github": "https://github.com/ZilDuck"
   },
   "gen": {
     "logo": "logo.png",
