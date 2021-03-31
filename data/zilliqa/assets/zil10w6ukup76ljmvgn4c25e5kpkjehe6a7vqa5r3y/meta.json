@@ -1,0 +1,16 @@
+{
+  "name": "ZPN",
+  "symbol": "ZPN",
+  "web": "https://zdpn.app",
+  "decimals": 4,
+  "supply": 10000000,
+  "whitepaper": "https://drive.google.com/file/d/1JGZrAgEW82IJdCESvRShJKVIUEAA0xk7/view",
+  "links": {
+    "twitter": "https://twitter.com/zildpn",
+    "telegram": "https://t.me/zildpn",
+    "github": "https://github.com/ZDPN"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}
