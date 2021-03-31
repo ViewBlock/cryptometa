@@ -1,0 +1,18 @@
+{
+  "name": "Buttcoin",
+  "symbol": "BUTT",
+  "web": "buttcoins.zil",
+  "decimals": "2",
+  "supply: 42000000",
+  "email": "sphinkter@pm.me",
+  "explorer": "https://viewblock.io/zilliqa/address/zil1yapyfmkhzxmgyeg5pkqmxjxxhuut4j9hpfy97l",
+  "links": {
+    "github": "https://github.com/sphinkter/buttcoin",
+    "medium": "https://medium.com/buttcoin",
+    "discord": "https://discord.gg/pP95RTf92E",
+  },
+  "description": "A public blockchain platform designed to scale to thousands of transactions per second",
+  "gen": {
+    "logo": "logo.svg"
+  }
+}
