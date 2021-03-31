@@ -1,0 +1,10 @@
+{
+  "name": "Token Talks",
+  "symbol": "TT",
+  "telegram": "https://t.me/ZilswapTokenTalks",
+  "supply": "1000000",
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}
