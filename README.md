@@ -28,7 +28,7 @@ If the image has a dark alternative, that's what you will get otherwise it will 
 
 - Fork the repo
 - Create a folder in the appropriate chain folder named after your contract address
-- Your image must be either SVG or PNG 100x100 (max 40kb) and named `logo.<extension>` (do not base64 encode your PNG in a SVG)
+- Your image must be either SVG or PNG 100x100 to 500x500 (max 40kb) and named `logo.<extension>` (do not base64 encode your PNG in a SVG)
 - Add information of your project using the following spec:
 
 | Param               | Type     | Required   | Points  | Notes                                                     |
