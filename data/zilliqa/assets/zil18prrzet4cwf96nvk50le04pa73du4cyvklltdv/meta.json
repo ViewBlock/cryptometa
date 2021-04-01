@@ -1,0 +1,17 @@
+{
+  "name": "ART Line",
+  "symbol": "ALE",
+  "web": "https://twitter.com/AsmanovKirill",
+  "product": true,
+  "links": {
+    "twitter": "https://twitter.com/AsmanovKirill",
+    "facebook": "https://www.facebook.com/kirill.asmanov.18/",
+    "telegram": "https://t.me/Kirill_Asmanov",
+    "github": "https://github.com/af7slr77",
+    "instagram": "https://www.instagram.com/asmanov__k/"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 100
+  }
+}
