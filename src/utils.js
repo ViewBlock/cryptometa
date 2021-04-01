@@ -63,6 +63,14 @@ const transformData = (
   return filter(item, select)
 }
 
+const transformAsset = (chainKey, assetKey) => {
+  if (chainKey === 'ethereum' && assetKey && assetKey.includes('-')) {
+    return assetKey.split('-')[1]
+  }
+
+  return assetKey
+}
+
 const getParams = (key, data) => {
   const [chainKey, assetKey] = Array.isArray(key) ? key : key.split('.')
 
@@ -85,7 +93,7 @@ const getParams = (key, data) => {
     return [chain]
   }
 
-  return [chain, assetKey]
+  return [chain, transformAsset(chain, assetKey)]
 }
 
 module.exports = {
