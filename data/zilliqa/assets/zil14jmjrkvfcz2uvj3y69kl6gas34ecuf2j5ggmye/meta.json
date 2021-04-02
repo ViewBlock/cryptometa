@@ -12,6 +12,7 @@
   "whitepaper": "https://github.com/RedChillies-Core/RedChillies-Improvement-Proposals/blob/main/Whitepaper.md",
   "publicTeam": true,
   "gen": {
-    "logo": "logo.png"
+    "logo": "logo.png",
+    "score": 52
   }
 }
