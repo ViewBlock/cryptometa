@@ -6,9 +6,9 @@
     "twitter": "https://twitter.com/_redchillies",
     "telegram": "https://t.me/redchilliesRedC",
     "github": "https://github.com/RedChillies-Core",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/redchillies/"
+    "coinmarketcap": "https://coinmarketcap.com/currencies/redchillies"
   },
-  "whitepaper": "https://github.com/RedChillies-Core/RedChillies-IP/blob/main/Whitepaper.md",
+  "whitepaper": "https://github.com/RedChillies-Core/RedChillies-Improvement-Proposals/blob/main/Whitepaper.md",
   "gen": {
     "logo": "logo.png",
     "score": 29
