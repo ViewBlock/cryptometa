@@ -10,7 +10,7 @@
     "linkedin": "https://www.linkedin.com/company/redchillies-redc"
   },
   "whitepaper": "https://github.com/RedChillies-Core/RedChillies-Improvement-Proposals/blob/main/Whitepaper.md",
-  "publicTeam": true
+  "publicTeam": true,
   "gen": {
     "logo": "logo.png"
   }
