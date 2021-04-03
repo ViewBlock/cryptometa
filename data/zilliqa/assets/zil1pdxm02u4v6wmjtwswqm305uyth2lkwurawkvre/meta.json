@@ -1,1 +1,13 @@
-
+{
+  "name": "Token Talks",
+  "symbol": "TT",
+  "web": "http://zilswap.io",
+  "links": {
+    "telegram": "https://t.me/ZilswapTokenTalks",
+    
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}
