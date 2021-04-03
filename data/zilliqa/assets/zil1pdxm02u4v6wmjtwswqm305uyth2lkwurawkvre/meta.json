@@ -3,11 +3,11 @@
   "symbol": "TT",
   "web": "https://tokentalks.carrd.co/",
   "links": {
+    "twitter": "https://twitter.com/TokenTalksTT",
     "telegram": "https://t.me/ZilswapTokenTalks",
     
   },
   "gen": {
     "logo": "logo.png",
-    "score": 5
   }
 }
