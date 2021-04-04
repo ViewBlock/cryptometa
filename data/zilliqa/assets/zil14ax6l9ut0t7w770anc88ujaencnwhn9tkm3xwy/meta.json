@@ -1,7 +1,12 @@
-{"name": "ZardCoin",
+{
+  "name": "ZardCoin",
   "symbol": "zCoin",
   "supply": "3",
   "decimals": "6",
   "email": "limjunwei47@gmail.com",
-  "explorer": "https://viewblock.io/zilliqa/address/zil14ax6l9ut0t7w770anc88ujaencnwhn9tkm3xwy"
+  "explorer": "https://viewblock.io/zilliqa/address/zil14ax6l9ut0t7w770anc88ujaencnwhn9tkm3xwy",
+  "gen": {
+    "logo": "logo.png",
+    "score": 0
+  }
 }
