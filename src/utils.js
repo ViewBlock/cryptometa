@@ -65,7 +65,11 @@ const transformData = (
 
 const transformAsset = (chainKey, assetKey) => {
   if (chainKey === 'ethereum' && assetKey && assetKey.includes('-')) {
-    return assetKey.split('-')[1]
+    return transformAsset(chainKey, assetKey.split('-')[1])
+  }
+
+  if (chainKey === 'ethereum' && assetKey) {
+    return assetKey.toLowerCase()
   }
 
   return assetKey
