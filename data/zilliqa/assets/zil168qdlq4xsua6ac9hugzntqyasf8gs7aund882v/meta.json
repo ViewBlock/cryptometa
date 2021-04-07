@@ -1,0 +1,10 @@
+{
+  "name": "zilSurvey.com",
+  "symbol": "SRV",
+  "web": "https://zilsurvey.com",
+  "supply": "1000000",
+  "gen": {
+    "logo": "logo.png",
+    "score": 0
+  }
+}
