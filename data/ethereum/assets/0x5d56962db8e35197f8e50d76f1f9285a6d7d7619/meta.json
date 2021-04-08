@@ -1,0 +1,15 @@
+{
+  "name": "Davion",
+  "symbol": "DAVP",
+  "web": "http://davionpay.io",
+  "explorer": "https://etherscan.io/token/0x5d56962db8e35197f8e50d76f1f9285a6d7d7619",
+  "links": {
+    "coingecko": "davion",
+    "telegram": "davion_payment"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 5
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Traceability Chain",
+  "symbol": "TAC",
+  "web": "https://tacchain.io",
+  "explorer": "https://etherscan.io/token/0xca694eb79ef355ea0999485d211e68f39ae98493",
+  "links": {
+    "github": "TraceabilityChain",
+    "coingecko": "traceability-chain",
+    "twitter": "TraceabilityCh1",
+    "facebook": "Traceabilty-Chain-2035631440090632",
+    "telegram": "tacchain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

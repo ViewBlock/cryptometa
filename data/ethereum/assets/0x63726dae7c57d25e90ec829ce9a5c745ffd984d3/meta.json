@@ -1,0 +1,16 @@
+{
+  "name": "Decentralized Oracle",
+  "symbol": "DEOR",
+  "web": "https://www.deor.io",
+  "explorer": "https://etherscan.io/token/0x63726dae7c57d25e90ec829ce9a5c745ffd984d3",
+  "links": {
+    "github": "computercybersecurity",
+    "coingecko": "decentralized-oracle",
+    "twitter": "deor_io",
+    "telegram": "DecentralizedOracle"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

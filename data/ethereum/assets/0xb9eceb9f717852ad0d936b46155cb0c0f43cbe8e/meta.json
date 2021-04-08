@@ -1,0 +1,17 @@
+{
+  "name": "Ubiner",
+  "symbol": "UBIN",
+  "web": "https://global.ubiner.com",
+  "explorer": "https://etherscan.io/token/0xb9EcEb9F717852Ad0D936B46155cB0c0f43cBE8E",
+  "links": {
+    "github": "garangyo",
+    "coingecko": "ubiner",
+    "twitter": "Ubiner_Platform",
+    "facebook": "ubiner",
+    "telegram": "ubinerglobal"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Dragon Ball",
+  "symbol": "DRAGON",
+  "web": "https://dragonfi.net",
+  "explorer": "https://tronscan.org/#/token20/TYLPtEvANesoVWEKKzbDFnfuiKdaRNkpmb",
+  "links": {
+    "coingecko": "dragon-ball",
+    "twitter": "DragonfiHunter",
+    "telegram": "dragonfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

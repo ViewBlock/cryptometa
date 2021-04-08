@@ -1,0 +1,17 @@
+{
+  "name": "Hyper Credit Network",
+  "symbol": "HPAY",
+  "web": "https://hypercreditnetwork.info",
+  "explorer": "https://etherscan.io/token/0xF83d7fF2e4B43ebAd2fa534e621E31076f4d254C",
+  "links": {
+    "github": "Hypercredittnetwork",
+    "coingecko": "hyper-credit-network",
+    "twitter": "HyperCredit",
+    "facebook": "Hyper-Credit-Network-104864968144238",
+    "telegram": "Hypercreditnetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

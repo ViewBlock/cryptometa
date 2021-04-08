@@ -1,0 +1,17 @@
+{
+  "name": "Eltcoin",
+  "symbol": "ELTCOIN",
+  "web": "https://www.eltcoin.tech",
+  "explorer": "https://etherscan.io/token/0x44197a4c44d6a059297caf6be4f7e172bd56caaf",
+  "links": {
+    "github": "ELTCOIN",
+    "coingecko": "eltcoin",
+    "twitter": "officialELTCOIN",
+    "telegram": "ELTCOIN",
+    "reddit": "r/eLTCoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

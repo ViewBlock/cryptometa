@@ -1,0 +1,18 @@
+{
+  "name": "Savedroid",
+  "symbol": "SVD",
+  "web": "https://ico.savedroid.com",
+  "explorer": "https://etherscan.io/token/0xbdeb4b83251fb146687fa19d1c660f99411eefe3",
+  "links": {
+    "github": "savedroid",
+    "coingecko": "savedroid",
+    "twitter": "savedroidAG",
+    "facebook": "savedroid",
+    "telegram": "savedroid",
+    "reddit": "r/savedroid_ico"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ETG Finance",
+  "symbol": "ETGF",
+  "web": "https://etgproject.org",
+  "explorer": "https://etherscan.io/token/0x74603e780545d02C4257E7D2BE19c74dE7BE1952",
+  "links": {
+    "github": "EthereumGoldETG",
+    "coingecko": "etg-finance",
+    "twitter": "ethereumgoldetg",
+    "telegram": "etg_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

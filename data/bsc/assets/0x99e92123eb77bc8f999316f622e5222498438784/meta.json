@@ -1,0 +1,12 @@
+{
+  "name": "Gambit",
+  "symbol": "GMT",
+  "web": "https://gambit.financial",
+  "explorer": "https://bscscan.com/token/0x99e92123eB77Bc8f999316f622e5222498438784",
+  "links": {
+    "github": "xvi10",
+    "coingecko": "gambit",
+    "twitter": "GambitProtocol",
+    "telegram": "GambitProtocol"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "HecoFi",
+  "symbol": "HFI",
+  "web": "https://hecofi.com",
+  "explorer": "https://scan.hecochain.com/token/0x98fc3b60ed4a504f588342a53746405e355f9347",
+  "links": {
+    "coingecko": "hecofi"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "HashCoin",
+  "symbol": "HSC",
+  "web": "https://www.hashfuture.io/#home",
+  "explorer": "https://etherscan.io/token/0x2bba3cf6de6058cc1b4457ce00deb359e2703d7f",
+  "links": {
+    "coingecko": "hashcoin",
+    "twitter": "hashcoins",
+    "facebook": "HashWorldGlobal",
+    "telegram": "hashworldglobal"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

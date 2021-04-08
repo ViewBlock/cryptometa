@@ -1,0 +1,16 @@
+{
+  "name": "WinStars Live",
+  "symbol": "WNL",
+  "web": "http://winstars.live",
+  "explorer": "https://etherscan.io/token/0xcfbf70e33d5163e25b0dad73955c1bd9e8cd8ba2",
+  "links": {
+    "coingecko": "winstars",
+    "twitter": "winstars_live",
+    "facebook": "winstars.live",
+    "telegram": "win_stars"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

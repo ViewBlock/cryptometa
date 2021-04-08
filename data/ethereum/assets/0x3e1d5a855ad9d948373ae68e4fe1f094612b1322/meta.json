@@ -1,0 +1,18 @@
+{
+  "name": "HyperQuant",
+  "symbol": "HQT",
+  "web": "https://hyperquant.net/en",
+  "explorer": "https://etherscan.io/token/0x3e1d5a855ad9d948373ae68e4fe1f094612b1322",
+  "links": {
+    "github": "hyperquant-platform",
+    "coingecko": "hyperquant",
+    "twitter": "hyperquant_net",
+    "facebook": "hyperquant.net",
+    "telegram": "hyperquant",
+    "reddit": "r/HyperQuant"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

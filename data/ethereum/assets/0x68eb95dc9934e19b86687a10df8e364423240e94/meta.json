@@ -1,0 +1,13 @@
+{
+  "name": "3X Long Bitcoin Token",
+  "symbol": "BULL",
+  "web": "https://ftx.com/tokens/BULL",
+  "explorer": "https://etherscan.io/token/0x68eb95dc9934e19b86687a10df8e364423240e94",
+  "links": {
+    "coingecko": "3x-long-bitcoin-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

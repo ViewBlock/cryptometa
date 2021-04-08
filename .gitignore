@@ -1,1 +1,2 @@
-bin/fetchBinance.js
+bin/fetch*.js
+fallback.png

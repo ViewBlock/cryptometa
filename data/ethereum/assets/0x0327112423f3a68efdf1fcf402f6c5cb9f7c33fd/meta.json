@@ -1,0 +1,16 @@
+{
+  "name": "PieDAO BTC++",
+  "symbol": "BTC++",
+  "web": "http://btc.piedao.org",
+  "explorer": "https://etherscan.io/token/0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+  "links": {
+    "github": "pie-dao",
+    "coingecko": "piedao-btc",
+    "twitter": "PieDAO_DeFi",
+    "telegram": "piedao"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

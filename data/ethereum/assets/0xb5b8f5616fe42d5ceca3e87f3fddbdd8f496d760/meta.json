@@ -1,0 +1,17 @@
+{
+  "name": "ZPER",
+  "symbol": "ZPR",
+  "web": "https://zper.io/#",
+  "explorer": "https://etherscan.io/token/0xb5b8f5616fe42d5ceca3e87f3fddbdd8f496d760",
+  "links": {
+    "github": "zperteam",
+    "coingecko": "zper",
+    "twitter": "zper_team",
+    "facebook": "ZPERplatform",
+    "telegram": "zper_kr_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

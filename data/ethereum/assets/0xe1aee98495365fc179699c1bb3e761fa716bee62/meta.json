@@ -1,0 +1,16 @@
+{
+  "name": "Bezant",
+  "symbol": "BZNT",
+  "web": "https://bezant.io",
+  "explorer": "https://etherscan.io/token/0xe1aee98495365fc179699c1bb3e761fa716bee62",
+  "links": {
+    "coingecko": "bezant",
+    "twitter": "bezant_io",
+    "facebook": "bezantofficial",
+    "telegram": "bezant_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

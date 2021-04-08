@@ -1,0 +1,14 @@
+{
+  "name": "SPORTSPLEX",
+  "symbol": "SPX",
+  "web": "https://www.sportsplx.com",
+  "explorer": "https://etherscan.io/token/0x6372504efc58151644d5b69210c7bbead43918b0",
+  "links": {
+    "coingecko": "sportsplex",
+    "facebook": "welcome2sportsplex"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

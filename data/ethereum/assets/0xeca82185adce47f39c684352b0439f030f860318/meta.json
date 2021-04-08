@@ -1,0 +1,18 @@
+{
+  "name": "Perlin",
+  "symbol": "PERL",
+  "web": "https://perlinx.finance",
+  "explorer": "https://etherscan.io/token/0xeca82185adCE47f39c684352B0439f030f860318",
+  "links": {
+    "github": "perlin-network",
+    "coingecko": "perlin",
+    "twitter": "PerlinNetwork",
+    "facebook": "perlin.network",
+    "telegram": "perlinnetworkchat",
+    "reddit": "r/perlin"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

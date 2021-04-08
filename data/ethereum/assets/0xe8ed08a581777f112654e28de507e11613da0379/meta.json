@@ -1,0 +1,15 @@
+{
+  "name": "Yearn Finance Center",
+  "symbol": "YFC",
+  "web": "https://yf.center",
+  "explorer": "https://etherscan.io/token/0xE8ed08a581777f112654e28DE507e11613DA0379",
+  "links": {
+    "coingecko": "yearn-finance-center",
+    "twitter": "CenterYearn",
+    "telegram": "yearnfc"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

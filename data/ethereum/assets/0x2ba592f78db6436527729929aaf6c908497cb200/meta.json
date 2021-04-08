@@ -1,0 +1,16 @@
+{
+  "name": "Cream",
+  "symbol": "CREAM",
+  "web": "https://cream.finance",
+  "explorer": "https://etherscan.io/token/0x2ba592f78db6436527729929aaf6c908497cb200",
+  "links": {
+    "coingecko": "cream-2",
+    "twitter": "CreamdotFinance",
+    "telegram": "CreamdotFinance"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "score": 10
+  }
+}

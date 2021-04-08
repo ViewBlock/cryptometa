@@ -1,0 +1,16 @@
+{
+  "name": "IOTA",
+  "symbol": "MIOTA",
+  "web": "http://iota.org",
+  "explorer": "https://thetangle.org",
+  "links": {
+    "github": "iotaledger",
+    "coingecko": "iota",
+    "twitter": "iota",
+    "reddit": "r/Iota"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true
+  }
+}

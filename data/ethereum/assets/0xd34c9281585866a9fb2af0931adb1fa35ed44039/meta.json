@@ -1,0 +1,17 @@
+{
+  "name": "Be Gaming Coin",
+  "symbol": "BGC",
+  "web": "https://begamingcoin.io",
+  "explorer": "https://etherscan.io/token/0xD34c9281585866A9fb2af0931adb1fA35ed44039",
+  "links": {
+    "github": "BeGamingStation",
+    "coingecko": "be-gaming-coin",
+    "twitter": "BGSGame2020",
+    "facebook": "BeGamingStation",
+    "telegram": "bgsgame"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

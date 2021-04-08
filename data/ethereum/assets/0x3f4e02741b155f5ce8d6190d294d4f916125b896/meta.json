@@ -1,0 +1,15 @@
+{
+  "name": "CircleEx",
+  "symbol": "CX",
+  "web": "https://circleex.io",
+  "explorer": "https://etherscan.io/token/0x3f4e02741b155f5ce8d6190d294d4f916125b896",
+  "links": {
+    "coingecko": "circleex",
+    "twitter": "exchange_circle",
+    "telegram": "circleex"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

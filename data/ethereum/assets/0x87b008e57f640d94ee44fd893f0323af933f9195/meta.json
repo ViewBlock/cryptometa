@@ -1,0 +1,14 @@
+{
+  "name": "Coin Artist",
+  "symbol": "COIN",
+  "web": "https://coinartist.io",
+  "explorer": "https://etherscan.io/token/0x87b008E57F640D94Ee44Fd893F0323AF933F9195",
+  "links": {
+    "coingecko": "coin-artist",
+    "twitter": "coin_artist"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

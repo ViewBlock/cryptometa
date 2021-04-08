@@ -1,0 +1,17 @@
+{
+  "name": "EURBASE",
+  "symbol": "EBASE",
+  "web": "https://eurbase.com",
+  "explorer": "https://etherscan.io/token/0xa689dcea8f7ad59fb213be4bc624ba5500458dc6",
+  "links": {
+    "github": "eterbase",
+    "coingecko": "eurbase",
+    "twitter": "eterbase",
+    "facebook": "eterbase",
+    "telegram": "EterbaseExchange"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

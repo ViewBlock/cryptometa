@@ -1,0 +1,15 @@
+{
+  "name": "YYFI.Protocol",
+  "symbol": "YYFI",
+  "web": "https://yyfiprotocol.com",
+  "explorer": "https://etherscan.io/token/0xaF20b44C1C651D1d29cFB916eE2A0630B828Eb7A",
+  "links": {
+    "coingecko": "yyfi-protocol",
+    "twitter": "ProtocolYyfi",
+    "telegram": "YYFI_Protocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

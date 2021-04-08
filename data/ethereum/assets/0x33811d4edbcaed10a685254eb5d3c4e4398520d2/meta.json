@@ -1,0 +1,16 @@
+{
+  "name": "YFE Money",
+  "symbol": "YFE",
+  "web": "https://yfemoney.com",
+  "explorer": "https://etherscan.io/token/0x33811d4edbcaed10a685254eb5d3c4e4398520d2",
+  "links": {
+    "github": "yfemoney7",
+    "coingecko": "yfe-money",
+    "twitter": "MoneyYfe",
+    "telegram": "YfeMoneyNews"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "SOMIDAX",
+  "symbol": "SMDX",
+  "web": "https://somidax.net",
+  "explorer": "https://etherscan.io/token/0x7e8539d1e5cb91d63e46b8e188403b3f262a949b",
+  "links": {
+    "github": "somidax",
+    "coingecko": "somidax",
+    "twitter": "somidax",
+    "facebook": "SomidaxMarketplace",
+    "telegram": "somidax"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

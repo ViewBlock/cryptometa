@@ -1,0 +1,17 @@
+{
+  "name": "451PCBcom",
+  "symbol": "PCB",
+  "web": "http://www.451pcb.com",
+  "explorer": "https://tronscan.org/#/token20/TMBshXBbETM9UPU4XJPueJR1o8PVm5NMDd",
+  "links": {
+    "github": "451PCBCOM",
+    "coingecko": "451pcbcom",
+    "twitter": "tokens_tron",
+    "facebook": "451PCBcom",
+    "telegram": "PCBtoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "XVIX",
+  "symbol": "XVIX",
+  "web": "https://xvix.finance",
+  "explorer": "https://etherscan.io/token/0x4bAE380B5D762D543d426331b8437926443ae9ec",
+  "links": {
+    "github": "xvi10",
+    "coingecko": "xvix",
+    "twitter": "XVIX_Finance",
+    "telegram": "XVIX_Finance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

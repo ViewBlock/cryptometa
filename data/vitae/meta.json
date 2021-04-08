@@ -1,0 +1,16 @@
+{
+  "name": "Vitae",
+  "symbol": "VITAE",
+  "web": "https://www.vitaetoken.io",
+  "explorer": "https://explorer.vitae.co",
+  "links": {
+    "github": "VitaeTeam",
+    "coingecko": "vitae",
+    "twitter": "OfficialVitae",
+    "facebook": "VitaeToken",
+    "reddit": "r/VitaeTeam"
+  },
+  "gen": {
+    "logo": "logo.png"
+  }
+}

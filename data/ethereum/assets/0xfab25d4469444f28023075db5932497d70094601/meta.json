@@ -1,0 +1,15 @@
+{
+  "name": "European Coin Alliance",
+  "symbol": "ECA",
+  "web": "http://ecacoin.net",
+  "explorer": "https://etherscan.io/token/0xfab25D4469444f28023075Db5932497D70094601",
+  "links": {
+    "coingecko": "european-coin-alliance",
+    "twitter": "ecatoken",
+    "telegram": "ECATOKEN"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

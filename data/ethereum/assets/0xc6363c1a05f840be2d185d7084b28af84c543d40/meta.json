@@ -1,0 +1,17 @@
+{
+  "name": "BMToken",
+  "symbol": "BMT",
+  "web": "https://bmct.io",
+  "explorer": "https://etherscan.io/token/0xc6363c1a05f840be2d185d7084b28af84c543d40",
+  "links": {
+    "github": "beepmagnet",
+    "coingecko": "bmtoken",
+    "twitter": "bmctoken",
+    "facebook": "BMCToken",
+    "telegram": "bmctoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

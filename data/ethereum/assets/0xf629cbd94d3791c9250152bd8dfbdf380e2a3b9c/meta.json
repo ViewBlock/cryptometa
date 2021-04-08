@@ -1,0 +1,17 @@
+{
+  "name": "Enjin Coin",
+  "symbol": "ENJ",
+  "web": "https://enjin.io",
+  "explorer": "https://etherscan.io/token/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
+  "links": {
+    "github": "enjin",
+    "coingecko": "enjincoin",
+    "twitter": "enjin",
+    "telegram": "enjin",
+    "reddit": "r/EnjinCoin"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

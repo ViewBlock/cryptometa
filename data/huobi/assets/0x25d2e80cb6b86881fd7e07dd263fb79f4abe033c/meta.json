@@ -1,0 +1,12 @@
+{
+  "name": "Mdex",
+  "symbol": "MDX",
+  "web": "https://mdex.com",
+  "explorer": "https://scan.huobichain.com/token/0x25d2e80cb6b86881fd7e07dd263fb79f4abe033c",
+  "links": {
+    "github": "mdexSwap",
+    "coingecko": "mdex",
+    "twitter": "Mdextech",
+    "telegram": "MixDex"
+  }
+}

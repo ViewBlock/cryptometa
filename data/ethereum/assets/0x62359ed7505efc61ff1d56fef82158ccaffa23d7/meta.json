@@ -1,0 +1,16 @@
+{
+  "name": "cVault.finance",
+  "symbol": "CORE",
+  "web": "https://cvault.finance",
+  "explorer": "https://etherscan.io/token/0x62359ed7505efc61ff1d56fef82158ccaffa23d7",
+  "links": {
+    "github": "cVault-finance",
+    "coingecko": "cvault-finance",
+    "twitter": "CORE_Vault",
+    "telegram": "COREVault"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

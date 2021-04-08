@@ -1,0 +1,16 @@
+{
+  "name": "OTCBTC Token",
+  "symbol": "OTB",
+  "web": "https://otcbtc.com",
+  "explorer": "https://etherscan.io/token/0xa86a0da9d05d0771955df05b44ca120661af16de",
+  "links": {
+    "coingecko": "otcbtc-token",
+    "twitter": "otcbtc",
+    "telegram": "otcbtc_en",
+    "reddit": "r/otcbtc"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

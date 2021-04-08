@@ -1,0 +1,13 @@
+{
+  "name": "Tianya Token",
+  "symbol": "TYT",
+  "web": "http://bbs.tianya.cn",
+  "explorer": "https://etherscan.io/token/0x614fd8f06ce4d93aa2361b342c86554eb5cb39f1",
+  "links": {
+    "coingecko": "tianya-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

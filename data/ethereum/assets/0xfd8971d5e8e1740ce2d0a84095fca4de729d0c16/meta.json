@@ -1,0 +1,17 @@
+{
+  "name": "Zilla",
+  "symbol": "ZLA",
+  "web": "https://zla.io",
+  "explorer": "https://etherscan.io/token/0xfd8971d5e8e1740ce2d0a84095fca4de729d0c16",
+  "links": {
+    "coingecko": "zilla",
+    "twitter": "zillatoken",
+    "facebook": "ZILLAtoken",
+    "telegram": "zilla_app",
+    "reddit": "r/ZILLAtoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

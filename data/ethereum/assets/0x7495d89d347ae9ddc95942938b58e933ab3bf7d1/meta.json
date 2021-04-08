@@ -1,0 +1,16 @@
+{
+  "name": "EsportsPro",
+  "symbol": "ESPRO",
+  "web": "https://esportspro.gg",
+  "explorer": "https://etherscan.io/address/0x7495d89d347aE9DDc95942938B58E933aB3bF7D1",
+  "links": {
+    "coingecko": "esportspro",
+    "twitter": "EsportsProESPRO",
+    "facebook": "EsportsPro.gg",
+    "telegram": "EsportsPro_Official_Group"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

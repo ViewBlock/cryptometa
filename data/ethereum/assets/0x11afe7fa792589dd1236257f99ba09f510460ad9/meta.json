@@ -1,0 +1,14 @@
+{
+  "name": "LNKO Token",
+  "symbol": "LNKO",
+  "web": "https://www.lnko.io",
+  "explorer": "https://etherscan.io/token/0x11afe7fa792589dd1236257f99ba09f510460ad9",
+  "links": {
+    "coingecko": "lnko-token",
+    "telegram": "LNKOEva"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

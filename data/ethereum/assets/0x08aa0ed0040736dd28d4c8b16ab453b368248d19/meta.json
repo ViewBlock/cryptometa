@@ -1,0 +1,16 @@
+{
+  "name": "Cryptobuyer Token",
+  "symbol": "XPT",
+  "web": "https://cryptobuyer.io",
+  "explorer": "https://etherscan.io/token/0x08aa0ed0040736dd28d4c8b16ab453b368248d19",
+  "links": {
+    "coingecko": "cryptobuyer-token",
+    "twitter": "cryptobuyer",
+    "facebook": "cryptobuyer",
+    "telegram": "CryptobuyerEn"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

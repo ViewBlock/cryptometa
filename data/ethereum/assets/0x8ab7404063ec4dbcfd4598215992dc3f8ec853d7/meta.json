@@ -1,0 +1,16 @@
+{
+  "name": "Akropolis",
+  "symbol": "AKRO",
+  "web": "https://akropolis.io",
+  "explorer": "https://etherscan.io/token/0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7",
+  "links": {
+    "github": "akropolisio",
+    "coingecko": "akropolis",
+    "twitter": "akropolisio",
+    "telegram": "akropolis_official"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

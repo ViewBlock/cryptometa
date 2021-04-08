@@ -1,0 +1,14 @@
+{
+  "name": "ITEN",
+  "symbol": "ITEN",
+  "web": "https://iten.today",
+  "explorer": "https://etherscan.io/token/0x65b678936c489a2639036755aa2107ec09569198",
+  "links": {
+    "coingecko": "iten",
+    "telegram": "iten_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

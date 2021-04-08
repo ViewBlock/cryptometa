@@ -1,0 +1,17 @@
+{
+  "name": "Beaxy",
+  "symbol": "BXY",
+  "web": "https://beaxy.com",
+  "explorer": "https://etherscan.io/token/0x827d53c8170af52625f414bde00326fc8a085e86",
+  "links": {
+    "coingecko": "beaxy-exchange",
+    "twitter": "BeaxyExchange",
+    "facebook": "beaxyexchange",
+    "telegram": "Beaxy",
+    "reddit": "r/BeaxyExchange"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

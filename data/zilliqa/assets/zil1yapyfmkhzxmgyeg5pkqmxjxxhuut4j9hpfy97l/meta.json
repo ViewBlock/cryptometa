@@ -1,0 +1,20 @@
+{
+  "name": "Buttcoin",
+  "symbol": "BUTT",
+  "web": "https://medium.com/buttcoin",
+  "decimals": "2",
+  "supply": "42000000",
+  "email": "sphinkter@pm.me",
+  "explorer": "https://viewblock.io/zilliqa/address/zil1yapyfmkhzxmgyeg5pkqmxjxxhuut4j9hpfy97l",
+  "links": {
+    "github": "https://github.com/sphinkter/buttcoin",
+    "medium": "https://medium.com/buttcoin",
+    "discord": "https://discord.gg/pP95RTf92E",
+    "telegram": "https://t.me/ButtcoinAnnouncements",
+    "blog": "buttcoins.zil"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

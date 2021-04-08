@@ -1,0 +1,16 @@
+{
+  "name": "Global Social Chain",
+  "symbol": "GSC",
+  "web": "https://www.gsc.social",
+  "explorer": "https://etherscan.io/token/0x228ba514309ffdf03a81a205a6d040e429d6e80c",
+  "links": {
+    "coingecko": "global-social-chain",
+    "twitter": "gsc_socialchain",
+    "facebook": "GSCCoin",
+    "telegram": "gsc_official"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

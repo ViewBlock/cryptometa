@@ -1,0 +1,16 @@
+{
+  "name": "Bondly",
+  "symbol": "BONDLY",
+  "web": "https://www.bondly.finance",
+  "explorer": "https://etherscan.io/token/0xd2dda223b2617cb616c1580db421e4cfae6a8a85",
+  "links": {
+    "github": "bondly",
+    "coingecko": "bondly",
+    "twitter": "BondlyFinance",
+    "telegram": "bondlyfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

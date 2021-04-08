@@ -1,0 +1,18 @@
+{
+  "name": "Ties.DB",
+  "symbol": "TIE",
+  "web": "https://tiesdb.com",
+  "explorer": "https://etherscan.io/token/0x999967e2ec8a74b7c8e9db19e039d920b31d39d0",
+  "links": {
+    "github": "TiesNetwork",
+    "coingecko": "ties-network",
+    "twitter": "tiesnetwork",
+    "facebook": "tiesdb",
+    "telegram": "tiesdb",
+    "reddit": "r/tiesnetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

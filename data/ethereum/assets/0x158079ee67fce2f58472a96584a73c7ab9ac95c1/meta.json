@@ -1,0 +1,15 @@
+{
+  "name": "cREP",
+  "symbol": "CREP",
+  "web": "https://compound.finance",
+  "explorer": "https://etherscan.io/token/0x158079ee67fce2f58472a96584a73c7ab9ac95c1",
+  "links": {
+    "coingecko": "compound-augur",
+    "twitter": "compoundfinance",
+    "reddit": "r/Compound"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

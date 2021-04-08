@@ -1,0 +1,14 @@
+{
+  "name": "Next",
+  "symbol": "NET",
+  "web": "https://www.coinbit.co.kr/exchangeCoin/netInfo",
+  "explorer": "https://etherscan.io/token/0xF29226914595052a04F5AFbe6410D0C3eD707548",
+  "links": {
+    "coingecko": "next",
+    "twitter": "coinbit_coinbit"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

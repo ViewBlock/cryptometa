@@ -1,0 +1,18 @@
+{
+  "name": "4New",
+  "symbol": "KWATT",
+  "web": "https://4new.io",
+  "explorer": "https://etherscan.io/token/0x241ba672574a78a3a604cdd0a94429a73a84a324",
+  "links": {
+    "github": "muditgrover",
+    "coingecko": "4new",
+    "twitter": "4newcoin",
+    "facebook": "4newcoin",
+    "telegram": "FRNCoin",
+    "reddit": "r/4newNetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

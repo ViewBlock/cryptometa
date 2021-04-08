@@ -1,0 +1,16 @@
+{
+  "name": "Chi Gastoken",
+  "symbol": "CHI",
+  "web": "https://1inch.exchange",
+  "explorer": "https://etherscan.io/token/0x0000000000004946c0e9f43f4dee607b0ef1fa1c",
+  "links": {
+    "github": "CryptoManiacsZone",
+    "coingecko": "chi-gastoken",
+    "twitter": "1inchExchange",
+    "telegram": "OneInchExchange"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Tellor",
+  "symbol": "TRB",
+  "web": "http://www.tellor.io",
+  "explorer": "https://etherscan.io/token/0x0ba45a8b5d5575935b8158a88c631e9f9c95a2e5",
+  "links": {
+    "github": "tellor-io",
+    "coingecko": "tellor",
+    "twitter": "WeAreTellor",
+    "telegram": "tellor"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

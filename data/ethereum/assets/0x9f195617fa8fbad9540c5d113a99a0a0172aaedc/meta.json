@@ -1,0 +1,17 @@
+{
+  "name": "Niobium Coin",
+  "symbol": "NBC",
+  "web": "https://niobiumcoin.io",
+  "explorer": "https://etherscan.io/token/0x9f195617fa8fbad9540c5d113a99a0a0172aaedc",
+  "links": {
+    "github": "niobiumfoundation",
+    "coingecko": "niobium-coin",
+    "twitter": "NiobiumCoins",
+    "facebook": "niobiumfoundation",
+    "reddit": "r/NiobiumBomesp"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

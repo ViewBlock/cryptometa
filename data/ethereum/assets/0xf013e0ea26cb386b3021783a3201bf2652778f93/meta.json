@@ -1,0 +1,13 @@
+{
+  "name": "ARTISTA",
+  "symbol": "ARTS",
+  "web": "http://artistacoin.co",
+  "explorer": "https://etherscan.io/token/0xf013e0ea26cb386b3021783a3201bf2652778f93",
+  "links": {
+    "coingecko": "artista"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

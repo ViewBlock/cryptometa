@@ -1,0 +1,16 @@
+{
+  "name": "Interest Bearing ETH",
+  "symbol": "IBETH",
+  "web": "https://alphafinance.io",
+  "explorer": "https://etherscan.io/token/0x67B66C99D3Eb37Fa76Aa3Ed1ff33E8e39F0b9c7A",
+  "links": {
+    "github": "AlphaFinanceLab",
+    "coingecko": "interest-bearing-eth",
+    "twitter": "alphafinancelab",
+    "telegram": "AlphaFinanceLab"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

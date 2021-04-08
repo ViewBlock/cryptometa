@@ -1,0 +1,17 @@
+{
+  "name": "Privatix",
+  "symbol": "PRIX",
+  "web": "https://privatix.io",
+  "explorer": "https://etherscan.io/token/0x3adfc4999f77d04c8341bac5f3a76f58dff5b37a",
+  "links": {
+    "github": "Privatix",
+    "coingecko": "privatix",
+    "twitter": "Privatix1",
+    "telegram": "Privatix",
+    "reddit": "r/privatix"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

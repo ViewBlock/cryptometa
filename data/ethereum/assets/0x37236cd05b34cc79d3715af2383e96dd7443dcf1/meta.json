@@ -1,0 +1,15 @@
+{
+  "name": "Small Love Potion",
+  "symbol": "SLP",
+  "web": "https://axieinfinity.com",
+  "explorer": "https://etherscan.io/token/0x37236cd05b34cc79d3715af2383e96dd7443dcf1",
+  "links": {
+    "coingecko": "small-love-potion",
+    "twitter": "AxieInfinity",
+    "reddit": "r/AxieInfinity"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

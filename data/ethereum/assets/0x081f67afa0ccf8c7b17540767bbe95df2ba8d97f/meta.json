@@ -1,0 +1,17 @@
+{
+  "name": "CoinEx Token",
+  "symbol": "CET",
+  "web": "https://www.coinex.org",
+  "explorer": "https://etherscan.io/token/0x081f67afa0ccf8c7b17540767bbe95df2ba8d97f",
+  "links": {
+    "github": "coinexchain",
+    "coingecko": "coinex-token",
+    "twitter": "coinexcom",
+    "facebook": "TheCoinEx",
+    "telegram": "TheCoinEx"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

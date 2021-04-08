@@ -1,0 +1,17 @@
+{
+  "name": "Blockmason Credit Protocol",
+  "symbol": "BCPT",
+  "web": "https://blockmason.io",
+  "explorer": "https://etherscan.io/token/0x1c4481750daa5ff521a2a7490d9981ed46465dbd",
+  "links": {
+    "github": "blockmason",
+    "coingecko": "blockmason-credit-protocol",
+    "twitter": "blockmasonio",
+    "reddit": "r/blockmason"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "score": 19
+  }
+}

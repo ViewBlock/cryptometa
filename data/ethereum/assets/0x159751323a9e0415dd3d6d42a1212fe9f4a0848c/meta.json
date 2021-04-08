@@ -1,0 +1,15 @@
+{
+  "name": "Insured Finance",
+  "symbol": "INFI",
+  "web": "https://insured.finance",
+  "explorer": "https://etherscan.io/token/0x159751323a9e0415dd3d6d42a1212fe9f4a0848c",
+  "links": {
+    "coingecko": "insured-finance",
+    "twitter": "InsuredFin",
+    "telegram": "insuredfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

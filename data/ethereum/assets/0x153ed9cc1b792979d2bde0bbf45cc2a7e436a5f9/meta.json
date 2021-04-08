@@ -1,0 +1,16 @@
+{
+  "name": "XOVBank",
+  "symbol": "XOV",
+  "web": "http://www.xov.io",
+  "explorer": "https://etherscan.io/token/0x153ed9cc1b792979d2bde0bbf45cc2a7e436a5f9",
+  "links": {
+    "coingecko": "xov",
+    "twitter": "XOVercoin",
+    "facebook": "XOVBANK",
+    "telegram": "XOVofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

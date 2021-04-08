@@ -1,0 +1,15 @@
+{
+  "name": "Raydium",
+  "symbol": "RAY",
+  "web": "https://raydium.io",
+  "explorer": "https://explorer.solana.com/address/4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+  "links": {
+    "coingecko": "raydium",
+    "twitter": "raydiumprotocol",
+    "telegram": "raydiumprotocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

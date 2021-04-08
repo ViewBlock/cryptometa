@@ -1,0 +1,15 @@
+{
+  "name": "HUSD",
+  "symbol": "HUSD",
+  "web": "https://www.stcoins.com",
+  "explorer": "https://etherscan.io/token/0xdf574c24545e5ffecb9a659c229253d4111d87e1",
+  "links": {
+    "github": "stcoins",
+    "coingecko": "husd",
+    "twitter": "Stablecoin_HUSD"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

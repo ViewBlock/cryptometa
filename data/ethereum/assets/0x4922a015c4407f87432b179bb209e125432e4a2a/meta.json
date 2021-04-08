@@ -1,0 +1,15 @@
+{
+  "name": "Tether Gold",
+  "symbol": "XAUT",
+  "web": "https://tether.to",
+  "explorer": "https://etherscan.io/token/0x4922a015c4407f87432b179bb209e125432e4a2a",
+  "links": {
+    "coingecko": "tether-gold",
+    "twitter": "tethergold",
+    "facebook": "tether.to"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

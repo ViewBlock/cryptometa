@@ -1,0 +1,16 @@
+{
+  "name": "Elevation Token",
+  "symbol": "EVT",
+  "web": "https://theelevationico.com",
+  "explorer": "https://etherscan.io/token/0x5aaa2182459377b6ca18b10712f9f602140764af",
+  "links": {
+    "coingecko": "elevation-token",
+    "twitter": "Elevation_247",
+    "facebook": "elevationplatform01",
+    "telegram": "theelevationplatform"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

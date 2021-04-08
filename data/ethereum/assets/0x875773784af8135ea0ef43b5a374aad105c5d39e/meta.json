@@ -1,0 +1,16 @@
+{
+  "name": "IDLE",
+  "symbol": "IDLE",
+  "web": "https://idle.finance",
+  "explorer": "https://etherscan.io/token/0x875773784af8135ea0ef43b5a374aad105c5d39e",
+  "links": {
+    "github": "http:",
+    "coingecko": "idle",
+    "twitter": "idlefinance",
+    "telegram": "idlefinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

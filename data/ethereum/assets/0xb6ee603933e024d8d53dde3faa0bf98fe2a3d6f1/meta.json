@@ -1,0 +1,16 @@
+{
+  "name": "DeFiat",
+  "symbol": "DFT",
+  "web": "https://defiat.net",
+  "explorer": "https://etherscan.io/token/0xb6ee603933e024d8d53dde3faa0bf98fe2a3d6f1",
+  "links": {
+    "github": "defiat-crypto",
+    "coingecko": "defiat",
+    "twitter": "DeFiatOfficial",
+    "telegram": "defiat_crypto"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

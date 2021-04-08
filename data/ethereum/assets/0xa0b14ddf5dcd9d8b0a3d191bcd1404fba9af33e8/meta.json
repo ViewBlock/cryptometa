@@ -1,0 +1,14 @@
+{
+  "name": "Foxswap",
+  "symbol": "FOX",
+  "web": "https://foxswap.io",
+  "explorer": "https://etherscan.io/token/0xa0b14ddf5dcd9d8b0a3d191bcd1404fba9af33e8",
+  "links": {
+    "coingecko": "foxswap",
+    "telegram": "Foxswap"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

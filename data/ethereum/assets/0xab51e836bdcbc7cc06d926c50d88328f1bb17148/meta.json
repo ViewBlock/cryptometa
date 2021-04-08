@@ -1,0 +1,16 @@
+{
+  "name": "World Credit Diamond Coin",
+  "symbol": "WCDC",
+  "web": "https://wcdcoin.org",
+  "explorer": "https://etherscan.io/token/0xab51e836bdcbc7cc06d926c50d88328f1bb17148",
+  "links": {
+    "coingecko": "world-credit-diamond-coin",
+    "twitter": "wcdcoin",
+    "facebook": "wcdcoin",
+    "telegram": "wcdcoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

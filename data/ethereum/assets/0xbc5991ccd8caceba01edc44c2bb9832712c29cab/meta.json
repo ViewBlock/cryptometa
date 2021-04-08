@@ -1,0 +1,16 @@
+{
+  "name": "Unagii USD Coin",
+  "symbol": "UUSDC",
+  "web": "https://www.unagii.com",
+  "explorer": "https://etherscan.io/token/0xbc5991ccd8caceba01edc44c2bb9832712c29cab",
+  "links": {
+    "coingecko": "unagii-usd-coin",
+    "twitter": "unagiidotcom",
+    "telegram": "unagiidotcom",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

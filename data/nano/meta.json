@@ -1,0 +1,17 @@
+{
+  "name": "Nano",
+  "symbol": "NANO",
+  "web": "https://nano.org/en",
+  "explorer": "https://nanocrawler.cc",
+  "links": {
+    "github": "nanocurrency",
+    "coingecko": "nano",
+    "twitter": "nano",
+    "facebook": "nanofoundation",
+    "telegram": "nanocurrency",
+    "reddit": "r/nanocurrency"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

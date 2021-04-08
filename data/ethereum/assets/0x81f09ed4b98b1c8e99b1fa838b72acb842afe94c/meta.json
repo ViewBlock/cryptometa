@@ -1,0 +1,13 @@
+{
+  "name": "3X Long PAX Gold Token",
+  "symbol": "PAXGBULL",
+  "web": "https://ftx.com/tokens/PAXGBULL",
+  "explorer": "https://etherscan.io/token/0x81f09eD4b98B1c8e99b1Fa838B72acB842AFE94c",
+  "links": {
+    "coingecko": "3x-long-pax-gold-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Akropolis Delphi",
+  "symbol": "ADEL",
+  "web": "https://delphi.akropolis.io",
+  "explorer": "https://etherscan.io/token/0x94d863173ee77439e4292284ff13fad54b3ba182",
+  "links": {
+    "github": "akropolisio",
+    "coingecko": "akropolis-delphi",
+    "twitter": "akropolisio",
+    "telegram": "akropolis_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

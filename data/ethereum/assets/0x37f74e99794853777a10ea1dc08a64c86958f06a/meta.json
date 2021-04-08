@@ -1,0 +1,14 @@
+{
+  "name": "D Community",
+  "symbol": "DILI",
+  "web": "http://2ds.one",
+  "explorer": "https://etherscan.io/token/0x37F74e99794853777a10ea1dc08a64C86958F06a",
+  "links": {
+    "coingecko": "d-community",
+    "telegram": "DCommunity_en"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Strong",
+  "symbol": "STRONG",
+  "web": "https://strongblock.io",
+  "explorer": "https://etherscan.io/token/0x990f341946a3fdb507ae7e52d17851b87168017c",
+  "links": {
+    "github": "strongblock",
+    "coingecko": "strong",
+    "twitter": "Strongblock_io",
+    "facebook": "StrongBlock.io",
+    "telegram": "strongblock_io"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

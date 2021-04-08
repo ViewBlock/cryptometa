@@ -1,0 +1,15 @@
+{
+  "name": "Giga Watt Token",
+  "symbol": "WTT",
+  "web": "https://cryptonomos.com/wtt",
+  "explorer": "https://etherscan.io/token/0x84119cb33e8f590d75c2d6ea4e6b0741a7494eda",
+  "links": {
+    "coingecko": "giga-watt-token",
+    "twitter": "WTTtoken",
+    "telegram": "wtt_token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

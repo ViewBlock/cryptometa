@@ -1,0 +1,16 @@
+{
+  "name": "Finance Vote",
+  "symbol": "FVT",
+  "web": "https://finance.vote",
+  "explorer": "https://etherscan.io/token/0x45080a6531d671ddff20db42f93792a489685e32",
+  "links": {
+    "coingecko": "finance-vote",
+    "twitter": "financedotvote",
+    "telegram": "financevote"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

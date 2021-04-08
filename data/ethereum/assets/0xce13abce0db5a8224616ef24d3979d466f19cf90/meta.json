@@ -1,0 +1,15 @@
+{
+  "name": "Rebit",
+  "symbol": "KEYT",
+  "web": "http://www.rebitai.com",
+  "explorer": "https://etherscan.io/token/0xcE13aBCE0DB5A8224616ef24D3979d466F19CF90",
+  "links": {
+    "github": "rebitlabs",
+    "coingecko": "rebit",
+    "telegram": "rebit_official_group"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

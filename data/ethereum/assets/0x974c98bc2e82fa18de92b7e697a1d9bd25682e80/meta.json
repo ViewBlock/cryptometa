@@ -1,0 +1,13 @@
+{
+  "name": "3X Long Ethereum Classic Token",
+  "symbol": "ETCBULL",
+  "web": "https://ftx.com/tokens/ETCBULL",
+  "explorer": "https://etherscan.io/token/0x974c98Bc2e82FA18de92B7e697A1D9BD25682e80",
+  "links": {
+    "coingecko": "3x-long-ethereum-classic-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

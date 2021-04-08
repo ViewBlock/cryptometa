@@ -1,0 +1,17 @@
+{
+  "name": "Experty",
+  "symbol": "EXY",
+  "web": "https://www.experty.io/en?utm_source=coingecko&utm_medium=listing&utm_campaign=coingecko",
+  "explorer": "https://etherscan.io/token/0x5c743a35e903f6c584514ec617acee0611cf44f3",
+  "links": {
+    "github": "Experty",
+    "coingecko": "experty",
+    "twitter": "experty_io",
+    "facebook": "experty.io",
+    "telegram": "experty_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

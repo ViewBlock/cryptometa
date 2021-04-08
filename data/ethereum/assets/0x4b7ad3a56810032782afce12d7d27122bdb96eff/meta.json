@@ -1,0 +1,18 @@
+{
+  "name": "Sparkle Loyalty",
+  "symbol": "SPRKL",
+  "web": "https://sparkleloyalty.io",
+  "explorer": "https://etherscan.io/token/0x4b7ad3a56810032782afce12d7d27122bdb96eff",
+  "links": {
+    "github": "Sparkleloyalty",
+    "coingecko": "sparkle",
+    "twitter": "Sparkletoken",
+    "facebook": "Sparkletoken",
+    "telegram": "Sparklemobile",
+    "reddit": "r/Sparklemobile"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

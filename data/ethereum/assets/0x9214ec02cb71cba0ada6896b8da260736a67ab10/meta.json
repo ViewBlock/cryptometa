@@ -1,0 +1,16 @@
+{
+  "name": "Real Estate Asset Ledger",
+  "symbol": "REAL",
+  "web": "https://www.real.markets",
+  "explorer": "https://etherscan.io/token/0x9214ec02cb71cba0ada6896b8da260736a67ab10",
+  "links": {
+    "github": "RealEstateAssetLedger",
+    "coingecko": "real",
+    "twitter": "real_token",
+    "facebook": "realestateassetledger"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

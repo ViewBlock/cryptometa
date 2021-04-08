@@ -1,0 +1,14 @@
+{
+  "name": "Tesla Token",
+  "symbol": "TSL",
+  "web": "http://www.energolabs.com/#",
+  "explorer": "https://etherscan.io/token/0x03806ce5ef69bd9780edfb04c29da1f23db96294",
+  "links": {
+    "coingecko": "energo",
+    "twitter": "EnergoLabs"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

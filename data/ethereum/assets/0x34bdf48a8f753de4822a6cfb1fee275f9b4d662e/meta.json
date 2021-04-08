@@ -1,0 +1,15 @@
+{
+  "name": "FACTS",
+  "symbol": "BKC",
+  "web": "http://baike.host",
+  "explorer": "https://etherscan.io/token/0x34bdf48A8F753de4822a6CFB1FEE275F9b4D662e",
+  "links": {
+    "coingecko": "facts",
+    "twitter": "Facts_IO",
+    "telegram": "Chinese_Facts"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

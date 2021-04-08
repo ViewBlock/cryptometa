@@ -1,0 +1,16 @@
+{
+  "name": "SuperBid",
+  "symbol": "SUPERBID",
+  "web": "https://www.superbid.io",
+  "explorer": "https://etherscan.io/token/0x0563dce613d559a47877ffd1593549fb9d3510d6",
+  "links": {
+    "coingecko": "superbid",
+    "twitter": "superbid_io",
+    "telegram": "superbidio",
+    "reddit": "r/SuperBid"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

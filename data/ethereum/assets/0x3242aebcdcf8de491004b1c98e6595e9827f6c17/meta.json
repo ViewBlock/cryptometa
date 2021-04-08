@@ -1,0 +1,15 @@
+{
+  "name": "Global Utility Smart Digital Token",
+  "symbol": "GUSDT",
+  "web": "https://gusdt.io",
+  "explorer": "https://etherscan.io/token/0x3242aebcdcf8de491004b1c98e6595e9827f6c17",
+  "links": {
+    "coingecko": "gusd-token",
+    "twitter": "gibcapitalgroup",
+    "facebook": "GIBCapitalGroup"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

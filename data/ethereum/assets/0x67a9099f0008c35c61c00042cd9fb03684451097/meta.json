@@ -1,0 +1,17 @@
+{
+  "name": "Game Stars",
+  "symbol": "GST",
+  "web": "http://gamestars.io",
+  "explorer": "https://etherscan.io/token/0x67a9099f0008c35c61c00042cd9fb03684451097",
+  "links": {
+    "github": "gamestarstoken",
+    "coingecko": "game-stars",
+    "twitter": "GameStarsCoin",
+    "facebook": "GameStars-2037402373144154",
+    "telegram": "GameStarsChat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

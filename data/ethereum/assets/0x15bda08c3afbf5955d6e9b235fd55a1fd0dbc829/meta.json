@@ -1,0 +1,16 @@
+{
+  "name": "Alpha Coin",
+  "symbol": "APC",
+  "web": "https://alpha-coin.io",
+  "explorer": "https://etherscan.io/token/0x15bda08c3afbf5955d6e9b235fd55a1fd0dbc829",
+  "links": {
+    "github": "aplha-coin",
+    "coingecko": "alpha-coin",
+    "telegram": "alphacointokens"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 14
+  }
+}

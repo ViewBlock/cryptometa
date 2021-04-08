@@ -1,0 +1,15 @@
+{
+  "name": "HXY Money",
+  "symbol": "HXY",
+  "web": "https://hxy.business",
+  "explorer": "https://etherscan.io/token/0xf3a2ace8e48751c965ea0a1d064303aca53842b9",
+  "links": {
+    "coingecko": "hex-money",
+    "twitter": "HXYbusiness",
+    "telegram": "hexmobileapp"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

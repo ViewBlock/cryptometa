@@ -1,0 +1,16 @@
+{
+  "name": "CoinPoker",
+  "symbol": "CHP",
+  "web": "https://coinpoker.com",
+  "explorer": "https://etherscan.io/token/0xf3db7560e820834658b590c96234c333cd3d5e5e",
+  "links": {
+    "coingecko": "coinpoker",
+    "twitter": "CoinPoker_OFF",
+    "facebook": "CoinPokerOfficial",
+    "telegram": "officialcoinpoker"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

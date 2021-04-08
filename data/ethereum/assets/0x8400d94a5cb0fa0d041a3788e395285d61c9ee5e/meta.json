@@ -1,0 +1,17 @@
+{
+  "name": "Unibright",
+  "symbol": "UBT",
+  "web": "http://unibright.io",
+  "explorer": "https://etherscan.io/token/0x8400d94a5cb0fa0d041a3788e395285d61c9ee5e",
+  "links": {
+    "coingecko": "unibright",
+    "twitter": "Unibrightio",
+    "facebook": "Unibright.IO",
+    "telegram": "Unibright_IO",
+    "reddit": "r/Unibright"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

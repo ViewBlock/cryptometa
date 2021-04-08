@@ -1,0 +1,14 @@
+{
+  "name": "Ethereum Lite",
+  "symbol": "ELITE",
+  "web": "http://www.ethereumlite.org",
+  "explorer": "https://etherscan.io/token/0x0a76aad21948ea1ef447d26dee91a54370e151e0",
+  "links": {
+    "coingecko": "ethereum-lite",
+    "twitter": "ethereumlite"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

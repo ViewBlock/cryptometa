@@ -1,0 +1,16 @@
+{
+  "name": "Metal",
+  "symbol": "MTL",
+  "web": "https://www.metalpay.com",
+  "explorer": "https://etherscan.io/token/0xF433089366899D83a9f26A773D59ec7eCF30355e",
+  "links": {
+    "coingecko": "metal",
+    "twitter": "metalpaysme",
+    "telegram": "MetalPayCommunity",
+    "reddit": "r/MetalPay"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Wootrade Network",
+  "symbol": "WOO",
+  "web": "https://woo.network",
+  "explorer": "https://etherscan.io/token/0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
+  "links": {
+    "coingecko": "wootrade-network",
+    "twitter": "wootraderS",
+    "facebook": "Wootrade",
+    "telegram": "wootrade"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "DFE.Finance",
+  "symbol": "DFE",
+  "web": "https://www.dfe.finance",
+  "explorer": "https://etherscan.io/token/0xd35ce4fd815522ff52243eb587020d557617f4db",
+  "links": {
+    "github": "DecentralizedFinanceEurope",
+    "coingecko": "dfe-finance",
+    "twitter": "DFE_Finance",
+    "facebook": "DFE-104637411588555",
+    "telegram": "DFEfinanceofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

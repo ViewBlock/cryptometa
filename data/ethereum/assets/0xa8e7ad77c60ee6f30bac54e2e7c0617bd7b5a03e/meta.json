@@ -1,0 +1,15 @@
+{
+  "name": "zLOT",
+  "symbol": "ZLOT",
+  "web": "https://zlot.finance",
+  "explorer": "https://etherscan.io/token/0xA8e7AD77C60eE6f30BaC54E2E7c0617Bd7B5A03E",
+  "links": {
+    "github": "zhegic",
+    "coingecko": "zlot",
+    "twitter": "zLOTFinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

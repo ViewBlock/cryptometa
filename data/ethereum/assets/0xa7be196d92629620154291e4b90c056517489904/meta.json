@@ -1,0 +1,15 @@
+{
+  "name": "NexFin",
+  "symbol": "NEX",
+  "web": "https://www.nex-token.io",
+  "explorer": "https://etherscan.io/token/0xa7be196d92629620154291e4b90c056517489904",
+  "links": {
+    "coingecko": "nexfin",
+    "twitter": "TokenNex",
+    "telegram": "token_NEX"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

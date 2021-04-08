@@ -1,0 +1,16 @@
+{
+  "name": "ArbitrageCT",
+  "symbol": "ARCT",
+  "web": "https://arbitragect.com/en/index.html",
+  "explorer": "https://etherscan.io/token/0x1245ef80f4d9e02ed9425375e8f649b9221b31d8",
+  "links": {
+    "coingecko": "arbitragect",
+    "twitter": "arbitrage_ct",
+    "reddit": "r/arbitrageCT"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

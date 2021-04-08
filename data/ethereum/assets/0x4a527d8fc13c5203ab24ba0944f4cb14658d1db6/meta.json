@@ -1,0 +1,17 @@
+{
+  "name": "Morpheus Labs",
+  "symbol": "MITX",
+  "web": "https://morpheuslabs.io",
+  "explorer": "https://etherscan.io/token/0x4a527d8fc13c5203ab24ba0944f4cb14658d1db6",
+  "links": {
+    "github": "Morpheuslabs-io",
+    "coingecko": "morpheus-labs",
+    "twitter": "morpheuslabs_io",
+    "facebook": "morpheusblockchain",
+    "telegram": "morpheuslabs"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

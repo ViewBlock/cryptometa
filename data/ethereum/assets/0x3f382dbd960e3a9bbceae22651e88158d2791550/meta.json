@@ -1,0 +1,16 @@
+{
+  "name": "Aavegotchi",
+  "symbol": "GHST",
+  "web": "https://www.aavegotchi.com",
+  "explorer": "https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
+  "links": {
+    "github": "aavegotchi",
+    "coingecko": "aavegotchi",
+    "twitter": "aavegotchi",
+    "telegram": "aavegotchi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

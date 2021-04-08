@@ -1,0 +1,16 @@
+{
+  "name": "Axis DeFi",
+  "symbol": "AXIS",
+  "web": "https://axisdefi.com",
+  "explorer": "https://etherscan.io/token/0xecc0f1f860a82ab3b442382d93853c02d6384389",
+  "links": {
+    "github": "axisdefi",
+    "coingecko": "axis-defi",
+    "twitter": "AxisDefi",
+    "telegram": "axisdefi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

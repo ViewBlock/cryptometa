@@ -1,0 +1,17 @@
+{
+  "name": "SUKU",
+  "symbol": "SUKU",
+  "web": "https://www.suku.world",
+  "explorer": "https://etherscan.io/token/0x0763fdCCF1aE541A5961815C0872A8c5Bc6DE4d7",
+  "links": {
+    "coingecko": "suku",
+    "twitter": "SUKUecosystem",
+    "facebook": "SUKUecosystem",
+    "telegram": "SUKUecosystem",
+    "reddit": "https://www.reddit.comr/SUKUecosystem"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Yearn Finance Red Moon",
+  "symbol": "YFRM",
+  "web": "https://yfrm.finance",
+  "explorer": "https://etherscan.io/token/0xbE685C5E06866cfB94A4242E3DF8f2fa3E7c2b73",
+  "links": {
+    "coingecko": "yearn-finance-red-moon",
+    "twitter": "YFRM_TOKEN",
+    "telegram": "YFRM_TOKEN"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

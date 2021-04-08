@@ -1,0 +1,14 @@
+{
+  "name": "SparkPoint Fuel",
+  "symbol": "SFUEL",
+  "web": "https://srk.finance",
+  "explorer": "https://bscscan.com/token/0x37ac4d6140e54304d77437a5c11924f61a2d976f",
+  "links": {
+    "github": "sparkpointio",
+    "coingecko": "sparkpoint-fuel",
+    "twitter": "SparkDeFi",
+    "facebook": "SparkDeFi",
+    "telegram": "SparkDeFi",
+    "reddit": "r/sparkpoint"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Endorsit",
+  "symbol": "EDS",
+  "web": "http://eds.ren/en",
+  "explorer": "https://neotracker.io/asset/81c089ab996fc89c468a26c0a88d23ae2f34b5c0",
+  "links": {
+    "coingecko": "endorsit",
+    "twitter": "eds_ren",
+    "facebook": "endorsit.endorsit",
+    "telegram": "zanwo"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

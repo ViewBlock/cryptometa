@@ -1,0 +1,14 @@
+{
+  "name": "eToro Pound Sterling",
+  "symbol": "GBPX",
+  "web": "https://www.etorox.com/exchange/pound-sterling",
+  "explorer": "https://etherscan.io/token/0xf85ef57fcdb36d628d063fa663e61e44d35ae661",
+  "links": {
+    "github": "etoroxlabs",
+    "coingecko": "etoro-pound-sterling"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Globex",
+  "symbol": "GEX",
+  "web": "https://globex.pro",
+  "explorer": "https://etherscan.io/token/0x66142B81db17d7c0bd91f502D00382e326a24c2a",
+  "links": {
+    "github": "GlobexToken",
+    "coingecko": "globex",
+    "twitter": "GlobeXToken",
+    "telegram": "GlobexEnglish"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

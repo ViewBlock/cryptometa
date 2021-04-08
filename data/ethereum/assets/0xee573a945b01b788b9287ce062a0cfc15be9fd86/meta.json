@@ -1,0 +1,15 @@
+{
+  "name": "Exeedme",
+  "symbol": "XED",
+  "web": "https://www.exeedme.com",
+  "explorer": "https://etherscan.io/token/0xee573a945b01b788b9287ce062a0cfc15be9fd86",
+  "links": {
+    "coingecko": "exeedme",
+    "twitter": "eXeedme",
+    "telegram": "exeedme"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

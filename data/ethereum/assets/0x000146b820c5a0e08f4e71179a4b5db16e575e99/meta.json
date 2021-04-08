@@ -1,0 +1,15 @@
+{
+  "name": "FairyLand",
+  "symbol": "FLDT",
+  "web": "https://www.fairyland.one",
+  "explorer": "https://etherscan.io/token/0x000146b820c5a0e08f4e71179a4b5db16e575e99",
+  "links": {
+    "coingecko": "fairyland",
+    "facebook": "laya.fairyland",
+    "telegram": "LayaOneZH"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "CBDAO",
+  "symbol": "BREE",
+  "web": "https://coinbreeder.com",
+  "explorer": "https://etherscan.io/token/0x4639cd8cd52ec1cf2e496a606ce28d8afb1c792f",
+  "links": {
+    "github": "coinbreeder",
+    "coingecko": "cbdao",
+    "twitter": "CoinBreeder",
+    "telegram": "coinbreederDAO"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

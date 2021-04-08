@@ -1,0 +1,18 @@
+{
+  "name": "VideoCoin",
+  "symbol": "VID",
+  "web": "https://videocoin.io",
+  "explorer": "https://etherscan.io/token/0x2c9023bbc572ff8dc1228c7858a280046ea8c9e5",
+  "links": {
+    "github": "videocoin",
+    "coingecko": "videocoin",
+    "twitter": "videocoinhq",
+    "facebook": "videocoin",
+    "telegram": "videocoin",
+    "reddit": "r/VideoCoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

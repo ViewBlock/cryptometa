@@ -1,0 +1,18 @@
+{
+  "name": "Sapien",
+  "symbol": "SPN",
+  "web": "https://www.sapien.network",
+  "explorer": "https://etherscan.io/token/0x20f7a3ddf244dc9299975b4da1c39f8d5d75f05a",
+  "links": {
+    "github": "SapienNetwork",
+    "coingecko": "sapien",
+    "twitter": "sapien_network",
+    "facebook": "sapien.network",
+    "telegram": "SapienNetwork",
+    "reddit": "r/sapien"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

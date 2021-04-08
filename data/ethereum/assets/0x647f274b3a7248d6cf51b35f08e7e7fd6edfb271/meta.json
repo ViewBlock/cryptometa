@@ -1,0 +1,13 @@
+{
+  "name": "Maggie",
+  "symbol": "MAG",
+  "web": "http://maggie.vip",
+  "explorer": "https://etherscan.io/token/0x647f274b3a7248d6cf51b35f08e7e7fd6edfb271",
+  "links": {
+    "coingecko": "maggie"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

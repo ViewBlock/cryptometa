@@ -1,0 +1,18 @@
+{
+  "name": "Leverj",
+  "symbol": "LEV",
+  "web": "https://www.leverj.io",
+  "explorer": "https://etherscan.io/token/0x0f4ca92660efad97a9a70cb0fe969c755439772c",
+  "links": {
+    "github": "leverj",
+    "coingecko": "leverj",
+    "twitter": "Leverj_io",
+    "facebook": "leverj.io",
+    "telegram": "leverj",
+    "reddit": "r/Leverj"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

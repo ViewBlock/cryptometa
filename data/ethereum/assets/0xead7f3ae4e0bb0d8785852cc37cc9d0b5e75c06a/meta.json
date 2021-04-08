@@ -1,0 +1,13 @@
+{
+  "name": "3X Long EOS Token",
+  "symbol": "EOSBULL",
+  "web": "https://ftx.com/tokens/EOSBULL",
+  "explorer": "https://etherscan.io/token/0xead7f3ae4e0bb0d8785852cc37cc9d0b5e75c06a",
+  "links": {
+    "coingecko": "3x-long-eos-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

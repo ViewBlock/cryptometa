@@ -1,0 +1,15 @@
+{
+  "name": "FunFair",
+  "symbol": "FUN",
+  "web": "https://funfair.io",
+  "explorer": "https://etherscan.io/token/0x419d0d8bdd9af5e606ae2232ed285aff190e711b",
+  "links": {
+    "coingecko": "funfair",
+    "twitter": "FunFairTech",
+    "reddit": "r/FunfairTech"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

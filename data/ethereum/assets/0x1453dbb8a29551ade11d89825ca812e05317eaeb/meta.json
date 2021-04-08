@@ -1,0 +1,15 @@
+{
+  "name": "Tendies",
+  "symbol": "TEND",
+  "web": "https://tendies.dev",
+  "explorer": "https://etherscan.io/token/0x1453dbb8a29551ade11d89825ca812e05317eaeb",
+  "links": {
+    "coingecko": "tendies",
+    "twitter": "TendiesCrypto",
+    "telegram": "tendies1"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

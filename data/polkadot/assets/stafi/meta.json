@@ -1,0 +1,15 @@
+{
+  "name": "Stafi",
+  "symbol": "FIS",
+  "web": "https://www.stafi.io",
+  "explorer": "https://stafi.subscan.io",
+  "links": {
+    "coingecko": "stafi",
+    "twitter": "Stafi_Protocol",
+    "telegram": "stafi_protocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

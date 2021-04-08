@@ -1,0 +1,18 @@
+{
+  "name": "Social Activity Token",
+  "symbol": "SAT",
+  "web": "https://sphere.social",
+  "explorer": "https://etherscan.io/token/0xc56b13ebbcffa67cfb7979b900b736b3fb480d78",
+  "links": {
+    "github": "spheresocial",
+    "coingecko": "sphere-social",
+    "twitter": "SphereOfficial1",
+    "facebook": "SphereSocialNetwork",
+    "telegram": "sphere_official1",
+    "reddit": "r/SphereSocial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

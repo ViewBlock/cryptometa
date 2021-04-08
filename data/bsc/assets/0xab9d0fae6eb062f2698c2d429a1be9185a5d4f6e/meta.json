@@ -1,0 +1,12 @@
+{
+  "name": "Pasta Finance",
+  "symbol": "PASTA",
+  "web": "https://pastafinance.com",
+  "explorer": "https://bscscan.com/token/0xab9d0fae6eb062f2698c2d429a1be9185a5d4f6e",
+  "links": {
+    "github": "pastafinance",
+    "coingecko": "pasta-finance",
+    "twitter": "pastafinance",
+    "telegram": "PastaFinanceAnnouncements"
+  }
+}

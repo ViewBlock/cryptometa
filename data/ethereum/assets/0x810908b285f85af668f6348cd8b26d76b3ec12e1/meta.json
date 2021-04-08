@@ -1,0 +1,18 @@
+{
+  "name": "SwapCoinz",
+  "symbol": "SPAZ",
+  "web": "https://swapcoinz.io",
+  "explorer": "https://etherscan.io/token/0x810908b285f85af668f6348cd8b26d76b3ec12e1",
+  "links": {
+    "github": "swapcoinz-spz",
+    "coingecko": "swapcoinz",
+    "twitter": "swapcoinz",
+    "facebook": "swapcoinzz",
+    "telegram": "swapcoinzgroup",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

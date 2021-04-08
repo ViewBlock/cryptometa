@@ -1,0 +1,17 @@
+{
+  "name": "ELYSIA",
+  "symbol": "EL",
+  "web": "https://elysia.kr",
+  "explorer": "https://etherscan.io/token/0x2781246fe707bb15cee3e5ea354e2154a2877b16",
+  "links": {
+    "github": "elysia-land",
+    "coingecko": "elysia",
+    "twitter": "Elysia_HQ",
+    "facebook": "ElysiaHQ",
+    "telegram": "elysia_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

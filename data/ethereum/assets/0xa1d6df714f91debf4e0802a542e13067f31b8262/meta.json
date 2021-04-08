@@ -1,0 +1,15 @@
+{
+  "name": "RedFOX Labs",
+  "symbol": "RFOX",
+  "web": "https://redfoxlabs.io",
+  "explorer": "https://etherscan.io/token/0xa1d6df714f91debf4e0802a542e13067f31b8262",
+  "links": {
+    "coingecko": "redfox-labs-2",
+    "twitter": "redfoxlabs_io",
+    "telegram": "redfoxlabs_announcements"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

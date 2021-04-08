@@ -1,0 +1,15 @@
+{
+  "name": "OceanEX Token",
+  "symbol": "OCE",
+  "web": "https://oceanex.pro",
+  "explorer": "https://explore.vechain.org/accounts/0x0ce6661b4ba86a0ea7ca2bd86a0de87b0b860f14",
+  "links": {
+    "coingecko": "oceanex-token",
+    "twitter": "OceanexOfficial",
+    "telegram": "OceanEx_Official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

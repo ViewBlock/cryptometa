@@ -1,0 +1,13 @@
+{
+  "name": "JoyTube Token",
+  "symbol": "JTT",
+  "web": "https://joytube.pro",
+  "explorer": "https://etherscan.io/token/0xe9ed705842bd7219a963e452c41be85ce5cff884",
+  "links": {
+    "coingecko": "joytube-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

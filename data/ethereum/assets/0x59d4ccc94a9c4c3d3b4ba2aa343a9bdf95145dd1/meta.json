@@ -1,0 +1,15 @@
+{
+  "name": "QUSD Stablecoin",
+  "symbol": "QUSD",
+  "web": "https://qian.finance",
+  "explorer": "https://etherscan.io/token/0x59d4CCC94A9C4C3d3b4bA2Aa343a9bDF95145DD1",
+  "links": {
+    "github": "QIAN-Protocol",
+    "coingecko": "qusd-stablecoin",
+    "twitter": "QIAN_Stablecoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

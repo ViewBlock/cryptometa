@@ -1,0 +1,17 @@
+{
+  "name": "Worldcore",
+  "symbol": "WRC",
+  "web": "https://worldcore.com",
+  "explorer": "https://etherscan.io/token/0x72adadb447784dd7ab1f472467750fc485e4cb2d",
+  "links": {
+    "coingecko": "worldcore",
+    "twitter": "worldcoresocial",
+    "facebook": "worldcoresocial",
+    "telegram": "worldcore",
+    "reddit": "r/worldcore"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

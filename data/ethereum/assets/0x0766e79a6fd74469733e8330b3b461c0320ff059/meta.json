@@ -1,0 +1,14 @@
+{
+  "name": "ExchangeN",
+  "symbol": "EXN",
+  "web": "http://www.exchangen.com",
+  "explorer": "https://etherscan.io/token/0x0766e79a6fd74469733e8330b3b461c0320ff059",
+  "links": {
+    "coingecko": "exchangen",
+    "twitter": "ExchangeN_com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

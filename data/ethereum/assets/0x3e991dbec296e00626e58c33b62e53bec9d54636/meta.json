@@ -1,0 +1,16 @@
+{
+  "name": "USDL",
+  "symbol": "USDL",
+  "web": "https://lgcy.network",
+  "explorer": "https://etherscan.io/token/0x3e991dbec296e00626e58c33b62e53bec9d54636",
+  "links": {
+    "github": "lgcy-legacy",
+    "coingecko": "usdl",
+    "twitter": "LGCYNetwork",
+    "telegram": "LGCYNetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

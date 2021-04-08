@@ -1,0 +1,17 @@
+{
+  "name": "pTokens BTC",
+  "symbol": "PBTC",
+  "web": "https://ptokens.io",
+  "explorer": "https://etherscan.io/token/0x5228a22e72ccc52d415ecfd199f99d0665e7733b",
+  "links": {
+    "github": "provable-things",
+    "coingecko": "ptokens-btc",
+    "twitter": "pTokens_io",
+    "telegram": "ptokens",
+    "reddit": "r/pTokens"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

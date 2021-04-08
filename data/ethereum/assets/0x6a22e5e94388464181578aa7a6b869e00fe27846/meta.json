@@ -1,0 +1,14 @@
+{
+  "name": "sXAG",
+  "symbol": "SXAG",
+  "web": "https://www.synthetix.io/tokens",
+  "explorer": "https://etherscan.io/token/0x6A22e5e94388464181578Aa7A6B869e00fE27846",
+  "links": {
+    "coingecko": "sxag",
+    "twitter": "synthetix_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

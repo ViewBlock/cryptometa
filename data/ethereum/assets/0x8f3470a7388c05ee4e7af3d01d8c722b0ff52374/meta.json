@@ -1,0 +1,16 @@
+{
+  "name": "Veritaseum",
+  "symbol": "VERI",
+  "web": "http://veritas.veritaseum.com",
+  "explorer": "https://etherscan.io/token/0x8f3470a7388c05ee4e7af3d01d8c722b0ff52374",
+  "links": {
+    "github": "veritaseum",
+    "coingecko": "veritaseum",
+    "twitter": "Veritaseuminc",
+    "reddit": "r/Veritasium"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

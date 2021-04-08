@@ -1,0 +1,16 @@
+{
+  "name": "Hi Mutual Society",
+  "symbol": "HMC",
+  "web": "http://hms.io",
+  "explorer": "https://etherscan.io/token/0xAa0bb10CEc1fa372eb3Abc17C933FC6ba863DD9E",
+  "links": {
+    "coingecko": "hi-mutual-society",
+    "twitter": "HMSCommunity",
+    "facebook": "HMStoken",
+    "telegram": "hmsglobal"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

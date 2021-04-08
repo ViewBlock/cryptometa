@@ -1,0 +1,17 @@
+{
+  "name": "Stellar",
+  "symbol": "XLM",
+  "web": "https://www.stellar.org",
+  "explorer": "https://dashboard.stellar.org",
+  "links": {
+    "github": "stellar",
+    "coingecko": "stellar",
+    "twitter": "stellarorg",
+    "facebook": "stellarfoundation",
+    "reddit": "r/stellar"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true
+  }
+}

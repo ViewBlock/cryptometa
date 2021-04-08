@@ -1,0 +1,15 @@
+{
+  "name": "Apple Protocol Token",
+  "symbol": "AAPL",
+  "web": "https://www.appleprotocol.info",
+  "explorer": "https://etherscan.io/token/0xd059c8a4c7f53C4352d933b059349Ba492294ac9",
+  "links": {
+    "coingecko": "apple-protocol-token",
+    "twitter": "ProtocolApple",
+    "telegram": "appleprotocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

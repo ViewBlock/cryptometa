@@ -1,0 +1,17 @@
+{
+  "name": "Wixlar",
+  "symbol": "WIX",
+  "web": "https://wixlar.com",
+  "explorer": "https://etherscan.io/token/0x7ba19b7f7d106a9a1e0985397b94f38eee0b555e",
+  "links": {
+    "github": "wixlar",
+    "coingecko": "wixlar",
+    "twitter": "WixlarCoin",
+    "facebook": "WixlarCoin",
+    "telegram": "wixlar"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

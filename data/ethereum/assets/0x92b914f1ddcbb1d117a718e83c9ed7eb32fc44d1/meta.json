@@ -1,0 +1,17 @@
+{
+  "name": "Enkronos",
+  "symbol": "ENK",
+  "web": "https://ico.enkronos.com",
+  "explorer": "https://etherscan.io/token/0x92b914f1ddcbb1d117a718e83c9ed7eb32fc44d1",
+  "links": {
+    "github": "enkronos",
+    "coingecko": "enkronos",
+    "twitter": "enkronos",
+    "facebook": "enkronos",
+    "reddit": "r/EnkronosApps"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

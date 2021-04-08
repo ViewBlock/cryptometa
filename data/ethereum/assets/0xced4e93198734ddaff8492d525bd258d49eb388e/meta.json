@@ -1,0 +1,17 @@
+{
+  "name": "Eidoo",
+  "symbol": "EDO",
+  "web": "https://eidoo.io",
+  "explorer": "https://etherscan.io/token/0xced4e93198734ddaff8492d525bd258d49eb388e",
+  "links": {
+    "github": "eidoo",
+    "coingecko": "eidoo",
+    "twitter": "eidoo_io",
+    "telegram": "eidoocryptoworld",
+    "reddit": "r/eidooapp"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

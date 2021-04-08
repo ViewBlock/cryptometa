@@ -1,0 +1,15 @@
+{
+  "name": "Shill",
+  "symbol": "POSH",
+  "web": "https://shill.win",
+  "explorer": "https://etherscan.io/token/0x685aea4F02E39E5a5BB7f7117E88DB1151F38364",
+  "links": {
+    "coingecko": "shill",
+    "twitter": "shillwin",
+    "telegram": "shillWin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

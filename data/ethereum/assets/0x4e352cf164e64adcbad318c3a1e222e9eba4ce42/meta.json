@@ -1,0 +1,17 @@
+{
+  "name": "MCDEX",
+  "symbol": "MCB",
+  "web": "https://mcdex.io",
+  "explorer": "https://etherscan.io/token/0x4e352cf164e64adcbad318c3a1e222e9eba4ce42",
+  "links": {
+    "github": "mcdexio",
+    "coingecko": "mcdex",
+    "twitter": "MonteCarloDEX",
+    "telegram": "Mcdex",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

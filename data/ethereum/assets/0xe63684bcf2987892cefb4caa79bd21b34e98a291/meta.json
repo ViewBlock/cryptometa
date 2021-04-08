@@ -1,0 +1,15 @@
+{
+  "name": "Chicken",
+  "symbol": "KFC",
+  "web": "https://chickenswap.org",
+  "explorer": "https://etherscan.io/token/0xE63684BcF2987892CEfB4caA79BD21b34e98A291",
+  "links": {
+    "coingecko": "chicken",
+    "twitter": "ChefGrandpa",
+    "telegram": "chickenswap"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

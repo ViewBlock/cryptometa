@@ -1,0 +1,17 @@
+{
+  "name": "Moeda Loyalty Points",
+  "symbol": "MDA",
+  "web": "https://moedaseeds.com",
+  "explorer": "https://etherscan.io/token/0x51db5ad35c671a87207d88fc11d593ac0c8415bd",
+  "links": {
+    "github": "moedabank",
+    "coingecko": "moeda-loyalty-points",
+    "twitter": "moedaseeds/",
+    "facebook": "moedaseeds/",
+    "reddit": "r/MoedaBanking"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Orbs",
+  "symbol": "ORBS",
+  "web": "https://www.orbs.com",
+  "explorer": "https://etherscan.io/token/0xff56cc6b1e6ded347aa0b7676c85ab0b3d08b0fa",
+  "links": {
+    "github": "orbs-network",
+    "coingecko": "orbs",
+    "twitter": "orbs_network",
+    "telegram": "orbs_network",
+    "reddit": "r/ORBS_Network"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "score": 19
+  }
+}

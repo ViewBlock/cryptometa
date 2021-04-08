@@ -1,0 +1,17 @@
+{
+  "name": "Future1Coin",
+  "symbol": "F1C",
+  "web": "http://future1coin.com",
+  "explorer": "https://etherscan.io/token/0xb0a0a070640b450eb136dc377208469ee4f49fbc",
+  "links": {
+    "github": "future1coin",
+    "coingecko": "future1coin",
+    "twitter": "kishoresg",
+    "facebook": "ChampionTradersAcademy",
+    "telegram": "future1coin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

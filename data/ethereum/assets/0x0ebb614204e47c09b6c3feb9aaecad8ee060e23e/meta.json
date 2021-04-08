@@ -1,0 +1,17 @@
+{
+  "name": "Cryptopay",
+  "symbol": "CPAY",
+  "web": "https://cryptopay.me",
+  "explorer": "https://etherscan.io/token/0x0ebb614204e47c09b6c3feb9aaecad8ee060e23e",
+  "links": {
+    "github": "cryptopay-dev",
+    "coingecko": "cryptopay",
+    "twitter": "cryptopay",
+    "facebook": "cryptopayme",
+    "reddit": "r/Cryptopay"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

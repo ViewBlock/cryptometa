@@ -1,0 +1,16 @@
+{
+  "name": "LuckySevenToken",
+  "symbol": "LST",
+  "web": "https://luckyseven.solutions",
+  "explorer": "https://etherscan.io/token/0x6b9f1f092e0b10015a4391a80cd3e6b6cefd1728",
+  "links": {
+    "coingecko": "luckyseventoken",
+    "twitter": "lucky7token",
+    "facebook": "lucky7token",
+    "telegram": "lucky7token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

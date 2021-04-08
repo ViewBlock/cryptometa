@@ -1,0 +1,17 @@
+{
+  "name": "Jarvis+",
+  "symbol": "JAR",
+  "web": "http://www.jarvisplus.com",
+  "explorer": "https://etherscan.io/token/0xa249de6948022783765fee4850d7b85e43118fcc",
+  "links": {
+    "github": "x-contract",
+    "coingecko": "jarvis",
+    "twitter": "JarvisplusAI",
+    "telegram": "jarvisplus",
+    "reddit": "r/JarvisPlus"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

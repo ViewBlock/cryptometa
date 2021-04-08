@@ -1,0 +1,14 @@
+{
+  "name": "Ymen.Finance",
+  "symbol": "YMEN",
+  "web": "https://ymen.finance",
+  "explorer": "https://etherscan.io/token/0xd0c59798f986d333554688cd667033d469c2398e",
+  "links": {
+    "coingecko": "ymen-finance",
+    "telegram": "ymenfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

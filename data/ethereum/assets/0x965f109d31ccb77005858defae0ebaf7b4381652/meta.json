@@ -1,0 +1,17 @@
+{
+  "name": "BitStash Marketplace",
+  "symbol": "STASH",
+  "web": "https://bitstash.co",
+  "explorer": "https://etherscan.io/token/0x965f109d31ccb77005858defae0ebaf7b4381652",
+  "links": {
+    "github": "bitstashco",
+    "coingecko": "bitstash-marketplace",
+    "twitter": "bitstashco",
+    "facebook": "bitstashco",
+    "telegram": "bitstashmarketplace"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

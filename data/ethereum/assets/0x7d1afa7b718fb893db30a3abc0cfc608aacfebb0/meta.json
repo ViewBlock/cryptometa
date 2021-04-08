@@ -1,0 +1,17 @@
+{
+  "name": "Polygon",
+  "symbol": "MATIC",
+  "web": "https://matic.network",
+  "explorer": "https://etherscan.io/token/0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+  "links": {
+    "github": "maticnetwork",
+    "coingecko": "matic-network",
+    "twitter": "maticnetwork",
+    "telegram": "maticnetwork",
+    "reddit": "r/maticnetwork"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

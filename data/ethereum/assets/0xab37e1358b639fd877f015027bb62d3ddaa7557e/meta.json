@@ -1,0 +1,16 @@
+{
+  "name": "Lien",
+  "symbol": "LIEN",
+  "web": "https://lien.finance",
+  "explorer": "https://etherscan.io/token/0xab37e1358b639fd877f015027bb62d3ddaa7557e",
+  "links": {
+    "github": "LienFinance",
+    "coingecko": "lien",
+    "twitter": "LienFinance",
+    "telegram": "Lien_Finance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

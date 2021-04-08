@@ -1,0 +1,17 @@
+{
+  "name": "BitcoinSoV",
+  "symbol": "BSOV",
+  "web": "https://www.btcsov.com",
+  "explorer": "https://etherscan.io/token/0x26946ada5ecb57f3a1f91605050ce45c482c9eb1",
+  "links": {
+    "coingecko": "bitcoinsov",
+    "twitter": "BSOV_",
+    "facebook": "bitcoinsov",
+    "telegram": "BitcoinSoVCommunity",
+    "reddit": "r/BitcoinSoV"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

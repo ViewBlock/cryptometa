@@ -1,0 +1,16 @@
+{
+  "name": "VorteX Network",
+  "symbol": "VTX",
+  "web": "https://vortexnetworkvtx.com",
+  "explorer": "https://etherscan.io/token/0xd957E08ac5421E2C28510586B57d095E5094836a",
+  "links": {
+    "github": "vortexnnetworkvtx",
+    "coingecko": "vortex-network",
+    "twitter": "VorteX_Global",
+    "telegram": "VorteXNetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Yfscience",
+  "symbol": "YFSI",
+  "web": "https://yfscience.org",
+  "explorer": "https://etherscan.io/token/0x1df6f1bb7454e5e4ba3bca882d3148fbf9b5697a",
+  "links": {
+    "github": "yfscience",
+    "coingecko": "yfscience",
+    "twitter": "FinanceYFSI",
+    "telegram": "yfsciencechat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

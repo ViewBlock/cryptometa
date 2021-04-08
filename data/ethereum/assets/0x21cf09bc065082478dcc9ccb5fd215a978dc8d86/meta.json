@@ -1,0 +1,16 @@
+{
+  "name": "Jem",
+  "symbol": "JEM",
+  "web": "https://itchiro.com",
+  "explorer": "https://etherscan.io/token/0x21cf09BC065082478Dcc9ccB5fd215A978Dc8d86",
+  "links": {
+    "github": "itchirogames",
+    "coingecko": "jem",
+    "twitter": "itchirogames",
+    "telegram": "itchiro"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

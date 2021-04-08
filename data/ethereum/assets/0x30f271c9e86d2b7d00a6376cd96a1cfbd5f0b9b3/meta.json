@@ -1,0 +1,16 @@
+{
+  "name": "Decentr",
+  "symbol": "DEC",
+  "web": "https://decentr.net",
+  "explorer": "https://etherscan.io/token/0x30f271c9e86d2b7d00a6376cd96a1cfbd5f0b9b3",
+  "links": {
+    "github": "nanikeev",
+    "coingecko": "decentr",
+    "twitter": "DecentrNet",
+    "telegram": "DecentrNet"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

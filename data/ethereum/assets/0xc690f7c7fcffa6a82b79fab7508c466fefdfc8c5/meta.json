@@ -1,0 +1,17 @@
+{
+  "name": "Lympo",
+  "symbol": "LYM",
+  "web": "https://lympo.io",
+  "explorer": "https://etherscan.io/token/0xc690f7c7fcffa6a82b79fab7508c466fefdfc8c5",
+  "links": {
+    "coingecko": "lympo",
+    "twitter": "Lympo_io",
+    "facebook": "Lympo.io",
+    "telegram": "lympo",
+    "reddit": "r/LYMPO"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

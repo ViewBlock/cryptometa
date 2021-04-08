@@ -1,0 +1,18 @@
+{
+  "name": "SwissBorg",
+  "symbol": "CHSB",
+  "web": "https://swissborg.com/en",
+  "explorer": "https://etherscan.io/token/0xba9d4199fab4f26efe3551d490e3821486f135ba",
+  "links": {
+    "github": "SwissBorg",
+    "coingecko": "swissborg",
+    "twitter": "swissborg",
+    "facebook": "swissborg",
+    "telegram": "swissborg",
+    "reddit": "r/swissborg"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

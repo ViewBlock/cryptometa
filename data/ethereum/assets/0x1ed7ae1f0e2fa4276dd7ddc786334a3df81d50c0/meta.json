@@ -1,0 +1,17 @@
+{
+  "name": "FSBT API",
+  "symbol": "FSBT",
+  "web": "https://www.fsbt.tech",
+  "explorer": "https://etherscan.io/token/0x1ed7ae1f0e2fa4276dd7ddc786334a3df81d50c0",
+  "links": {
+    "github": "fortysevenbank",
+    "coingecko": "forty-seven-bank",
+    "twitter": "fsbttech",
+    "facebook": "FSBT-Tech-309897252936549",
+    "telegram": "thefortyseven"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

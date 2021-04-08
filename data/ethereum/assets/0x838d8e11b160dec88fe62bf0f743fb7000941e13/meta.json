@@ -1,0 +1,16 @@
+{
+  "name": "Krios",
+  "symbol": "GIG",
+  "web": "https://www.krios.io",
+  "explorer": "https://etherscan.io/token/0x838d8e11B160deC88Fe62BF0f743FB7000941e13",
+  "links": {
+    "coingecko": "krios",
+    "twitter": "krios_io",
+    "facebook": "krios.io",
+    "telegram": "KriosToken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

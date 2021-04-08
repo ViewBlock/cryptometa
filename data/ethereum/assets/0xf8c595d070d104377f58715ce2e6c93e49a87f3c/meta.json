@@ -1,0 +1,16 @@
+{
+  "name": "DACC",
+  "symbol": "DACC",
+  "web": "http://dacc.co",
+  "explorer": "https://etherscan.io/token/0xf8c595d070d104377f58715ce2e6c93e49a87f3c",
+  "links": {
+    "coingecko": "dacc",
+    "twitter": "DACCblockchain",
+    "facebook": "DACCblockchain",
+    "telegram": "dacc_official_group_english"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

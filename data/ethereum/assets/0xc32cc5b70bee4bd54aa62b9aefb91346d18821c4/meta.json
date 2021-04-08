@@ -1,0 +1,16 @@
+{
+  "name": "Iteration Syndicate",
+  "symbol": "ITS",
+  "web": "https://iterationsyndicate.com/#",
+  "explorer": "https://etherscan.io/token/0xC32cC5b70BEe4bd54Aa62B9Aefb91346d18821C4",
+  "links": {
+    "coingecko": "iteration-syndicate",
+    "twitter": "RenascentDefi",
+    "telegram": "RenascentDefi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

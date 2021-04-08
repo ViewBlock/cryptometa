@@ -1,0 +1,16 @@
+{
+  "name": "DeltaHub Community",
+  "symbol": "DHC",
+  "web": "https://deltahub.capital",
+  "explorer": "https://etherscan.io/token/0x152687bc4a7fcc89049cf119f9ac3e5acf2ee7ef",
+  "links": {
+    "coingecko": "deltahub-community",
+    "twitter": "deltahubc",
+    "telegram": "deltahubc"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

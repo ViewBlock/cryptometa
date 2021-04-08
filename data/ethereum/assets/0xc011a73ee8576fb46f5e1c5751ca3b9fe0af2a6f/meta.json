@@ -1,0 +1,16 @@
+{
+  "name": "Synthetix Network Token",
+  "symbol": "SNX",
+  "web": "https://www.synthetix.io",
+  "explorer": "https://etherscan.io/token/0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+  "links": {
+    "github": "Synthetixio",
+    "coingecko": "havven",
+    "twitter": "synthetix_io",
+    "reddit": "r/synthetix_io"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

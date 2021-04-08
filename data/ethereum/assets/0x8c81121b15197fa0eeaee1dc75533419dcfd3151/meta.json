@@ -1,0 +1,13 @@
+{
+  "name": "IdleWBTC (Best Yield)",
+  "symbol": "IDLEWBTCYIELD",
+  "web": "https://idle.finance",
+  "explorer": "https://etherscan.io/token/0x8c81121b15197fa0eeaee1dc75533419dcfd3151",
+  "links": {
+    "coingecko": "idle-wbtc-yield"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

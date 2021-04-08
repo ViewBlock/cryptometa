@@ -1,0 +1,16 @@
+{
+  "name": "Ovr",
+  "symbol": "OVR",
+  "web": "https://www.ovr.ai",
+  "explorer": "https://etherscan.io/token/0x21BfBDa47A0B4B5b1248c767Ee49F7caA9B23697",
+  "links": {
+    "coingecko": "ovr",
+    "twitter": "OVRtheReality",
+    "facebook": "OVRtheReality",
+    "telegram": "OVRtheReality"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

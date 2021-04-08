@@ -1,0 +1,16 @@
+{
+  "name": "Data Transaction Token",
+  "symbol": "XD",
+  "web": "https://datatxtoken.com",
+  "explorer": "https://etherscan.io/token/0x24dcc881e7dd730546834452f21872d5cb4b5293",
+  "links": {
+    "coingecko": "scroll-token",
+    "twitter": "datatxtoken",
+    "facebook": "OfficialScroll",
+    "reddit": "r/ScrollNetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

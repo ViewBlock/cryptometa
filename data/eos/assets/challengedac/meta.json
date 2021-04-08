@@ -1,0 +1,15 @@
+{
+  "name": "ChallengeDAC",
+  "symbol": "CHL",
+  "web": "https://www.challengedapp.io",
+  "explorer": "https://bloks.io/tokens/CHL-eos-challengedac",
+  "links": {
+    "github": "ChallengeDAC",
+    "coingecko": "challengedac",
+    "telegram": "Challenge_DAC"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

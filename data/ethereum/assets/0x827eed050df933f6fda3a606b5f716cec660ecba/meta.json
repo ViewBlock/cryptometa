@@ -1,0 +1,16 @@
+{
+  "name": "BurnDrop",
+  "symbol": "BD",
+  "web": "https://burndrop.net",
+  "explorer": "https://etherscan.io/token/0x827eed050df933f6fda3a606b5f716cec660ecba",
+  "links": {
+    "github": "bbobboy",
+    "coingecko": "burndrop",
+    "twitter": "burn_drop",
+    "reddit": "r/BurnDrop"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

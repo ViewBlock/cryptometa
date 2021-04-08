@@ -1,0 +1,16 @@
+{
+  "name": "PayUSD",
+  "symbol": "PUSD",
+  "web": "https://payusd.io",
+  "explorer": "https://etherscan.io/token/0x38d389c300357a26beec198f3893fba54fde69c5",
+  "links": {
+    "github": "payusd-dev",
+    "coingecko": "payusd",
+    "twitter": "thecoinyard",
+    "telegram": "payusdtoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

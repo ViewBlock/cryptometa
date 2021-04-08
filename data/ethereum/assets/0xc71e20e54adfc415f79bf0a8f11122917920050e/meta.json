@@ -1,0 +1,17 @@
+{
+  "name": "Storichain Token",
+  "symbol": "TORI",
+  "web": "http://storichain.io",
+  "explorer": "https://etherscan.io/token/0xc71e20e54adfc415f79bf0a8f11122917920050e",
+  "links": {
+    "github": "storichain",
+    "coingecko": "storichain-token",
+    "twitter": "storichain",
+    "facebook": "storichain",
+    "telegram": "storichain_en"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

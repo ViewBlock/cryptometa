@@ -1,0 +1,14 @@
+{
+  "name": "Evan",
+  "symbol": "EVAN",
+  "web": "https://www.evanvanness.com",
+  "explorer": "https://etherscan.io/token/0x89E3aC6Dd69C15e9223BE7649025d6F68Dab1d6a",
+  "links": {
+    "coingecko": "evan",
+    "twitter": "evan_van_ness"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

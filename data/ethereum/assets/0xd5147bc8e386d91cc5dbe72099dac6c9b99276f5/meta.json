@@ -1,0 +1,17 @@
+{
+  "name": "renFIL",
+  "symbol": "RENFIL",
+  "web": "https://renproject.io",
+  "explorer": "https://etherscan.io/token/0xD5147bc8e386d91Cc5DBE72099DAC6C9b99276F5",
+  "links": {
+    "github": "renproject",
+    "coingecko": "renfil",
+    "twitter": "renprotocol",
+    "telegram": "renproject",
+    "reddit": "r/RenProject"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

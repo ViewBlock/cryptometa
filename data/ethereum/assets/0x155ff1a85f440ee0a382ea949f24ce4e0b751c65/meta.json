@@ -1,0 +1,16 @@
+{
+  "name": "Behodler",
+  "symbol": "EYE",
+  "web": "https://behodler.io",
+  "explorer": "https://etherscan.io/token/0x155ff1A85F440EE0A382eA949f24CE4E0b751c65",
+  "links": {
+    "github": "WeiDaiEcosystem",
+    "coingecko": "beholder",
+    "twitter": "behodlerDEX",
+    "telegram": "BehodlerDex"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

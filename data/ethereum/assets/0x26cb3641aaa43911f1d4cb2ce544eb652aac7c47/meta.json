@@ -1,0 +1,17 @@
+{
+  "name": "Crystal Token",
+  "symbol": "CYL",
+  "web": "https://www.crystaltoken.co",
+  "explorer": "https://etherscan.io/token/0x26CB3641aaA43911f1D4cB2ce544eb652AAc7c47",
+  "links": {
+    "github": "CrystalToken",
+    "coingecko": "crystal-token",
+    "twitter": "crystal_token",
+    "facebook": "CYLToken",
+    "telegram": "crystaltoken_community"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

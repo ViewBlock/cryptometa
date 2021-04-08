@@ -1,0 +1,14 @@
+{
+  "name": "RCCC",
+  "symbol": "RCCC",
+  "web": "http://www.rccc.pro",
+  "explorer": "https://etherscan.io/token/0x33bfd20660eeaf952e8d5bc3236e1918701f17d0",
+  "links": {
+    "github": "victorymen",
+    "coingecko": "rccc"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

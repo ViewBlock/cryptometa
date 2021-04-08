@@ -1,0 +1,15 @@
+{
+  "name": "Basis Coin Cash",
+  "symbol": "BCC",
+  "web": "https://basiscoin.finance",
+  "explorer": "https://etherscan.io/token/0xaE17f4F5CA32F77ea8e3786db7C0b2FE877aC176",
+  "links": {
+    "coingecko": "basis-coin-cash",
+    "twitter": "Basis_Coin",
+    "telegram": "basiscoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

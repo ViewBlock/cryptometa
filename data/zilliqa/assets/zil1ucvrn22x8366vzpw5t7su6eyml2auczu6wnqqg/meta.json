@@ -1,0 +1,21 @@
+{
+  "name": "zyro.finance",
+  "symbol": "ZYRO",
+  "decimals": 8,
+  "supply": 300000000,
+  "email": "m@zyro.finance",
+  "whitepaper": "https://zyro.finance/zyro.pdf",
+  "links": {
+    "research": "https://www.okex.com/jumpstart/project?id=9520&type=2",
+    "github": " https://github.com/mikelsl/zyro.finance",
+    "twitter": "https://twitter.com/zyro_finance",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/zyro/",
+    "coingecko": "https://www.coingecko.com/en/coins/zyro",
+    "blog": "https://steemit.com/@zyro.finance",
+    "telegram": "https://t.me/officialzyro"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 33
+  }
+}

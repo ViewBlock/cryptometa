@@ -1,0 +1,14 @@
+{
+  "name": "Skull",
+  "symbol": "SKULL",
+  "web": "https://app.tryroll.com/rewards/SKULL",
+  "explorer": "https://etherscan.io/token/0xbcc66ed2ab491e9ae7bf8386541fb17421fa9d35",
+  "links": {
+    "coingecko": "skull",
+    "twitter": "skeenee_art"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Poker.io",
+  "symbol": "POK",
+  "web": "http://poker.io",
+  "explorer": "https://etherscan.io/token/0xbc8deee89f1cf4b661514185aa1ab780336c4c4a",
+  "links": {
+    "coingecko": "poker-io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

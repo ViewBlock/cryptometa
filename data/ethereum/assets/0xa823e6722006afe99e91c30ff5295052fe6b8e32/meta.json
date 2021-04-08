@@ -1,0 +1,18 @@
+{
+  "name": "Neumark",
+  "symbol": "NEU",
+  "web": "https://neufund.org",
+  "explorer": "https://etherscan.io/token/0xa823e6722006afe99e91c30ff5295052fe6b8e32",
+  "links": {
+    "github": "Neufund",
+    "coingecko": "neumark",
+    "twitter": "neufundorg",
+    "facebook": "neufundorg",
+    "telegram": "neufund",
+    "reddit": "r/neufund"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

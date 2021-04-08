@@ -1,0 +1,17 @@
+{
+  "name": "IGToken",
+  "symbol": "IG",
+  "web": "https://igtoken.net",
+  "explorer": "https://etherscan.io/token/0x8a88f04e0c905054d2f33b26bb3a46d7091a039a",
+  "links": {
+    "github": "IgniteIGT",
+    "coingecko": "igtoken",
+    "twitter": "IGToken_net",
+    "telegram": "IGNITEOfficial",
+    "reddit": "r/IGToken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

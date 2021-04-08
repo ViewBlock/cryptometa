@@ -1,0 +1,15 @@
+{
+  "name": "Fera",
+  "symbol": "FERA",
+  "web": "https://www.ferastrategies.com",
+  "explorer": "https://etherscan.io/token/0x539f3615c1dbafa0d008d87504667458acbd16fa",
+  "links": {
+    "coingecko": "fera",
+    "twitter": "ferastrategies",
+    "telegram": "ferastrategies"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

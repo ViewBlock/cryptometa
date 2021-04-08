@@ -1,0 +1,16 @@
+{
+  "name": "UK Investments",
+  "symbol": "UKI",
+  "web": "https://ukinvestments-75.webself.net",
+  "explorer": "https://etherscan.io/token/0xbdf46502dd5001ed841ad741c8aac4b4e322b320",
+  "links": {
+    "github": "UKInvestments",
+    "coingecko": "uk-investments",
+    "twitter": "EmerenkoN",
+    "telegram": "ukitokens"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

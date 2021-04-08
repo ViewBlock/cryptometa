@@ -1,0 +1,16 @@
+{
+  "name": "BT.Finance",
+  "symbol": "BT",
+  "web": "https://bt.finance",
+  "explorer": "https://etherscan.io/token/0x76c5449f4950f6338a393f53cda8b53b0cd3ca3a",
+  "links": {
+    "github": "btdotfinance",
+    "coingecko": "bt-finance",
+    "twitter": "btdotfinance",
+    "telegram": "btdotfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

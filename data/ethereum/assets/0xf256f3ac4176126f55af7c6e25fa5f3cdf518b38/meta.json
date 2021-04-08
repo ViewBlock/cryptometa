@@ -1,0 +1,13 @@
+{
+  "name": "CEDARS",
+  "symbol": "CEDS",
+  "web": "http://com.cedarsmall.com",
+  "explorer": "https://etherscan.io/token/0xf256f3ac4176126F55af7c6E25fA5F3Cdf518b38",
+  "links": {
+    "coingecko": "cedars"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

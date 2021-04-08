@@ -1,0 +1,17 @@
+{
+  "name": "EUB Chain",
+  "symbol": "EUBC",
+  "web": "https://eubchain.com",
+  "explorer": "https://etherscan.io/token/0xc37e8a31ba2d110c12f09f0239954a68b00bc599",
+  "links": {
+    "github": "eubchain",
+    "coingecko": "eub-chain",
+    "twitter": "eubchain",
+    "facebook": "Eubchain-153177778671597",
+    "telegram": "eubsparkchain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

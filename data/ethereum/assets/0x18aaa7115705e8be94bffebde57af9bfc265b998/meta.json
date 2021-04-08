@@ -1,0 +1,16 @@
+{
+  "name": "Audius",
+  "symbol": "AUDIO",
+  "web": "https://audius.co",
+  "explorer": "https://etherscan.io/token/0x18aaa7115705e8be94bffebde57af9bfc265b998",
+  "links": {
+    "github": "AudiusProject",
+    "coingecko": "audius",
+    "twitter": "AudiusProject",
+    "reddit": "r/audius"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

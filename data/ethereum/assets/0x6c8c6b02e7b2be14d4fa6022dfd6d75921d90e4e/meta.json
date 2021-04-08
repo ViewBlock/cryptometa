@@ -1,0 +1,15 @@
+{
+  "name": "cBAT",
+  "symbol": "CBAT",
+  "web": "https://compound.finance",
+  "explorer": "https://etherscan.io/token/0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e",
+  "links": {
+    "coingecko": "compound-basic-attention-token",
+    "twitter": "compoundfinance",
+    "reddit": "r/compound"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

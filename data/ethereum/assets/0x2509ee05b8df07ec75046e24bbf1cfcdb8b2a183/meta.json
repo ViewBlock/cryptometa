@@ -1,0 +1,13 @@
+{
+  "name": "Amaten",
+  "symbol": "AMA",
+  "web": "https://amaten.io",
+  "explorer": "https://etherscan.io/token/0x2509eE05b8df07EC75046E24BBf1CfCdB8b2A183",
+  "links": {
+    "coingecko": "amaten"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

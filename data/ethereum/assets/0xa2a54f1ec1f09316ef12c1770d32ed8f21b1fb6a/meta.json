@@ -1,0 +1,15 @@
+{
+  "name": "DigiFinexToken",
+  "symbol": "DFT",
+  "web": "https://www.digifinex.com",
+  "explorer": "https://etherscan.io/token/0xa2a54f1ec1f09316ef12c1770d32ed8f21b1fb6a",
+  "links": {
+    "coingecko": "digifinextoken",
+    "twitter": "digifinex",
+    "telegram": "DigiFinexcn"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

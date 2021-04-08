@@ -1,0 +1,14 @@
+{
+  "name": "Blaze DeFi",
+  "symbol": "BNFI",
+  "web": "https://www.blazenetwork.online/blazegoingdefi",
+  "explorer": "https://etherscan.io/token/0x68e0a48d3bff6633a31d1d100b70f93c3859218b",
+  "links": {
+    "coingecko": "blaze-defi",
+    "twitter": "BlazeNetwork10"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

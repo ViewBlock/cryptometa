@@ -1,0 +1,16 @@
+{
+  "name": "ExNetwork Token",
+  "symbol": "EXNT",
+  "web": "https://exnetwork.community",
+  "explorer": "https://etherscan.io/token/0xD6c67B93a7b248dF608a653d82a100556144c5DA",
+  "links": {
+    "github": "exnetwork",
+    "coingecko": "exnetwork-token",
+    "twitter": "exncapital",
+    "telegram": "exnetworkpublic"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

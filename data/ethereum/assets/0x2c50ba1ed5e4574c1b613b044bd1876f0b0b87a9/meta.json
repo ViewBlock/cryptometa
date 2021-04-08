@@ -1,0 +1,15 @@
+{
+  "name": "Kids Cash",
+  "symbol": "KASH",
+  "web": "https://kash.community",
+  "explorer": "https://etherscan.io/token/0x2c50ba1ed5e4574c1b613b044bd1876f0b0b87a9",
+  "links": {
+    "coingecko": "kids-cash",
+    "twitter": "KashCommunity",
+    "telegram": "kashcommunity"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

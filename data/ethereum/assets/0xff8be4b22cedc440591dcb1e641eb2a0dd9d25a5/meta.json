@@ -1,0 +1,15 @@
+{
+  "name": "Uranus",
+  "symbol": "URAC",
+  "web": "https://www.uranus.io",
+  "explorer": "https://etherscan.io/token/0xff8be4b22cedc440591dcb1e641eb2a0dd9d25a5",
+  "links": {
+    "github": "UranusBlockStack",
+    "coingecko": "uranus",
+    "telegram": "Uraners"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

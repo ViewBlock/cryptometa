@@ -1,0 +1,11 @@
+{
+  "name": "Anime Token",
+  "symbol": "ANI",
+  "web": "https://animetoken.me",
+  "explorer": "https://bscscan.com/token/0xac472d0eed2b8a2f57a6e304ea7ebd8e88d1d36f",
+  "links": {
+    "coingecko": "anime-token",
+    "twitter": "TokenAnime",
+    "telegram": "AnimeBEP20"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "BNS Token",
+  "symbol": "BNS",
+  "web": "https://bitbns.com",
+  "explorer": "https://etherscan.io/token/0x695106ad73f506f9d0a9650a78019a93149ae07c",
+  "links": {
+    "coingecko": "bns-token",
+    "twitter": "bitbns",
+    "facebook": "bitbns",
+    "telegram": "Bitbns",
+    "reddit": "r/Bitbns"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

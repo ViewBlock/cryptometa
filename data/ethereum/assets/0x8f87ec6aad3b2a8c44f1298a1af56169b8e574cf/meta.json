@@ -1,0 +1,16 @@
+{
+  "name": "LYNC Network",
+  "symbol": "LYNC",
+  "web": "https://lync.network",
+  "explorer": "https://etherscan.io/token/0x8f87Ec6aAd3B2A8C44f1298A1af56169B8e574cf",
+  "links": {
+    "github": "LYNCNetwork",
+    "coingecko": "lync-network",
+    "twitter": "thelyncnetwork",
+    "telegram": "lyncnetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

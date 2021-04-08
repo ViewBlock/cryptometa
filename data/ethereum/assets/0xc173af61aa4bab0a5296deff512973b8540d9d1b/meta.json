@@ -1,0 +1,13 @@
+{
+  "name": "CPT",
+  "symbol": "CPT",
+  "web": "http://cptstaking.com",
+  "explorer": "https://etherscan.io/token/0xc173af61aa4bab0a5296deff512973b8540d9d1b",
+  "links": {
+    "coingecko": "cpt"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

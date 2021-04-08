@@ -1,0 +1,17 @@
+{
+  "name": "PGF500",
+  "symbol": "PGF7T",
+  "web": "https://www.pgf500.com",
+  "explorer": "https://etherscan.io/token/0x9fadea1aff842d407893e21dbd0e2017b4c287b6",
+  "links": {
+    "github": "PGF500Crowdsale",
+    "coingecko": "pgf500",
+    "twitter": "pgf500",
+    "facebook": "pgf500",
+    "telegram": "PGF500"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

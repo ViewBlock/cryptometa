@@ -1,0 +1,16 @@
+{
+  "name": "UniGame",
+  "symbol": "UNC",
+  "web": "http://www.unigame.com",
+  "explorer": "https://etherscan.io/token/0x4dcadd9adfd450c2ef997bb71888c2995e2d33a0",
+  "links": {
+    "coingecko": "unigame",
+    "twitter": "unigameofficial",
+    "facebook": "UniGameOfficial",
+    "telegram": "unigame_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

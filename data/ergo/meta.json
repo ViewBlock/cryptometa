@@ -1,0 +1,16 @@
+{
+  "name": "Ergo",
+  "symbol": "ERG",
+  "web": "https://ergoplatform.org/en",
+  "explorer": "https://explorer.ergoplatform.com",
+  "links": {
+    "github": "ergoplatform",
+    "coingecko": "ergo",
+    "twitter": "ergoplatformorg",
+    "telegram": "ergoplatform"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true
+  }
+}

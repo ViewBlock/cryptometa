@@ -1,0 +1,17 @@
+{
+  "name": "PDX",
+  "symbol": "PDX",
+  "web": "http://pdx.link",
+  "explorer": "https://etherscan.io/token/0x5f33d158ca7275848f70a3f149b421190df85b32",
+  "links": {
+    "github": "PDXbaap",
+    "coingecko": "pdx",
+    "twitter": "PDXbaap",
+    "facebook": "PDXbaap",
+    "telegram": "PDXbaap"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

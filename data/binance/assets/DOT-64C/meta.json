@@ -8,9 +8,12 @@
   "links": {
     "research": "https://research.binance.com/en/projects/polkadot"
   },
+  "config": {
+    "dark": true
+  },
   "gen": {
     "logo": "logo.png",
-    "hasDark": false,
+    "hasDark": true,
     "score": 10
   }
 }

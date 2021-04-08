@@ -1,0 +1,17 @@
+{
+  "name": "NemoCoin",
+  "symbol": "NEMO",
+  "web": "http://nemolab.kr",
+  "explorer": "https://etherscan.io/token/0x957b28f93b0e01557e21e6c564ab26ddc2d18ec5",
+  "links": {
+    "github": "nemolab-project",
+    "coingecko": "nemocoin",
+    "twitter": "TheNEMODaX",
+    "facebook": "TheNEMODaX",
+    "telegram": "NEMODaX_PublicGlobal"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

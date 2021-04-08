@@ -1,0 +1,14 @@
+{
+  "name": "Covid19",
+  "symbol": "CVD",
+  "web": "https://www.covid19token.org",
+  "explorer": "https://etherscan.io/token/0x6b466b0232640382950c45440ea5b630744eca99",
+  "links": {
+    "coingecko": "covid19",
+    "twitter": "Covid19Token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

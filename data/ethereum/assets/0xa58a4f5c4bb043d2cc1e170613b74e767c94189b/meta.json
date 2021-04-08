@@ -1,0 +1,16 @@
+{
+  "name": "UTU Coin",
+  "symbol": "UTU",
+  "web": "https://protocol.utu.io",
+  "explorer": "https://etherscan.io/token/0xa58a4f5c4bb043d2cc1e170613b74e767c94189b",
+  "links": {
+    "github": "utu-protocol",
+    "coingecko": "utu-coin",
+    "twitter": "utu_trust",
+    "telegram": "ututrust"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

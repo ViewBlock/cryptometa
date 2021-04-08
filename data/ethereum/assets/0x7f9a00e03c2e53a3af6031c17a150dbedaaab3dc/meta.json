@@ -1,0 +1,16 @@
+{
+  "name": "Read This Contract",
+  "symbol": "RTC",
+  "web": "https://swapship.finance",
+  "explorer": "https://etherscan.io/token/0x7f9a00e03c2e53a3af6031c17a150dbedaaab3dc",
+  "links": {
+    "github": "https:",
+    "coingecko": "read-this-contract",
+    "twitter": "RTC_Eco",
+    "telegram": "ReadThisContract"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

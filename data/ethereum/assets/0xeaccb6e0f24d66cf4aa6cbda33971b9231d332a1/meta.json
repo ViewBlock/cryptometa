@@ -1,0 +1,15 @@
+{
+  "name": "Polyient Games Governance Token",
+  "symbol": "PGT",
+  "web": "https://www.polyient.games",
+  "explorer": "https://etherscan.io/token/0xeaccb6E0f24d66cF4Aa6cBDa33971b9231d332a1",
+  "links": {
+    "coingecko": "polyient-games-governance-token",
+    "twitter": "polyientgames",
+    "telegram": "polyientgames_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

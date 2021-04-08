@@ -1,0 +1,17 @@
+{
+  "name": "Sentinel Protocol",
+  "symbol": "UPP",
+  "web": "https://uppsalasecurity.com",
+  "explorer": "https://etherscan.io/token/0xc86d054809623432210c107af2e3f619dcfbf652",
+  "links": {
+    "coingecko": "sentinel-protocol",
+    "twitter": "UPPSentinel",
+    "facebook": "sentinelprotocol",
+    "telegram": "newofficialsentinelprotocol",
+    "reddit": "r/Sentinel_Protocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

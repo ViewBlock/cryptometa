@@ -1,0 +1,15 @@
+{
+  "name": "Energy Ledger",
+  "symbol": "ELX",
+  "web": "https://energyledger.com",
+  "explorer": "https://etherscan.io/token/0x9048c33c7bae0bbe9ad702b17b4453a83900d154",
+  "links": {
+    "coingecko": "energy-ledger",
+    "twitter": "energy_ledger",
+    "telegram": "ELXOFFICIALGROUP"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

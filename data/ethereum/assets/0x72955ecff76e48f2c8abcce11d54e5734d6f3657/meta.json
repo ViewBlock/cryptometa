@@ -1,0 +1,16 @@
+{
+  "name": "TrustVerse",
+  "symbol": "TRV",
+  "web": "https://trustverse.io",
+  "explorer": "https://etherscan.io/token/0x72955ecff76e48f2c8abcce11d54e5734d6f3657",
+  "links": {
+    "coingecko": "trustverse",
+    "twitter": "trustverse",
+    "facebook": "trustverseofficial",
+    "telegram": "trustverse_officialchannel"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

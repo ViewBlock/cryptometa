@@ -1,0 +1,16 @@
+{
+  "name": "Chiliz",
+  "symbol": "CHZ",
+  "web": "https://www.chiliz.com",
+  "explorer": "https://etherscan.io/token/0x3506424f91fd33084466f402d5d97f05f8e3b4af",
+  "links": {
+    "coingecko": "chiliz",
+    "twitter": "chiliz",
+    "facebook": "chilizdotcom",
+    "telegram": "chiliz_io"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Monavale",
+  "symbol": "MONA",
+  "web": "https://www.digitalax.xyz",
+  "explorer": "https://etherscan.io/token/0x275f5Ad03be0Fa221B4C6649B8AeE09a42D9412A",
+  "links": {
+    "github": "DIGITALAX",
+    "coingecko": "monavale",
+    "twitter": "DIGITALAX_",
+    "telegram": "digitalaxTG"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

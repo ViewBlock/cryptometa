@@ -1,0 +1,15 @@
+{
+  "name": "ETH Trending Alpha ST Set II",
+  "symbol": "ETAS",
+  "web": "https://www.tokensets.com/set/etas-1",
+  "explorer": "https://etherscan.io/token/0x856c4388c56c2a613c60507a4701af627157fed6",
+  "links": {
+    "github": "SetProtocol",
+    "coingecko": "eth-trending-alpha-st-set-ii",
+    "twitter": "SetProtocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

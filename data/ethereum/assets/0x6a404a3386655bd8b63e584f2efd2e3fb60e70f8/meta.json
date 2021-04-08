@@ -1,0 +1,13 @@
+{
+  "name": "Latex Chain",
+  "symbol": "LXC",
+  "web": "http://www.latexchain.io",
+  "explorer": "https://etherscan.io/token/0x6a404a3386655bd8b63e584f2efd2e3fb60e70f8",
+  "links": {
+    "coingecko": "latex-chain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

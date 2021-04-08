@@ -1,0 +1,15 @@
+{
+  "name": "Volt",
+  "symbol": "ACDC",
+  "web": "https://volttech.io",
+  "explorer": "https://etherscan.io/token/0xfc44ec51c80e35a87bc2140299b1636ec83dfb04",
+  "links": {
+    "coingecko": "volt",
+    "twitter": "Volt_Technology",
+    "telegram": "Volt_Technology"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

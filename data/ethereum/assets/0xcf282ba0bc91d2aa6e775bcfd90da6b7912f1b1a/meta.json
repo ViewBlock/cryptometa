@@ -1,0 +1,15 @@
+{
+  "name": "Yearn Ethereum Finance",
+  "symbol": "YEFI",
+  "web": "https://yearneth.finance",
+  "explorer": "https://etherscan.io/token/0xcf282ba0bc91d2aa6e775bcfd90da6b7912f1b1a",
+  "links": {
+    "coingecko": "yearn-ethereum-finance",
+    "twitter": "YearnethF",
+    "telegram": "YEARNETH"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Aditus",
+  "symbol": "ADI",
+  "web": "http://www.aditus.net",
+  "explorer": "https://etherscan.io/token/0x8810c63470d38639954c6b41aac545848c46484a",
+  "links": {
+    "github": "aditus",
+    "coingecko": "aditus",
+    "telegram": "aditusnetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

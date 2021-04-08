@@ -1,0 +1,17 @@
+{
+  "name": "Real Land",
+  "symbol": "RLD",
+  "web": "https://realland.fund",
+  "explorer": "https://etherscan.io/token/0xd1632eFa392925089785B43410C529F8959A8D9A",
+  "links": {
+    "github": "realland",
+    "coingecko": "real-land",
+    "twitter": "reallandfund",
+    "facebook": "reallandfund",
+    "telegram": "reallandfund"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

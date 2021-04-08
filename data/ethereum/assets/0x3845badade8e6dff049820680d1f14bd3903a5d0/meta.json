@@ -1,0 +1,16 @@
+{
+  "name": "SAND",
+  "symbol": "SAND",
+  "web": "https://www.sandbox.game/en",
+  "explorer": "https://etherscan.io/token/0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
+  "links": {
+    "coingecko": "the-sandbox",
+    "twitter": "TheSandboxGame",
+    "facebook": "TheSandboxGame",
+    "telegram": "sandboxgame"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

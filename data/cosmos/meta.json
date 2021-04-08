@@ -1,0 +1,17 @@
+{
+  "name": "Cosmos",
+  "symbol": "ATOM",
+  "web": "http://cosmos.network",
+  "explorer": "https://www.mintscan.io/cosmos",
+  "links": {
+    "github": "cosmos",
+    "coingecko": "cosmos",
+    "twitter": "cosmos",
+    "telegram": "cosmosproject",
+    "reddit": "r/cosmosnetwork"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Mirrored Tesla",
+  "symbol": "MTSLA",
+  "web": "https://mirror.finance",
+  "explorer": "https://etherscan.io/token/0x21cA39943E91d704678F5D00b6616650F066fD63",
+  "links": {
+    "github": "mirror-protocol",
+    "coingecko": "mirrored-tesla",
+    "twitter": "mirror_protocol",
+    "telegram": "mirror_protocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

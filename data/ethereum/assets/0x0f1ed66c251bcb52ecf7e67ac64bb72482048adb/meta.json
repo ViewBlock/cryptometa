@@ -1,0 +1,16 @@
+{
+  "name": "Seer",
+  "symbol": "SEER",
+  "web": "https://www.seer.best",
+  "explorer": "https://etherscan.io/token/0x0f1ed66c251bcb52ecf7e67ac64bb72482048adb",
+  "links": {
+    "github": "seer-project",
+    "coingecko": "seer",
+    "twitter": "info_SEER",
+    "telegram": "seerchain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

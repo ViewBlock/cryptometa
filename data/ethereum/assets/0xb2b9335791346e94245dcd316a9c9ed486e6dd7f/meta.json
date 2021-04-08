@@ -1,0 +1,16 @@
+{
+  "name": "Baby Power Index Pool Token",
+  "symbol": "PIPT",
+  "web": "https://app.powerpool.finance/#/mainnet/pools/shared/0xb2B9335791346E94245DCd316A9C9ED486E6dD7f",
+  "explorer": "https://etherscan.io/token/0xb2b9335791346e94245dcd316a9c9ed486e6dd7f",
+  "links": {
+    "github": "powerpool-finance",
+    "coingecko": "baby-power-index-pool-token",
+    "twitter": "powerpoolcvp",
+    "telegram": "powerpoolcvp"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

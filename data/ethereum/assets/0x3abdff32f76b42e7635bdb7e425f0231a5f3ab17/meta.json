@@ -1,0 +1,18 @@
+{
+  "name": "ConnectJob",
+  "symbol": "CJT",
+  "web": "https://www.connectjob.io",
+  "explorer": "https://etherscan.io/token/0x3abdff32f76b42e7635bdb7e425f0231a5f3ab17",
+  "links": {
+    "github": "eclips16",
+    "coingecko": "connectjob",
+    "twitter": "connectjobfd",
+    "facebook": "connectjob.io",
+    "reddit": "r/ConnectJob"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

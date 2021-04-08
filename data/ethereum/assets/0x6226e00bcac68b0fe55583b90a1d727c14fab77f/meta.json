@@ -1,0 +1,16 @@
+{
+  "name": "MultiVAC",
+  "symbol": "MTV",
+  "web": "https://www.mtv.ac",
+  "explorer": "https://etherscan.io/token/0x6226e00bCAc68b0Fe55583B90A1d727C14fAB77f",
+  "links": {
+    "github": "multivactech",
+    "coingecko": "multivac",
+    "twitter": "MultiVAC_Global",
+    "telegram": "MTVCommunity"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

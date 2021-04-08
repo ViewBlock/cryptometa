@@ -1,0 +1,17 @@
+{
+  "name": "Sora",
+  "symbol": "XOR",
+  "web": "https://sora.org",
+  "explorer": "https://etherscan.io/token/0x40FD72257597aA14C7231A7B1aaa29Fce868F677",
+  "links": {
+    "github": "soramitsu",
+    "coingecko": "sora",
+    "twitter": "sora_xor",
+    "telegram": "sora_xor",
+    "reddit": "r/SORA"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

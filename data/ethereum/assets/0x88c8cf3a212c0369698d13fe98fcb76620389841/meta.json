@@ -1,0 +1,14 @@
+{
+  "name": "sEOS",
+  "symbol": "SEOS",
+  "web": "https://www.synthetix.io/tokens",
+  "explorer": "https://etherscan.io/token/0x88C8Cf3A212c0369698D13FE98Fcb76620389841",
+  "links": {
+    "coingecko": "seos",
+    "twitter": "synthetix_Io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "BitpakcoinToken",
+  "symbol": "BPAKC",
+  "web": "https://www.bitpakcoin.com",
+  "explorer": "https://etherscan.io/token/0xdf22da9a8c1d80095175ae601d182a734923f01a",
+  "links": {
+    "github": "bitpakcoin",
+    "coingecko": "bitpakcointoken",
+    "twitter": "bitpakcoin/",
+    "facebook": "bitpak.bitpakcoin.7/",
+    "telegram": "Bitpakcoin_Offical"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

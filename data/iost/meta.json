@@ -1,0 +1,18 @@
+{
+  "name": "IOST",
+  "symbol": "IOST",
+  "web": "http://iost.io",
+  "explorer": "https://www.iostabc.com",
+  "links": {
+    "github": "iost-official",
+    "coingecko": "iostoken",
+    "twitter": "IOST_Official",
+    "facebook": "IOSTofficial",
+    "telegram": "officialios",
+    "reddit": "r/IOStoken"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true
+  }
+}

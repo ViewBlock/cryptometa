@@ -1,0 +1,16 @@
+{
+  "name": "ACoconut",
+  "symbol": "AC",
+  "web": "https://acbtc.fi",
+  "explorer": "https://etherscan.io/token/0x9A0aBA393aac4dFbFf4333B06c407458002C6183",
+  "links": {
+    "github": "nutsfinance",
+    "coingecko": "acoconut",
+    "twitter": "NUTSFinance",
+    "telegram": "acbtc_community"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

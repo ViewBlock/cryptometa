@@ -1,0 +1,17 @@
+{
+  "name": "Snowball",
+  "symbol": "SNBL",
+  "web": "https://gamelimited.net",
+  "explorer": "https://etherscan.io/token/0x198a87b3114143913d4229fb0f6d4bcb44aa8aff",
+  "links": {
+    "github": "gamelimited",
+    "coingecko": "snowball",
+    "twitter": "snowball_coin",
+    "facebook": "snowballproject",
+    "telegram": "snowballproject"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

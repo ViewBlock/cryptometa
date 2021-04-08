@@ -1,0 +1,17 @@
+{
+  "name": "IG Gold",
+  "symbol": "IGG",
+  "web": "https://www.iggalaxy.com",
+  "explorer": "https://etherscan.io/token/0x8ffe40a3d0f80c0ce6b203d5cdc1a6a86d9acaea",
+  "links": {
+    "coingecko": "ig-gold",
+    "twitter": "IG_Galaxy",
+    "facebook": "IGGalaxy",
+    "telegram": "IGGalaxy",
+    "reddit": "r/IntergalacticGaming"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

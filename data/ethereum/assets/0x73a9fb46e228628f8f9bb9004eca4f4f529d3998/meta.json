@@ -1,0 +1,17 @@
+{
+  "name": "Wrapped LEO",
+  "symbol": "WLEO",
+  "web": "https://leofinance.io",
+  "explorer": "https://etherscan.io/token/0x73A9fb46e228628f8f9BB9004eCa4f4F529D3998",
+  "links": {
+    "github": "steemleo",
+    "coingecko": "wrapped-leo",
+    "twitter": "financeleo",
+    "telegram": "leofinanceio",
+    "reddit": "r/LeoFinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

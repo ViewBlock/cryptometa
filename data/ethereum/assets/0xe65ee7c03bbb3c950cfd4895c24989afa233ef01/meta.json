@@ -1,0 +1,17 @@
+{
+  "name": "Zynecoin",
+  "symbol": "ZYN",
+  "web": "https://zynecoin.io",
+  "explorer": "https://etherscan.io/token/0xe65ee7c03bbb3c950cfd4895c24989afa233ef01",
+  "links": {
+    "github": "zynecoin",
+    "coingecko": "zynecoin",
+    "twitter": "zynecoin",
+    "facebook": "zynecoin",
+    "telegram": "zynecoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

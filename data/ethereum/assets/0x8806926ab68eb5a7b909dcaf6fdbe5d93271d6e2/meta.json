@@ -1,0 +1,18 @@
+{
+  "name": "Uquid Coin",
+  "symbol": "UQC",
+  "web": "https://uquidcoin.com",
+  "explorer": "https://etherscan.io/token/0x8806926ab68eb5a7b909dcaf6fdbe5d93271d6e2",
+  "links": {
+    "github": "uquid",
+    "coingecko": "uquid-coin",
+    "twitter": "UquidC",
+    "facebook": "uquidcoin",
+    "telegram": "uquidcoinofficial",
+    "reddit": "r/uquidcoin"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "FaithCoin",
+  "symbol": "FAITH",
+  "web": "https://myfaithcoin.info",
+  "explorer": "https://etherscan.io/token/0xe531642e9bb5d027e9c20e03284287b97919a9a5",
+  "links": {
+    "github": "MyFaithCoin",
+    "coingecko": "faithcoin",
+    "twitter": "MyFaithCoin",
+    "facebook": "myfaithcoin",
+    "telegram": "FaithCoin",
+    "reddit": "r/myfaithcoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

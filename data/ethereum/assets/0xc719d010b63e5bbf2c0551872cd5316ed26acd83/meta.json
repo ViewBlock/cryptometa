@@ -1,0 +1,17 @@
+{
+  "name": "Etherisc DIP Token",
+  "symbol": "DIP",
+  "web": "https://etherisc.com",
+  "explorer": "https://etherscan.io/token/0xc719d010b63e5bbf2c0551872cd5316ed26acd83",
+  "links": {
+    "github": "etherisc",
+    "coingecko": "etherisc",
+    "twitter": "etherisc",
+    "telegram": "etherisc_community",
+    "reddit": "r/etherisc"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Deflect",
+  "symbol": "DEFLCT",
+  "web": "https://deflectprotocol.io",
+  "explorer": "https://etherscan.io/token/0x3aa5f749d4a6bcf67dac1091ceb69d1f5d86fa53",
+  "links": {
+    "coingecko": "deflect",
+    "twitter": "deflectprotocol",
+    "telegram": "deflectprotocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

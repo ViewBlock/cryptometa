@@ -1,0 +1,16 @@
+{
+  "name": "BitherCash",
+  "symbol": "BICAS",
+  "web": "https://bithercash.club",
+  "explorer": "https://etherscan.io/token/0xa7d10ff962eda41f3b037e3af1d8b4037eba4b86",
+  "links": {
+    "github": "bithercash",
+    "coingecko": "bithercash",
+    "twitter": "bithercash",
+    "telegram": "bithercash_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "QChi",
+  "symbol": "QCH",
+  "web": "http://www.qchi.mobi",
+  "explorer": "https://etherscan.io/token/0x687bfc3e73f6af55f0ccca8450114d107e781a0e",
+  "links": {
+    "github": "qch-qchi",
+    "coingecko": "qchi",
+    "twitter": "qchqchi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

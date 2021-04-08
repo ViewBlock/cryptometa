@@ -1,0 +1,13 @@
+{
+  "name": "IdleTUSD (Best Yield)",
+  "symbol": "IDLETUSDYIELD",
+  "web": "https://idle.finance",
+  "explorer": "https://etherscan.io/token/0xc278041fdd8249fe4c1aad1193876857eea3d68c",
+  "links": {
+    "coingecko": "idle-tusd-yield"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

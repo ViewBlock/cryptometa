@@ -1,0 +1,18 @@
+{
+  "name": "Telcoin",
+  "symbol": "TEL",
+  "web": "http://www.telco.in",
+  "explorer": "https://etherscan.io/token/0x467Bccd9d29f223BcE8043b84E8C8B282827790F",
+  "links": {
+    "github": "telcoin",
+    "coingecko": "telcoin",
+    "twitter": "telcoin_team",
+    "facebook": "telcoin",
+    "telegram": "telcoincommunity",
+    "reddit": "r/Telcoin"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

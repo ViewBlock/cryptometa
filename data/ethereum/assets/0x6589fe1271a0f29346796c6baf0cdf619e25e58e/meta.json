@@ -1,0 +1,15 @@
+{
+  "name": "Grain",
+  "symbol": "GRAIN",
+  "web": "https://harvest.finance",
+  "explorer": "https://etherscan.io/token/0x6589fe1271a0f29346796c6baf0cdf619e25e58e",
+  "links": {
+    "coingecko": "grain-token",
+    "twitter": "harvest_finance  ",
+    "reddit": "r/HarvestFinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

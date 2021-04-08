@@ -1,0 +1,16 @@
+{
+  "name": "FastSwap",
+  "symbol": "FAST",
+  "web": "https://fastswap.exchange",
+  "explorer": "https://etherscan.io/token/0xc888a0ab4831a29e6ca432babf52e353d23db3c2",
+  "links": {
+    "github": "toshifyfinance",
+    "coingecko": "fastswap",
+    "twitter": "fastswapdex",
+    "telegram": "fastswapdex"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

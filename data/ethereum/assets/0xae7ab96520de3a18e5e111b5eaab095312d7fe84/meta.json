@@ -1,0 +1,17 @@
+{
+  "name": "Lido Staked Ether",
+  "symbol": "STETH",
+  "web": "https://www.lido.fi",
+  "explorer": "https://etherscan.io/token/0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+  "links": {
+    "github": "lidofinance",
+    "coingecko": "staked-ether",
+    "twitter": "lidofinance",
+    "telegram": "lidofinance",
+    "reddit": "r/lidofinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

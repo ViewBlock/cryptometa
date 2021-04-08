@@ -1,0 +1,17 @@
+{
+  "name": "Bitbook Gambling",
+  "symbol": "BXK",
+  "web": "https://ico.bitbook.ag",
+  "explorer": "https://etherscan.io/token/0xeb6985acd6d0cbff60b88032b0b29ac1d9d66a1b",
+  "links": {
+    "coingecko": "bitbook-gambling",
+    "twitter": "Bitbook_Ag",
+    "facebook": "Bitbookag-202798923898338",
+    "telegram": "Bitbook_ag_ICO",
+    "reddit": "r/bitbook_ag"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

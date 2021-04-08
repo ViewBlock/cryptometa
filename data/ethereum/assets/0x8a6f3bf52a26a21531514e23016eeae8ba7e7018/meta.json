@@ -1,0 +1,17 @@
+{
+  "name": "Multiplier",
+  "symbol": "MXX",
+  "web": "https://multiplier.finance",
+  "explorer": "https://etherscan.io/token/0x8a6f3bf52a26a21531514e23016eeae8ba7e7018",
+  "links": {
+    "github": "Multiplier-Finance",
+    "coingecko": "multiplier",
+    "twitter": "MultiplierMXX",
+    "facebook": "themultiplierio",
+    "telegram": "themultiplierio"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Akita Inu",
+  "symbol": "AKITA",
+  "web": "https://www.akitatoken.net",
+  "explorer": "https://etherscan.io/token/0x3301ee63fb29f863f2333bd4466acb46cd8323e6",
+  "links": {
+    "coingecko": "akita-inu",
+    "telegram": "akitatoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Bintex Futures",
+  "symbol": "BNTX",
+  "web": "https://bintexfutures.com",
+  "explorer": "https://etherscan.io/token/0x86d1d12523B65203851c571FcC029bF90903fB6d",
+  "links": {
+    "coingecko": "bintex-futures",
+    "twitter": "Bintexfutures",
+    "facebook": "bintexfutures2019",
+    "telegram": "bintexfutures_chat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

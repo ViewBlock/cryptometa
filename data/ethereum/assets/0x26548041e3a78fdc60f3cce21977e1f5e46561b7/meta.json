@@ -1,0 +1,15 @@
+{
+  "name": "ZuCoinChain",
+  "symbol": "ZCC",
+  "web": "https://zuchain.io",
+  "explorer": "https://etherscan.io/token/0x26548041e3a78fDc60f3ccE21977E1F5e46561B7",
+  "links": {
+    "coingecko": "zucoinchain",
+    "twitter": "zucoinchain",
+    "facebook": "zucoinchainofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

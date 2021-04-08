@@ -1,0 +1,11 @@
+{
+  "name": "Galatasaray Fan Token",
+  "symbol": "GAL",
+  "web": "https://www.galatasaray.org",
+  "explorer": "https://explorer.chiliz.com/tokens/0x73f309e94d836bab473b1ebc0103a3dcd7daeaa9/token-transfers",
+  "links": {
+    "coingecko": "galatasaray-fan-token",
+    "twitter": "GalatasaraySK",
+    "facebook": "Galatasaray"
+  }
+}

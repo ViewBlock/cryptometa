@@ -1,0 +1,15 @@
+{
+  "name": "Terra",
+  "symbol": "LUNA",
+  "web": "https://terra.money",
+  "explorer": "https://finder.terra.money",
+  "links": {
+    "github": "terra-project",
+    "coingecko": "terra-luna",
+    "twitter": "terra_money",
+    "telegram": "TerraLunaChat"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

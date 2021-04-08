@@ -1,0 +1,16 @@
+{
+  "name": "DRC Mobility",
+  "symbol": "DRC",
+  "web": "https://drc.asia",
+  "explorer": "https://etherscan.io/token/0xd7f5CABdF696D7d1bf384D7688926A4bdB092c67",
+  "links": {
+    "github": "DRC-asia",
+    "coingecko": "drc-mobility",
+    "twitter": "drc_asia",
+    "telegram": "DRC_Official"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

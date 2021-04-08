@@ -1,0 +1,18 @@
+{
+  "name": "Helios Protocol",
+  "symbol": "HLS",
+  "web": "https://heliosprotocol.io",
+  "explorer": "https://etherscan.io/token/0xf5d714d9cd577b7daf83f84aea37a1eb0787e7ad",
+  "links": {
+    "github": "Helios-Protocol",
+    "coingecko": "helios-protocol",
+    "twitter": "HeliosPlatform",
+    "facebook": "HeliosProtocolPlatform",
+    "telegram": "heliosprotocol",
+    "reddit": "r/heliosprotocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

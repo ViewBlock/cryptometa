@@ -1,0 +1,15 @@
+{
+  "name": "Variable Time Dollar",
+  "symbol": "VTD",
+  "web": "https://vtd.finance",
+  "explorer": "https://etherscan.io/token/0xf0E3543744AFcEd8042131582f2A19b6AEb82794",
+  "links": {
+    "github": "variabletime",
+    "coingecko": "variable-time-dollar",
+    "telegram": "vtdfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

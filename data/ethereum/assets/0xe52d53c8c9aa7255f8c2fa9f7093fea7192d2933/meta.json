@@ -1,0 +1,15 @@
+{
+  "name": "YieldX",
+  "symbol": "YIELDX",
+  "web": "https://yieldxfarming.io",
+  "explorer": "https://etherscan.io/token/0xE52d53c8C9aa7255F8c2FA9f7093FEa7192D2933",
+  "links": {
+    "coingecko": "yieldx",
+    "twitter": "yieldfarmingio",
+    "telegram": "yieldfarmingio"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

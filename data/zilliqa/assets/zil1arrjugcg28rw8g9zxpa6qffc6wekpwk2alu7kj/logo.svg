@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3682"
+   viewBox="0 0 64 64"
+   version="1.0"
+   sodipodi:docname="ZYF.svg"
+   width="64"
+   height="64"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)">
+  <defs
+     id="defs17" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1392"
+     inkscape:window-height="942"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="-145.6082"
+     inkscape:cy="31.220189"
+     inkscape:window-x="549"
+     inkscape:window-y="35"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0" />
+  <g
+     id="layer1"
+     transform="matrix(0.62233913,0,0,0.59111606,-206.03037,-196.03638)">
+    <path
+       id="path12399"
+       d="m 342.94,391.24 c -0.3,12.25 7.12,19.68 15.23,23.8 13.05,6.62 31.8,4.95 41.88,2.25 11.78,-3.17 21.64,-9.52 30.65,-17.22 0.72,-0.62 -12.06,4.56 -11.86,3.91 1.29,-4.05 0.49,-3.86 0.49,-3.86 l -4.5,0.49 c 3.84,-1.58 8.12,-9.33 4.93,-14.56 -1.28,0.75 -2.57,1.34 -3.85,1.23 2.83,-5.42 3.61,-9.75 0.64,-15.03 -9.43,5.02 -10.07,2.61 -10.07,2.61 l 8.78,-9.87 c -5.73,-1.79 -12.02,-3.6 -18,-1.98 l 4.07,-5.68 c -3.81,-1.54 -9.6,-2.13 -14.45,-0.65 -1.43,0.44 -2.79,1.06 -3.98,1.89 l 3.65,-4.94 c -10.98,0 -19.85,3.99 -23.01,15.21 3.28,-0.86 12.09,-0.44 17.01,7.59 7.02,11.45 -1.54,24.7 -13.15,25.3 -15.4,0.79 -25.38,-20.1 -8.91,-31.18 6.89,-4.64 2.66,-14.37 -5.41,-13.8 -5.2,0.37 -15.71,8.73 -11.34,13.17 0.84,0.85 1.08,3.58 0.75,6 -1.03,7.46 0.83,6.96 2.15,0.43 0.89,-4.46 5.68,-6.75 5.57,-10.72 -0.05,-2.03 3.65,-5.93 5.97,-3.07 3.83,4.72 -12.75,9.08 -13.24,28.68 z"
+       fill="#008000"
+       fill-rule="evenodd"
+       style="fill:#52c4c4;fill-opacity:1" />
+  </g>
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title />
+        <dc:date>2009-01-29T00:53:04</dc:date>
+        <dc:description>Abstract swan silhouette usable for logo, etc.</dc:description>
+        <dc:source>http://openclipart.org/detail/21288/swan-by-babayasin-21288</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>babayasin</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>bird</rdf:li>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>image</rdf:li>
+            <rdf:li>logo</rdf:li>
+            <rdf:li>media</rdf:li>
+            <rdf:li>png</rdf:li>
+            <rdf:li>public domain</rdf:li>
+            <rdf:li>silhouette</rdf:li>
+            <rdf:li>svg</rdf:li>
+            <rdf:li>swan</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

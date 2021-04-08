@@ -9,8 +9,8 @@
     "research": "https://research.binance.com/en/projects/cardano"
   },
   "gen": {
-    "logo": "logo.png",
-    "hasDark": false,
+    "logo": "logo.svg",
+    "hasDark": true,
     "score": 10
   }
 }

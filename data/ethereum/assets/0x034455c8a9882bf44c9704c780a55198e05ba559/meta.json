@@ -1,0 +1,16 @@
+{
+  "name": "Lumos",
+  "symbol": "LMS",
+  "web": "https://lumos.finance",
+  "explorer": "https://etherscan.io/token/0x034455C8a9882BF44C9704c780A55198E05BA559",
+  "links": {
+    "github": "lumosfinance",
+    "coingecko": "lumos",
+    "twitter": "LumosFinance",
+    "telegram": "LumosFinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

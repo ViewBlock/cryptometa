@@ -1,0 +1,18 @@
+{
+  "name": "Elysian",
+  "symbol": "ELY",
+  "web": "https://elycoin.io",
+  "explorer": "https://etherscan.io/token/0xa95592dcffa3c080b4b40e459c5f5692f67db7f8",
+  "links": {
+    "github": "Elysian-ELY",
+    "coingecko": "elysian",
+    "twitter": "Elysian_ELY",
+    "facebook": "ElysianxELY",
+    "telegram": "elysian_ely",
+    "reddit": "r/Elysian_ELY"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

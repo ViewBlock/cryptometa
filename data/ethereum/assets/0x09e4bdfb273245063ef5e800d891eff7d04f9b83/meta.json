@@ -1,0 +1,15 @@
+{
+  "name": "ETH Price Action Candlestick Set",
+  "symbol": "ETHPA",
+  "web": "https://www.tokensets.com/set/ethpa",
+  "explorer": "https://etherscan.io/token/0x09e4bdfb273245063ef5e800d891eff7d04f9b83",
+  "links": {
+    "github": "SetProtocol",
+    "coingecko": "eth-price-action-candlestick-set",
+    "twitter": "SetProtocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

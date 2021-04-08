@@ -1,0 +1,16 @@
+{
+  "name": "Yearn Secure",
+  "symbol": "YSEC",
+  "web": "https://ysec.finance",
+  "explorer": "https://etherscan.io/token/0xeea9aE787f3A620072d13b2cdC8cabFFb9c0aB96",
+  "links": {
+    "github": "YearnSecure",
+    "coingecko": "yearn-secure",
+    "twitter": "YearnSecure",
+    "telegram": "YearnSecure"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

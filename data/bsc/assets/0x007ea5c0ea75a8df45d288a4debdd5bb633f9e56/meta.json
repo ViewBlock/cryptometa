@@ -1,0 +1,13 @@
+{
+  "name": "CanYaCoin",
+  "symbol": "CAN",
+  "web": "https://canya.io",
+  "explorer": "https://bscscan.com/token/0x007ea5c0ea75a8df45d288a4debdd5bb633f9e56",
+  "links": {
+    "github": "CanYaCoinSale",
+    "coingecko": "canyacoin",
+    "twitter": "canyacoin",
+    "facebook": "CanYaCoin",
+    "telegram": "canyacoin"
+  }
+}

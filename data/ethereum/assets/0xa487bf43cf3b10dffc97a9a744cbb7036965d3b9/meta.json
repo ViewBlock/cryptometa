@@ -1,0 +1,16 @@
+{
+  "name": "Deri Protocol",
+  "symbol": "DERI",
+  "web": "https://deri.finance",
+  "explorer": "https://etherscan.io/token/0xa487bf43cf3b10dffc97a9a744cbb7036965d3b9",
+  "links": {
+    "github": "deri-finance",
+    "coingecko": "deri-protocol",
+    "twitter": "DeriProtocol",
+    "telegram": "DeriProtocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

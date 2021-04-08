@@ -1,0 +1,15 @@
+{
+  "name": "HippoFinance",
+  "symbol": "HIPPO",
+  "web": "https://hippo-finance.com",
+  "explorer": "https://etherscan.io/token/0x81313f7c5c9c824236c9e4cba3ac4b049986e756",
+  "links": {
+    "coingecko": "hippo-finance",
+    "twitter": "HippoFinanceCom",
+    "telegram": "hippofinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

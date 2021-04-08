@@ -1,0 +1,15 @@
+{
+  "name": "AAAchain",
+  "symbol": "AAA",
+  "web": "https://aaachain.net",
+  "explorer": "https://etherscan.io/token/0x6aba1623ea906d1164cbb007e764ebde2514a2ba",
+  "links": {
+    "coingecko": "app-alliance-association",
+    "twitter": "AAA_Chain",
+    "telegram": "AAA_Chain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

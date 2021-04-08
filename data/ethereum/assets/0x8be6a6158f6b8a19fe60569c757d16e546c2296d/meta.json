@@ -1,0 +1,15 @@
+{
+  "name": "YFF.Finance",
+  "symbol": "YFF",
+  "web": "https://yff.finance",
+  "explorer": "https://etherscan.io/token/0x8be6a6158f6b8a19fe60569c757d16e546c2296d",
+  "links": {
+    "coingecko": "yff-finance",
+    "twitter": "FarmYff",
+    "telegram": "YFFarm"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

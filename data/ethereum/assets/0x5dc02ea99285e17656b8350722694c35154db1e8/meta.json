@@ -1,0 +1,15 @@
+{
+  "name": "Bonded Finance",
+  "symbol": "BOND",
+  "web": "https://bonded.finance",
+  "explorer": "https://etherscan.io/token/0x5dc02ea99285e17656b8350722694c35154db1e8",
+  "links": {
+    "coingecko": "bonded-finance",
+    "twitter": "Bondedfinance",
+    "telegram": "bondedfinance"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

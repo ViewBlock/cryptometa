@@ -1,0 +1,17 @@
+{
+  "name": "SpankChain",
+  "symbol": "SPANK",
+  "web": "https://spankchain.com",
+  "explorer": "https://etherscan.io/token/0x42d6622dece394b54999fbd73d108123806f6a18",
+  "links": {
+    "github": "spankchain",
+    "coingecko": "spankchain",
+    "twitter": "spankchain",
+    "facebook": "spankchain",
+    "reddit": "r/SpankChain"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

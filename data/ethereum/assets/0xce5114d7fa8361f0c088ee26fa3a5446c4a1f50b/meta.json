@@ -1,0 +1,19 @@
+{
+  "name": "Blue Whale",
+  "symbol": "BWX",
+  "web": "https://www.bluewhale.foundation",
+  "explorer": "https://etherscan.io/token/0xce5114d7fa8361f0c088ee26fa3a5446c4a1f50b",
+  "links": {
+    "github": "BlueWhaleFoundation",
+    "coingecko": "blue-whale",
+    "twitter": "BlueWhaleFdn",
+    "facebook": "bluewhalefoundation",
+    "telegram": "bluewhalefdn",
+    "reddit": "r/BlueWhaleFdn"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

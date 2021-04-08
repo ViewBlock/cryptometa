@@ -1,0 +1,15 @@
+{
+  "name": "cSAI",
+  "symbol": "CSAI",
+  "web": "https://compound.finance",
+  "explorer": "https://etherscan.io/token/0xf5dce57282a584d2746faf1593d3121fcac444dc",
+  "links": {
+    "coingecko": "compound-sai",
+    "twitter": "compoundfinance",
+    "reddit": "r/compound"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "TokenAsset",
+  "symbol": "NTB",
+  "web": "https://tokenasset.com",
+  "explorer": "https://etherscan.io/token/0xbe393aa534f82c0ffac31bf06a23e283acb3352b",
+  "links": {
+    "coingecko": "tokenasset",
+    "telegram": "tokenAsset_Official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

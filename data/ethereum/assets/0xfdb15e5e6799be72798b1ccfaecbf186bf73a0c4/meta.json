@@ -1,0 +1,16 @@
+{
+  "name": "NitroEX",
+  "symbol": "NTX",
+  "web": "https://www.nitroex.io",
+  "explorer": "https://etherscan.io/token/0xFDb15e5E6799Be72798b1ccFAEcbF186Bf73A0c4",
+  "links": {
+    "coingecko": "nitroex",
+    "twitter": "NitroExOfficial",
+    "facebook": "nitroex.io",
+    "telegram": "NitroExOfficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

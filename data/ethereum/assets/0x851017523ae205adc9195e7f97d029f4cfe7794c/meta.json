@@ -1,0 +1,15 @@
+{
+  "name": "Social Lending Token",
+  "symbol": "SLT",
+  "web": "https://sociallending.io",
+  "explorer": "https://etherscan.io/token/0x851017523ae205adc9195e7f97d029f4cfe7794c",
+  "links": {
+    "coingecko": "social-lending-token",
+    "twitter": "renmaibao",
+    "telegram": "SocialLending"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

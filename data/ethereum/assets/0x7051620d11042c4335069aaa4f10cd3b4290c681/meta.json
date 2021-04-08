@@ -1,0 +1,18 @@
+{
+  "name": "TCASH",
+  "symbol": "TCASH",
+  "web": "https://www.etherflyer.com/index.html",
+  "explorer": "https://etherscan.io/token/0x7051620d11042c4335069AaA4f10Cd3B4290C681",
+  "links": {
+    "github": "EtherFlyer",
+    "coingecko": "tcash",
+    "twitter": "etherflyercom",
+    "facebook": "flyer.ether.5",
+    "telegram": "etherFlyer",
+    "reddit": "r/EtherFlyer"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

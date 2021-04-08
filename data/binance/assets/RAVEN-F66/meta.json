@@ -1,19 +1,20 @@
 {
-  "symbol": "RAVEN-F66",
   "name": "Raven Protocol",
-  "email": null,
+  "symbol": "RAVEN-F66",
   "web": "https://www.ravenprotocol.com",
-  "decimals": 18,
-  "supply": 10000000000,
+  "explorer": "https://explorer.binance.org/asset/RAVEN-F66",
   "links": {
+    "coingecko": "raven-protocol",
     "twitter": "https://twitter.com/raven_protocol",
-    "facebook": "https://facebook.com/ravenprotocol",
     "telegram": "https://t.me/ravenprotocol",
+    "facebook": "https://facebook.com/ravenprotocol",
     "medium": "https://medium.com/ravenprotocol"
   },
+  "email": null,
+  "decimals": 18,
+  "supply": 10000000000,
   "gen": {
     "logo": "logo.png",
-    "hasDark": false,
     "score": 10
   }
 }

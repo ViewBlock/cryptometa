@@ -1,0 +1,16 @@
+{
+  "name": "Biido",
+  "symbol": "BION",
+  "web": "https://biido.id",
+  "explorer": "https://etherscan.io/token/0x9b1b1e109ff130b298cf1d47389c47569f5c2932",
+  "links": {
+    "coingecko": "biido",
+    "twitter": "Biidoid",
+    "facebook": "biido.id",
+    "telegram": "biidoofficialglobal"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

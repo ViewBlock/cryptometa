@@ -1,0 +1,18 @@
+{
+  "name": "DAV Network",
+  "symbol": "DAV",
+  "web": "https://dav.network",
+  "explorer": "https://etherscan.io/token/0xd82df0abd3f51425eb15ef7580fda55727875f14",
+  "links": {
+    "github": "DAVFoundation",
+    "coingecko": "dav",
+    "twitter": "DavNetwork",
+    "facebook": "DAVNetworkTeam",
+    "telegram": "DAVNetwork",
+    "reddit": "r/DAVNetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

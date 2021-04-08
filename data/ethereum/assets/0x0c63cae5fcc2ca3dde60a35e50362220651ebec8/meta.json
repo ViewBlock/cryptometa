@@ -1,0 +1,15 @@
+{
+  "name": "stakedXEM",
+  "symbol": "STXEM",
+  "web": "https://stakehound.com",
+  "explorer": "https://etherscan.io/token/0x0c63cae5fcc2ca3dde60a35e50362220651ebec8",
+  "links": {
+    "coingecko": "stakedxem",
+    "twitter": "stakedTokens",
+    "telegram": "stakehound"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

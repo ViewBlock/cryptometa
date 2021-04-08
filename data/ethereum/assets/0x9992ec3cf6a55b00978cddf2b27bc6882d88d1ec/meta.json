@@ -1,0 +1,18 @@
+{
+  "name": "Polymath Network",
+  "symbol": "POLY",
+  "web": "https://www.polymath.network",
+  "explorer": "https://etherscan.io/token/0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec",
+  "links": {
+    "github": "PolymathNetwork",
+    "coingecko": "polymath-network",
+    "twitter": "PolymathNetwork",
+    "facebook": "polymathnetwork",
+    "telegram": "PolymathNetwork",
+    "reddit": "r/PolymathNetwork"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

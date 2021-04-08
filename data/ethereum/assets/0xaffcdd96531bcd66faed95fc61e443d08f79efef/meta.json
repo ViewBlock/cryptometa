@@ -1,0 +1,18 @@
+{
+  "name": "Perth Mint Gold Token",
+  "symbol": "PMGT",
+  "web": "https://pmgt.io",
+  "explorer": "https://etherscan.io/token/0xaffcdd96531bcd66faed95fc61e443d08f79efef",
+  "links": {
+    "github": "infinigold-pty-ltd",
+    "coingecko": "perth-mint-gold-token",
+    "twitter": "pmgoldtoken",
+    "facebook": "pmgoldtoken",
+    "telegram": "pmgoldtoken",
+    "reddit": "r/pmgoldtoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

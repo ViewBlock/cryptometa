@@ -1,0 +1,14 @@
+{
+  "name": "BCHNrBTC Synthetic Token Expiring 5 January 2021",
+  "symbol": "BCHNRBTC-JAN-2021",
+  "web": "https://umaproject.org",
+  "explorer": "https://etherscan.io/token/0x506de580ecdba535eb0a7e61d3fa3dd8f7c8b6b9",
+  "links": {
+    "coingecko": "bchnrbtc-synthetic",
+    "twitter": "UMAprotocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

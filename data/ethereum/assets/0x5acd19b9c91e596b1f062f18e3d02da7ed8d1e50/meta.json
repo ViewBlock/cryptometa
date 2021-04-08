@@ -1,0 +1,17 @@
+{
+  "name": "BTC Lite",
+  "symbol": "BTCL",
+  "web": "http://btclite.org",
+  "explorer": "https://etherscan.io/token/0x5acd19b9c91e596b1f062f18e3d02da7ed8d1e50",
+  "links": {
+    "github": "BTC-lite",
+    "coingecko": "btc-lite",
+    "twitter": "BTCliteofficial",
+    "telegram": "BTCLITE",
+    "reddit": "r/btclite"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

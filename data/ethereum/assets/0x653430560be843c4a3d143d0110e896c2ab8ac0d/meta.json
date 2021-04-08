@@ -1,0 +1,15 @@
+{
+  "name": "Molecular Future",
+  "symbol": "MOF",
+  "web": "http://www.molecular.cc",
+  "explorer": "https://etherscan.io/token/0x653430560be843c4a3d143d0110e896c2ab8ac0d",
+  "links": {
+    "coingecko": "molecular-future",
+    "twitter": "molecular_cc",
+    "facebook": "MolecularFuture"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

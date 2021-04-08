@@ -1,0 +1,17 @@
+{
+  "name": "CoinJanitor",
+  "symbol": "JAN",
+  "web": "https://www.coinjanitor.io",
+  "explorer": "https://etherscan.io/token/0xaf80e6612d9c2e883122e7f2292ee6c34176ad4f",
+  "links": {
+    "coingecko": "coinjanitor",
+    "twitter": "CoinJanitor",
+    "facebook": "201490483964845",
+    "telegram": "CoinJanitor",
+    "reddit": "r/CoinJanitor"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

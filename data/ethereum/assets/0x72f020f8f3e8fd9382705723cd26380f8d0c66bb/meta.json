@@ -1,0 +1,15 @@
+{
+  "name": "PlotX",
+  "symbol": "PLOT",
+  "web": "https://plotx.io",
+  "explorer": "https://etherscan.io/token/0x72f020f8f3e8fd9382705723cd26380f8d0c66bb",
+  "links": {
+    "coingecko": "plotx",
+    "twitter": "TryPlotX",
+    "telegram": "plotx_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

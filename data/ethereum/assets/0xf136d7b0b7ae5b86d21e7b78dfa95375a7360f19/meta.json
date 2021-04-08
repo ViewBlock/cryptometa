@@ -1,0 +1,15 @@
+{
+  "name": "Toshimon",
+  "symbol": "TOSHI",
+  "web": "https://www.toshimon.io",
+  "explorer": "https://etherscan.io/token/0xf136d7b0b7ae5b86d21e7b78dfa95375a7360f19",
+  "links": {
+    "coingecko": "toshi-token",
+    "twitter": "Toshimon_",
+    "telegram": "Toshimon"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

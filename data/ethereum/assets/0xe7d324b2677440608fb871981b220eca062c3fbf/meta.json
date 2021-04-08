@@ -1,0 +1,15 @@
+{
+  "name": "Bullswap Protocol",
+  "symbol": "BVL",
+  "web": "https://bullswap.org",
+  "explorer": "https://etherscan.io/token/0xe7d324B2677440608fb871981B220ECa062c3FbF",
+  "links": {
+    "coingecko": "bullswap-protocol",
+    "twitter": "Bullswap_DeFi",
+    "telegram": "bullswapexchange"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

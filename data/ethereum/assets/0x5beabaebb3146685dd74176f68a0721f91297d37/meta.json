@@ -1,0 +1,15 @@
+{
+  "name": "Bounce [old]",
+  "symbol": "BOT",
+  "web": "https://bounce.finance",
+  "explorer": "https://etherscan.io/token/0x5beabaebb3146685dd74176f68a0721f91297d37",
+  "links": {
+    "coingecko": "bounce-token",
+    "twitter": "bounce_finance",
+    "telegram": "bounce_finance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

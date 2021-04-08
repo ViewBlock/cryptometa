@@ -1,0 +1,16 @@
+{
+  "name": "YFED.Finance",
+  "symbol": "YFED",
+  "web": "https://yfed.finance",
+  "explorer": "https://etherscan.io/token/0x2DBd330bC9B7f3A822a9173aB52172BdDDcAcE2A",
+  "links": {
+    "github": "YFED-FINANCE",
+    "coingecko": "yfedfinance",
+    "twitter": "FinanceYfed",
+    "telegram": "YFEDGROUP"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

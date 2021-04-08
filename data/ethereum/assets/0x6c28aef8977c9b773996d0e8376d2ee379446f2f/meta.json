@@ -1,0 +1,17 @@
+{
+  "name": "Quickswap",
+  "symbol": "QUICK",
+  "web": "https://quickswap.exchange",
+  "explorer": "https://etherscan.io/token/0x6c28aef8977c9b773996d0e8376d2ee379446f2f",
+  "links": {
+    "github": "QuickSwap",
+    "coingecko": "quick",
+    "twitter": "QuickswapDEX",
+    "telegram": "QuickSwapDEX",
+    "reddit": "r/QuickSwap"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

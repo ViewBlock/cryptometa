@@ -1,0 +1,18 @@
+{
+  "name": "Airbloc",
+  "symbol": "ABL",
+  "web": "https://www.airbloc.org",
+  "explorer": "https://etherscan.io/token/0xf8b358b3397a8ea5464f8cc753645d42e14b79EA",
+  "links": {
+    "github": "airbloc",
+    "coingecko": "airbloc-protocol",
+    "twitter": "AirblocOfficial",
+    "facebook": "AirblocOfficial",
+    "telegram": "airbloc",
+    "reddit": "r/airbloc"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

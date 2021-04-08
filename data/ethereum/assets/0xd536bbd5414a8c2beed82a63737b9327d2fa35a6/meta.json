@@ -1,0 +1,17 @@
+{
+  "name": "Aitheon",
+  "symbol": "ACU",
+  "web": "https://www.aitheon.com",
+  "explorer": "https://etherscan.io/token/0xd536bbd5414a8c2beed82a63737b9327d2fa35a6",
+  "links": {
+    "coingecko": "aitheon",
+    "twitter": "AitheonOfficial",
+    "facebook": "aitheon",
+    "telegram": "aitheon",
+    "reddit": "r/Aitheon"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Shuffle Monster",
+  "symbol": "SHUF",
+  "web": "https://shuffle.monster",
+  "explorer": "https://etherscan.io/token/0x3a9fff453d50d4ac52a6890647b823379ba36b9e",
+  "links": {
+    "github": "ShuffleMonster",
+    "coingecko": "shuffle-monster",
+    "twitter": "ShuffleToken",
+    "telegram": "shuftoken",
+    "reddit": "r/ShuffleMonster"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

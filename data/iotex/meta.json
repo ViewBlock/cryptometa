@@ -1,0 +1,17 @@
+{
+  "name": "IoTeX",
+  "symbol": "IOTX",
+  "web": "https://iotex.io",
+  "explorer": "https://iotexscan.io",
+  "links": {
+    "github": "iotexproject",
+    "coingecko": "iotex",
+    "twitter": "iotex_io",
+    "facebook": "iotex.io",
+    "telegram": "IoTeXGroup",
+    "reddit": "r/IoTeX"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

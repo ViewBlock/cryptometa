@@ -1,0 +1,18 @@
+{
+  "name": "ACE",
+  "symbol": "ACE",
+  "web": "https://tokenstars.com",
+  "explorer": "https://etherscan.io/token/0x06147110022b768ba8f99a8f385df11a151a9cc8",
+  "links": {
+    "github": "token-stars",
+    "coingecko": "tokenstars-ace",
+    "twitter": "tokenstars",
+    "facebook": "TokenStars",
+    "telegram": "tokenstars_en",
+    "reddit": "r/TokenStars"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

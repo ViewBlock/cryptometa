@@ -1,0 +1,15 @@
+{
+  "name": "NFTX",
+  "symbol": "NFTX",
+  "web": "https://nftx.org/#",
+  "explorer": "https://etherscan.io/address/0x87d73E916D7057945c9BcD8cdd94e42A6F47f776",
+  "links": {
+    "github": "NFTX-project",
+    "coingecko": "nftx",
+    "twitter": "nftx_"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

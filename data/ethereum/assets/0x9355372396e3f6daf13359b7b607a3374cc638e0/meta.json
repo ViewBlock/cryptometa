@@ -1,0 +1,15 @@
+{
+  "name": "WHALE",
+  "symbol": "WHALE",
+  "web": "https://whale.me",
+  "explorer": "https://etherscan.io/token/0x9355372396e3F6daF13359B7b607a3374cc638e0",
+  "links": {
+    "coingecko": "whale",
+    "twitter": "WhaleShark_Pro"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Origo",
+  "symbol": "OGO",
+  "web": "https://origo.network",
+  "explorer": "https://etherscan.io/token/0xff0e5e014cf97e0615cb50f6f39da6388e2fae6e",
+  "links": {
+    "github": "origonnetwork",
+    "coingecko": "origo",
+    "twitter": "OrigoNetwork",
+    "facebook": "Origo-Network-560479740982667",
+    "telegram": "origoofficialgroup"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

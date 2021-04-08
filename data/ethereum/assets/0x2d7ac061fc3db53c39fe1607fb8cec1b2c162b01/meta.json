@@ -1,0 +1,15 @@
+{
+  "name": "iLINK",
+  "symbol": "ILINK",
+  "web": "https://www.synthetix.io/tokens",
+  "explorer": "https://etherscan.io/token/0x2d7aC061fc3db53c39fe1607fB8cec1B2C162B01",
+  "links": {
+    "coingecko": "ilink",
+    "twitter": "synthetix_io",
+    "reddit": "r/synthetix_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

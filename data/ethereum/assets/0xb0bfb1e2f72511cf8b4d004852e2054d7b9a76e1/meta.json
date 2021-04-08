@@ -1,0 +1,17 @@
+{
+  "name": "Streamix",
+  "symbol": "MIXS",
+  "web": "https://streamix.io",
+  "explorer": "https://etherscan.io/token/0xB0BFB1E2F72511cF8b4D004852E2054d7b9a76e1",
+  "links": {
+    "github": "streamix-io",
+    "coingecko": "streamix",
+    "twitter": "streamixio",
+    "facebook": "streamixio",
+    "telegram": "Streamix"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

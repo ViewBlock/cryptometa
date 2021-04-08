@@ -1,0 +1,15 @@
+{
+  "name": "Wrapped Polis",
+  "symbol": "POLIS",
+  "web": "https://polispay.org",
+  "explorer": "https://etherscan.io/token/0x622f2962ae78e8686ecc1e30cf2f9a6e5ac35626",
+  "links": {
+    "github": "polispay",
+    "coingecko": "wrapped-polis",
+    "twitter": "PolisBlockchain"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

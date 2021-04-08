@@ -1,0 +1,16 @@
+{
+  "name": "Klever",
+  "symbol": "KLV",
+  "web": "https://www.klever.io",
+  "explorer": "https://tronscan.org/#/token20/TVj7RNVHy6thbM7BWdSe9G6gXwKhjhdNZS",
+  "links": {
+    "github": "klever-app",
+    "coingecko": "klever",
+    "twitter": "klever_io",
+    "telegram": "Klever_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

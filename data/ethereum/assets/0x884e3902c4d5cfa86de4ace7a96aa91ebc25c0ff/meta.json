@@ -1,0 +1,17 @@
+{
+  "name": "JBOX",
+  "symbol": "JBX",
+  "web": "https://jboxcoin.org",
+  "explorer": "https://etherscan.io/token/0x884e3902c4d5cfa86de4ace7a96aa91ebc25c0ff",
+  "links": {
+    "github": "Jboxoincorp",
+    "coingecko": "jboxcoin",
+    "twitter": "jbox_coin",
+    "facebook": "jboxcommunity",
+    "telegram": "jboxcoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

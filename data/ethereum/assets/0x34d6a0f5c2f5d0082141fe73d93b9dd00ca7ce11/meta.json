@@ -1,0 +1,16 @@
+{
+  "name": "Golden Token",
+  "symbol": "GOLD",
+  "web": "https://goldentoken.org",
+  "explorer": "https://etherscan.io/token/0x34d6a0f5c2f5d0082141fe73d93b9dd00ca7ce11",
+  "links": {
+    "coingecko": "golden-token",
+    "twitter": "goldentoken_org",
+    "facebook": "goldentoken.official",
+    "telegram": "golden_token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

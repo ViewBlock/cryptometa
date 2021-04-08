@@ -1,0 +1,15 @@
+{
+  "name": "Nitrous Finance",
+  "symbol": "NOS",
+  "web": "https://nitrous.finance",
+  "explorer": "https://etherscan.io/token/0x7061ee0896ab2c1865078b6c91731f67a89ea6a4",
+  "links": {
+    "coingecko": "nitrous-finance",
+    "twitter": "nosgobabygo",
+    "telegram": "nosfin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

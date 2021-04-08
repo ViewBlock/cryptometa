@@ -1,0 +1,16 @@
+{
+  "name": "UnFederalReserve",
+  "symbol": "ERSDL",
+  "web": "https://www.unfederalreserve.com",
+  "explorer": "https://etherscan.io/token/0x5218E472cFCFE0b64A064F055B43b4cdC9EfD3A6",
+  "links": {
+    "github": "ResidualToken",
+    "coingecko": "unfederalreserve",
+    "twitter": "Unfederalreser1",
+    "telegram": "unfedres_staking"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

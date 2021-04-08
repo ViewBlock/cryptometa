@@ -1,0 +1,11 @@
+{
+  "name": "CryptEx",
+  "symbol": "CRX",
+  "web": "https://cryptexlock.me",
+  "explorer": "https://bscscan.com/token/0x97a30c692ece9c317235d48287d23d358170fc40",
+  "links": {
+    "coingecko": "cryptex",
+    "twitter": "ExLocker",
+    "telegram": "cryptexlocker"
+  }
+}

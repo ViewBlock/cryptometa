@@ -1,0 +1,12 @@
+{
+  "name": "BSCEX",
+  "symbol": "BSCX",
+  "web": "http://bscex.org",
+  "explorer": "https://bscscan.com/token/0x5ac52ee5b2a633895292ff6d8a89bb9190451587",
+  "links": {
+    "github": "bscex",
+    "coingecko": "bscex",
+    "twitter": "bscexofficial",
+    "telegram": "bscexann"
+  }
+}

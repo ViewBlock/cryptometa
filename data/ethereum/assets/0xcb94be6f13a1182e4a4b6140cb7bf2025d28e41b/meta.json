@@ -1,0 +1,19 @@
+{
+  "name": "WeTrust",
+  "symbol": "TRST",
+  "web": "https://www.wetrust.io",
+  "explorer": "https://etherscan.io/token/0xcb94be6f13a1182e4a4b6140cb7bf2025d28e41b",
+  "links": {
+    "github": "WeTrustPlatform",
+    "coingecko": "wetrust",
+    "twitter": "WeTrustPlatform",
+    "facebook": "wetrustplatform",
+    "telegram": "WeTrustOfficial",
+    "reddit": "r/WeTrustPlatform"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

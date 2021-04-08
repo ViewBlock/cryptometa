@@ -1,0 +1,16 @@
+{
+  "name": "BNS Governance",
+  "symbol": "BNSG",
+  "web": "https://bitbns.com",
+  "explorer": "https://etherscan.io/token/0x0018E66A1dEA81fdD767CBb15673119b034b5CF2",
+  "links": {
+    "github": "bitbns-official",
+    "coingecko": "bns-governance",
+    "twitter": "bitbns",
+    "telegram": "Bitbns"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

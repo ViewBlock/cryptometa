@@ -1,0 +1,16 @@
+{
+  "name": "CAT.trade Protocol",
+  "symbol": "CATX",
+  "web": "https://cat.trade/home",
+  "explorer": "https://etherscan.io/token/0xC7743bf0B300Ec041E704Cc34d4f43050942099E",
+  "links": {
+    "github": "catdottrade",
+    "coingecko": "cat-trade-protocol",
+    "twitter": "catdottrade",
+    "telegram": "catdottrade"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

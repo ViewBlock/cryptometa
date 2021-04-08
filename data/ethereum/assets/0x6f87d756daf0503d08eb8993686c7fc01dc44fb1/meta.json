@@ -1,0 +1,14 @@
+{
+  "name": "Unitrade",
+  "symbol": "TRADE",
+  "web": "https://unitrade.app",
+  "explorer": "https://etherscan.io/token/0x6f87d756daf0503d08eb8993686c7fc01dc44fb1",
+  "links": {
+    "coingecko": "unitrade",
+    "twitter": "UniTradeApp"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

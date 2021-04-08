@@ -1,0 +1,17 @@
+{
+  "name": "Fire Lotto",
+  "symbol": "FLOT",
+  "web": "https://firelotto.io",
+  "explorer": "https://etherscan.io/token/0x049399a6b048d52971f7d122ae21a1532722285f",
+  "links": {
+    "github": "firelotto",
+    "coingecko": "fire-lotto",
+    "twitter": "FireLottery",
+    "facebook": "firelotto",
+    "telegram": "firelotto"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

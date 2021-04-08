@@ -1,0 +1,15 @@
+{
+  "name": "Super Running Coin",
+  "symbol": "SRC",
+  "web": "https://superrunningcoin.com",
+  "explorer": "https://etherscan.io/token/0x221f7d0f2fa0bfbd5f8b0d0340425906f2f9968c",
+  "links": {
+    "coingecko": "super-running-coin",
+    "twitter": "coin_running",
+    "telegram": "SuperRanningcoin_SRC"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

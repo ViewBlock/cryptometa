@@ -1,0 +1,11 @@
+{
+  "name": "PBS Chain",
+  "symbol": "PBS",
+  "web": "https://pbschain.info",
+  "explorer": "https://bscscan.com/token/0x2eae17386ea67f0fa13485fa90851c03bdc5a7a9",
+  "links": {
+    "coingecko": "pbs-chain",
+    "twitter": "ChainPbs",
+    "telegram": "PBSChain_Support"
+  }
+}

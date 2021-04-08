@@ -1,0 +1,15 @@
+{
+  "name": "DeFi Gold",
+  "symbol": "DFGL",
+  "web": "https://defigold.finance",
+  "explorer": "https://etherscan.io/token/0xE3a64A3c4216B83255b53Ec7eA078B13f21a7daD",
+  "links": {
+    "coingecko": "defi-gold",
+    "twitter": "Defigold",
+    "telegram": "defigold_main"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

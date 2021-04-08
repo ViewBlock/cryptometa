@@ -1,0 +1,15 @@
+{
+  "name": "Porkchop",
+  "symbol": "CHOP",
+  "web": "https://www.porkchop.network",
+  "explorer": "https://etherscan.io/token/0x646707246d7d5c2a86d7206f41ca8199ea9ced69",
+  "links": {
+    "coingecko": "porkchop",
+    "twitter": "NetworkPorkchop",
+    "telegram": "porkchopnetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

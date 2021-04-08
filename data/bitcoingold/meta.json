@@ -1,0 +1,14 @@
+{
+  "name": "Bitcoin Gold",
+  "symbol": "BTG",
+  "web": "https://bitcoingold.org",
+  "explorer": "https://explorer.bitcoingold.org/insight",
+  "links": {
+    "github": "BTCGPU",
+    "coingecko": "bitcoin-gold",
+    "twitter": "bitcoingold"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

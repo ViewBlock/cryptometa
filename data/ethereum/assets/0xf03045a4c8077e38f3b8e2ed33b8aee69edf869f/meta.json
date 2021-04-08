@@ -1,0 +1,17 @@
+{
+  "name": "BlockMesh",
+  "symbol": "BMH",
+  "web": "https://www.blockmesh.io",
+  "explorer": "https://etherscan.io/token/0xf03045a4c8077e38f3b8e2ed33b8aee69edf869f",
+  "links": {
+    "github": "servalproject",
+    "coingecko": "blockmesh-2",
+    "twitter": "blockmesh_io",
+    "facebook": "Blockmesh",
+    "reddit": "r/BlockMesh_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

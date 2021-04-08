@@ -1,0 +1,16 @@
+{
+  "name": "Decentralized Vulnerability Platform",
+  "symbol": "DVP",
+  "web": "https://dvpnet.io",
+  "explorer": "https://etherscan.io/token/0x8e30ea2329d95802fd804f4291220b0e2f579812",
+  "links": {
+    "github": "DVPNET",
+    "coingecko": "decentralized-vulnerability-platform",
+    "twitter": "dvpnetio",
+    "telegram": "dvpnet"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

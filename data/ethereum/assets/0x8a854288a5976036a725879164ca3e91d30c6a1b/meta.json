@@ -1,0 +1,17 @@
+{
+  "name": "GET Protocol",
+  "symbol": "GET",
+  "web": "https://get-protocol.io",
+  "explorer": "https://etherscan.io/token/0x8a854288a5976036a725879164ca3e91d30c6a1b",
+  "links": {
+    "github": "GUTSTickets",
+    "coingecko": "get-token",
+    "twitter": "getprotocol",
+    "telegram": "getprotocol",
+    "reddit": "r/GETprotocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

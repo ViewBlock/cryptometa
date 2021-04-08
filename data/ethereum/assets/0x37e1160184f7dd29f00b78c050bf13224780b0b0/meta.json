@@ -1,0 +1,16 @@
+{
+  "name": "Yuan Chain Coin",
+  "symbol": "YCC",
+  "web": "https://www.yuan.org",
+  "explorer": "https://etherscan.io/token/0x37e1160184f7dd29f00b78c050bf13224780b0b0",
+  "links": {
+    "github": "yuanchain",
+    "coingecko": "yuan-chain-coin",
+    "twitter": "yuanchain",
+    "telegram": "yccorg"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

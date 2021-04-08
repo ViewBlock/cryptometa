@@ -1,0 +1,16 @@
+{
+  "name": "BASIC",
+  "symbol": "BASIC",
+  "web": "https://basic.finance",
+  "explorer": "https://etherscan.io/token/0xf25c91c87e0b1fd9b4064af0f427157aab0193a7",
+  "links": {
+    "coingecko": "basic",
+    "twitter": "thebasicfinance",
+    "facebook": "Basic.finance.platform",
+    "telegram": "thebasic"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

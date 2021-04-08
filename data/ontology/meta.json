@@ -1,0 +1,17 @@
+{
+  "name": "Ontology",
+  "symbol": "ONT",
+  "web": "https://ont.io",
+  "explorer": "https://explorer.ont.io",
+  "links": {
+    "github": "ontio",
+    "coingecko": "ontology",
+    "twitter": "OntologyNetwork",
+    "facebook": "ONTnetwork",
+    "telegram": "OntologyNetwork",
+    "reddit": "r/OntologyNetwork"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

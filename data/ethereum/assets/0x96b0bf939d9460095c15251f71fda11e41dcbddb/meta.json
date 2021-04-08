@@ -1,0 +1,17 @@
+{
+  "name": "Sharpay",
+  "symbol": "S",
+  "web": "https://sharpay.io",
+  "explorer": "https://etherscan.io/token/0x96b0bf939d9460095c15251f71fda11e41dcbddb",
+  "links": {
+    "github": "sharpay-io",
+    "coingecko": "sharpay",
+    "twitter": "sharpay_io",
+    "facebook": "sharpay.io",
+    "telegram": "sharpay_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

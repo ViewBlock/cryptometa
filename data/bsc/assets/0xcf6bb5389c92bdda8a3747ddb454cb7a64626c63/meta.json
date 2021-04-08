@@ -1,0 +1,11 @@
+{
+  "name": "Venus",
+  "symbol": "XVS",
+  "web": "https://venus.io",
+  "explorer": "https://bscscan.com/address/0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63",
+  "links": {
+    "coingecko": "venus",
+    "twitter": "VenusProtocol",
+    "telegram": "VenusProtocol"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Storeum",
+  "symbol": "STO",
+  "web": "http://storeum.co",
+  "explorer": "https://etherscan.io/token/0xcb39c3502415152b2ec90ff07ee18cc94f681a72",
+  "links": {
+    "github": "storeum",
+    "coingecko": "storeum",
+    "twitter": "storeum"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

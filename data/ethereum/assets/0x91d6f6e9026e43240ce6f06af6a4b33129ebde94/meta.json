@@ -1,0 +1,16 @@
+{
+  "name": "Rivex",
+  "symbol": "RVX",
+  "web": "https://www.rivex.io",
+  "explorer": "https://etherscan.io/token/0x91d6f6e9026e43240ce6f06af6a4b33129ebde94",
+  "links": {
+    "github": "RiveX-Foundation",
+    "coingecko": "rivex-erc20",
+    "twitter": "RiveXFoundation",
+    "telegram": "RiveXOfficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

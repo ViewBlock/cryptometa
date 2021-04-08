@@ -1,0 +1,12 @@
+{
+  "name": "Ad Flex Token",
+  "symbol": "ADF",
+  "explorer": "https://etherscan.io/token/0x7220e92d418e2eb59d0c25d195fa004bfd3afc42",
+  "links": {
+    "coingecko": "ad-flex-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 0
+  }
+}

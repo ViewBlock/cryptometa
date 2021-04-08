@@ -1,0 +1,16 @@
+{
+  "name": "Asian Dragon",
+  "symbol": "AD",
+  "explorer": "https://etherscan.io/token/0xf6dbe88ba55f1793ff0773c9b1275300f830914f",
+  "links": {
+    "github": "asiandragoncoin",
+    "coingecko": "asian-dragon",
+    "twitter": "CoinAsian",
+    "facebook": "asiandragontech",
+    "telegram": "adgncoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

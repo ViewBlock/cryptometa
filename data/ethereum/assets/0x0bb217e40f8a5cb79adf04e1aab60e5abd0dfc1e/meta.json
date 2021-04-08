@@ -1,0 +1,18 @@
+{
+  "name": "SWFT Blockchain",
+  "symbol": "SWFTC",
+  "web": "https://www.swft.pro",
+  "explorer": "https://etherscan.io/token/0x0bb217E40F8a5Cb79Adf04E1aAb60E5abd0dfC1e",
+  "links": {
+    "github": "SwftCoins",
+    "coingecko": "swftcoin",
+    "twitter": "SwftCoin",
+    "facebook": "SWFTBlockchain",
+    "telegram": "SWFTBlockchain",
+    "reddit": "r/SwftCoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

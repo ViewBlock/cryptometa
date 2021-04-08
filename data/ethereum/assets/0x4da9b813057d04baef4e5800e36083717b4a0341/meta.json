@@ -1,0 +1,17 @@
+{
+  "name": "Aave TUSD v1",
+  "symbol": "ATUSD",
+  "web": "https://aave.com/atokens",
+  "explorer": "https://etherscan.io/token/0x4da9b813057d04baef4e5800e36083717b4a0341",
+  "links": {
+    "github": "aave",
+    "coingecko": "aave-tusd",
+    "twitter": "aaveaave",
+    "telegram": "Aavesome",
+    "reddit": "r/Aave_Official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

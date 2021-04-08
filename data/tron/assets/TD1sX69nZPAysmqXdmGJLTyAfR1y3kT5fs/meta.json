@@ -1,0 +1,15 @@
+{
+  "name": "GooseBet Token",
+  "symbol": "GBT",
+  "web": "https://goosebet.io",
+  "explorer": "https://tronscan.org/#/token20/TD1sX69nZPAysmqXdmGJLTyAfR1y3kT5fs",
+  "links": {
+    "coingecko": "goosebet-token",
+    "twitter": "Goosebet_io",
+    "telegram": "GooseBetio"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

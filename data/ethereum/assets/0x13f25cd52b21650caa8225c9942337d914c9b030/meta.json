@@ -1,0 +1,15 @@
+{
+  "name": "RealChain",
+  "symbol": "RCT",
+  "web": "http://rcfund.org/en-US",
+  "explorer": "https://etherscan.io/token/0x13f25cd52b21650caa8225c9942337d914c9b030",
+  "links": {
+    "coingecko": "realchain",
+    "twitter": "RealChainFund",
+    "telegram": "realchain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "USDEX",
+  "symbol": "USDEX",
+  "web": "https://usdex.co",
+  "explorer": "https://etherscan.io/token/0x4726e9de74573255ea41e0d00b49b833c77a671e",
+  "links": {
+    "github": "USDEXProject",
+    "coingecko": "usdex-2",
+    "facebook": "usdex.co",
+    "telegram": "usdexgroup"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

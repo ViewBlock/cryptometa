@@ -1,0 +1,16 @@
+{
+  "name": "Rari Governance Token",
+  "symbol": "RGT",
+  "web": "https://rari.capital",
+  "explorer": "https://etherscan.io/token/0xD291E7a03283640FDc51b121aC401383A46cC623",
+  "links": {
+    "github": "Rari-Capital",
+    "coingecko": "rari-governance-token",
+    "twitter": "RariCapital",
+    "telegram": "RariCapitalChat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "snglsDAO Governance Token",
+  "symbol": "SGT",
+  "web": "https://snglsdao.io",
+  "explorer": "https://etherscan.io/token/0xc4199fB6FFDb30A829614becA030f9042f1c3992",
+  "links": {
+    "github": "SingularDTV",
+    "coingecko": "snglsdao-governance-token",
+    "twitter": "snglsdao",
+    "facebook": "snglsDAO"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

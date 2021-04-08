@@ -1,0 +1,16 @@
+{
+  "name": "ZCNOX Coin",
+  "symbol": "ZCNOX",
+  "web": "https://zcnox.com",
+  "explorer": "https://etherscan.io/token/0x8b83116e05f722554e1089b9850e731ee20dd692",
+  "links": {
+    "coingecko": "zcnox-coin",
+    "twitter": "tokenznx",
+    "facebook": "ZCNOX-marketing-2231032940497198",
+    "telegram": "zcnox_exchange"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

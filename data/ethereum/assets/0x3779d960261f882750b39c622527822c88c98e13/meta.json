@@ -1,0 +1,15 @@
+{
+  "name": "Bitget DeFi Token",
+  "symbol": "BFT",
+  "web": "https://www.bitget.cc",
+  "explorer": "https://etherscan.io/token/0x3779d960261f882750b39c622527822c88c98e13",
+  "links": {
+    "coingecko": "bitget-defi-token",
+    "twitter": "bitgetglobal",
+    "facebook": "BitgetGlobal"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

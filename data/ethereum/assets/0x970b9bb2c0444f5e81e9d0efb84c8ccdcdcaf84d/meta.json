@@ -1,0 +1,17 @@
+{
+  "name": "Fuse Network Token",
+  "symbol": "FUSE",
+  "web": "https://fuse.io",
+  "explorer": "https://etherscan.io/token/0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d",
+  "links": {
+    "github": "fuseio",
+    "coingecko": "fuse-network-token",
+    "twitter": "Fuse_network",
+    "facebook": "fuseio",
+    "telegram": "fuseio"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

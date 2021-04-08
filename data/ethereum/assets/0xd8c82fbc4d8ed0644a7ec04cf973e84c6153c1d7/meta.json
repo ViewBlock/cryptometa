@@ -1,0 +1,16 @@
+{
+  "name": "Rizen Coin",
+  "symbol": "RZN",
+  "web": "https://rizencoin.com",
+  "explorer": "https://etherscan.io/token/0xd8c82fbc4d8ed0644a7ec04cf973e84c6153c1d7",
+  "links": {
+    "github": "Rizencoin",
+    "coingecko": "rizen-coin",
+    "twitter": "coinrizen",
+    "telegram": "coinrizen"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

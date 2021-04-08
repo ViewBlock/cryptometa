@@ -1,0 +1,16 @@
+{
+  "name": "Obee Network",
+  "symbol": "OBEE",
+  "web": "https://obee.info",
+  "explorer": "https://etherscan.io/token/0x3678d8CC9Eb08875A3720f34c1C8d1e1B31F5A11",
+  "links": {
+    "github": "Obee-Network",
+    "coingecko": "obee-network",
+    "twitter": "ObeeNetwork",
+    "telegram": "ObeeNetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

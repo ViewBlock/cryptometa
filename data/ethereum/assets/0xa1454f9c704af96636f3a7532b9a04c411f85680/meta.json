@@ -1,0 +1,18 @@
+{
+  "name": "BallSwap",
+  "symbol": "BSP",
+  "web": "https://www.bitball-btb.com",
+  "explorer": "https://etherscan.io/token/0xa1454f9c704af96636f3a7532b9a04c411f85680",
+  "links": {
+    "github": "BitballErc20",
+    "coingecko": "ballswap",
+    "twitter": "BitBallSwap",
+    "facebook": "bitballerc20",
+    "telegram": "Ballswap",
+    "reddit": "r/BitBallEcosystem"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

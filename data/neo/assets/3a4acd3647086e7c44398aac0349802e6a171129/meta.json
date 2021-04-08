@@ -1,0 +1,17 @@
+{
+  "name": "Nash Exchange",
+  "symbol": "NEX",
+  "web": "https://nash.io",
+  "explorer": "https://neoscan.io/asset/3a4acd3647086e7c44398aac0349802e6a171129",
+  "links": {
+    "github": "nash-io",
+    "coingecko": "neon-exchange",
+    "twitter": "nashsocial",
+    "telegram": "nashsocial",
+    "reddit": "r/neonexchange"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Vice Industry Token",
+  "symbol": "VIT",
+  "web": "https://www.visionindustry.com",
+  "explorer": "https://etherscan.io/token/0x23b75bc7aaf28e2d6628c3f424b3882f8f072a3c",
+  "links": {
+    "github": "ViceIndustryToken",
+    "coingecko": "vice-industry-token",
+    "twitter": "VITMediaToken",
+    "facebook": "VITCEO",
+    "telegram": "VITGlobalCommunity"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

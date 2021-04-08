@@ -1,0 +1,17 @@
+{
+  "name": "MVL",
+  "symbol": "MVL",
+  "web": "https://mvlchain.io",
+  "explorer": "https://etherscan.io/token/0xa849eaae994fb86afa73382e9bd88c2b6b18dc71",
+  "links": {
+    "github": "mvlchain",
+    "coingecko": "mass-vehicle-ledger",
+    "twitter": "mvlchain",
+    "facebook": "mvlchain",
+    "telegram": "mvlchain_en"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

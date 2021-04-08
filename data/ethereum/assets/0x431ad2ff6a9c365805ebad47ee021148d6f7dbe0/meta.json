@@ -1,0 +1,17 @@
+{
+  "name": "dForce Token",
+  "symbol": "DF",
+  "web": "https://dforce.network",
+  "explorer": "https://etherscan.io/token/0x431ad2ff6a9c365805ebad47ee021148d6f7dbe0",
+  "links": {
+    "github": "dforcenetwork",
+    "coingecko": "dforce-token",
+    "twitter": "dForcenet",
+    "telegram": "dforcenet",
+    "reddit": "r/dForceNetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

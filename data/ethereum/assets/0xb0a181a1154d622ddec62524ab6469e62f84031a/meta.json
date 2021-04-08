@@ -1,0 +1,13 @@
+{
+  "name": "Data Transaction",
+  "symbol": "DTC",
+  "web": "http://www.dtccoin.net",
+  "explorer": "https://etherscan.io/token/0xb0a181a1154d622ddec62524ab6469e62f84031a",
+  "links": {
+    "coingecko": "data-transaction"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

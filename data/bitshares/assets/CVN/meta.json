@@ -1,0 +1,17 @@
+{
+  "name": "CVCoin",
+  "symbol": "CVN",
+  "web": "https://crypviser.network",
+  "explorer": "https://cryptofresh.com/a/CVN",
+  "links": {
+    "coingecko": "cvcoin",
+    "twitter": "cvcoin_ico",
+    "telegram": "crypviser_group",
+    "reddit": "r/Crypviser"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

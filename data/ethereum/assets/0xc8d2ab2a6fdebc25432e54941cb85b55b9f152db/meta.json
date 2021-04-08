@@ -1,0 +1,16 @@
+{
+  "name": "Grap Finance",
+  "symbol": "GRAP",
+  "web": "https://grap.finance",
+  "explorer": "https://etherscan.io/token/0xC8D2AB2a6FdEbC25432E54941cb85b55b9f152dB",
+  "links": {
+    "github": "GrapFinance",
+    "coingecko": "grap-finance",
+    "twitter": "GrapFinance",
+    "telegram": "GrapFinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

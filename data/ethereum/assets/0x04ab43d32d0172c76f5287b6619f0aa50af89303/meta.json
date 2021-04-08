@@ -1,0 +1,16 @@
+{
+  "name": "Unilock.Network",
+  "symbol": "UNL",
+  "web": "https://unilock.network",
+  "explorer": "https://etherscan.io/token/0x04ab43d32d0172c76f5287b6619f0aa50af89303",
+  "links": {
+    "github": "unilock1",
+    "coingecko": "unilock-network",
+    "twitter": "unilock_network",
+    "telegram": "unilock_network"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "MyBit Token",
+  "symbol": "MYB",
+  "web": "https://mybit.io",
+  "explorer": "https://etherscan.io/token/0x5d60d8d7ef6d37e16ebabc324de3be57f135e0bc",
+  "links": {
+    "github": "MyBitFoundation",
+    "coingecko": "mybit-token",
+    "twitter": "MyBit_DApp",
+    "facebook": "MyBitDApp",
+    "telegram": "mybitio",
+    "reddit": "r/MyBitToken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Polkabase",
+  "symbol": "PBASE",
+  "web": "https://polkabase.finance",
+  "explorer": "https://etherscan.io/token/0x44b537b6f94c73a54f7bf8a9b68f8125da3c330b",
+  "links": {
+    "coingecko": "polkabase",
+    "twitter": "PolkabaseDefi",
+    "telegram": "PolkabaseFinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

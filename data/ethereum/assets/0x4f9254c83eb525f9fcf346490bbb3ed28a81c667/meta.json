@@ -1,0 +1,16 @@
+{
+  "name": "Celer Network",
+  "symbol": "CELR",
+  "web": "https://www.celer.network/#",
+  "explorer": "https://etherscan.io/token/0x4f9254c83eb525f9fcf346490bbb3ed28a81c667",
+  "links": {
+    "github": "celer-network",
+    "coingecko": "celer-network",
+    "twitter": "CelerNetwork",
+    "telegram": "celernetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

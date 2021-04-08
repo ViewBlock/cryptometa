@@ -1,0 +1,13 @@
+{
+  "name": "SYBC Coin",
+  "symbol": "SYBC",
+  "web": "https://www.sybrealestate.com",
+  "explorer": "https://etherscan.io/token/0x69428bb4272e3181de9e3cab461e19b0131855c8",
+  "links": {
+    "coingecko": "sybc-coin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

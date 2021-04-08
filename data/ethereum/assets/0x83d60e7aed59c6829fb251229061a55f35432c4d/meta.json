@@ -1,0 +1,16 @@
+{
+  "name": "Infinito",
+  "symbol": "INFT",
+  "web": "https://www.infinito.io",
+  "explorer": "https://etherscan.io/token/0x83d60e7aed59c6829fb251229061a55f35432c4d",
+  "links": {
+    "coingecko": "infinito",
+    "twitter": "Infinito_Ltd",
+    "facebook": "InfinitoWallet",
+    "telegram": "infinitowallet"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

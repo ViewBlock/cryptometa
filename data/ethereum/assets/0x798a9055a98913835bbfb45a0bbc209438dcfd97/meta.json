@@ -1,0 +1,15 @@
+{
+  "name": "New Year Bull",
+  "symbol": "NYB",
+  "web": "https://www.newyearbull.com",
+  "explorer": "https://etherscan.io/token/0x798A9055a98913835bBFb45a0BbC209438dcFD97",
+  "links": {
+    "coingecko": "new-year-bull",
+    "twitter": "newyearbull",
+    "telegram": "newyearbull"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

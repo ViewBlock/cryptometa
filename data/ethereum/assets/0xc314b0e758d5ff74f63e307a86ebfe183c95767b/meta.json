@@ -1,0 +1,15 @@
+{
+  "name": "Adappter Token",
+  "symbol": "ADP",
+  "web": "https://adappter.io",
+  "explorer": "https://etherscan.io/token/0xc314b0e758d5ff74f63e307a86ebfe183c95767b",
+  "links": {
+    "github": "sinestcorp",
+    "coingecko": "adappter-token",
+    "telegram": "AdappterOfficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

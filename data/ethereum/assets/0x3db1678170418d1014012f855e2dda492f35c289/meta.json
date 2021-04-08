@@ -1,0 +1,14 @@
+{
+  "name": "ISHOP PLUS",
+  "symbol": "ISP",
+  "web": "https://ishoptoken.com",
+  "explorer": "https://etherscan.io/token/0x3db1678170418d1014012f855e2dda492f35c289",
+  "links": {
+    "coingecko": "ishop-plus",
+    "twitter": "ISTokens"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

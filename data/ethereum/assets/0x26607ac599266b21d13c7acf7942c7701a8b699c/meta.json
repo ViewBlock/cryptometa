@@ -1,0 +1,15 @@
+{
+  "name": "Power Index Pool Token",
+  "symbol": "PIPT",
+  "web": "https://powerindex.io/#",
+  "explorer": "https://etherscan.io/token/0x26607aC599266b21d13c7aCF7942c7701a8b699c",
+  "links": {
+    "coingecko": "power-index-pool-token",
+    "twitter": "powerpoolcvp",
+    "telegram": "powerpoolcvp"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

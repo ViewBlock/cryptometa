@@ -1,0 +1,17 @@
+{
+  "name": "Props Token",
+  "symbol": "PROPS",
+  "web": "https://www.propsproject.com",
+  "explorer": "https://etherscan.io/token/0x6fe56c0bcdd471359019fcbc48863d6c3e9d4f41",
+  "links": {
+    "github": "propsproject",
+    "coingecko": "props",
+    "twitter": "propsproject",
+    "telegram": "propsproject",
+    "reddit": "r/PROPSProject"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

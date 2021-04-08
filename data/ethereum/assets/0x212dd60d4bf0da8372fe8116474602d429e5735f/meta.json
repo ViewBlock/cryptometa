@@ -1,0 +1,18 @@
+{
+  "name": "Stobox Token",
+  "symbol": "STBU",
+  "web": "https://www.stobox.io",
+  "explorer": "https://etherscan.io/token/0x212DD60D4Bf0DA8372fe8116474602d429E5735F",
+  "links": {
+    "github": "http:",
+    "coingecko": "stobox-token",
+    "twitter": "StoboxCompany",
+    "facebook": "StoboxCompany",
+    "telegram": "stobox_community"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

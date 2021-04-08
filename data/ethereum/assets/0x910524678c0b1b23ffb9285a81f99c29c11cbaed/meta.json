@@ -1,0 +1,16 @@
+{
+  "name": "Azuki",
+  "symbol": "AZUKI",
+  "web": "https://dokidoki.finance",
+  "explorer": "https://etherscan.io/token/0x910524678C0B1B23FFB9285a81f99C29C11CBaEd",
+  "links": {
+    "github": "dokidokidefi",
+    "coingecko": "azuki",
+    "twitter": "dokidokifinance",
+    "telegram": "ddnfg"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

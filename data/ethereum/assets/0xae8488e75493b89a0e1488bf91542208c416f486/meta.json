@@ -1,0 +1,17 @@
+{
+  "name": "Buzcoin",
+  "symbol": "BUZ",
+  "web": "https://buzcoin.io",
+  "explorer": "https://etherscan.io/token/0xae8488e75493b89a0e1488bf91542208c416f486",
+  "links": {
+    "github": "borodin777",
+    "coingecko": "buzcoin",
+    "twitter": "buzarplatform",
+    "facebook": "BUZAR",
+    "telegram": "buzcoin_eng "
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

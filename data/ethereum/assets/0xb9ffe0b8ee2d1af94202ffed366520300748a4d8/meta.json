@@ -1,0 +1,15 @@
+{
+  "name": "ETH/BTC EMA Ratio Trading Set",
+  "symbol": "ETHBTCEMACO",
+  "web": "https://www.tokensets.com/set/ethbtc26emaco",
+  "explorer": "https://etherscan.io/token/0xB9FfE0b8Ee2d1Af94202FFED366520300748A4d8",
+  "links": {
+    "github": "SetProtocol",
+    "coingecko": "eth-btc-ema-ratio-trading-set",
+    "twitter": "SetProtocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

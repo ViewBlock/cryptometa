@@ -1,0 +1,18 @@
+{
+  "name": "Origin Sport",
+  "symbol": "ORS",
+  "web": "https://originsport.io",
+  "explorer": "https://etherscan.io/token/0xeb9a4b185816c354db92db09cc3b50be60b901b6",
+  "links": {
+    "github": "OriginSport",
+    "coingecko": "origin-sport",
+    "twitter": "OriginSport_io",
+    "facebook": "originsport.io",
+    "telegram": "OriginSport_EN",
+    "reddit": "r/OriginSport"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

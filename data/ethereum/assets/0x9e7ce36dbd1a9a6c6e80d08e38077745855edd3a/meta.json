@@ -1,0 +1,14 @@
+{
+  "name": "Bimcoin",
+  "symbol": "BIM",
+  "web": "https://bimcoin.cc",
+  "explorer": "https://etherscan.io/token/0x9e7ce36dbd1a9a6c6e80d08e38077745855edd3a",
+  "links": {
+    "coingecko": "bimcoin",
+    "facebook": "BiggestInterwealthMovementCoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

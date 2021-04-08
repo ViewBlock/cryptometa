@@ -1,0 +1,16 @@
+{
+  "name": "Crespo",
+  "symbol": "CSO",
+  "web": "http://www.crespo.ac",
+  "explorer": "https://etherscan.io/token/0x5ecb025e51415dba9fd272c551076357cf4069f5",
+  "links": {
+    "coingecko": "crespo",
+    "twitter": "crespoCSO",
+    "facebook": "CrespoCSO",
+    "telegram": "CrespoCSO"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

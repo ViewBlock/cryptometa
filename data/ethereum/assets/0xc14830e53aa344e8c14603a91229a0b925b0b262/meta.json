@@ -1,0 +1,17 @@
+{
+  "name": "Populous XBRL Token",
+  "symbol": "PXT",
+  "web": "https://bi.populous.world/ ",
+  "explorer": "https://etherscan.io/token/0xc14830e53aa344e8c14603a91229a0b925b0b262",
+  "links": {
+    "github": "bitpopulous",
+    "coingecko": "populous-xbrl-token",
+    "twitter": "BitPopulous",
+    "facebook": "populousworld",
+    "telegram": "PopulousXP"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

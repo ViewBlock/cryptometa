@@ -1,0 +1,16 @@
+{
+  "name": "Reserve Rights Token",
+  "symbol": "RSR",
+  "web": "https://reserve.org",
+  "explorer": "https://etherscan.io/token/0x8762db106b2c2a0bccb3a80d1ed41273552616e8",
+  "links": {
+    "github": "reserve-protocol",
+    "coingecko": "reserve-rights-token",
+    "twitter": "reserveprotocol",
+    "telegram": "reservecurrency"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

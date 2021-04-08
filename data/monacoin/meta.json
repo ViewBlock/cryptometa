@@ -1,0 +1,16 @@
+{
+  "name": "MonaCoin",
+  "symbol": "MONA",
+  "web": "http://monacoin.org",
+  "explorer": "https://blockbook.electrum-mona.org",
+  "links": {
+    "github": "monacoinproject",
+    "coingecko": "monacoin",
+    "twitter": "tcejorpniocanom",
+    "facebook": "Monacoin2014",
+    "reddit": "r/monacoin"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

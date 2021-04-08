@@ -1,0 +1,13 @@
+{
+  "name": "3X Short Midcap Index Token",
+  "symbol": "MIDBEAR",
+  "web": "https://ftx.com/tokens/MIDBEAR",
+  "explorer": "https://etherscan.io/token/0xc82abb524257c8ee4790bfdefb452b2d6a395e21",
+  "links": {
+    "coingecko": "3x-short-midcap-index-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

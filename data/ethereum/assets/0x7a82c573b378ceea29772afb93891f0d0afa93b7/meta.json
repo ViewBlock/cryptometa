@@ -1,0 +1,15 @@
+{
+  "name": "Wizard",
+  "symbol": "WIZ",
+  "web": "https://wizardswap.ga",
+  "explorer": "https://etherscan.io/token/0x7a82c573b378ceea29772afb93891f0d0afa93b7",
+  "links": {
+    "coingecko": "wizard",
+    "twitter": "wiztoken1",
+    "telegram": "wizard_tec"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

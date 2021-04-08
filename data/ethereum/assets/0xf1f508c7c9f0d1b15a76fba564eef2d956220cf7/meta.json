@@ -1,0 +1,16 @@
+{
+  "name": "Pepedex",
+  "symbol": "PPDEX",
+  "web": "https://pepemon.world",
+  "explorer": "https://etherscan.io/token/0xf1f508c7c9f0d1b15a76fba564eef2d956220cf7",
+  "links": {
+    "github": "pepem00n",
+    "coingecko": "pepedex",
+    "twitter": "pepemonfinance",
+    "telegram": "pepemonfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

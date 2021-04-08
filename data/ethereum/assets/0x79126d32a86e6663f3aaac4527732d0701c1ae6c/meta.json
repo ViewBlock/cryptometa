@@ -1,0 +1,14 @@
+{
+  "name": "Dark Matter",
+  "symbol": "DMT",
+  "explorer": "https://etherscan.io/token/0x79126d32a86e6663f3aaac4527732d0701c1ae6c",
+  "links": {
+    "coingecko": "dark-matter",
+    "twitter": "darkmattertoken",
+    "telegram": "darkmattertoken"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 5
+  }
+}

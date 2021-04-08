@@ -1,0 +1,15 @@
+{
+  "name": "Chad Link Set",
+  "symbol": "CHADLINK",
+  "web": "https://www.tokensets.com/set/chadlink",
+  "explorer": "https://www.etherscan.io/token/0x19f4a2f8e21915376f1429c26a3a9b9b1db5ff5a",
+  "links": {
+    "github": "SetProtocol",
+    "coingecko": "chad-link-set",
+    "twitter": "SetProtocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Value Liquidity",
+  "symbol": "VALUE",
+  "web": "https://valuedefi.io",
+  "explorer": "https://etherscan.io/token/0x49e833337ece7afe375e44f4e3e8481029218e5c",
+  "links": {
+    "coingecko": "value-liquidity",
+    "twitter": "value_defi",
+    "telegram": "ValueDeFi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

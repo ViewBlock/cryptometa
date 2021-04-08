@@ -1,0 +1,15 @@
+{
+  "name": "Tradcoin",
+  "symbol": "TRAD",
+  "web": "https://tradcoin.org/En/index.php",
+  "explorer": "https://etherscan.io/token/0xb09ad98524780228d2df4f34aa665d9dbb9999e4",
+  "links": {
+    "coingecko": "tradcoin",
+    "twitter": "TRADcoinMX",
+    "facebook": "TradCoinOficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

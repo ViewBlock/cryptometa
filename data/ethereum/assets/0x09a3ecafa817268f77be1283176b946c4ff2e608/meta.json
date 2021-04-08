@@ -1,0 +1,17 @@
+{
+  "name": "Mirror Protocol",
+  "symbol": "MIR",
+  "web": "https://mirror.finance",
+  "explorer": "https://etherscan.io/token/0x09a3EcAFa817268f77BE1283176B946C4ff2E608",
+  "links": {
+    "github": "Mirror-Protocol",
+    "coingecko": "mirror-protocol",
+    "twitter": "mirror_protocol",
+    "telegram": "mirror_protocol"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "score": 19
+  }
+}

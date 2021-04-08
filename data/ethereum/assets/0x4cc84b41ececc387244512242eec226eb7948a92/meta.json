@@ -1,0 +1,16 @@
+{
+  "name": "Kassia Home",
+  "symbol": "KASSIAHOME",
+  "web": "https://pylon.finance/kassia",
+  "explorer": "https://etherscan.io/token/0x4CC84b41ECECC387244512242Eec226Eb7948A92",
+  "links": {
+    "github": "pylonfinance",
+    "coingecko": "kassia-home",
+    "twitter": "Kassiapylon",
+    "telegram": "pylonfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

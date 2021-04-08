@@ -1,0 +1,16 @@
+{
+  "name": "Tribute",
+  "symbol": "TRBT",
+  "web": "https://tributedefi.com",
+  "explorer": "https://etherscan.io/token/0x7031ab87dcc46818806ec07af46fa8c2ad2a2bfc",
+  "links": {
+    "coingecko": "tribute",
+    "twitter": "TributeDefi",
+    "telegram": "tributedefi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

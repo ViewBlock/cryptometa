@@ -1,0 +1,14 @@
+{
+  "name": "xSUSHI",
+  "symbol": "XSUSHI",
+  "web": "https://www.sushiswap.fi",
+  "explorer": "https://etherscan.io/token/0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272",
+  "links": {
+    "coingecko": "xsushi",
+    "twitter": "sushiswap"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

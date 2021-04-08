@@ -1,0 +1,15 @@
+{
+  "name": "Ethernity Chain",
+  "symbol": "ERN",
+  "web": "https://ethernity.io",
+  "explorer": "https://etherscan.io/token/0xbbc2ae13b23d715c30720f079fcd9b4a74093505",
+  "links": {
+    "coingecko": "ethernity-chain",
+    "twitter": "ethernitychain",
+    "telegram": "ethernitychain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

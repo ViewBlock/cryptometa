@@ -1,0 +1,15 @@
+{
+  "name": "FlexETH/BTC Set",
+  "symbol": "FLEXETHBTC",
+  "web": "https://www.tokensets.com/set/flexethbtc",
+  "explorer": "https://etherscan.io/token/0xdbf5c7d8ac5007667617a15db2c1b1d616c9d302",
+  "links": {
+    "github": "SetProtocol",
+    "coingecko": "flexeth-btc-set",
+    "twitter": "SetProtocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

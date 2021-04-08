@@ -1,0 +1,16 @@
+{
+  "name": "sUSD",
+  "symbol": "SUSD",
+  "web": "https://synthetix.io",
+  "explorer": "https://etherscan.io/token/0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
+  "links": {
+    "github": "Synthetixio",
+    "coingecko": "nusd",
+    "twitter": "synthetix_io",
+    "reddit": "r/synthetix_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

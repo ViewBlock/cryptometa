@@ -1,0 +1,17 @@
+{
+  "name": "Staker Token",
+  "symbol": "STR",
+  "web": "https://staker.network",
+  "explorer": "https://etherscan.io/token/0xbae235823d7255d9d48635ced4735227244cd583",
+  "links": {
+    "github": "stakertoken",
+    "coingecko": "staker",
+    "twitter": "StakerToken",
+    "facebook": "Staker-Token-1664753403621055",
+    "telegram": "stakertoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

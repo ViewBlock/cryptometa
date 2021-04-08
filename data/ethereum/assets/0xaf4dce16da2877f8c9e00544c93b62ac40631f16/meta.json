@@ -1,0 +1,17 @@
+{
+  "name": "Monetha",
+  "symbol": "MTH",
+  "web": "https://www.monetha.io",
+  "explorer": "https://etherscan.io/token/0xaf4dce16da2877f8c9e00544c93b62ac40631f16",
+  "links": {
+    "github": "monetha",
+    "coingecko": "monetha",
+    "twitter": "Monetha_io",
+    "telegram": "monetha_io",
+    "reddit": "r/Monetha"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "KeeperDAO",
+  "symbol": "ROOK",
+  "web": "https://app.keeperdao.com",
+  "explorer": "https://etherscan.io/token/0xfa5047c9c78b8877af97bdcb85db743fd7313d4a",
+  "links": {
+    "github": "keeperdao",
+    "coingecko": "rook",
+    "twitter": "Keeper_DAO"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

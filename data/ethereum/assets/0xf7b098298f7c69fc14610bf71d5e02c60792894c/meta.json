@@ -1,0 +1,17 @@
+{
+  "name": "Guppy",
+  "symbol": "GUP",
+  "web": "https://matchpool.co",
+  "explorer": "https://etherscan.io/token/0xf7B098298f7C69Fc14610bf71d5e02c60792894C",
+  "links": {
+    "github": "Matchpool",
+    "coingecko": "matchpool",
+    "twitter": "matchpool",
+    "facebook": "matchpoolhq",
+    "reddit": "r/Matchpool"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

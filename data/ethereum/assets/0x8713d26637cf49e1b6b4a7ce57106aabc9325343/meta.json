@@ -1,0 +1,16 @@
+{
+  "name": "Content Neutrality Network",
+  "symbol": "CNN",
+  "web": "http://www.cnntoken.io",
+  "explorer": "https://etherscan.io/token/0x8713d26637cf49e1b6b4a7ce57106aabc9325343",
+  "links": {
+    "github": "cnntoken",
+    "coingecko": "cnn",
+    "twitter": "CNN_Blockchain",
+    "telegram": "cnn_blockchain_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

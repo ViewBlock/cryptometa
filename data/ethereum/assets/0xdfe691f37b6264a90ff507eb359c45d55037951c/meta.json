@@ -1,0 +1,14 @@
+{
+  "name": "Karma DAO",
+  "symbol": "KARMA",
+  "web": "http://karma.link",
+  "explorer": "https://etherscan.io/token/0xdfe691F37b6264a90Ff507EB359C45d55037951C",
+  "links": {
+    "coingecko": "karma-dao",
+    "twitter": "karma_dao"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

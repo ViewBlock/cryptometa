@@ -1,0 +1,12 @@
+{
+  "name": "Burger Swap",
+  "symbol": "BURGER",
+  "web": "https://burgerswap.org",
+  "explorer": "https://www.bscscan.com/token/0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f",
+  "links": {
+    "github": "burgerswap-org",
+    "coingecko": "burger-swap",
+    "twitter": "burger_swap",
+    "telegram": "burgerswap"
+  }
+}

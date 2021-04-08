@@ -1,0 +1,13 @@
+{
+  "name": "3X Short EOS Token",
+  "symbol": "EOSBEAR",
+  "web": "https://ftx.com/tokens/EOSBEAR",
+  "explorer": "https://etherscan.io/token/0x3d3dd61b0f9a558759a21da42166042b114e12d5",
+  "links": {
+    "coingecko": "3x-short-eos-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "4ART Coin",
+  "symbol": "4ART",
+  "web": "https://www.4art-technologies.com",
+  "explorer": "https://etherscan.io/token/0xff44b5719f0b77a9951636fc5e69d3a1fc9e7d73",
+  "links": {
+    "coingecko": "4artechnologies",
+    "twitter": "4ARTechnologies",
+    "facebook": "4ARTechnologies",
+    "telegram": "fourartechnologies"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

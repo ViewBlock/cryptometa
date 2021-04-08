@@ -1,0 +1,14 @@
+{
+  "name": "Centaur",
+  "symbol": "CNTR",
+  "web": "https://cntr.finance",
+  "explorer": "https://etherscan.io/token/0x03042482d64577A7bdb282260e2eA4c8a89C064B",
+  "links": {
+    "coingecko": "centaur",
+    "telegram": "OfficialCentaur"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

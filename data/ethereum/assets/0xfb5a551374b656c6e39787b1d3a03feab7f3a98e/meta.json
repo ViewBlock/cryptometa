@@ -1,0 +1,17 @@
+{
+  "name": "ThingsOperatingSystem",
+  "symbol": "TOS",
+  "web": "http://www.toschain.org",
+  "explorer": "https://etherscan.io/token/0xfb5a551374b656c6e39787b1d3a03feab7f3a98e",
+  "links": {
+    "github": "TOSIO",
+    "coingecko": "thingsoperatingsystem",
+    "twitter": "TOSCommuniy",
+    "facebook": "TOSChain-223477698392972",
+    "telegram": "TOSChainOfficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

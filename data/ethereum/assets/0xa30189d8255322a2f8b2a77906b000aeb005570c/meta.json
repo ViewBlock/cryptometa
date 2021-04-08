@@ -1,0 +1,17 @@
+{
+  "name": "Buy-Sell",
+  "symbol": "BSE",
+  "web": "https://buy-sell.io",
+  "explorer": "https://etherscan.io/token/0xa30189d8255322a2f8b2a77906b000aeb005570c",
+  "links": {
+    "coingecko": "buy-sell",
+    "twitter": "BuySell_Network",
+    "telegram": "buysell_network",
+    "reddit": "r/BuySell_Network"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

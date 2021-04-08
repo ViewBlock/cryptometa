@@ -1,0 +1,16 @@
+{
+  "name": "UniLend Finance",
+  "symbol": "UFT",
+  "web": "https://unilend.finance",
+  "explorer": "https://etherscan.io/token/0x0202Be363B8a4820f3F4DE7FaF5224fF05943AB1",
+  "links": {
+    "coingecko": "unlend-finance",
+    "twitter": "UniLend_Finance",
+    "telegram": "UniLendFinance",
+    "reddit": "r/Unilend_Finance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

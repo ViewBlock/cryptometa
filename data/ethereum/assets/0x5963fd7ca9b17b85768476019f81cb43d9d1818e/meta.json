@@ -1,0 +1,16 @@
+{
+  "name": "Dai If Trump Wins The 2020 Election",
+  "symbol": "YESTRUMP",
+  "web": "https://omen.eth.link",
+  "explorer": "https://etherscan.io/token/0x5963fd7ca9b17b85768476019f81cb43d9d1818e",
+  "links": {
+    "github": "gnosis",
+    "coingecko": "dai-if-trump-wins-the-2020-election",
+    "twitter": "omeneth",
+    "telegram": "omen_eth"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

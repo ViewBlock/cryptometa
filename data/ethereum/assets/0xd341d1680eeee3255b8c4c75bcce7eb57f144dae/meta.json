@@ -1,0 +1,18 @@
+{
+  "name": "SoMee.Social",
+  "symbol": "ONG",
+  "web": "https://SoMee.social",
+  "explorer": "https://etherscan.io/token/0xd341d1680eeee3255b8c4c75bcce7eb57f144dae",
+  "links": {
+    "github": "onGsocial",
+    "coingecko": "ong-social",
+    "twitter": "SoMeeOfficial",
+    "facebook": "SoMeeOfficial",
+    "telegram": "onG_social",
+    "reddit": "r/onGCoin"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

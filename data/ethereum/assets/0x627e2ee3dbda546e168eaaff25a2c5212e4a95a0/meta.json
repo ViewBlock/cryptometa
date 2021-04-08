@@ -1,0 +1,14 @@
+{
+  "name": "Inverse Bitcoin Volatility Token",
+  "symbol": "IBVOL",
+  "web": "http://ftx.com/trade/iBVOL/USD",
+  "explorer": "https://etherscan.io/token/0x627e2ee3dbda546e168eaaff25a2c5212e4a95a0",
+  "links": {
+    "coingecko": "1x-short-btc-implied-volatility",
+    "telegram": "FTX_Official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

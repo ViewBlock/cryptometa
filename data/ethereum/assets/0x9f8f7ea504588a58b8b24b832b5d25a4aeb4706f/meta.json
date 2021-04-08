@@ -1,0 +1,16 @@
+{
+  "name": "Celeum",
+  "symbol": "CLX",
+  "web": "http://celeum.tk",
+  "explorer": "https://etherscan.io/token/0x9f8f7ea504588a58b8b24b832b5d25a4aeb4706f",
+  "links": {
+    "coingecko": "celeum",
+    "twitter": "celeum_official",
+    "facebook": "celeum",
+    "telegram": "celeum_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

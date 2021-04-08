@@ -1,0 +1,16 @@
+{
+  "name": "ICON",
+  "symbol": "ICX",
+  "web": "https://www.icon.foundation/en",
+  "explorer": "https://tracker.icon.foundation",
+  "links": {
+    "github": "icon-project",
+    "coingecko": "icon",
+    "twitter": "helloiconworld",
+    "telegram": "hello_iconworld",
+    "reddit": "r/helloicon"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

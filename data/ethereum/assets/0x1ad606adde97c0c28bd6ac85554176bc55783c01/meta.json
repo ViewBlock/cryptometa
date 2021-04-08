@@ -1,0 +1,15 @@
+{
+  "name": "Moonday Finance",
+  "symbol": "MOONDAY",
+  "web": "https://moondayfinance.com",
+  "explorer": "https://etherscan.io/token/0x1ad606adde97c0c28bd6ac85554176bc55783c01",
+  "links": {
+    "coingecko": "moonday-finance",
+    "twitter": "moondayfinance",
+    "telegram": "officialmoondayfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "0chain",
+  "symbol": "ZCN",
+  "web": "https://0chain.net",
+  "explorer": "https://etherscan.io/token/0xb9ef770b6a5e12e45983c5d80545258aa38f3b78",
+  "links": {
+    "github": "0chain",
+    "coingecko": "0chain",
+    "twitter": "0chain",
+    "telegram": "Ochain",
+    "reddit": "r/0chain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

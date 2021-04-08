@@ -1,0 +1,17 @@
+{
+  "name": "SoftChain",
+  "symbol": "SCC",
+  "web": "https://softchain.io",
+  "explorer": "https://etherscan.io/token/0x86696431D6ACA9bae5CE6536ECF5D437F2e6Dba2",
+  "links": {
+    "github": "SoftChain",
+    "coingecko": "softchain",
+    "twitter": "soft_chain",
+    "facebook": "softchain",
+    "telegram": "softchain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

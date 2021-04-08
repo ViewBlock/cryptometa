@@ -1,0 +1,16 @@
+{
+  "name": "Global Digital Content",
+  "symbol": "GDC",
+  "web": "http://gdctoken.io",
+  "explorer": "https://etherscan.io/token/0x301c755ba0fca00b1923768fffb3df7f4e63af31",
+  "links": {
+    "github": "gdctoken",
+    "coingecko": "global-digital-content",
+    "facebook": "RankingBallSports",
+    "reddit": "r/rankingball"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

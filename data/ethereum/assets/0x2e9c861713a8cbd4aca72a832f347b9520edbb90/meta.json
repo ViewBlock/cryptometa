@@ -1,0 +1,13 @@
+{
+  "name": "Crypto Application Token",
+  "symbol": "CAPP",
+  "web": "https://www.bitforex.com/en/turbo/capp",
+  "explorer": "https://etherscan.io/token/0x2E9C861713A8CbD4aCA72a832F347b9520EDBB90",
+  "links": {
+    "coingecko": "crypto-application-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

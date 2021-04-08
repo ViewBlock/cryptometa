@@ -1,0 +1,14 @@
+{
+  "name": "sXAU",
+  "symbol": "SXAU",
+  "web": "https://www.synthetix.io/tokens",
+  "explorer": "https://etherscan.io/token/0x261EfCdD24CeA98652B9700800a13DfBca4103fF",
+  "links": {
+    "coingecko": "sxau",
+    "twitter": "synthetix_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

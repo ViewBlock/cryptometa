@@ -1,0 +1,16 @@
+{
+  "name": "DomRaider",
+  "symbol": "DRT",
+  "web": "https://www.domraider.io/en",
+  "explorer": "https://etherscan.io/token/0x9af4f26941677c706cfecf6d3379ff01bb85d5ab",
+  "links": {
+    "github": "Domraider",
+    "coingecko": "domraider",
+    "twitter": "domraider",
+    "reddit": "r/DomRaider"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

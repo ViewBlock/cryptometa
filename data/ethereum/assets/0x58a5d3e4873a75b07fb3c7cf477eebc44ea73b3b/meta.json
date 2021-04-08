@@ -1,0 +1,15 @@
+{
+  "name": "Kaiju",
+  "symbol": "KAIJU",
+  "web": "https://cryptokaiju.io",
+  "explorer": "https://etherscan.io/token/0x58a5d3e4873a75b07fb3c7cf477eebc44ea73b3b",
+  "links": {
+    "coingecko": "kaiju",
+    "twitter": "CryptoKaijuIO",
+    "facebook": "CryptoKaiju"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

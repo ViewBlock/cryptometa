@@ -1,0 +1,17 @@
+{
+  "name": "NeuroChain",
+  "symbol": "NCC",
+  "web": "https://www.neurochaintech.io",
+  "explorer": "https://etherscan.io/token/0x5d48f293baed247a2d0189058ba37aa238bd4725",
+  "links": {
+    "github": "neurochain",
+    "coingecko": "neurochain",
+    "twitter": "neurochainN",
+    "facebook": "NeuroChainOfficial",
+    "telegram": "neurochain_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Coinlancer",
+  "symbol": "CL",
+  "web": "https://www.coinlancer.com",
+  "explorer": "https://etherscan.io/token/0xe81d72d14b1516e68ac3190a46c93302cc8ed60f",
+  "links": {
+    "github": "Coinlancer",
+    "coingecko": "coinlancer",
+    "twitter": "Coin_Lancer",
+    "facebook": "coinlancer",
+    "telegram": "https://t.me/Coinlancer"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

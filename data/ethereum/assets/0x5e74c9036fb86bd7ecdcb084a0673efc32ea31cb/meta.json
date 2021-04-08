@@ -1,0 +1,15 @@
+{
+  "name": "sETH",
+  "symbol": "SETH",
+  "web": "https://www.synthetix.io",
+  "explorer": "https://etherscan.io/token/0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb",
+  "links": {
+    "coingecko": "seth",
+    "twitter": "synthetix_io",
+    "reddit": "r/synthetix_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

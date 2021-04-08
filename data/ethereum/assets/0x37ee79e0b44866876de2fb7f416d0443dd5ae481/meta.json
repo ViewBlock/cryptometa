@@ -1,0 +1,17 @@
+{
+  "name": "Tatcoin",
+  "symbol": "TAT",
+  "web": "https://www.abitnetwork.com",
+  "explorer": "https://etherscan.io/token/0x37Ee79E0B44866876de2fB7F416d0443DD5ae481",
+  "links": {
+    "github": "abitnetwork",
+    "coingecko": "tatcoin",
+    "twitter": "tatcoin",
+    "facebook": "tatcointoken",
+    "telegram": "abitnetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

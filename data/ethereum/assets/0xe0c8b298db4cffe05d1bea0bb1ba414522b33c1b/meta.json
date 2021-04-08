@@ -1,0 +1,17 @@
+{
+  "name": "Nuco.Cloud",
+  "symbol": "NCDT",
+  "web": "https://nuco.cloud",
+  "explorer": "https://etherscan.io/token/0xE0C8b298db4cfFE05d1bEA0bb1BA414522B33C1B",
+  "links": {
+    "github": "nucocloud",
+    "coingecko": "nuco-cloud",
+    "twitter": "CloudNuco",
+    "facebook": "nuco.cloud.distributedcloudcomputing",
+    "telegram": "nucocloud"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

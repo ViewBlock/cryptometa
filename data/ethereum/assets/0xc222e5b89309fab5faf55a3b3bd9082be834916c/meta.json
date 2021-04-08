@@ -1,0 +1,17 @@
+{
+  "name": "Bitcoiva",
+  "symbol": "BCA",
+  "web": "https://bitcoiva.com",
+  "explorer": "https://etherscan.io/token/0xC222e5B89309FAB5FAf55a3b3bd9082be834916C",
+  "links": {
+    "github": "bitcoiva-token",
+    "coingecko": "bitcoiva",
+    "twitter": "bitcoiva",
+    "facebook": "Bitcoiva-105126591217169",
+    "telegram": "BITCOIVA"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

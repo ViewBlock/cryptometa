@@ -1,0 +1,18 @@
+{
+  "name": "Jetcoin",
+  "symbol": "JET",
+  "web": "http://www.jetcoininstitute.com",
+  "explorer": "https://etherscan.io/token/0x8727c112c712c4a03371ac87a74dd6ab104af768",
+  "links": {
+    "github": "jetcoins",
+    "coingecko": "jetcoin",
+    "twitter": "jetcoins",
+    "facebook": "jetcoins",
+    "telegram": "jetcoin",
+    "reddit": "r/Jetcoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

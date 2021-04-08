@@ -1,0 +1,16 @@
+{
+  "name": "Gasify",
+  "symbol": "GSFY",
+  "web": "https://gasify.io",
+  "explorer": "https://etherscan.io/token/0x02f3a1819851d127bcd6f468253d7a498567eee0",
+  "links": {
+    "coingecko": "gasify",
+    "twitter": "gasifyio",
+    "telegram": "gasifyio"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

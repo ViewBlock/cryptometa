@@ -1,0 +1,17 @@
+{
+  "name": "Penta Network Token",
+  "symbol": "PNT",
+  "web": "https://www.penta.global",
+  "explorer": "https://etherscan.io/token/0x53066cddbc0099eb6c96785d9b3df2aaeede5da3",
+  "links": {
+    "github": "pentaglobal",
+    "coingecko": "penta",
+    "twitter": "Penta_GF",
+    "facebook": "o.penta.52",
+    "telegram": "pentaglobal"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

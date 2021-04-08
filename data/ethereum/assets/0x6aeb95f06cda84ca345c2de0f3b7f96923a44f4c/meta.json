@@ -1,0 +1,13 @@
+{
+  "name": "Rentberry",
+  "symbol": "BERRY",
+  "web": "https://rentberry.com",
+  "explorer": "https://etherscan.io/token/0x6aeb95f06cda84ca345c2de0f3b7f96923a44f4c",
+  "links": {
+    "coingecko": "rentberry"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

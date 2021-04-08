@@ -1,0 +1,16 @@
+{
+  "name": "RiverMount",
+  "symbol": "RM",
+  "web": "https://rivermount.io",
+  "explorer": "https://etherscan.io/token/0x7dab77cba1af8F02858B8f07861D85E677A593a8",
+  "links": {
+    "coingecko": "rivermount",
+    "twitter": "RivermountDefi",
+    "facebook": "rivermount01",
+    "telegram": "rivermountglobal"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

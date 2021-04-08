@@ -1,0 +1,15 @@
+{
+  "name": "CoomCoin",
+  "symbol": "COOM",
+  "web": "https://coomer.cash",
+  "explorer": "https://etherscan.io/token/0x2f3e054D233c93C59140c0905227c7C607c70cbb",
+  "links": {
+    "coingecko": "coomcoin",
+    "twitter": "coomcoin1",
+    "telegram": "coomcoinchat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

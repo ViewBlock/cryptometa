@@ -1,0 +1,16 @@
+{
+  "name": "Xdef Finance",
+  "symbol": "XDEF2",
+  "web": "https://xdef.finance",
+  "explorer": "https://etherscan.io/token/0x5166d4ce79b9bf7df477da110c560ce3045aa889",
+  "links": {
+    "github": "combinefinance",
+    "coingecko": "xdef-finance",
+    "twitter": "XdefFinance",
+    "telegram": "xdefifinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

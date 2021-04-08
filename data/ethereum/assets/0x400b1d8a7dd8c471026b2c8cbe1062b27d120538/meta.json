@@ -1,0 +1,17 @@
+{
+  "name": "Limestone Network",
+  "symbol": "LIMEX",
+  "web": "https://limestone.network",
+  "explorer": "https://etherscan.io/token/0x400b1d8a7dd8C471026B2c8CBe1062b27d120538",
+  "links": {
+    "github": "limestone-network",
+    "coingecko": "limestone-network",
+    "twitter": "limestonenetwo1",
+    "facebook": "LimestoneNetwork",
+    "telegram": "limestone_en"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

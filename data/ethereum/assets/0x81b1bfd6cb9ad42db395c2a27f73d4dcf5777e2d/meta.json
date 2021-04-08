@@ -1,0 +1,15 @@
+{
+  "name": "Rare",
+  "symbol": "RARE",
+  "web": "https://app.tryroll.com/token/RARE",
+  "explorer": "https://etherscan.io/token/0x81B1bFD6CB9Ad42DB395c2a27F73D4DCf5777e2D",
+  "links": {
+    "coingecko": "rare",
+    "twitter": "pepe_designer",
+    "telegram": "rare_designer"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

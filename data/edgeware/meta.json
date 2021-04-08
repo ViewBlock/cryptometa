@@ -1,0 +1,15 @@
+{
+  "name": "Edgeware",
+  "symbol": "EDG",
+  "web": "https://edgewa.re",
+  "explorer": "http://edgeware.subscan.io",
+  "links": {
+    "github": "hicommonwealth",
+    "coingecko": "edgeware",
+    "twitter": "heyedgeware",
+    "telegram": "heyedgeware"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

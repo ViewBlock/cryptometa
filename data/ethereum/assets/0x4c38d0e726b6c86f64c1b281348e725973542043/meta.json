@@ -1,0 +1,16 @@
+{
+  "name": "Stand Share",
+  "symbol": "SAS",
+  "web": "https://stand.cash",
+  "explorer": "https://etherscan.io/token/0x4c38d0e726b6c86f64c1b281348e725973542043",
+  "links": {
+    "github": "standcash",
+    "coingecko": "stand-share",
+    "twitter": "StandCash",
+    "telegram": "standcash"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

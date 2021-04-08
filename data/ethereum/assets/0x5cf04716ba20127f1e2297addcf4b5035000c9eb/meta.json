@@ -1,0 +1,18 @@
+{
+  "name": "NKN",
+  "symbol": "NKN",
+  "web": "https://www.nkn.org",
+  "explorer": "https://etherscan.io/token/0x5cf04716ba20127f1e2297addcf4b5035000c9eb",
+  "links": {
+    "github": "nknorg",
+    "coingecko": "nkn",
+    "twitter": "NKN_ORG",
+    "facebook": "nkn.org",
+    "telegram": "nknorg",
+    "reddit": "r/nknblockchain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

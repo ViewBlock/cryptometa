@@ -1,0 +1,16 @@
+{
+  "name": "Yearn Finance Network",
+  "symbol": "YFN",
+  "web": "https://www.yfnetworkdefi.com",
+  "explorer": "https://etherscan.io/token/0x3DD66732113Af9981A861Cf489431533aebA33B8",
+  "links": {
+    "github": "yfnetworkdefi",
+    "coingecko": "yearn-finance-network",
+    "twitter": "yfnetworkdefi",
+    "telegram": "yfnetworkdefi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

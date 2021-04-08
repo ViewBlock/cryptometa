@@ -1,14 +1,20 @@
 {
-  "symbol": "HNST-3C9",
   "name": "Honest",
-  "email": null,
+  "symbol": "HNST-3C9",
   "web": "https://honestmining.com",
+  "explorer": "https://explorer.binance.org/asset/HNST-3C9",
+  "links": {
+    "github": "honestmining",
+    "coingecko": "honest-mining",
+    "twitter": "usenobi",
+    "facebook": "usenobi",
+    "telegram": "usenobi"
+  },
+  "email": null,
   "decimals": null,
   "supply": 400000000,
-  "links": {},
   "gen": {
     "logo": "logo.png",
-    "hasDark": false,
-    "score": 5
+    "score": 19
   }
 }

@@ -1,0 +1,14 @@
+{
+  "name": "MovieBloc",
+  "symbol": "MBL",
+  "web": "http://moviebloc.io",
+  "explorer": "https://etherscan.io/token/0xB879DA8b24c9b8685dE8526cF492E954f165D74b",
+  "links": {
+    "coingecko": "moviebloc",
+    "telegram": "moviebloc"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "4thpillar technologies",
+  "symbol": "FOUR",
+  "web": "https://www.the4thpillar.io",
+  "explorer": "https://etherscan.io/token/0x4730fb1463a6f1f44aeb45f6c5c422427f37f4d0",
+  "links": {
+    "github": "The4thPillar",
+    "coingecko": "the-4th-pillar",
+    "twitter": "4thtechProject",
+    "facebook": "The4thPillarLtd",
+    "telegram": "the4thpillarofficial",
+    "reddit": "r/4th_Pillar"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

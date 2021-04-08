@@ -1,0 +1,14 @@
+{
+  "name": "Bao Finance",
+  "symbol": "BAO",
+  "web": "https://bao.finance",
+  "explorer": "https://etherscan.io/token/0x374cb8c27130e2c9e04f44303f3c8351b9de61c1",
+  "links": {
+    "coingecko": "bao-finance",
+    "twitter": "thebaoman"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

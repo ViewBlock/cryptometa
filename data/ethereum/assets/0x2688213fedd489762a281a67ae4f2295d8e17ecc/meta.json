@@ -1,0 +1,15 @@
+{
+  "name": "FUD.finance",
+  "symbol": "FUD",
+  "web": "https://fud.finance",
+  "explorer": "https://etherscan.io/token/0x2688213fEDd489762a281a67Ae4F2295D8E17ECc",
+  "links": {
+    "coingecko": "fudfinance",
+    "twitter": "dontrugme",
+    "telegram": "makefud"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

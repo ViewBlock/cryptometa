@@ -1,0 +1,14 @@
+{
+  "name": "Design",
+  "symbol": "DSGN",
+  "web": "https://wearedesign.xyz",
+  "explorer": "https://etherscan.io/token/0x537a9095b78517597b5f2058edcd6e1978095909",
+  "links": {
+    "coingecko": "design",
+    "twitter": "wearedsgn"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

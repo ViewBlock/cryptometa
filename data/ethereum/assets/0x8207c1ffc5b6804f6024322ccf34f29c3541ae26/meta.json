@@ -1,0 +1,18 @@
+{
+  "name": "Origin Protocol",
+  "symbol": "OGN",
+  "web": "http://www.originprotocol.com",
+  "explorer": "https://etherscan.io/token/0x8207c1ffc5b6804f6024322ccf34f29c3541ae26",
+  "links": {
+    "github": "OriginProtocol",
+    "coingecko": "origin-protocol",
+    "twitter": "originprotocol",
+    "facebook": "originprotocol",
+    "telegram": "originprotocol",
+    "reddit": "r/originprotocol"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

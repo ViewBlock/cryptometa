@@ -1,0 +1,17 @@
+{
+  "name": "Farm Defi",
+  "symbol": "PFARM",
+  "web": "https://farm.plaas.io",
+  "explorer": "https://etherscan.io/token/0x6a8C66Cab4F766E5E30b4e9445582094303cc322",
+  "links": {
+    "github": "plaasio",
+    "coingecko": "farm-defi",
+    "twitter": "PlaasChain",
+    "facebook": "plaas.io",
+    "telegram": "Plaas2018"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

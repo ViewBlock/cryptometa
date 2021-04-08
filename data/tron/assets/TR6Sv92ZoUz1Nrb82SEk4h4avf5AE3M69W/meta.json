@@ -1,0 +1,16 @@
+{
+  "name": "Durain Finance",
+  "symbol": "DUN",
+  "web": "http://durain.finance",
+  "explorer": "https://tronscan.io/#/token20/TR6Sv92ZoUz1Nrb82SEk4h4avf5AE3M69W",
+  "links": {
+    "github": "durainfinance",
+    "coingecko": "durain-finance",
+    "twitter": "AmamiyaKanon1",
+    "telegram": "durianDUN"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

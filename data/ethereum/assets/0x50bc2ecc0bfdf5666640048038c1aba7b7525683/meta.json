@@ -1,0 +1,18 @@
+{
+  "name": "carVertical",
+  "symbol": "CV",
+  "web": "https://www.carvertical.com",
+  "explorer": "https://etherscan.io/token/0x50bc2ecc0bfdf5666640048038c1aba7b7525683",
+  "links": {
+    "github": "carVertical",
+    "coingecko": "carvertical",
+    "twitter": "carVertical_com",
+    "facebook": "carvertical.io",
+    "telegram": "carVerticalio",
+    "reddit": "r/carVertical"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

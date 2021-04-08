@@ -1,0 +1,17 @@
+{
+  "name": "CoinDeal Token",
+  "symbol": "CDL",
+  "web": "https://token.coindeal.com",
+  "explorer": "https://etherscan.io/token/0xcb17cd357c7acd594717d899ecb9df540f633f27",
+  "links": {
+    "coingecko": "coindeal-token",
+    "twitter": "coindeal_",
+    "facebook": "CoinDealOfficial",
+    "telegram": "coindeal_com",
+    "reddit": "r/CoinDeal"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

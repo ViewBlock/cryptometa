@@ -1,0 +1,17 @@
+{
+  "name": "Banca",
+  "symbol": "BANCA",
+  "web": "https://www.banca.world",
+  "explorer": "https://etherscan.io/token/0x998b3b82bc9dba173990be7afb772788b5acb8bd",
+  "links": {
+    "coingecko": "banca",
+    "twitter": "Banca_Official",
+    "facebook": "banca.official",
+    "telegram": "banca_official",
+    "reddit": "r/Bancaworld"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

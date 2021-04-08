@@ -1,0 +1,15 @@
+{
+  "name": "DistX",
+  "symbol": "DISTX",
+  "web": "https://www.distx.io",
+  "explorer": "https://etherscan.io/token/0x4B4701f3f827E1331fb22FF8e2BEaC24b17Eb055",
+  "links": {
+    "coingecko": "distx",
+    "twitter": "DistXio",
+    "telegram": "distxio"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Prospectors Gold",
+  "symbol": "PGL",
+  "web": "https://prospectors.io",
+  "explorer": "https://etherscan.io/token/0x089a6d83282fb8988a656189f1e7a73fa6c1cac2",
+  "links": {
+    "github": "ProspectorsWorld",
+    "coingecko": "prospectors-gold",
+    "twitter": "prospectorsgame",
+    "facebook": "prospectors.io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

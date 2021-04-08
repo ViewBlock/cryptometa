@@ -1,0 +1,17 @@
+{
+  "name": "HedgeTrade",
+  "symbol": "HEDG",
+  "web": "https://hedgetrade.com",
+  "explorer": "https://etherscan.io/token/0xf1290473e210b2108a85237fbcd7b6eb42cc654f",
+  "links": {
+    "github": "rublixdev",
+    "coingecko": "hedgetrade",
+    "twitter": "hedgetradehq",
+    "facebook": "hedgetradehq",
+    "telegram": "HedgeTradeHQ"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

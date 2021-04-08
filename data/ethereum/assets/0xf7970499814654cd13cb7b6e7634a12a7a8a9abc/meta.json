@@ -1,0 +1,15 @@
+{
+  "name": "TOM Finance",
+  "symbol": "TOM",
+  "web": "https://tom.finance",
+  "explorer": "https://etherscan.io/token/0xf7970499814654cd13cb7b6e7634a12a7a8a9abc",
+  "links": {
+    "github": "TomFinance",
+    "coingecko": "tom-finance",
+    "telegram": "defitom"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

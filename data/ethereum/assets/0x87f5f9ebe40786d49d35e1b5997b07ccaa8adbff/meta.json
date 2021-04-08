@@ -1,0 +1,16 @@
+{
+  "name": "Rebased",
+  "symbol": "REB2",
+  "web": "https://rebased.finance",
+  "explorer": "https://etherscan.io/token/0x87F5F9eBE40786D49D35E1B5997b07cCAA8ADbFF",
+  "links": {
+    "github": "rebasedToken",
+    "coingecko": "rebased",
+    "twitter": "Rebased_/",
+    "telegram": "rebasedTG"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "FingerPrint",
+  "symbol": "FGP",
+  "web": "https://fingerprintcoin.org",
+  "explorer": "https://etherscan.io/token/0xd9a8cfe21c232d485065cb62a96866799d4645f7",
+  "links": {
+    "github": "FGPTEAM",
+    "coingecko": "fingerprint",
+    "twitter": "fingerprintcoin",
+    "facebook": "fingerprintcoin",
+    "telegram": "FingerPrintCoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

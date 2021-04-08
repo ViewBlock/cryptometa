@@ -1,0 +1,15 @@
+{
+  "name": "GasToken",
+  "symbol": "GST2",
+  "web": "https://gastoken.io",
+  "explorer": "https://etherscan.io/token/0x0000000000b3f879cb30fe243b4dfee438691c04",
+  "links": {
+    "github": "projectchicago",
+    "coingecko": "gastoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 14
+  }
+}

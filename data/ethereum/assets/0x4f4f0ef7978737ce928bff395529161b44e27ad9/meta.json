@@ -1,0 +1,16 @@
+{
+  "name": "Your Finance Decentralized",
+  "symbol": "YFD",
+  "web": "https://yfd.io",
+  "explorer": "https://etherscan.io/token/0x4F4F0Ef7978737ce928BFF395529161b44e27ad9",
+  "links": {
+    "github": "YfDFI-Finance",
+    "coingecko": "yfdfi-finance",
+    "twitter": "YFDecentralized",
+    "telegram": "yourfinancedecentralized"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

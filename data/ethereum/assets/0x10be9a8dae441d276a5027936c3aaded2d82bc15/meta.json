@@ -1,0 +1,15 @@
+{
+  "name": "UniMex Network",
+  "symbol": "UMX",
+  "web": "https://unimex.network",
+  "explorer": "https://etherscan.io/token/0x10be9a8dae441d276a5027936c3aaded2d82bc15",
+  "links": {
+    "coingecko": "unimex-network",
+    "twitter": "UniMex_Network",
+    "telegram": "UniMexNetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

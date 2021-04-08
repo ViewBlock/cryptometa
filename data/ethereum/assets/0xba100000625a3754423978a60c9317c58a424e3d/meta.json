@@ -1,0 +1,15 @@
+{
+  "name": "Balancer",
+  "symbol": "BAL",
+  "web": "https://balancer.finance",
+  "explorer": "https://etherscan.io/token/0xba100000625a3754423978a60c9317c58a424e3D",
+  "links": {
+    "github": "balancer-labs",
+    "coingecko": "balancer",
+    "twitter": "BalancerLabs"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

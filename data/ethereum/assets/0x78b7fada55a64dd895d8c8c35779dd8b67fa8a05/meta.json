@@ -1,0 +1,19 @@
+{
+  "name": "Atlant",
+  "symbol": "ATL",
+  "web": "https://atlant.io",
+  "explorer": "https://etherscan.io/token/0x78b7fada55a64dd895d8c8c35779dd8b67fa8a05",
+  "links": {
+    "github": "AtlantPlatform",
+    "coingecko": "atlant",
+    "twitter": "atlantio",
+    "facebook": "atlantplatform",
+    "telegram": "atlant_eng",
+    "reddit": "r/atlantio"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

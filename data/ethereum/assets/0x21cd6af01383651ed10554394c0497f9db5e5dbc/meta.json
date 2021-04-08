@@ -1,0 +1,15 @@
+{
+  "name": "CryptoPing",
+  "symbol": "PING",
+  "web": "https://cryptoping.tech",
+  "explorer": "https://etherscan.io/token/0x21cd6af01383651ed10554394c0497f9db5e5dbc",
+  "links": {
+    "coingecko": "cryptoping",
+    "twitter": "cryptoping",
+    "telegram": "cryptopingfree"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

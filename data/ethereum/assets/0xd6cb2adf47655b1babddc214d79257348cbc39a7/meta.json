@@ -1,0 +1,16 @@
+{
+  "name": "Oracle Top 5 Index",
+  "symbol": "ORCL5",
+  "web": "https://indexed.finance/index/orcl5",
+  "explorer": "https://etherscan.io/token/0xd6cb2adf47655b1babddc214d79257348cbc39a7",
+  "links": {
+    "github": "indexed-finance",
+    "coingecko": "oracle-top-5",
+    "twitter": "ndxfi",
+    "telegram": "ndxfi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

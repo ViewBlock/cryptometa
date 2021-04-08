@@ -1,0 +1,14 @@
+{
+  "name": "DuckDaoDime",
+  "symbol": "DDIM",
+  "web": "https://duckdao.io",
+  "explorer": "https://etherscan.io/token/0xfbeea1c75e4c4465cb2fccc9c6d6afe984558e20",
+  "links": {
+    "coingecko": "duckdaodime",
+    "twitter": "dao_duck"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

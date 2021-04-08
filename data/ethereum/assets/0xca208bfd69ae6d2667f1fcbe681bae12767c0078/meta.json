@@ -1,0 +1,18 @@
+{
+  "name": "HOMIHELP",
+  "symbol": "HOMI",
+  "web": "https://www.homihelp.com",
+  "explorer": "https://etherscan.io/token/0xCa208BfD69ae6D2667f1FCbE681BAe12767c0078",
+  "links": {
+    "github": "homihelp",
+    "coingecko": "homihelp",
+    "twitter": "homihelp",
+    "facebook": "homihelp",
+    "telegram": "official_homihelp"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

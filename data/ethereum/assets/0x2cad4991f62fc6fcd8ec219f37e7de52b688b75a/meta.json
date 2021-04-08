@@ -1,0 +1,15 @@
+{
+  "name": "Schain Wallet",
+  "symbol": "SCHA",
+  "web": "https://schainwallet.com",
+  "explorer": "https://etherscan.io/token/0x2cAd4991f62fc6Fcd8EC219f37E7DE52B688B75A",
+  "links": {
+    "coingecko": "schain-wallet",
+    "twitter": "SchainWallet",
+    "telegram": "schainwallet"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

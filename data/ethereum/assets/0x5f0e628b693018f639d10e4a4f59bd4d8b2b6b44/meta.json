@@ -1,0 +1,14 @@
+{
+  "name": "Whiteheart",
+  "symbol": "WHITE",
+  "web": "https://www.whiteheart.finance",
+  "explorer": "https://etherscan.io/token/0x5f0e628b693018f639d10e4a4f59bd4d8b2b6b44",
+  "links": {
+    "coingecko": "whiteheart",
+    "twitter": "WhiteheartDeFi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

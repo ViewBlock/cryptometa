@@ -1,0 +1,17 @@
+{
+  "name": "Dymmax",
+  "symbol": "DMX",
+  "web": "https://dymmax.com",
+  "explorer": "https://etherscan.io/token/0xf058501585023d040ea9493134ed72c083553eed",
+  "links": {
+    "github": "dymmax",
+    "coingecko": "dymmax",
+    "twitter": "dymmax_protocol",
+    "telegram": "dymmax",
+    "reddit": "r/dymmax"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

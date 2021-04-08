@@ -1,0 +1,16 @@
+{
+  "name": "Dandy Dego",
+  "symbol": "DANDY",
+  "web": "https://dego.finance",
+  "explorer": "https://etherscan.io/token/0x9Dfc4B433D359024Eb3E810d77d60fbE8B0d9B82",
+  "links": {
+    "github": "dego-labs",
+    "coingecko": "dandy",
+    "twitter": "dego_finance",
+    "telegram": "dego_finance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

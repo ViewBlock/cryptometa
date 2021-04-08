@@ -1,0 +1,16 @@
+{
+  "name": "Yearn Finance Management",
+  "symbol": "YEFIM",
+  "web": "https://yfi.management",
+  "explorer": "https://etherscan.io/token/0x4B34c0CBeEF271F895d339c5F76322d71A60782B",
+  "links": {
+    "github": "Yefim-YFM",
+    "coingecko": "yearn-finance-management",
+    "twitter": "YFi_Management",
+    "telegram": "YFI_Management"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

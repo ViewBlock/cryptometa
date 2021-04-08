@@ -1,0 +1,16 @@
+{
+  "name": "Hermez Network",
+  "symbol": "HEZ",
+  "web": "https://hermez.io",
+  "explorer": "https://etherscan.io/token/0xeef9f339514298c6a857efcfc1a762af84438dee",
+  "links": {
+    "github": "hermeznetwork",
+    "coingecko": "hermez-network-token",
+    "twitter": "hermez_network",
+    "telegram": "hermez_network"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

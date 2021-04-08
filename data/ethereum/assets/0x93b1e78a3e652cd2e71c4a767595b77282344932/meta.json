@@ -1,0 +1,16 @@
+{
+  "name": "BITO Coin",
+  "symbol": "BITO",
+  "web": "https://bito.bitopro.com",
+  "explorer": "https://etherscan.io/token/0x93b1e78a3e652cd2e71c4a767595b77282344932",
+  "links": {
+    "coingecko": "bito-coin",
+    "twitter": "BitoEX_Official",
+    "facebook": "bitopro.bito",
+    "telegram": "BitoProOfficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

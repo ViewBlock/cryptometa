@@ -1,0 +1,16 @@
+{
+  "name": "Lotto",
+  "symbol": "LOTTO",
+  "web": "https://lotto.finance",
+  "explorer": "https://etherscan.io/token/0xb0dFd28d3CF7A5897C694904Ace292539242f858",
+  "links": {
+    "coingecko": "lotto",
+    "twitter": "LottoFinance",
+    "telegram": "lottofinance",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

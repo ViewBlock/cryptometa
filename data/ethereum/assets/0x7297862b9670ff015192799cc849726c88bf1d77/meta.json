@@ -1,0 +1,17 @@
+{
+  "name": "SkyMap",
+  "symbol": "SKYM",
+  "web": "https://www.soar.earth",
+  "explorer": "https://etherscan.io/token/0x7297862b9670ff015192799cc849726c88bf1d77",
+  "links": {
+    "github": "SoarEarth",
+    "coingecko": "soar",
+    "twitter": "Soar_Earth",
+    "facebook": "SoarEarthOfficial",
+    "telegram": "SoarEarth"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

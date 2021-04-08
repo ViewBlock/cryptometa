@@ -1,0 +1,16 @@
+{
+  "name": "Injective Protocol",
+  "symbol": "INJ",
+  "web": "https://injectiveprotocol.com",
+  "explorer": "https://etherscan.io/token/0xe28b3b32b6c345a34ff64674606124dd5aceca30",
+  "links": {
+    "coingecko": "injective-protocol",
+    "twitter": "InjectiveLabs",
+    "telegram": "joininjective",
+    "reddit": "r/injective"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

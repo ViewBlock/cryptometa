@@ -1,0 +1,17 @@
+{
+  "name": "Time New Bank",
+  "symbol": "TNB",
+  "web": "https://tnb.fund",
+  "explorer": "https://etherscan.io/token/0xf7920b0768ecb20a123fac32311d07d193381d6f",
+  "links": {
+    "github": "fanxiong",
+    "coingecko": "time-new-bank",
+    "twitter": "TimeNewBank",
+    "telegram": "tnbgroup",
+    "reddit": "r/TimeNewBank"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

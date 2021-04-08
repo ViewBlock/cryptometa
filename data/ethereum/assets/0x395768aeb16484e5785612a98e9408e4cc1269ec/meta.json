@@ -1,0 +1,16 @@
+{
+  "name": "Rush",
+  "symbol": "RUC",
+  "web": "https://therush.io",
+  "explorer": "https://etherscan.io/token/0x395768AeB16484E5785612a98E9408e4Cc1269Ec",
+  "links": {
+    "coingecko": "rush",
+    "twitter": "rushmintable",
+    "facebook": "Rush-Mintable-101301968400935",
+    "telegram": "RUSHCOINGLOBAL"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

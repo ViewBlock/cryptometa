@@ -1,0 +1,17 @@
+{
+  "name": "DEAPCOIN",
+  "symbol": "DEP",
+  "web": "https://dea.sg",
+  "explorer": "https://etherscan.io/token/0x1a3496c18d558bd9c6c8f609e1b129f67ab08163",
+  "links": {
+    "github": "Digita-Entertainment-Asset",
+    "coingecko": "deapcoin",
+    "twitter": "PlayMining_SG",
+    "facebook": "PlayMining",
+    "telegram": "DEAPcoin_group"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

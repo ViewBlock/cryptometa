@@ -1,0 +1,15 @@
+{
+  "name": "CORD.Finance [old]",
+  "symbol": "CORD",
+  "web": "https://cord.finance",
+  "explorer": "https://etherscan.io/token/0x74fb9da15d4f9a34d8c825798da0fa5c400dade1",
+  "links": {
+    "coingecko": "cord-defi-eth",
+    "twitter": "cordfinance",
+    "telegram": "cordfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

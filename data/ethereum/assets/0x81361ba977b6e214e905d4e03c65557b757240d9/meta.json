@@ -1,0 +1,17 @@
+{
+  "name": "Neo Smart Energy",
+  "symbol": "NSE",
+  "web": "https://neosmartenergy.io",
+  "explorer": "https://etherscan.io/token/0x81361ba977b6e214e905d4e03c65557b757240d9",
+  "links": {
+    "github": "NeoSmartEnergy-Cryptocurrency",
+    "coingecko": "neo-smart-energy",
+    "twitter": "neosmartenergy",
+    "facebook": "neosmartenergy",
+    "telegram": "NeoSmartEnergy_English"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

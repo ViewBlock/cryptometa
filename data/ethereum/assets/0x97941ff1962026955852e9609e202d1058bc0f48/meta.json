@@ -1,0 +1,13 @@
+{
+  "name": "Va Na Su",
+  "symbol": "VNS",
+  "web": "http://vana.uxi.kr",
+  "explorer": "https://etherscan.io/token/0x97941Ff1962026955852E9609E202D1058BC0f48",
+  "links": {
+    "coingecko": "va-na-su"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

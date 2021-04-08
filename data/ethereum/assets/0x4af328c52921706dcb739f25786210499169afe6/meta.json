@@ -1,0 +1,14 @@
+{
+  "name": "Sakura Bloom",
+  "symbol": "SKB",
+  "web": "https://www.skb-coin.jp/en",
+  "explorer": "https://etherscan.io/token/0x4af328c52921706dcb739f25786210499169afe6",
+  "links": {
+    "coingecko": "sakura-bloom",
+    "twitter": "skb_pay"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

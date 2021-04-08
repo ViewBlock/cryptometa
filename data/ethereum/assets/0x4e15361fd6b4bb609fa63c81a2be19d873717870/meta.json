@@ -1,0 +1,17 @@
+{
+  "name": "Fantom",
+  "symbol": "FTM",
+  "web": "http://fantom.foundation",
+  "explorer": "https://etherscan.io/token/0x4e15361fd6b4bb609fa63c81a2be19d873717870",
+  "links": {
+    "github": "Fantom-foundation",
+    "coingecko": "fantom",
+    "twitter": "FantomFDN",
+    "telegram": "fantom_english",
+    "reddit": "r/FantomFoundation"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

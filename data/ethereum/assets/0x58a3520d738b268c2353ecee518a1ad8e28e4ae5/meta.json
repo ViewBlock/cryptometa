@@ -1,0 +1,17 @@
+{
+  "name": "HEIDI",
+  "symbol": "HDI",
+  "web": "https://heidicoin.ch",
+  "explorer": "https://etherscan.io/token/0x58a3520d738b268c2353ecee518a1ad8e28e4ae5",
+  "links": {
+    "github": "WinstonInter",
+    "coingecko": "heidi",
+    "twitter": "winston_graf",
+    "telegram": "HEIDIICO",
+    "reddit": "r/Heidicoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

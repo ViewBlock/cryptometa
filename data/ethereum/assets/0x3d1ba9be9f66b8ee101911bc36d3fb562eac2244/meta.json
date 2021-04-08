@@ -1,0 +1,16 @@
+{
+  "name": "Rivetz",
+  "symbol": "RVT",
+  "web": "https://rivetz.com",
+  "explorer": "https://etherscan.io/token/0x3d1ba9be9f66b8ee101911bc36d3fb562eac2244",
+  "links": {
+    "coingecko": "rivetz",
+    "twitter": "rivetzcorp",
+    "telegram": "rivet_group",
+    "reddit": "r/Rivetz"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

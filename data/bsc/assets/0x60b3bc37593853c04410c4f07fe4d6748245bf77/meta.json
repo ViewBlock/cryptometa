@@ -1,0 +1,12 @@
+{
+  "name": "Shield Protocol",
+  "symbol": "SHIELD",
+  "web": "https://shieldprotocol.org",
+  "explorer": "https://bscscan.com/token/0x60b3bc37593853c04410c4f07fe4d6748245bf77",
+  "links": {
+    "github": "shield2protocol",
+    "coingecko": "shield-protocol",
+    "twitter": "shield2protocol",
+    "telegram": "shield2protocol"
+  }
+}

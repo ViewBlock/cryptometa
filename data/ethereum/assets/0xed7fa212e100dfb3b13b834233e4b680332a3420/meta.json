@@ -1,0 +1,16 @@
+{
+  "name": "Street Cred",
+  "symbol": "CRED",
+  "web": "https://coinartist.io",
+  "explorer": "https://etherscan.io/token/0xED7Fa212E100DFb3b13B834233E4B680332a3420",
+  "links": {
+    "github": "coin-artist-project",
+    "coingecko": "street-cred",
+    "twitter": "coin_artist",
+    "telegram": "coincred"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PIGX",
+  "symbol": "PIGX",
+  "web": "http://city.pigice.com",
+  "explorer": "https://etherscan.io/token/0x47e820df943170b0e31f9e18ecd5bdd67b77ff1f",
+  "links": {
+    "coingecko": "pigx"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

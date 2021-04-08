@@ -1,0 +1,15 @@
+{
+  "name": "HYDROCARBON 8",
+  "symbol": "HC8",
+  "web": "http://hc8.io",
+  "explorer": "https://etherscan.io/token/0x285e6b192928a1ba5ab2ced5cc34ad1cf774238a",
+  "links": {
+    "github": "hydrocarbon8",
+    "coingecko": "hydrocarbon-8",
+    "telegram": "hydrocarbon8"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

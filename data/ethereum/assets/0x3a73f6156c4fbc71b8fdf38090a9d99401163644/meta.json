@@ -1,0 +1,16 @@
+{
+  "name": "Lottonation",
+  "symbol": "LNT",
+  "web": "https://www.lottonation.com",
+  "explorer": "https://etherscan.io/token/0x3a73F6156C4fBC71B8fDF38090A9D99401163644",
+  "links": {
+    "coingecko": "lottonation",
+    "twitter": "lotto_nation",
+    "facebook": "lottonation.platform",
+    "telegram": "lottonationcommunity"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

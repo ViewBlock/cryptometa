@@ -1,0 +1,19 @@
+{
+  "name": "BOX Token",
+  "symbol": "BOX",
+  "web": "https://box.la",
+  "explorer": "https://etherscan.io/token/0xe1A178B681BD05964d3e3Ed33AE731577d9d96dD",
+  "links": {
+    "github": "boxproject",
+    "coingecko": "box-token",
+    "twitter": "boxla888",
+    "facebook": "www.box.la",
+    "telegram": "safeboxla",
+    "reddit": "r/boxla888"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

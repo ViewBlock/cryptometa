@@ -1,0 +1,16 @@
+{
+  "name": "TokenClub",
+  "symbol": "TCT",
+  "web": "http://www.tokenclub.com/#/En",
+  "explorer": "https://etherscan.io/token/0x4824a7b64e3966b0133f4f4ffb1b9d6beb75fff7",
+  "links": {
+    "coingecko": "tokenclub",
+    "twitter": "Token8Club",
+    "facebook": "token.club.71",
+    "telegram": "token_club"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

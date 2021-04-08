@@ -1,0 +1,17 @@
+{
+  "name": "OneLedger",
+  "symbol": "OLT",
+  "web": "https://oneledger.io",
+  "explorer": "https://etherscan.io/token/0x64A60493D888728Cf42616e034a0dfEAe38EFCF0",
+  "links": {
+    "github": "Oneledger",
+    "coingecko": "one-ledger",
+    "twitter": "OneLedgerTech",
+    "telegram": "oneledger",
+    "reddit": "r/OneLedger"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

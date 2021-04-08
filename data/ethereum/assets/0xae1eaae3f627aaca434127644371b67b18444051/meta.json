@@ -1,0 +1,16 @@
+{
+  "name": "Yield Optimization Platform & Protocol",
+  "symbol": "YOP",
+  "web": "https://yop.finance",
+  "explorer": "https://etherscan.io/token/0xae1eaae3f627aaca434127644371b67b18444051",
+  "links": {
+    "github": "yopfi",
+    "coingecko": "yield-optimization-platform",
+    "twitter": "yopfi",
+    "telegram": "yopfi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

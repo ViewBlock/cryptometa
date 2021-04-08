@@ -1,0 +1,18 @@
+{
+  "name": "ChainX",
+  "symbol": "PCX",
+  "web": "https://chainx.org",
+  "explorer": "https://scan.chainx.org",
+  "links": {
+    "github": "chainx-org",
+    "coingecko": "chainx",
+    "twitter": "chainx_org",
+    "telegram": "chainx_org",
+    "reddit": "r/ChainX"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "score": 19
+  }
+}

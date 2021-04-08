@@ -1,0 +1,16 @@
+{
+  "name": "STONK",
+  "symbol": "STONK",
+  "web": "https://stonk.dev",
+  "explorer": "https://etherscan.io/token/0xb4058411967d5046f3510943103805be61f0600e",
+  "links": {
+    "github": "stonkdev",
+    "coingecko": "stonk",
+    "twitter": "stonkdev",
+    "telegram": "stonkdev"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

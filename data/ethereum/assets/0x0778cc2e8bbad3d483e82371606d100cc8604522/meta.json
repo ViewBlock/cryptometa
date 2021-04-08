@@ -1,0 +1,16 @@
+{
+  "name": "LHCoin",
+  "symbol": "LHCOIN",
+  "web": "https://lh-crypto.io",
+  "explorer": "https://etherscan.io/token/0x0778cc2e8bbad3d483e82371606d100cc8604522",
+  "links": {
+    "github": "LHCrypto",
+    "coingecko": "lhcoin",
+    "facebook": "lhcoin",
+    "telegram": "LHCrypto"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

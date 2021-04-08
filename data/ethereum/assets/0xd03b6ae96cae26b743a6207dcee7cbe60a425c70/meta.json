@@ -1,0 +1,15 @@
+{
+  "name": "UniDexBot",
+  "symbol": "UNDB",
+  "web": "http://unidexbot.com",
+  "explorer": "https://etherscan.io/token/0xd03B6ae96CaE26b743A6207DceE7Cbe60a425c70",
+  "links": {
+    "coingecko": "unibot-cash",
+    "twitter": "unidexbot",
+    "telegram": "usw_bot"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

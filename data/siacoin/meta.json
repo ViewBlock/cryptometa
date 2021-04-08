@@ -1,0 +1,15 @@
+{
+  "name": "Siacoin",
+  "symbol": "SC",
+  "web": "https://sia.tech",
+  "explorer": "https://www.siastats.info/index",
+  "links": {
+    "github": "NebulousLabs",
+    "coingecko": "siacoin",
+    "twitter": "SiaTechHQ",
+    "reddit": "r/siacoin"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Zoom Protocol",
+  "symbol": "ZOM",
+  "web": "https://zoomprotocol.com",
+  "explorer": "https://etherscan.io/token/0x1a231e75538a931c395785ef5d1a5581ec622b0e",
+  "links": {
+    "coingecko": "zoom-protocol",
+    "twitter": "ZoomProtocol",
+    "telegram": "ZoomProtocolOfficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

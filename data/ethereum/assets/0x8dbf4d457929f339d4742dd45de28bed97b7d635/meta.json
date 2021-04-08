@@ -1,0 +1,13 @@
+{
+  "name": "DIYChain",
+  "symbol": "DIY",
+  "web": "http://www.diychain.com",
+  "explorer": "https://etherscan.io/token/0x8dbf4d457929f339d4742dd45de28bed97b7d635",
+  "links": {
+    "coingecko": "diychain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

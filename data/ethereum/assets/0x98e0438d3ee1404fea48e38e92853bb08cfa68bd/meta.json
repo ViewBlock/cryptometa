@@ -1,0 +1,15 @@
+{
+  "name": "TVT",
+  "symbol": "TVT",
+  "web": "https://tvt.io",
+  "explorer": "https://etherscan.io/token/0x98e0438d3ee1404fea48e38e92853bb08cfa68bd",
+  "links": {
+    "coingecko": "tvt",
+    "twitter": "tvtokens",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

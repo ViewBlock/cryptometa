@@ -1,0 +1,17 @@
+{
+  "name": "DAEX",
+  "symbol": "DAX",
+  "web": "https://www.daex.io",
+  "explorer": "https://etherscan.io/token/0x0b4bdc478791897274652dc15ef5c135cae61e60",
+  "links": {
+    "coingecko": "daex",
+    "twitter": "daexblockchain",
+    "facebook": "daexblockchain",
+    "telegram": "DAEXOfficial_en",
+    "reddit": "r/DAEX_Blockchain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

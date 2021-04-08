@@ -1,0 +1,13 @@
+{
+  "name": "ChatCoin",
+  "symbol": "CHAT",
+  "web": "http://www.openchat.co",
+  "explorer": "https://etherscan.io/token/0x442bc47357919446eabc18c7211e57a13d983469",
+  "links": {
+    "coingecko": "chatcoin"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 5
+  }
+}

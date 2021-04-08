@@ -1,0 +1,15 @@
+{
+  "name": "YFI Business",
+  "symbol": "YFIB",
+  "web": "https://yfibusiness.finance",
+  "explorer": "https://etherscan.io/token/0x47632da9227e322eda59f9e7691eacc6430ac87c",
+  "links": {
+    "coingecko": "yfi-business",
+    "twitter": "yfibusiness",
+    "telegram": "yfibfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

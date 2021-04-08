@@ -1,0 +1,15 @@
+{
+  "name": "FuzeX",
+  "symbol": "FXT",
+  "web": "https://www.fuzex.co",
+  "explorer": "https://etherscan.io/token/0x1829aa045e21e0d59580024a951db48096e01782",
+  "links": {
+    "github": "fuzex",
+    "coingecko": "fuzex",
+    "telegram": "FuzeX"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

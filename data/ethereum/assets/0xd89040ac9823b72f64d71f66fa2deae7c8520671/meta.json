@@ -1,0 +1,16 @@
+{
+  "name": "Newsolution",
+  "symbol": "NST",
+  "web": "https://newsolutioncoin.com",
+  "explorer": "https://etherscan.io/token/0xd89040ac9823b72f64d71f66fa2deae7c8520671",
+  "links": {
+    "github": "Newsolutioncoin",
+    "coingecko": "newsolution",
+    "twitter": "NewSolutionCoin",
+    "facebook": "NewSolutionCoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

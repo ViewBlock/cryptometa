@@ -1,0 +1,16 @@
+{
+  "name": "ShineChain",
+  "symbol": "SHE",
+  "web": "https://www.shinechain.org",
+  "explorer": "https://etherscan.io/token/0x9064c91e51d7021A85AD96817e1432aBf6624470",
+  "links": {
+    "github": "ShineChain",
+    "coingecko": "shinechain",
+    "twitter": "_shinechain",
+    "telegram": "shinechainofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

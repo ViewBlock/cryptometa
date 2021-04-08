@@ -1,0 +1,16 @@
+{
+  "name": "SpringRole",
+  "symbol": "SPRING",
+  "web": "https://springrole.com",
+  "explorer": "https://etherscan.io/token/0xfb0bdc444c8ae7e9b5beea5e4d1e8de93879e487",
+  "links": {
+    "coingecko": "springrole",
+    "twitter": "springroleinc",
+    "facebook": "springrole",
+    "telegram": "springrole"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

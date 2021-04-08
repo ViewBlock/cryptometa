@@ -1,0 +1,13 @@
+{
+  "name": "Coinbene Token",
+  "symbol": "CONI",
+  "web": "https://www.coinbene.com/#/coni",
+  "explorer": "https://etherscan.io/token/0x2c949199cff14aeaf1b33d64db01f48fb57f592f",
+  "links": {
+    "coingecko": "coinbene-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Pub Finance",
+  "symbol": "PINT",
+  "web": "https://pub.finance",
+  "explorer": "https://etherscan.io/token/0xfecba472b2540c5a2d3700b2c9e06f0aa7dc6462",
+  "links": {
+    "coingecko": "pub-finance",
+    "twitter": "Pub_Finance",
+    "telegram": "PubFin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

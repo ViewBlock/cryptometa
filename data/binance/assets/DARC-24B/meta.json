@@ -17,7 +17,7 @@
   },
   "gen": {
     "logo": "logo.png",
-    "hasDark": false,
+    "hasDark": true,
     "score": 24
   }
 }

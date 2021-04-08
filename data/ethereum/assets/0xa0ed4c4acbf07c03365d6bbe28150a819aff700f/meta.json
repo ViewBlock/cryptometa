@@ -1,0 +1,15 @@
+{
+  "name": "BITIFEX",
+  "symbol": "BITX",
+  "web": "https://www.bitifex.io",
+  "explorer": "https://etherscan.io/token/0xa0ed4c4acbf07c03365d6bbe28150a819aff700f",
+  "links": {
+    "coingecko": "bitifex",
+    "twitter": "bitifex",
+    "telegram": "bitifex"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "AICHAIN",
+  "symbol": "AIT",
+  "web": "https://www.aichain.me",
+  "explorer": "https://etherscan.io/token/0x79650799e7899a802cb96c0bc33a6a8d4ce4936c",
+  "links": {
+    "coingecko": "aichain",
+    "twitter": "AICHAIN1",
+    "facebook": "AIchain-162716227790252",
+    "telegram": "ait_cn"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

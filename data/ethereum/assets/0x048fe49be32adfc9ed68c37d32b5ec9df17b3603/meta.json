@@ -1,0 +1,16 @@
+{
+  "name": "Skrumble Network",
+  "symbol": "SKM",
+  "web": "https://skrumble.network",
+  "explorer": "https://etherscan.io/token/0x048fe49be32adfc9ed68c37d32b5ec9df17b3603",
+  "links": {
+    "github": "Skrumble",
+    "coingecko": "skrumble-network",
+    "twitter": "SkrumbleNetwork",
+    "telegram": "skrumble"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

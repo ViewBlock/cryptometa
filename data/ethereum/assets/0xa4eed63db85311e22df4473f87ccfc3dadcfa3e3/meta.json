@@ -1,0 +1,17 @@
+{
+  "name": "Rubic",
+  "symbol": "RBC",
+  "web": "https://rubic.exchange",
+  "explorer": "https://etherscan.io/token/0xa4eed63db85311e22df4473f87ccfc3dadcfa3e3",
+  "links": {
+    "github": "Cryptorubic",
+    "coingecko": "rubic",
+    "twitter": "CryptoRubic",
+    "telegram": "cryptorubic_chat",
+    "reddit": "r/Rubic/new"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

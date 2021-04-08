@@ -1,0 +1,17 @@
+{
+  "name": "BOSAGORA",
+  "symbol": "BOA",
+  "web": "https://www.bosagora.io",
+  "explorer": "https://etherscan.io/token/0x746dda2ea243400d5a63e0700f190ab79f06489e",
+  "links": {
+    "github": "bpfkorea",
+    "coingecko": "bosagora",
+    "twitter": "BOSAGORA1",
+    "facebook": "BOSAGORA",
+    "telegram": "bpf_eng"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

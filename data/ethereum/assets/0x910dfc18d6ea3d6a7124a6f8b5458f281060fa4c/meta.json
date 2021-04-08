@@ -1,0 +1,17 @@
+{
+  "name": "X8X Token",
+  "symbol": "X8X",
+  "web": "https://x8currency.com",
+  "explorer": "https://etherscan.io/token/0x910dfc18d6ea3d6a7124a6f8b5458f281060fa4c",
+  "links": {
+    "github": "x8currency-project",
+    "coingecko": "x8-project",
+    "twitter": "x8currency",
+    "facebook": "X8currency",
+    "telegram": "x8Project"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

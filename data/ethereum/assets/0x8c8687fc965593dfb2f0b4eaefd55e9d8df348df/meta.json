@@ -1,0 +1,15 @@
+{
+  "name": "PAID Network",
+  "symbol": "PAID",
+  "web": "https://paidnetwork.com",
+  "explorer": "https://etherscan.io/token/0x8c8687fc965593dfb2f0b4eaefd55e9d8df348df",
+  "links": {
+    "coingecko": "paid-network",
+    "twitter": "paid_network",
+    "telegram": "paidnetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

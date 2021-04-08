@@ -1,0 +1,16 @@
+{
+  "name": "Zytara Dollar",
+  "symbol": "ZUSD",
+  "web": "https://zytara.com",
+  "explorer": "https://etherscan.io/token/0xbf0f3ccb8fa385a287106fba22e6bb722f94d686",
+  "links": {
+    "github": "stablyio",
+    "coingecko": "zytara-dollar",
+    "twitter": "zytarahq",
+    "facebook": "zytara"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

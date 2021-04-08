@@ -1,0 +1,18 @@
+{
+  "name": "Dragonchain",
+  "symbol": "DRGN",
+  "web": "https://dragonchain.com",
+  "explorer": "https://etherscan.io/token/0x419c4db4b9e25d6db2ad9691ccb832c8d9fda05e",
+  "links": {
+    "github": "dragonchain",
+    "coingecko": "dragonchain",
+    "twitter": "dragonchaingang",
+    "facebook": "dragonchaingang",
+    "telegram": "dragontalk",
+    "reddit": "r/Dragonchainblockchain"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

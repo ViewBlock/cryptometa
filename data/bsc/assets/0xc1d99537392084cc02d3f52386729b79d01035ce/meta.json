@@ -1,0 +1,12 @@
+{
+  "name": "StaysBASE",
+  "symbol": "SBS",
+  "web": "https://staysbase.org",
+  "explorer": "https://bscscan.com/token/0xc1d99537392084cc02d3f52386729b79d01035ce",
+  "links": {
+    "github": "staysbase",
+    "coingecko": "staysbase",
+    "twitter": "StaysBASE",
+    "telegram": "StaysBASE"
+  }
+}

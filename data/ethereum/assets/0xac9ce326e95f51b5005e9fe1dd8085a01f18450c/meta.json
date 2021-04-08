@@ -1,0 +1,18 @@
+{
+  "name": "VeriSafe",
+  "symbol": "VSF",
+  "web": "https://www.verisafe.io",
+  "explorer": "https://etherscan.io/token/0xac9ce326e95f51b5005e9fe1dd8085a01f18450c",
+  "links": {
+    "github": "VeriSafe",
+    "coingecko": "verisafe",
+    "twitter": "VeriSafeProject",
+    "facebook": "VeriSafeProjectIO",
+    "telegram": "cpollo2",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

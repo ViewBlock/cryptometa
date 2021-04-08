@@ -1,0 +1,17 @@
+{
+  "name": "GastroAdvisor",
+  "symbol": "FORK",
+  "web": "https://www.gastroadvisor.com",
+  "explorer": "https://etherscan.io/token/0x5bb1632fa0023e1aa76a1ae92b4635c8dba49fa2",
+  "links": {
+    "github": "GastroAdvisor",
+    "coingecko": "gastroadvisor",
+    "twitter": "gastroadvisor",
+    "facebook": "GastroAdvisor",
+    "telegram": "GastroAdvisorOfficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

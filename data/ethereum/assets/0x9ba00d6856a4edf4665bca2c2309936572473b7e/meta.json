@@ -1,0 +1,17 @@
+{
+  "name": "Aave USDC v1",
+  "symbol": "AUSDC",
+  "web": "https://aave.com/atokens",
+  "explorer": "https://etherscan.io/token/0x9bA00D6856a4eDF4665BcA2C2309936572473B7E",
+  "links": {
+    "github": "aave",
+    "coingecko": "aave-usdc",
+    "twitter": "aaveaave",
+    "telegram": "@Aavesome",
+    "reddit": "r/Aave_Official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

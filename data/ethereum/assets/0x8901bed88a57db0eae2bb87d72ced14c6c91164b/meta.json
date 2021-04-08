@@ -1,0 +1,16 @@
+{
+  "name": "YFI Product Token",
+  "symbol": "YFIP",
+  "web": "https://yfiproduct.io",
+  "explorer": "https://etherscan.io/token/0x8901bed88a57db0eae2bb87d72ced14c6c91164b",
+  "links": {
+    "coingecko": "yfi-product-token",
+    "twitter": "YFIproduct",
+    "telegram": "yfi_product"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

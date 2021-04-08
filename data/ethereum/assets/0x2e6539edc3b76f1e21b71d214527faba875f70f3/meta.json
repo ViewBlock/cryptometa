@@ -1,0 +1,16 @@
+{
+  "name": "Yearn Finance DOT",
+  "symbol": "YFDOT",
+  "web": "https://yfdot.finance",
+  "explorer": "https://etherscan.io/token/0x2e6539edc3b76f1e21b71d214527faba875f70f3",
+  "links": {
+    "github": "YFDOT",
+    "coingecko": "yearn-finance-dot",
+    "twitter": "Yfdotfinance",
+    "telegram": "YFDOT_Finance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

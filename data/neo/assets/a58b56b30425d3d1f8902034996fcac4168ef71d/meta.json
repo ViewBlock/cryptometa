@@ -1,0 +1,17 @@
+{
+  "name": "Asura",
+  "symbol": "ASA",
+  "web": "https://asuracoin.io",
+  "explorer": "https://neotracker.io/asset/a58b56b30425d3d1f8902034996fcac4168ef71d",
+  "links": {
+    "coingecko": "asura",
+    "twitter": "AsuraCoin",
+    "facebook": "asuracoin",
+    "telegram": "asuracoin",
+    "reddit": "r/AsuraCoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

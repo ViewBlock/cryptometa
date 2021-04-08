@@ -1,0 +1,15 @@
+{
+  "name": "Edcoin",
+  "symbol": "EDC",
+  "web": "https://www.ed-coin.io",
+  "explorer": "https://etherscan.io/token/0x9d5963ba32e877871dff3e2e697283dc64066271",
+  "links": {
+    "github": "officialedex",
+    "coingecko": "aga-rewards",
+    "twitter": "edcoinofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

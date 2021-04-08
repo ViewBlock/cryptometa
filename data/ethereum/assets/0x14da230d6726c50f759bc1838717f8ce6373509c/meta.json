@@ -1,0 +1,17 @@
+{
+  "name": "Kambria",
+  "symbol": "KAT",
+  "web": "https://kambria.io",
+  "explorer": "https://etherscan.io/token/0x14da230d6726c50f759bc1838717f8ce6373509c",
+  "links": {
+    "github": "kambria-platform",
+    "coingecko": "kambria",
+    "twitter": "KambriaNetwork",
+    "facebook": "KambriaNetwork",
+    "telegram": "kambriaofficial"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

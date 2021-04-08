@@ -1,0 +1,15 @@
+{
+  "name": "PayperEx",
+  "symbol": "PAX",
+  "web": "https://payperex.com",
+  "explorer": "https://etherscan.io/token/0xc1D204d77861dEf49b6E769347a883B15EC397Ff",
+  "links": {
+    "coingecko": "payperex",
+    "twitter": "PayperExnet",
+    "facebook": "payperexnet"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "NagaSwap",
+  "symbol": "BNW",
+  "web": "https://nagaswap.org",
+  "explorer": "https://bscscan.com/token/0xa15083664eb19899885ccc2b4fd03977b26d3a2d",
+  "links": {
+    "github": "nagaswap20",
+    "coingecko": "nagaswap",
+    "twitter": "SwapNaga",
+    "telegram": "NAGASWAP"
+  }
+}

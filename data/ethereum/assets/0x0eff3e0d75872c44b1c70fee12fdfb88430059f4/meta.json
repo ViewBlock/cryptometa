@@ -1,0 +1,16 @@
+{
+  "name": "XueDaoCoin",
+  "symbol": "XDC",
+  "web": "https://www.xuedaowang.com",
+  "explorer": "https://etherscan.io/token/0x0eFF3E0D75872C44B1c70Fee12FDFB88430059f4",
+  "links": {
+    "coingecko": "xuedaocoin",
+    "twitter": "bit_shield",
+    "facebook": "bit.shield.37",
+    "telegram": "bitshieldofficia"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

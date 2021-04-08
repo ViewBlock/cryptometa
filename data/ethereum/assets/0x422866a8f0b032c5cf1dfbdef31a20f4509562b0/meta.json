@@ -1,0 +1,17 @@
+{
+  "name": "Adshares",
+  "symbol": "ADS",
+  "web": "https://adshares.net",
+  "explorer": "https://etherscan.io/token/0x422866a8f0b032c5cf1dfbdef31a20f4509562b0",
+  "links": {
+    "github": "adshares",
+    "coingecko": "adshares",
+    "twitter": "adsharesNet",
+    "telegram": "adshares",
+    "reddit": "r/adshares"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

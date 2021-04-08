@@ -1,0 +1,11 @@
+{
+  "name": "Yieldwatch",
+  "symbol": "WATCH",
+  "web": "https://yieldwatch.net",
+  "explorer": "https://bscscan.com/token/0x7a9f28eb62c791422aa23ceae1da9c847cbec9b0",
+  "links": {
+    "coingecko": "yieldwatch",
+    "twitter": "yieldwatch",
+    "telegram": "yieldwatch"
+  }
+}

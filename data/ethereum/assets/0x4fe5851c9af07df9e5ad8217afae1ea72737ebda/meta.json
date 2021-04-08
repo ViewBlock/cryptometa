@@ -1,0 +1,15 @@
+{
+  "name": "OpenPredict Token",
+  "symbol": "OPT",
+  "web": "https://openpredict.io",
+  "explorer": "https://etherscan.io/token/0x4FE5851C9af07df9e5AD8217aFAE1ea72737Ebda",
+  "links": {
+    "coingecko": "open-predict-token",
+    "twitter": "OPTprotocol",
+    "telegram": "OpenPredictAnnouncements"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "DoDreamChain",
+  "symbol": "DRM",
+  "web": "http://ir.dodream.io",
+  "explorer": "https://etherscan.io/token/0x89551b940e2a8ed8eccf509935bac9213fe30584",
+  "links": {
+    "github": "DoDreamChain",
+    "coingecko": "dodreamchain",
+    "facebook": "DoDreamVN",
+    "telegram": "dodreamchain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Switcheo",
+  "symbol": "SWTH",
+  "web": "https://switcheo.network",
+  "explorer": "https://neotracker.io/asset/ab38352559b8b203bde5fddfa0b07d8b2525e132",
+  "links": {
+    "coingecko": "switcheo",
+    "twitter": "switcheonetwork",
+    "telegram": "switcheo",
+    "reddit": "r/Switcheo"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

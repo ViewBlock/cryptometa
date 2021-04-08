@@ -1,0 +1,13 @@
+{
+  "name": "MobileCoin",
+  "symbol": "MOB",
+  "web": "https://www.mobilecoin.com",
+  "email": "hello@mobilecoin.com",
+  "links": {
+    "coingecko": "mobilecoin",
+    "twitter": "mobilecoin"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

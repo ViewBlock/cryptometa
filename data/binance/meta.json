@@ -1,11 +1,16 @@
 {
   "name": "Binance Chain",
-  "path": "binance",
   "symbol": "BNB",
   "web": "https://binance.org",
   "explorer": "https://explorer.binance.org",
+  "links": {
+    "github": "binance-exchange",
+    "coingecko": "binancecoin",
+    "twitter": "binance",
+    "facebook": "binanceexchange",
+    "reddit": "r/binance"
+  },
   "gen": {
-    "logo": "logo.svg",
-    "hasDark": false
+    "logo": "logo.svg"
   }
 }

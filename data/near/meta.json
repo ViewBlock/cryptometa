@@ -1,0 +1,17 @@
+{
+  "name": "Near",
+  "symbol": "NEAR",
+  "web": "https://nearprotocol.com",
+  "explorer": "https://explorer.nearprotocol.com",
+  "links": {
+    "github": "nearprotocol",
+    "coingecko": "near",
+    "twitter": "nearprotocol",
+    "facebook": "NearProtocol/",
+    "telegram": "cryptonear"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true
+  }
+}

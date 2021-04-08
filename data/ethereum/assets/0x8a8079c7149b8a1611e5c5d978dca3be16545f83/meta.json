@@ -1,0 +1,14 @@
+{
+  "name": "iADA",
+  "symbol": "IADA",
+  "web": "https://www.synthetix.io/tokens",
+  "explorer": "https://etherscan.io/token/0x8A8079c7149B8A1611e5C5d978DCA3bE16545F83",
+  "links": {
+    "coingecko": "iada",
+    "twitter": "synthetix_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Prosper",
+  "symbol": "PROS",
+  "web": "https://prosper.so",
+  "explorer": "https://etherscan.io/token/0x8642A849D0dcb7a15a974794668ADcfbe4794B56",
+  "links": {
+    "coingecko": "prosper",
+    "twitter": "Prosperpredict",
+    "telegram": "prosperfi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

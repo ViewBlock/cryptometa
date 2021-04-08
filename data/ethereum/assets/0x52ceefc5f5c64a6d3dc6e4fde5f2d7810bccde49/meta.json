@@ -1,0 +1,13 @@
+{
+  "name": "COINXCLUB",
+  "symbol": "CPX",
+  "web": "https://coinxclub.co.kr",
+  "explorer": "https://etherscan.io/token/0x52ceefc5f5c64a6d3dc6e4fde5f2d7810bccde49",
+  "links": {
+    "coingecko": "coinxclub"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

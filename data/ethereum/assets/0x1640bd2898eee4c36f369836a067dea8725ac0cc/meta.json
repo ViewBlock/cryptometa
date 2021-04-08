@@ -1,0 +1,16 @@
+{
+  "name": "DeFiato",
+  "symbol": "DFO",
+  "web": "https://defiato.com",
+  "explorer": "https://etherscan.io/token/0x1640BD2898Eee4C36F369836a067deA8725ac0Cc",
+  "links": {
+    "coingecko": "defiato",
+    "twitter": "DeFiatoOfficial",
+    "facebook": "DeFiatoOfficial",
+    "telegram": "DeFiato"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

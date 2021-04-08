@@ -1,0 +1,14 @@
+{
+  "name": "UltrAlpha",
+  "symbol": "UAT",
+  "web": "https://ultralpha.io",
+  "explorer": "https://etherscan.io/token/0x01c0987e88f778df6640787226bc96354e1a9766",
+  "links": {
+    "coingecko": "ultralpha",
+    "telegram": "UltrAlphaInternationalOfficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

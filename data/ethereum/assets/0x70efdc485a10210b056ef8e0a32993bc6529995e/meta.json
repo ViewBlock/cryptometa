@@ -1,0 +1,16 @@
+{
+  "name": "Blaze Network",
+  "symbol": "BLZN",
+  "web": "https://www.blazenetwork.online",
+  "explorer": "https://etherscan.io/token/0x70eFDc485a10210B056eF8e0A32993Bc6529995E",
+  "links": {
+    "github": "blazenetw",
+    "coingecko": "blaze-network",
+    "twitter": "BlazeNetwork10",
+    "telegram": "BlazeNetworkCom"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

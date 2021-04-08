@@ -1,0 +1,17 @@
+{
+  "name": "ASYAGRO",
+  "symbol": "ASY",
+  "web": "http://asyagro.io",
+  "explorer": "https://etherscan.io/token/0x017b584acfd16d767541ae9e80cdc702f4527b0b",
+  "links": {
+    "github": "Asyagro",
+    "coingecko": "asyagro",
+    "twitter": "asyagro",
+    "facebook": "asyagroblockchain",
+    "telegram": "officialasyagro"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

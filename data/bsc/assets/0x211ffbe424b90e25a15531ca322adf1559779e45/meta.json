@@ -1,0 +1,14 @@
+{
+  "name": "BUX Token",
+  "symbol": "BUX",
+  "web": "https://getbux.com/bux-crypto",
+  "explorer": "https://bscscan.com/token/0x211ffbe424b90e25a15531ca322adf1559779e45",
+  "links": {
+    "github": "Blockport",
+    "coingecko": "blockport",
+    "twitter": "buxcrypto",
+    "facebook": "BUXsocial",
+    "telegram": "buxcommunity",
+    "reddit": "r/Blockport"
+  }
+}

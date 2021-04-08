@@ -1,0 +1,16 @@
+{
+  "name": "YUI Finance",
+  "symbol": "YUI",
+  "web": "https://yui.finance",
+  "explorer": "https://etherscan.io/token/0x4c10bd19688b906665fbd53415f279f34b44ece7",
+  "links": {
+    "github": "YUIHINATA",
+    "coingecko": "yui-hinata",
+    "twitter": "FinanceYUI",
+    "telegram": "YuiFinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

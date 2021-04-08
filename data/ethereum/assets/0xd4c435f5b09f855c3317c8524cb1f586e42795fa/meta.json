@@ -1,0 +1,18 @@
+{
+  "name": "Cindicator",
+  "symbol": "CND",
+  "web": "https://cindicator.com",
+  "explorer": "https://etherscan.io/token/0xd4c435f5b09f855c3317c8524cb1f586e42795fa",
+  "links": {
+    "github": "cindicator",
+    "coingecko": "cindicator",
+    "twitter": "Cindicator",
+    "telegram": "cindicator_chat",
+    "reddit": "r/Cindicator"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "score": 19
+  }
+}

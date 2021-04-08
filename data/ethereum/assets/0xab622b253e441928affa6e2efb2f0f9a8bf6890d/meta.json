@@ -1,0 +1,13 @@
+{
+  "name": "NutCoin",
+  "symbol": "NUT",
+  "web": "http://nutcoin.org",
+  "explorer": "https://etherscan.io/token/0xab622b253e441928affa6e2efb2f0f9a8bf6890d",
+  "links": {
+    "coingecko": "nutcoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Xeno Token",
+  "symbol": "XNO",
+  "web": "https://xno.live",
+  "explorer": "https://etherscan.io/token/0x05bbe7240de66f6480c9aeda77c1376b13393f83",
+  "links": {
+    "github": "XENO-NFT-Hub",
+    "coingecko": "xeno-token",
+    "twitter": "xenonfthub",
+    "facebook": "XENONFTHUB",
+    "telegram": "Xenonfthub"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "SatoPay",
+  "symbol": "STOP",
+  "web": "https://satopay.network",
+  "explorer": "https://etherscan.io/token/0x8c3ee4f778e282b59d42d693a97b80b1ed80f4ee",
+  "links": {
+    "coingecko": "satopay",
+    "twitter": "Satopay1?s=09",
+    "telegram": "SatoPay"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

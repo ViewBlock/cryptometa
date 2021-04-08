@@ -1,0 +1,16 @@
+{
+  "name": "YFIX.finance",
+  "symbol": "YFIX",
+  "web": "https://yfix.finance",
+  "explorer": "https://etherscan.io/token/0xa4f779074850d320b5553c9db5fc6a8ab15bd34a",
+  "links": {
+    "github": "http:",
+    "coingecko": "yfix-finance",
+    "twitter": "yfix_finance",
+    "telegram": "yfixfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

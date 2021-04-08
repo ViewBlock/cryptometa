@@ -1,0 +1,16 @@
+{
+  "name": "Sophon Capital Token",
+  "symbol": "SAIT",
+  "web": "http://www.sophoncapital.com",
+  "explorer": "https://etherscan.io/token/0x34f0d846c766874413938994da32360cf0e4350d",
+  "links": {
+    "github": "SophonCap",
+    "coingecko": "sophon-capital-token",
+    "twitter": "SophonCap",
+    "telegram": "SophonChinese"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

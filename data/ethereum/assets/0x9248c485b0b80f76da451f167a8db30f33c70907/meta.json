@@ -1,0 +1,16 @@
+{
+  "name": "Debase",
+  "symbol": "DEBASE",
+  "web": "https://debaseonomics.io",
+  "explorer": "https://etherscan.io/token/0x9248c485b0b80f76da451f167a8db30f33c70907",
+  "links": {
+    "github": "debaseonomics",
+    "coingecko": "debase",
+    "twitter": "debaseonomics",
+    "telegram": "debaseonomics"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

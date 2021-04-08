@@ -1,0 +1,16 @@
+{
+  "name": "RAMP",
+  "symbol": "RAMP",
+  "web": "https://rampdefi.com",
+  "explorer": "https://etherscan.io/token/0x33D0568941C0C64ff7e0FB4fbA0B11BD37deEd9f",
+  "links": {
+    "github": "RAMP-DEFI",
+    "coingecko": "ramp",
+    "twitter": "RampDefi",
+    "telegram": "rampdefiofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

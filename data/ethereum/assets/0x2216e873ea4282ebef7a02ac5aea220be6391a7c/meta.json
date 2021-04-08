@@ -1,0 +1,16 @@
+{
+  "name": "smol",
+  "symbol": "SMOL",
+  "web": "https://www.smol.finance",
+  "explorer": "https://etherscan.io/token/0x2216e873ea4282ebef7a02ac5aea220be6391a7c",
+  "links": {
+    "github": "smolfinance",
+    "coingecko": "smol",
+    "twitter": "smolfinance",
+    "telegram": "smol_tok"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

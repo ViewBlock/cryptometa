@@ -1,0 +1,16 @@
+{
+  "name": "Scry.info",
+  "symbol": "DDD",
+  "web": "https://home.scry.info",
+  "explorer": "https://etherscan.io/token/0x9F5F3CFD7a32700C93F971637407ff17b91c7342",
+  "links": {
+    "coingecko": "scry-info",
+    "twitter": "scryscry8",
+    "facebook": "scry.info",
+    "telegram": "scryinfo1"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

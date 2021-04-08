@@ -1,0 +1,12 @@
+{
+  "name": "Cactus Finance",
+  "symbol": "CAS",
+  "web": "https://www.cactusfinance.org",
+  "explorer": "https://bscscan.com/token/0xb1f198ff6e2bcfc42ddd9234974f7025463230f4",
+  "links": {
+    "github": "Cactusfinance",
+    "coingecko": "cactus-finance",
+    "twitter": "CactussFinance",
+    "telegram": "cactuschat"
+  }
+}

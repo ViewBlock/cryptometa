@@ -1,0 +1,17 @@
+{
+  "name": "Aircoins",
+  "symbol": "AIRX",
+  "web": "https://aircoins.io",
+  "explorer": "https://etherscan.io/token/0x8cb1d155a5a1d5d667611b7710920fD9D1CD727F",
+  "links": {
+    "coingecko": "aircoins",
+    "twitter": "AIRCOINS_App",
+    "facebook": "Aircoins",
+    "telegram": "aircoins",
+    "reddit": "r/Aircoins"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

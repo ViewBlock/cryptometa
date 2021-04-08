@@ -1,0 +1,17 @@
+{
+  "name": "Steem",
+  "symbol": "STEEM",
+  "web": "https://steem.com",
+  "explorer": "https://steemdb.io",
+  "links": {
+    "github": "steemit",
+    "coingecko": "steem",
+    "twitter": "SteemNetwork",
+    "facebook": "steemnetwork",
+    "reddit": "r/steem"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true
+  }
+}

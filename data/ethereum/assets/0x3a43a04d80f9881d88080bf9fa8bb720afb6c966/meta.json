@@ -1,0 +1,13 @@
+{
+  "name": "3X Long Stellar Token",
+  "symbol": "XLMBULL",
+  "web": "https://ftx.com/trade/XLMBULL/USD",
+  "explorer": "https://etherscan.io/token/0x3a43a04D80F9881d88080bf9fA8bB720AFb6c966",
+  "links": {
+    "coingecko": "3x-long-stellar-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

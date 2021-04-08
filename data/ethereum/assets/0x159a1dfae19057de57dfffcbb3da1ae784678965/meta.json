@@ -1,0 +1,16 @@
+{
+  "name": "Reflex",
+  "symbol": "RFX",
+  "web": "https://reflextoken.com",
+  "explorer": "https://etherscan.io/token/0x159A1dFAe19057de57dFfFcbB3DA1aE784678965",
+  "links": {
+    "coingecko": "reflex",
+    "twitter": "reflextoken",
+    "facebook": "reflextoken",
+    "telegram": "reflextoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Neutrino System Base Token",
+  "symbol": "NSBT",
+  "web": "https://neutrino.at",
+  "explorer": "https://wavesexplorer.com/tx/6nSpVyNH7yM69eg446wrQR94ipbbcmZMU1ENPwanC97g",
+  "links": {
+    "coingecko": "neutrino-system-base-token",
+    "twitter": "neutrino_proto",
+    "facebook": "NeutrinoProtocol",
+    "telegram": "neutrino_protocol_news"
+  }
+}

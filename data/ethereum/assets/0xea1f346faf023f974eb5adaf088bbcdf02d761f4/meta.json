@@ -1,0 +1,17 @@
+{
+  "name": "Blocktix",
+  "symbol": "TIX",
+  "web": "https://blocktix.io",
+  "explorer": "https://etherscan.io/token/0xea1f346faf023f974eb5adaf088bbcdf02d761f4",
+  "links": {
+    "github": "blocktix",
+    "coingecko": "blocktix",
+    "twitter": "blocktix",
+    "facebook": "blocktix",
+    "reddit": "r/blocktix"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

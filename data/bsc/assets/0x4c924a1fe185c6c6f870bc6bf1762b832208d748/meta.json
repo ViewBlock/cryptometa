@@ -1,0 +1,11 @@
+{
+  "name": "Fusible",
+  "symbol": "FUSI",
+  "web": "https://fusible.io",
+  "explorer": "https://bscscan.com/token/0x4c924a1fe185c6c6f870bc6bf1762b832208d748#balances",
+  "links": {
+    "coingecko": "fusible",
+    "twitter": "fusibleio",
+    "telegram": "fusibleio"
+  }
+}

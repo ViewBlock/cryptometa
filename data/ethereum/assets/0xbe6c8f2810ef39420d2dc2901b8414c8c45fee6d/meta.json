@@ -1,0 +1,17 @@
+{
+  "name": "Micromines",
+  "symbol": "MICRO",
+  "web": "https://micromines.co",
+  "explorer": "https://etherscan.io/token/0xbe6c8f2810ef39420d2dc2901b8414c8c45fee6d",
+  "links": {
+    "github": "micromines",
+    "coingecko": "micromines",
+    "twitter": "Microminestoken",
+    "facebook": "microminess",
+    "telegram": "MicroMines"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

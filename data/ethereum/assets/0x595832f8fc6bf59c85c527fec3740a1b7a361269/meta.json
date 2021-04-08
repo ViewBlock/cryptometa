@@ -1,0 +1,16 @@
+{
+  "name": "Power Ledger",
+  "symbol": "POWR",
+  "web": "https://powerledger.io",
+  "explorer": "https://etherscan.io/token/0x595832f8fc6bf59c85c527fec3740a1b7a361269",
+  "links": {
+    "coingecko": "power-ledger",
+    "twitter": "PowerLedger_io",
+    "telegram": "powerledger",
+    "reddit": "r/PowerLedger"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

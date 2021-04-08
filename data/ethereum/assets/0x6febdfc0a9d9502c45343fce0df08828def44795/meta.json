@@ -1,0 +1,13 @@
+{
+  "name": "3X Short BNB Token",
+  "symbol": "BNBBEAR",
+  "web": "https://ftx.com/tokens/BNBBEAR",
+  "explorer": "https://etherscan.io/token/0x6febdfc0a9d9502c45343fce0df08828def44795",
+  "links": {
+    "coingecko": "3x-short-bnb-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "SingularDTV",
+  "symbol": "SNGLS",
+  "web": "https://snglsdao.io",
+  "explorer": "https://etherscan.io/token/0xaec2e87e0a235266d9c5adc9deb4b2e29b54d009",
+  "links": {
+    "github": "ConsenSys",
+    "coingecko": "singulardtv",
+    "twitter": "SNGLSDAO",
+    "facebook": "singulardtv",
+    "reddit": "r/SingularDTV"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

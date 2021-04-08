@@ -1,0 +1,16 @@
+{
+  "name": "CODEO TOKEN",
+  "symbol": "CODEO",
+  "web": "https://codeotoken.com",
+  "explorer": "https://etherscan.io/token/0x46b4a7d906F1A943b7744Df23625E63726d79035",
+  "links": {
+    "coingecko": "codeo-token",
+    "twitter": "codeotoken",
+    "facebook": "codeotoken",
+    "telegram": "codeotoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

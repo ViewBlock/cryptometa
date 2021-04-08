@@ -1,0 +1,14 @@
+{
+  "name": "dKargo",
+  "symbol": "DKA",
+  "web": "https://dkargo.io/main_en.html",
+  "explorer": "https://etherscan.io/token/0x5dc60C4D5e75D22588FA17fFEB90A63E535efCE0",
+  "links": {
+    "coingecko": "dkargo",
+    "telegram": "dKargo_Official_KR"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

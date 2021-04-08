@@ -1,0 +1,15 @@
+{
+  "name": "FlashSwap",
+  "symbol": "FSP",
+  "web": "https://www.flashswap.net/index.html",
+  "explorer": "https://etherscan.io/token/0x0128e4fccf5ef86b030b28f0a8a029a3c5397a94",
+  "links": {
+    "coingecko": "flashswap",
+    "twitter": "flashswap",
+    "telegram": "flashswap"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

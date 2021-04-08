@@ -1,0 +1,16 @@
+{
+  "name": "Super Black Hole",
+  "symbol": "HOLE",
+  "web": "https://superblackhole.com",
+  "explorer": "https://etherscan.io/token/0x03fb52d4ee633ab0d06c833e32efdd8d388f3e6a",
+  "links": {
+    "coingecko": "super-black-hole",
+    "twitter": "Superblackh0le",
+    "facebook": "SuperBlackHole",
+    "telegram": "superblackhole"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

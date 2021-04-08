@@ -1,0 +1,15 @@
+{
+  "name": "Money Token",
+  "symbol": "MNT",
+  "web": "https://moneytoken.xyz",
+  "explorer": "https://etherscan.io/token/0x310da5e1e61cd9d6eced092f085941089267e71e",
+  "links": {
+    "coingecko": "money-token",
+    "twitter": "mnt_project",
+    "telegram": "mnt_project"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "KlaySwap Protocol",
+  "symbol": "KSP",
+  "web": "https://klayswap.com",
+  "explorer": "https://scope.klaytn.com/token/0xc6a2ad8cc6e4a7e08fc37cc5954be07d499e7654?tabId=tokenTransfer",
+  "links": {
+    "coingecko": "klayswap-protocol",
+    "twitter": "KLAYswap"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

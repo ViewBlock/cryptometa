@@ -1,0 +1,15 @@
+{
+  "name": "MEX",
+  "symbol": "MEX",
+  "web": "http://introduce.mex.link",
+  "explorer": "https://etherscan.io/token/0x2ba6b1e4424e19816382d15937739959f7da5fd8",
+  "links": {
+    "coingecko": "mex",
+    "twitter": "Global_MEX",
+    "telegram": "MEX_chinese"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "DSYS",
+  "symbol": "DSYS",
+  "web": "https://bsys.io",
+  "explorer": "https://etherscan.io/token/0x10a34bbe9b3c5ad536ca23d5eefa81ca448e92ff",
+  "links": {
+    "coingecko": "dsys",
+    "twitter": "bsyssns",
+    "facebook": "Bsys_Official-665873100481207"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

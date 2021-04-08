@@ -1,0 +1,19 @@
+{
+  "name": "Parkgene",
+  "symbol": "GENE",
+  "web": "https://parkgene.io",
+  "explorer": "https://etherscan.io/token/0x6dd4e4aad29a40edd6a409b9c1625186c9855b4d",
+  "links": {
+    "github": "PARKGENE",
+    "coingecko": "parkgene",
+    "twitter": "PARKGENE1",
+    "facebook": "parkgene.token",
+    "telegram": "parkgene",
+    "reddit": "r/PARKGENE"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

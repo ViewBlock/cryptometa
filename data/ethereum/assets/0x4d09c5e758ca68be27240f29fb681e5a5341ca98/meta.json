@@ -1,0 +1,16 @@
+{
+  "name": "HOTchain",
+  "symbol": "HOTC",
+  "web": "http://www.hotchain.vip",
+  "explorer": "https://etherscan.io/token/0x4d09c5e758ca68be27240f29fb681e5a5341ca98",
+  "links": {
+    "coingecko": "hotchain",
+    "twitter": "HOT_chain",
+    "facebook": "HOTchain-2032329310382495",
+    "telegram": "hotchain6"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

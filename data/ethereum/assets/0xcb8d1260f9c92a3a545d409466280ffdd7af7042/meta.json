@@ -1,0 +1,18 @@
+{
+  "name": "NFT Protocol",
+  "symbol": "NFT",
+  "web": "http://www.nft.org",
+  "explorer": "https://etherscan.io/token/0xcB8d1260F9c92A3A545d409466280fFdD7AF7042",
+  "links": {
+    "github": "http:",
+    "coingecko": "nft-protocol",
+    "twitter": "nft_protocol",
+    "facebook": "goblockparty",
+    "telegram": "NFTProtocol",
+    "reddit": "r/GoBlockParty"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

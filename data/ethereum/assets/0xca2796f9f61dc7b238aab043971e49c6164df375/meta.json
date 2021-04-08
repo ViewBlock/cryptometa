@@ -1,0 +1,17 @@
+{
+  "name": "Yggdrash",
+  "symbol": "YEED",
+  "web": "https://yggdrash.io",
+  "explorer": "https://etherscan.io/token/0xca2796f9f61dc7b238aab043971e49c6164df375",
+  "links": {
+    "github": "yggdrash",
+    "coingecko": "yggdrash",
+    "twitter": "YggdrashNews",
+    "facebook": "yggdrash",
+    "telegram": "yggdrash"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

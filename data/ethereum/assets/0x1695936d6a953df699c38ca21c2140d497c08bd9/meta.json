@@ -1,0 +1,15 @@
+{
+  "name": "SynLev",
+  "symbol": "SYN",
+  "web": "https://synlev.com",
+  "explorer": "https://etherscan.io/token/0x1695936d6a953df699C38CA21c2140d497C08BD9",
+  "links": {
+    "coingecko": "synlev",
+    "twitter": "SynLevdefi",
+    "telegram": "synlev"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "BullBearBitcoin Set II",
+  "symbol": "BBB",
+  "web": "https://www.tokensets.com/set/bbb-2",
+  "explorer": "https://etherscan.io/token/0x58723C7Afcd33A2Db6Ae06C37521725D65F0cC15",
+  "links": {
+    "github": "SetProtocol",
+    "coingecko": "bullbearbitcoin-set-ii",
+    "twitter": "SetProtocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

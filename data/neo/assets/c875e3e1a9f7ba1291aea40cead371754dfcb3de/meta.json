@@ -1,0 +1,16 @@
+{
+  "name": "ChronoCoin",
+  "symbol": "CRN",
+  "web": "https://timeinnovation.io/en-us",
+  "explorer": "https://neotracker.io/asset/c875e3e1a9f7ba1291aea40cead371754dfcb3de",
+  "links": {
+    "coingecko": "chronocoin",
+    "twitter": "TimeInnovation8",
+    "facebook": "timeico",
+    "telegram": "TimeInnovationOfficialen"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Burency",
+  "symbol": "BUY",
+  "web": "https://burency.com",
+  "explorer": "https://etherscan.io/token/0xc559db74236c1f1dd734e0b4c8d747bb57983e6a",
+  "links": {
+    "coingecko": "burency",
+    "twitter": "BurencyOfficial",
+    "facebook": "BurencyOfficial",
+    "telegram": "BurencyCommunity"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

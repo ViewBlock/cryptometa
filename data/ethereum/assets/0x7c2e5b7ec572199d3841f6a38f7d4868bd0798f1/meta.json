@@ -1,0 +1,16 @@
+{
+  "name": "Havy",
+  "symbol": "HAVY",
+  "web": "https://www.havy.io",
+  "explorer": "https://etherscan.io/token/0x7c2e5b7ec572199d3841f6a38f7d4868bd0798f1",
+  "links": {
+    "github": "havytoken",
+    "coingecko": "havy-2",
+    "twitter": "HavyIO",
+    "telegram": "HavyChannel"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

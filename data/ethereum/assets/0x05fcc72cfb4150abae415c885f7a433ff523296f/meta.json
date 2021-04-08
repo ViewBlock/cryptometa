@@ -1,0 +1,16 @@
+{
+  "name": "YOKcoin",
+  "symbol": "YOK",
+  "web": "https://yokdata.com",
+  "explorer": "https://etherscan.io/token/0x05Fcc72CFb4150AbAE415c885f7a433Ff523296F",
+  "links": {
+    "coingecko": "yokcoin",
+    "twitter": "yokdata_nl",
+    "facebook": "yokdatanl",
+    "telegram": "yokdatachat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

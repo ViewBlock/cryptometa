@@ -1,0 +1,16 @@
+{
+  "name": "Curve DAO Token",
+  "symbol": "CRV",
+  "web": "https://www.curve.fi",
+  "explorer": "https://etherscan.io/token/0xd533a949740bb3306d119cc777fa900ba034cd52",
+  "links": {
+    "github": "curvefi",
+    "coingecko": "curve-dao-token",
+    "twitter": "curvefinance",
+    "telegram": "curvefi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

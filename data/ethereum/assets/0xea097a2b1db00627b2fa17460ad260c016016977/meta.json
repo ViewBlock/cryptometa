@@ -1,0 +1,18 @@
+{
+  "name": "Upfiring",
+  "symbol": "UFR",
+  "web": "https://www.upfiring.com",
+  "explorer": "https://etherscan.io/token/0xea097a2b1db00627b2fa17460ad260c016016977",
+  "links": {
+    "github": "upfiring",
+    "coingecko": "upfiring",
+    "twitter": "upfiringHQ",
+    "facebook": "upfiring",
+    "telegram": "upfiring",
+    "reddit": "r/upfiring"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

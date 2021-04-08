@@ -1,0 +1,15 @@
+{
+  "name": "XCredit",
+  "symbol": "XFYI",
+  "web": "https://xcredit.finance",
+  "explorer": "https://etherscan.io/token/0x6be7e93e45740c314c89a3be52473a0ddf2450fe",
+  "links": {
+    "coingecko": "xcredit",
+    "twitter": "XCreditFinance",
+    "telegram": "XCreditFinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

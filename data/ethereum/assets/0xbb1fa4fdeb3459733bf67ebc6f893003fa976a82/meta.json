@@ -1,0 +1,17 @@
+{
+  "name": "Pangea Arbitration Token (Bitnation)",
+  "symbol": "XPAT",
+  "web": "https://bitnation.co",
+  "explorer": "https://etherscan.io/token/0xbb1fa4fdeb3459733bf67ebc6f893003fa976a82",
+  "links": {
+    "github": "Bit-Nation",
+    "coingecko": "pangea",
+    "twitter": "mybitnation",
+    "facebook": "MyBitnation",
+    "telegram": "PangeaBitnation"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

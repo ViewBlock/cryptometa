@@ -1,0 +1,15 @@
+{
+  "name": "FTX Token",
+  "symbol": "FTT",
+  "web": "https://ftx.com",
+  "explorer": "https://etherscan.io/token/0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+  "links": {
+    "coingecko": "ftx-token",
+    "twitter": "FTX_official",
+    "telegram": "FTX_Official"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

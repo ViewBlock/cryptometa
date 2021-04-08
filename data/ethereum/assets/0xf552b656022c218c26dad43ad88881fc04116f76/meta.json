@@ -1,0 +1,14 @@
+{
+  "name": "MORK",
+  "symbol": "MORK",
+  "web": "https://app.tryroll.com/token/MORK",
+  "explorer": "https://etherscan.io/token/0xf552b656022c218C26dAd43ad88881Fc04116F76",
+  "links": {
+    "coingecko": "mork",
+    "twitter": "Hackatao"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

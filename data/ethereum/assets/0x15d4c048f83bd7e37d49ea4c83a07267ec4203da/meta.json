@@ -1,0 +1,16 @@
+{
+  "name": "Gala",
+  "symbol": "GALA",
+  "web": "https://gala.games",
+  "explorer": "https://etherscan.io/token/0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA",
+  "links": {
+    "coingecko": "gala",
+    "twitter": "GoGalaGames",
+    "facebook": "GoGalaGames"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

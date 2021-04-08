@@ -1,0 +1,17 @@
+{
+  "name": "OPEN Governance Token",
+  "symbol": "OPEN",
+  "web": "https://opendao.io",
+  "explorer": "https://etherscan.io/token/0x69e8b9528cabda89fe846c67675b5d73d463a916",
+  "links": {
+    "github": "opendao-protocols",
+    "coingecko": "open-governance-token",
+    "twitter": "opendaoprotocol",
+    "telegram": "opendao",
+    "reddit": "r/OpenDAO"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

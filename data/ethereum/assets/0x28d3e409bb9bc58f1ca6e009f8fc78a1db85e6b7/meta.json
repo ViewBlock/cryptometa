@@ -1,0 +1,15 @@
+{
+  "name": "Gem Exchange And Trading",
+  "symbol": "GXT",
+  "web": "https://gxtglobal.com",
+  "explorer": "https://etherscan.io/token/0x28d3E409bb9bC58F1ca6E009f8fC78A1db85e6b7",
+  "links": {
+    "github": "gxtmg",
+    "coingecko": "gem-exchange-and-trading",
+    "twitter": "GXT25075644"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

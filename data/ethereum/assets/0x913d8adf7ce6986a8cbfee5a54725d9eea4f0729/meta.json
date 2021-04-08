@@ -1,0 +1,15 @@
+{
+  "name": "EasyFi",
+  "symbol": "EASY",
+  "web": "https://easyfi.network",
+  "explorer": "https://etherscan.io/token/0x913D8ADf7CE6986a8CbFee5A54725D9Eea4F0729",
+  "links": {
+    "coingecko": "easyfi",
+    "twitter": "EasyfiNetwork",
+    "telegram": "easyfiNetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

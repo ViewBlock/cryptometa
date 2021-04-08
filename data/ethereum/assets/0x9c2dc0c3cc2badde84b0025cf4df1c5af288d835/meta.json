@@ -1,0 +1,15 @@
+{
+  "name": "Coreto",
+  "symbol": "COR",
+  "web": "https://coreto.io",
+  "explorer": "https://etherscan.io/token/0x9c2dc0c3cc2badde84b0025cf4df1c5af288d835",
+  "links": {
+    "coingecko": "coreto",
+    "twitter": "Coretoio",
+    "telegram": "Coreto"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

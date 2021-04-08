@@ -1,0 +1,12 @@
+{
+  "name": "Asgard Finance",
+  "symbol": "THOR",
+  "web": "https://asgard.finance",
+  "explorer": "https://bscscan.com/token/0x91a92482526eb04e60e4372a919b74027f1ad935",
+  "links": {
+    "github": "dev-thor",
+    "coingecko": "asgard-finance",
+    "twitter": "asgardthor9",
+    "telegram": "asgardproject"
+  }
+}

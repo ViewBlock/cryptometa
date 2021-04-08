@@ -1,0 +1,17 @@
+{
+  "name": "MobileGo",
+  "symbol": "MGO",
+  "web": "https://mobilego.io",
+  "explorer": "https://etherscan.io/token/0x40395044Ac3c0C57051906dA938B54BD6557F212",
+  "links": {
+    "coingecko": "mobilego",
+    "twitter": "Mobilegooff",
+    "facebook": "MobileGo-Community-1105566382915177",
+    "telegram": "mobilegochat",
+    "reddit": "r/MobileGo"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

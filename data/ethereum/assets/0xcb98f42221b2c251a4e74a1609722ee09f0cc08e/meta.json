@@ -1,0 +1,14 @@
+{
+  "name": "iDASH",
+  "symbol": "IDASH",
+  "web": "https://docs.synthetix.io/tokens/list/#inverse-dash-idash",
+  "explorer": "https://etherscan.io/token/0xCB98f42221b2C251A4E74A1609722eE09f0cc08E",
+  "links": {
+    "github": "Synthetixio",
+    "coingecko": "idash"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "MARKYT",
+  "symbol": "MAR",
+  "web": "http://www.keyrpto.com",
+  "explorer": "https://etherscan.io/token/0xa9080bf7c8e55f2af5c6603243d5865f4f328715",
+  "links": {
+    "github": "binarycoderz",
+    "coingecko": "markyt",
+    "twitter": "MarkytShop",
+    "telegram": "MarEnglishGroup"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

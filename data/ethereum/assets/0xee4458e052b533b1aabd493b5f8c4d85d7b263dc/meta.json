@@ -1,0 +1,17 @@
+{
+  "name": "Blockpass",
+  "symbol": "PASS",
+  "web": "https://blockpass.org",
+  "explorer": "https://etherscan.io/token/0xee4458e052b533b1aabd493b5f8c4d85d7b263dc",
+  "links": {
+    "coingecko": "blockpass",
+    "twitter": "BlockpassOrg",
+    "facebook": "blockpassorg",
+    "telegram": "blockpass"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

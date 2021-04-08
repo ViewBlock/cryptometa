@@ -1,0 +1,14 @@
+{
+  "name": "Hue",
+  "symbol": "HUE",
+  "web": "https://app.tryroll.com/rewards/HUE",
+  "explorer": "https://etherscan.io/token/0xdcfe18bc46f5a0cd0d3af0c2155d2bcb5ade2fc5",
+  "links": {
+    "coingecko": "hue",
+    "twitter": "ConnieDigital"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

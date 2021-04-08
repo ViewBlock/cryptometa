@@ -1,0 +1,15 @@
+{
+  "name": "Cryptocurrency Top 10 Index",
+  "symbol": "CC10",
+  "web": "https://indexed.finance",
+  "explorer": "https://etherscan.io/address/0x17ac188e09a7890a1844e5e65471fe8b0ccfadf3",
+  "links": {
+    "github": "indexed-finance",
+    "coingecko": "cryptocurrency-top-10-tokens-index",
+    "twitter": "ndxfi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

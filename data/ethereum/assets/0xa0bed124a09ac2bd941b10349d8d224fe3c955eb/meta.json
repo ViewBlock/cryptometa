@@ -1,0 +1,17 @@
+{
+  "name": "DePay",
+  "symbol": "DEPAY",
+  "web": "http://depay.fi",
+  "explorer": "https://etherscan.io/token/0xa0bed124a09ac2bd941b10349d8d224fe3c955eb",
+  "links": {
+    "github": "DePayFi",
+    "coingecko": "depay",
+    "twitter": "DePayFi",
+    "telegram": "DePayNews",
+    "reddit": "r/DePayFi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "LGO Token",
+  "symbol": "LGO",
+  "web": "https://lgo.markets",
+  "explorer": "https://etherscan.io/token/0x0a50c93c762fdd6e56d86215c24aaad43ab629aa",
+  "links": {
+    "github": "lgo-public",
+    "coingecko": "legolas-exchange",
+    "twitter": "LGOGROUP_",
+    "facebook": "legolas.exchange",
+    "telegram": "legolasannouncements",
+    "reddit": "r/LegolasExchange"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

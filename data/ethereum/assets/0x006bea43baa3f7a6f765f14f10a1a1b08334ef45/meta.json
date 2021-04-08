@@ -1,0 +1,16 @@
+{
+  "name": "Stox",
+  "symbol": "STX",
+  "web": "https://www.stox.com/en",
+  "explorer": "https://etherscan.io/token/0x006BeA43Baa3f7A6f765F14f10A1a1b08334EF45",
+  "links": {
+    "github": "stx-technologies",
+    "coingecko": "stox",
+    "twitter": "stx_coin",
+    "reddit": "r/STOX"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Almace Shards",
+  "symbol": "ALMX",
+  "web": "https://www.niftex.com/launches/details/ALMX",
+  "explorer": "https://etherscan.io/token/0x25a3dcabbf0070cb8e5baaa62d576cf6643afb5b",
+  "links": {
+    "coingecko": "almace-shards",
+    "twitter": "NIFTEXdotcom"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

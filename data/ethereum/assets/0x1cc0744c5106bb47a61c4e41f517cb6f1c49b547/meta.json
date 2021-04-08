@@ -1,0 +1,15 @@
+{
+  "name": "Chalice Finance",
+  "symbol": "CHAL",
+  "web": "https://chalice.finance",
+  "explorer": "https://etherscan.io/token/0x1cc0744c5106bb47a61c4e41f517cb6f1c49b547",
+  "links": {
+    "coingecko": "chalice-finance",
+    "twitter": "chalicefinance",
+    "telegram": "ChaliceFinanceGroup"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

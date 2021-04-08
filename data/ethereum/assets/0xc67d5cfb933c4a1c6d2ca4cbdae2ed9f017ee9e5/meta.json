@@ -1,0 +1,16 @@
+{
+  "name": "LIPCHAIN",
+  "symbol": "LIPS",
+  "web": "https://www.lipchain.io",
+  "explorer": "https://etherscan.io/token/0xc67d5cfb933c4a1c6d2ca4cbdae2ed9f017ee9e5",
+  "links": {
+    "coingecko": "lipchain",
+    "twitter": "lipchain",
+    "facebook": "LipChain-1754237891332927",
+    "telegram": "LipChain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

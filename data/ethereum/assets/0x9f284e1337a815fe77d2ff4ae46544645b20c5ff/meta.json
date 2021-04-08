@@ -1,0 +1,17 @@
+{
+  "name": "Darwinia Commitment Token",
+  "symbol": "KTON",
+  "web": "https://darwinia.network",
+  "explorer": "https://etherscan.io/token/0x9f284e1337a815fe77d2ff4ae46544645b20c5ff",
+  "links": {
+    "github": "darwinia-network",
+    "coingecko": "darwinia-commitment-token",
+    "twitter": "DarwiniaNetwork",
+    "telegram": "DarwiniaNetwork",
+    "reddit": "r/DarwiniaFans"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

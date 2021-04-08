@@ -1,0 +1,17 @@
+{
+  "name": "NFX Coin",
+  "symbol": "NFXC",
+  "web": "https://nfxcoin.io",
+  "explorer": "https://etherscan.io/token/0x2d39ec4da54329d28d230b4973f5aa27886c3aee",
+  "links": {
+    "github": "NFXService",
+    "coingecko": "nfx-coin",
+    "twitter": "nfxservice_",
+    "facebook": "nfxservice",
+    "telegram": "nfxcoin_br"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

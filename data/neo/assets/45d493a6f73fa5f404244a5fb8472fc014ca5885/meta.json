@@ -1,0 +1,17 @@
+{
+  "name": "Apex Network",
+  "symbol": "CPX",
+  "web": "https://apex.chinapex.com",
+  "explorer": "https://neotracker.io/asset/45d493a6f73fa5f404244a5fb8472fc014ca5885",
+  "links": {
+    "github": "APEX-Network",
+    "coingecko": "apex",
+    "twitter": "apexnetworkCPX",
+    "telegram": "APEXcommunity",
+    "reddit": "r/APEXtoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

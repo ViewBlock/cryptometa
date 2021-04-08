@@ -1,0 +1,18 @@
+{
+  "name": "CorionX",
+  "symbol": "CORX",
+  "web": "https://corion.io/corionx",
+  "explorer": "https://etherscan.io/token/0x26a604DFFE3ddaB3BEE816097F81d3C4a2A4CF97",
+  "links": {
+    "github": "CORIONplatform",
+    "coingecko": "corionx",
+    "twitter": "CorionPlatform",
+    "facebook": "CorionFoundation",
+    "telegram": "corionx",
+    "reddit": "r/Corionx"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

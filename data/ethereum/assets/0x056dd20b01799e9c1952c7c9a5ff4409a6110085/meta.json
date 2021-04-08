@@ -1,0 +1,16 @@
+{
+  "name": "WPP Token",
+  "symbol": "WPP",
+  "web": "http://wppenergy.io",
+  "explorer": "https://etherscan.io/token/0x056dd20b01799e9c1952c7c9a5ff4409a6110085",
+  "links": {
+    "coingecko": "wpp-token",
+    "twitter": "wppenergycoin",
+    "facebook": "WPPEnergyGmbH",
+    "telegram": "WPPEnergy"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "NanTrade",
+  "symbol": "NAN",
+  "web": "http://nantrading.com",
+  "explorer": "https://etherscan.io/token/0xb393cd041afc1aca4c380c663793fe2c7b8a0212",
+  "links": {
+    "coingecko": "nantrade"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

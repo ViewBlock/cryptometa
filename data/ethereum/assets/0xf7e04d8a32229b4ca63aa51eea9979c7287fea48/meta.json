@@ -1,0 +1,17 @@
+{
+  "name": "Beowulf",
+  "symbol": "BWF",
+  "web": "https://beowulfchain.com",
+  "explorer": "https://etherscan.io/token/0xF7E04D8a32229B4cA63aA51eEA9979C7287FEa48",
+  "links": {
+    "github": "beowulf-foundation",
+    "coingecko": "beowulf",
+    "twitter": "BeowulfChain",
+    "facebook": "beowulfchain",
+    "telegram": "BeowulfBlockChain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

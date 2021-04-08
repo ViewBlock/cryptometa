@@ -1,0 +1,13 @@
+{
+  "name": "1X Short Exchange Token Index Token",
+  "symbol": "EXCHHEDGE",
+  "web": "https://ftx.com/trade/EXCHHEDGE/USD",
+  "explorer": "https://etherscan.io/token/0xf8CC67e304f8e1A351ED83b4DBBe6B4076d51376",
+  "links": {
+    "coingecko": "1x-short-exchange-token-index-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

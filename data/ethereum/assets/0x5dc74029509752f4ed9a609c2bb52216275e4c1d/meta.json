@@ -1,0 +1,16 @@
+{
+  "name": "Game City",
+  "symbol": "GMCI",
+  "web": "https://gamecity-muezza.com",
+  "explorer": "https://etherscan.io/token/0x5dc74029509752f4ed9a609c2bb52216275e4c1d",
+  "links": {
+    "coingecko": "game-city",
+    "twitter": "GamecityNews",
+    "facebook": "gamecity.muezza",
+    "telegram": "GameCityChat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Insurance Fintech",
+  "symbol": "IFC",
+  "web": "https://www.insurancefintech.io",
+  "explorer": "https://etherscan.io/token/0x261eaf6de2591c4c44ae885d849bb63a5f69f523",
+  "links": {
+    "coingecko": "insurance-fintech",
+    "twitter": "IFinanceifc"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

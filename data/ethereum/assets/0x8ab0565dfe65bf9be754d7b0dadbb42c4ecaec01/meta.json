@@ -1,0 +1,16 @@
+{
+  "name": "The Luxury Coin",
+  "symbol": "TLB",
+  "web": "https://theluxurybank.com",
+  "explorer": "https://etherscan.io/token/0x8ab0565dfe65bf9be754d7b0dadbb42c4ecaec01",
+  "links": {
+    "coingecko": "the-luxury-coin",
+    "twitter": "1theluxury",
+    "facebook": "theluxury1",
+    "telegram": "theluxurybankadmin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

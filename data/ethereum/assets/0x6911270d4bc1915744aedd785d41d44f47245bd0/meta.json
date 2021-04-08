@@ -1,0 +1,17 @@
+{
+  "name": "QPay",
+  "symbol": "QPY",
+  "web": "https://qpay.group",
+  "explorer": "https://etherscan.io/token/0x6911270d4bc1915744aedd785d41d44f47245bd0",
+  "links": {
+    "github": "QuantaPay",
+    "coingecko": "qpay",
+    "twitter": "QPaygroup",
+    "telegram": "qpayglobal",
+    "reddit": "r/QPayglobal"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

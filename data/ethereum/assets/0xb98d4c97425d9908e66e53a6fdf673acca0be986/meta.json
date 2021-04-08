@@ -1,0 +1,18 @@
+{
+  "name": "Arcblock",
+  "symbol": "ABT",
+  "web": "https://www.arcblock.io",
+  "explorer": "https://etherscan.io/token/0xb98d4c97425d9908e66e53a6fdf673acca0be986",
+  "links": {
+    "github": "ArcBlock",
+    "coingecko": "arcblock",
+    "twitter": "ArcBlock_io",
+    "facebook": "arcblock.io",
+    "telegram": "ArcBlock",
+    "reddit": "r/arcblock"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

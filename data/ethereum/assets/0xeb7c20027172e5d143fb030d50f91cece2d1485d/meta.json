@@ -1,0 +1,17 @@
+{
+  "name": "eBitcoin",
+  "symbol": "EBTC",
+  "web": "https://ebitcoin.org",
+  "explorer": "https://etherscan.io/token/0xeb7c20027172e5d143fb030d50f91cece2d1485d",
+  "links": {
+    "github": "eBTCCommunityTrustToken",
+    "coingecko": "ebitcoin",
+    "twitter": "eBTCFoundation",
+    "facebook": "eBitcoin.org",
+    "reddit": "r/eBTC"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

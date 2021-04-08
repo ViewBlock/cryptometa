@@ -1,0 +1,14 @@
+{
+  "name": "YOYOW",
+  "symbol": "YOYOW",
+  "web": "https://yoyow.org",
+  "explorer": "https://etherscan.io/token/0xcbeaec699431857fdb4d37addbbdc20e132d4903",
+  "links": {
+    "coingecko": "yoyow",
+    "twitter": "InfoYoyow"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

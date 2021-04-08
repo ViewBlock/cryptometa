@@ -1,0 +1,16 @@
+{
+  "name": "Rootkit",
+  "symbol": "ROOT",
+  "web": "https://rootkit.finance",
+  "explorer": "https://etherscan.io/token/0xCb5f72d37685C3D5aD0bB5F982443BC8FcdF570E",
+  "links": {
+    "github": "rootkitfinance",
+    "coingecko": "rootkit",
+    "twitter": "rootkitfinance",
+    "telegram": "rootkitfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

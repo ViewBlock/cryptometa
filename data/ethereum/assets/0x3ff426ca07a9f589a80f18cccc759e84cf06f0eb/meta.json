@@ -1,0 +1,16 @@
+{
+  "name": "Employment Coin",
+  "symbol": "EC2",
+  "web": "https://www.ec2token.com",
+  "explorer": "https://etherscan.io/token/0x3fF426Ca07A9F589a80f18CCCC759E84CF06f0Eb",
+  "links": {
+    "github": "ec2token",
+    "coingecko": "employment-coin",
+    "twitter": "EmploymentCoin",
+    "telegram": "ec2employmentcoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

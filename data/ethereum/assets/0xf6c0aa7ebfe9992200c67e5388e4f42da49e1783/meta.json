@@ -1,0 +1,17 @@
+{
+  "name": "Psyche",
+  "symbol": "USD1",
+  "web": "https://psyche.cash",
+  "explorer": "https://etherscan.io/token/0xf6c0aA7eBFE9992200C67E5388E4F42da49E1783",
+  "links": {
+    "coingecko": "psyche",
+    "twitter": "psycheusd",
+    "facebook": "psycheusd",
+    "telegram": "psycheusd",
+    "reddit": "r/PsycheCoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

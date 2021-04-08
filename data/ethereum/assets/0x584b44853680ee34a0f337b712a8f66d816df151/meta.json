@@ -1,0 +1,16 @@
+{
+  "name": "AI Doctor",
+  "symbol": "AIDOC",
+  "web": "http://www.aidoc.me",
+  "explorer": "https://etherscan.io/token/0x584b44853680ee34a0f337b712a8f66d816df151",
+  "links": {
+    "coingecko": "ai-doctor",
+    "twitter": "AIDOCMe",
+    "facebook": "AIDOCMe",
+    "telegram": "AidocMeEn"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

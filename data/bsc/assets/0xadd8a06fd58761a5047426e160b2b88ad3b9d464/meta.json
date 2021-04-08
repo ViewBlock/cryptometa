@@ -1,0 +1,12 @@
+{
+  "name": "CheeseSwap",
+  "symbol": "CHS",
+  "web": "https://cheeseswap.app",
+  "explorer": "https://bscscan.com/token/0xadd8a06fd58761a5047426e160b2b88ad3b9d464",
+  "links": {
+    "github": "cheeseswapbsc",
+    "coingecko": "cheeseswap",
+    "twitter": "cheeseswapbsc",
+    "telegram": "cheesemakerfarm"
+  }
+}

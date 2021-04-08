@@ -1,0 +1,17 @@
+{
+  "name": "Connect Coin",
+  "symbol": "XCON",
+  "web": "https://connectingcoin.io",
+  "explorer": "https://etherscan.io/token/0x015df42d36Bc851c7F15f80bd1D4e8dBF02aed0c",
+  "links": {
+    "github": "connectingcoin",
+    "coingecko": "connect-coin",
+    "twitter": "connectingcoin",
+    "facebook": "connectingcoin",
+    "telegram": "CONNECTCOIN"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

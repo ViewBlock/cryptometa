@@ -1,0 +1,15 @@
+{
+  "name": "rHegic",
+  "symbol": "RHEGIC",
+  "web": "https://www.hegic.co",
+  "explorer": "https://etherscan.io/token/0x47c0ad2ae6c0ed4bcf7bc5b380d7205e89436e84",
+  "links": {
+    "github": "hegic",
+    "coingecko": "rhegic",
+    "twitter": "HegicOptions"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

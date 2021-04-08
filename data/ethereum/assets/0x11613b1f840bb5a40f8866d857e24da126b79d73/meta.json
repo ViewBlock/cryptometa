@@ -1,0 +1,18 @@
+{
+  "name": "Cappasity",
+  "symbol": "CAPP",
+  "web": "https://artoken.io",
+  "explorer": "https://etherscan.io/token/0x11613b1f840bb5a40f8866d857e24da126b79d73",
+  "links": {
+    "github": "CappasityTech",
+    "coingecko": "cappasity",
+    "twitter": "cappasity",
+    "facebook": "cappasity",
+    "telegram": "artoken",
+    "reddit": "r/cappasity"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

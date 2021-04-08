@@ -1,0 +1,18 @@
+{
+  "name": "Guarded Ether",
+  "symbol": "GETH",
+  "web": "https://guarda.com",
+  "explorer": "https://etherscan.io/token/0x9ad03c34aab604a9e0fde41dbf8e383e11c416c4",
+  "links": {
+    "github": "guardaco",
+    "coingecko": "guarded-ether",
+    "twitter": "GuardaWallet",
+    "telegram": "guarda_community",
+    "reddit": "r/GuardaWallet"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

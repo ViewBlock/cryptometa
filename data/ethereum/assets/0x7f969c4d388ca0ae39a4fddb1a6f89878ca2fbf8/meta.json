@@ -1,0 +1,14 @@
+{
+  "name": "Global Game Coin",
+  "symbol": "GGC",
+  "web": "https://ggc.gg.international",
+  "explorer": "https://etherscan.io/token/0x7f969c4d388ca0ae39a4fddb1a6f89878ca2fbf8",
+  "links": {
+    "coingecko": "gg-coin",
+    "facebook": "GG-World-110788540316839"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Business Credit Substitute",
+  "symbol": "BCS",
+  "web": "http://www.bcachain.org",
+  "explorer": "https://etherscan.io/token/0x31274db8b609df99e5988ee527071643b5160fc3",
+  "links": {
+    "github": "BusinessCredit",
+    "coingecko": "business-credit-substitute",
+    "twitter": "BCAChain",
+    "telegram": "bcachainglobal"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

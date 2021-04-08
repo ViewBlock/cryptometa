@@ -1,0 +1,15 @@
+{
+  "name": "DPRating",
+  "symbol": "RATING",
+  "web": "http://token.dprating.com",
+  "explorer": "https://etherscan.io/token/0xe8663a64a96169ff4d95b4299e7ae9a76b905b31",
+  "links": {
+    "coingecko": "dprating",
+    "twitter": "dprating",
+    "telegram": "DPRating"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

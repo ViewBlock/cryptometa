@@ -1,0 +1,18 @@
+{
+  "name": "BitSong",
+  "symbol": "BTSG",
+  "web": "https://bitsong.io/en",
+  "explorer": "https://etherscan.io/token/0x05079687d35b93538cbd59fe5596380cae9054a9",
+  "links": {
+    "github": "bitsongofficial",
+    "coingecko": "bitsong",
+    "twitter": "BitSongOfficial",
+    "facebook": "bitsongofficial",
+    "telegram": "BitSongOfficial",
+    "reddit": "r/bitsong"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

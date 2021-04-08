@@ -1,0 +1,14 @@
+{
+  "name": "ETH Smart Beta Set",
+  "symbol": "ETHSB",
+  "web": "https://www.tokensets.com/set/ethsb",
+  "explorer": "https://etherscan.io/token/0x8ddf05c42c698329053c4f39b5bb05a350fd8132",
+  "links": {
+    "coingecko": "eth-smart-beta-set",
+    "twitter": "SetProtocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Gatcoin",
+  "symbol": "GAT",
+  "web": "https://www.gatcoin.io",
+  "explorer": "https://etherscan.io/token/0x687174f8c49ceb7729d925c3a961507ea4ac7b28",
+  "links": {
+    "github": "gatcoin",
+    "coingecko": "gatcoin",
+    "twitter": "gatcoin",
+    "facebook": "gatcoinofficial",
+    "telegram": "gatcoin",
+    "reddit": "r/GATCOIN"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

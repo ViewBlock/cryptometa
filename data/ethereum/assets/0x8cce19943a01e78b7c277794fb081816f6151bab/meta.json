@@ -1,0 +1,13 @@
+{
+  "name": "3X Long Tether Token",
+  "symbol": "USDTBULL",
+  "web": "https://ftx.com/tokens/USDTBULL",
+  "explorer": "https://etherscan.io/token/0x8cce19943a01e78b7c277794fb081816f6151bab",
+  "links": {
+    "coingecko": "3x-long-tether-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "SLT",
+  "symbol": "SLT",
+  "web": "https://sltads.com",
+  "explorer": "https://etherscan.io/token/0xe9f3cb0229eb8d0aaf03ec84883950134ed20ddc",
+  "links": {
+    "github": "sltpos",
+    "coingecko": "slt",
+    "twitter": "SLTpos_crypto",
+    "telegram": "sltofficialgroup"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

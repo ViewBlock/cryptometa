@@ -1,0 +1,17 @@
+{
+  "name": "Jewel",
+  "symbol": "JWL",
+  "web": "https://jewelpay.org",
+  "explorer": "https://etherscan.io/token/0x8275ebf521dc217aa79c88132017a5bcef001dd9",
+  "links": {
+    "github": "jeveldev",
+    "coingecko": "jewel",
+    "twitter": "jewelpay_org",
+    "facebook": "jewel.pay.9",
+    "telegram": "jewelpay"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

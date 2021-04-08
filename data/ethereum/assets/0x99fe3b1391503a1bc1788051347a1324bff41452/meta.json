@@ -1,0 +1,15 @@
+{
+  "name": "SportX",
+  "symbol": "SX",
+  "web": "https://sportx.bet",
+  "explorer": "https://etherscan.io/token/0x99fe3b1391503a1bc1788051347a1324bff41452",
+  "links": {
+    "github": "sportx-bet",
+    "coingecko": "sportx",
+    "twitter": "SportX_Project"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

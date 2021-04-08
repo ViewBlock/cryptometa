@@ -1,0 +1,16 @@
+{
+  "name": "Synth sOIL",
+  "symbol": "SOIL",
+  "web": "https://docs.synthetix.io/tokens/list/#perpetual-oil-futures-soil",
+  "explorer": "https://etherscan.io/token/0x6d16cf3ec5f763d4d99cb0b0b110eefd93b11b56",
+  "links": {
+    "github": "synthetixio",
+    "coingecko": "synth-soil",
+    "twitter": "synthetix_io",
+    "reddit": "r/synthetix_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

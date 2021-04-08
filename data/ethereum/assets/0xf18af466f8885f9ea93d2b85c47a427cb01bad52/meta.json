@@ -1,0 +1,15 @@
+{
+  "name": "Racing Pigeon Chain",
+  "symbol": "RPC",
+  "web": "http://racingpigeonchain.io",
+  "explorer": "https://etherscan.io/token/0xf18af466f8885f9ea93d2b85c47a427cb01bad52",
+  "links": {
+    "coingecko": "racing-pigeon-chain",
+    "twitter": "ChainPigeon",
+    "facebook": "RacingPigeonChain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

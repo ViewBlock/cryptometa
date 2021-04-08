@@ -1,0 +1,17 @@
+{
+  "name": "HOPR",
+  "symbol": "HOPR",
+  "web": "https://hoprnet.org",
+  "explorer": "https://etherscan.io/token/0xf5581dfefd8fb0e4aec526be659cfab1f8c781da",
+  "links": {
+    "github": "hoprnet",
+    "coingecko": "hopr",
+    "twitter": "hoprnet",
+    "telegram": "hoprnet",
+    "reddit": "r/HOPR"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

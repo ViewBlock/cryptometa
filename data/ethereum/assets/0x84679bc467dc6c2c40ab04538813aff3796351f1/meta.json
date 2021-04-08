@@ -1,0 +1,16 @@
+{
+  "name": "Chonk",
+  "symbol": "CHONK",
+  "web": "https://www.chonker.finance",
+  "explorer": "https://etherscan.io/token/0x84679bc467DC6c2c40ab04538813AfF3796351f1",
+  "links": {
+    "github": "ChonkerFinance",
+    "coingecko": "chonk",
+    "twitter": "ChonkerFinance",
+    "telegram": "chonkerfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

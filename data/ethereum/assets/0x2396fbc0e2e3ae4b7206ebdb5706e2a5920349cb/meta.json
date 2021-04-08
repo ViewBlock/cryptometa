@@ -1,0 +1,18 @@
+{
+  "name": "Color Platform",
+  "symbol": "CLR",
+  "web": "https://color-platform.org/~colors/en",
+  "explorer": "https://etherscan.io/token/0x2396fbc0e2e3ae4b7206ebdb5706e2a5920349cb",
+  "links": {
+    "github": "ColorPlatform",
+    "coingecko": "color",
+    "twitter": "colorsorgmx",
+    "facebook": "colorsorgmx",
+    "telegram": "color_platform_en",
+    "reddit": "r/colorsorg"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "JOON",
+  "symbol": "JOON",
+  "web": "https://joonian.media",
+  "explorer": "https://etherscan.io/token/0x174897edd3ce414084a009d22db31c7b7826400d",
+  "links": {
+    "coingecko": "joon",
+    "twitter": "joonian"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

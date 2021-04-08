@@ -1,0 +1,16 @@
+{
+  "name": "Master Contract Token",
+  "symbol": "MCT",
+  "web": "https://splyse.tech/#projects",
+  "explorer": "https://neotracker.io/asset/a87cc2a513f5d8b4a42432343687c2127c60bc3f",
+  "links": {
+    "github": "Splyse",
+    "coingecko": "master-contract-token",
+    "twitter": "MCT_Token",
+    "reddit": "r/MasterContractToken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "GENES Chain",
+  "symbol": "GENES",
+  "web": "http://www.geneschain.org",
+  "explorer": "https://etherscan.io/token/0x1673a63aa0047294d75954226f3f2f98de77b16f",
+  "links": {
+    "coingecko": "genes-chain",
+    "twitter": "geneschain",
+    "telegram": "geneschain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

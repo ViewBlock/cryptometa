@@ -1,0 +1,15 @@
+{
+  "name": "NOODLE.Finance",
+  "symbol": "NOODLE",
+  "web": "https://noodle.finance/#",
+  "explorer": "https://etherscan.io/token/0x420Ab548B18911717Ed7C4CCBF46371EA758458C",
+  "links": {
+    "coingecko": "noodle-finance",
+    "twitter": "Noodle_Finance",
+    "telegram": "noodle_finance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

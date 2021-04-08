@@ -1,0 +1,12 @@
+{
+  "name": "CafeSwap Token",
+  "symbol": "BREW",
+  "web": "https://cafeswap.finance",
+  "explorer": "https://bscscan.com/token/0x790be81c3ca0e53974be2688cdb954732c9862e1",
+  "links": {
+    "github": "CafeSwap",
+    "coingecko": "cafeswap-token",
+    "twitter": "CafeSwapFinance",
+    "telegram": "CafeSwap"
+  }
+}

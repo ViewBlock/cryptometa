@@ -1,0 +1,18 @@
+{
+  "name": "Coupit",
+  "symbol": "COUP",
+  "web": "https://coupit.io",
+  "explorer": "https://neotracker.io/asset/87d6c2ae68d6a6f411eb72232e75133b2ffc7142",
+  "links": {
+    "github": "CoupitCoin",
+    "coingecko": "coupit",
+    "twitter": "coupitcoin",
+    "facebook": "PlatformCoupit",
+    "telegram": "COUPcoin",
+    "reddit": "r/CoupitCoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

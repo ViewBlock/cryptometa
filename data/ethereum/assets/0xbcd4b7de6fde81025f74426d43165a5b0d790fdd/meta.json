@@ -1,0 +1,17 @@
+{
+  "name": "SpiderDAO",
+  "symbol": "SPDR",
+  "web": "https://spiderdao.io",
+  "explorer": "https://etherscan.io/token/0xbcd4b7de6fde81025f74426d43165a5b0d790fdd",
+  "links": {
+    "github": "SpiderDAO",
+    "coingecko": "spiderdao",
+    "twitter": "spiderdao",
+    "telegram": "SpiderDAO"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

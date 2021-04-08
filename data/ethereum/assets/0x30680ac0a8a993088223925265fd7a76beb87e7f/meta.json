@@ -1,0 +1,17 @@
+{
+  "name": "ARAW Token",
+  "symbol": "ARAW",
+  "web": "https://arawtoken.io",
+  "explorer": "https://etherscan.io/token/0x30680ac0a8a993088223925265fd7a76beb87e7f",
+  "links": {
+    "github": "arawtoken",
+    "coingecko": "araw-token",
+    "twitter": "arawtoken",
+    "facebook": "arawtoken",
+    "telegram": "ArawTokenOfficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Fetish Coin",
+  "symbol": "FETISH",
+  "web": "https://fetishcoin.fetiquette.io",
+  "explorer": "https://etherscan.io/token/0xefcec6d87e3ce625c90865a49f2b7482963d73fe",
+  "links": {
+    "github": "fetishcoinproject",
+    "coingecko": "fetish-coin",
+    "twitter": "fetishcoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

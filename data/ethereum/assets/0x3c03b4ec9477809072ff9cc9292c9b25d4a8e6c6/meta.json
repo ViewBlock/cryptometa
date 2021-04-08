@@ -1,0 +1,15 @@
+{
+  "name": "Polkacover",
+  "symbol": "CVR",
+  "web": "https://www.polkacover.com",
+  "explorer": "https://etherscan.io/token/0x3c03b4ec9477809072ff9cc9292c9b25d4a8e6c6",
+  "links": {
+    "coingecko": "polkacover",
+    "twitter": "polkacover",
+    "telegram": "Polkacoverannouncement"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

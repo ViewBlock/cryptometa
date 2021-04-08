@@ -1,0 +1,17 @@
+{
+  "name": "FUTURAX",
+  "symbol": "FTXT",
+  "web": "https://www.futurax.global",
+  "explorer": "https://etherscan.io/token/0x41875c2332b0877cdfaa699b641402b7d4642c32",
+  "links": {
+    "github": "futuraxproject",
+    "coingecko": "futurax",
+    "twitter": "FuturaxProject",
+    "facebook": "futuraxproject",
+    "telegram": "futurax_info"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

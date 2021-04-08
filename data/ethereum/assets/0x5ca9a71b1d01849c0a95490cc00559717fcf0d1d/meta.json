@@ -1,0 +1,18 @@
+{
+  "name": "Aeternity",
+  "symbol": "AE",
+  "web": "https://www.aeternity.com",
+  "explorer": "https://etherscan.io/token/0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d",
+  "links": {
+    "github": "aeternity",
+    "coingecko": "aeternity",
+    "twitter": "aeternity",
+    "facebook": "aeternityproject",
+    "telegram": "aeternity",
+    "reddit": "r/Aeternity"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

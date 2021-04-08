@@ -1,0 +1,17 @@
+{
+  "name": "Sperax",
+  "symbol": "SPA",
+  "web": "https://sperax.io",
+  "explorer": "https://etherscan.io/token/0x9631483f28b7f5cbf7d435ab249be8f709215bc3",
+  "links": {
+    "github": "Sperax",
+    "coingecko": "sperax",
+    "twitter": "sperax_io",
+    "facebook": "sperax",
+    "telegram": "sperax"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

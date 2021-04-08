@@ -1,0 +1,17 @@
+{
+  "name": "SIMBA Storage Token",
+  "symbol": "SST",
+  "web": "https://simba.storage",
+  "explorer": "https://etherscan.io/token/0x2863916c6ebdbbf0c6f02f87b7eb478509299868",
+  "links": {
+    "github": "SIMBAstorage",
+    "coingecko": "simba-storage-token",
+    "twitter": "SWISSSST",
+    "telegram": "simbastorage_en",
+    "reddit": "r/simbastorage"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

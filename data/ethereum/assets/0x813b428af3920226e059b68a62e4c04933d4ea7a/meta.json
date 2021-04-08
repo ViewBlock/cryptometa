@@ -1,0 +1,17 @@
+{
+  "name": "Decentralized Asset Trading Platform",
+  "symbol": "DATP",
+  "web": "https://datp.market",
+  "explorer": "https://etherscan.io/token/0x813b428af3920226e059b68a62e4c04933d4ea7a",
+  "links": {
+    "github": "datpdev",
+    "coingecko": "decentralized-asset-trading-platform",
+    "twitter": "DATP_OFFICIAL",
+    "facebook": "DATP.OFFICIAL",
+    "telegram": "DATP_Official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

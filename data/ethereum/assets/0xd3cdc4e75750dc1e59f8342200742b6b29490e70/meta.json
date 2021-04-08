@@ -1,0 +1,17 @@
+{
+  "name": "Decurian",
+  "symbol": "ECU",
+  "web": "https://ecucoins.com",
+  "explorer": "https://etherscan.io/token/0xd3CDc4e75750DC1e59F8342200742B6B29490e70",
+  "links": {
+    "github": "Decurian",
+    "coingecko": "decurian",
+    "twitter": "DecurianC",
+    "facebook": "decuriancrypto",
+    "telegram": "Decurian"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

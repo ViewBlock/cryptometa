@@ -1,0 +1,13 @@
+{
+  "name": "CNG Casino",
+  "symbol": "CNG",
+  "web": "https://cng.casino",
+  "explorer": "https://etherscan.io/token/0x883a158c9b28f8d626acfcfbe1028f49e70c9d75",
+  "links": {
+    "coingecko": "cng-casino"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "EurocoinToken",
+  "symbol": "ECTE",
+  "web": "https://eurocoinpay.io",
+  "explorer": "https://etherscan.io/token/0xe9fa21e671bcfb04e6868784b89c19d5aa2424ea",
+  "links": {
+    "github": "EurocoinpayOK",
+    "coingecko": "eurocoinpay",
+    "twitter": "eurocoinpay",
+    "facebook": "eurocoinpay",
+    "telegram": "eurocoinpay_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

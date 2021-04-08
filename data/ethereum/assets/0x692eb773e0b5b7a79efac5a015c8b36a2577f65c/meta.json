@@ -1,0 +1,16 @@
+{
+  "name": "swiss.finance",
+  "symbol": "SWISS",
+  "web": "http://swissfarming.finance",
+  "explorer": "https://etherscan.io/token/0x692eb773e0b5b7a79efac5a015c8b36a2577f65c",
+  "links": {
+    "github": "swiss-finance",
+    "coingecko": "swiss-finance",
+    "twitter": "swiss__finance",
+    "telegram": "swissfinancefarming"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

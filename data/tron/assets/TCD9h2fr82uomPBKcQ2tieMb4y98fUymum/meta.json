@@ -1,0 +1,15 @@
+{
+  "name": "Instantily",
+  "symbol": "TILY",
+  "web": "https://instantily.com",
+  "explorer": "https://tronscan.io/#/token20/TCD9h2fr82uomPBKcQ2tieMb4y98fUymum",
+  "links": {
+    "coingecko": "instantily",
+    "twitter": "InstanTILY",
+    "telegram": "instanTILY"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

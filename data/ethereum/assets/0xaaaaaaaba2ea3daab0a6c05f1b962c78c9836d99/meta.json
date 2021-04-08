@@ -1,0 +1,17 @@
+{
+  "name": "Azbit",
+  "symbol": "AZ",
+  "web": "https://azbit.com",
+  "explorer": "https://etherscan.io/token/0xaaaaaaaba2ea3daab0a6c05f1b962c78c9836d99",
+  "links": {
+    "github": "azbit-com",
+    "coingecko": "azbit",
+    "twitter": "azbit_news",
+    "facebook": "azbit.news",
+    "telegram": "azbit_com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

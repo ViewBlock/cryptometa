@@ -1,0 +1,16 @@
+{
+  "name": "EBOMB",
+  "symbol": "POW",
+  "web": "http://ebomb.io",
+  "explorer": "https://blockscout.com/etc/mainnet/tokens/0x171040cd10f204f3b257e45b41ce65d36150558c/token_transfers",
+  "links": {
+    "github": "eBOMB-POW",
+    "coingecko": "ebomb",
+    "twitter": "eBOMB_POW",
+    "telegram": "eBOMB_POW"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

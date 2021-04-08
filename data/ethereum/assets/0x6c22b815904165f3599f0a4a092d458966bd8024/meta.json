@@ -1,0 +1,14 @@
+{
+  "name": "Bit Public Talent Network",
+  "symbol": "BPTN",
+  "web": "http://www.bptn.io",
+  "explorer": "https://etherscan.io/token/0x6c22b815904165f3599f0a4a092d458966bd8024",
+  "links": {
+    "coingecko": "bit-public-talent-network",
+    "telegram": "BitPublicTalentNetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

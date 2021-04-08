@@ -1,0 +1,16 @@
+{
+  "name": "Red",
+  "symbol": "RED",
+  "web": "https://ico.red-lang.org",
+  "explorer": "https://etherscan.io/token/0x76960dccd5a1fe799f7c29be9f19ceb4627aeb2f",
+  "links": {
+    "github": "red",
+    "coingecko": "red",
+    "twitter": "red_lang",
+    "telegram": "redofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

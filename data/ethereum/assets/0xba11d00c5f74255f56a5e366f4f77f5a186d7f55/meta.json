@@ -1,0 +1,17 @@
+{
+  "name": "Band Protocol",
+  "symbol": "BAND",
+  "web": "https://bandprotocol.com",
+  "explorer": "https://etherscan.io/token/0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
+  "links": {
+    "github": "bandprotocol",
+    "coingecko": "band-protocol",
+    "twitter": "bandprotocol",
+    "telegram": "bandprotocol",
+    "reddit": "r/bandprotocol"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "cUNI",
+  "symbol": "CUNI",
+  "web": "https://compound.finance",
+  "explorer": "https://etherscan.io/token/0x35a18000230da775cac24873d00ff85bccded550",
+  "links": {
+    "github": "compound-finance",
+    "coingecko": "compound-uniswap",
+    "twitter": "compoundfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

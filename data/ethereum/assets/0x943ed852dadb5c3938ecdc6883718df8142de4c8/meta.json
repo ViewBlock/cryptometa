@@ -1,0 +1,18 @@
+{
+  "name": "FansTime",
+  "symbol": "FTI",
+  "web": "https://www.fanstime.org/english.html",
+  "explorer": "https://etherscan.io/token/0x943ed852dadb5c3938ecdc6883718df8142de4c8",
+  "links": {
+    "coingecko": "fanstime",
+    "twitter": "FTI_Foundation",
+    "facebook": "FansTime.FTI",
+    "telegram": "fanstimeglobal",
+    "reddit": "r/Fanstime_FTI"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

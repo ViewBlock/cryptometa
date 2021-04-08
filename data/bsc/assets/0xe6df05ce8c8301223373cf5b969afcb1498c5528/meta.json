@@ -1,0 +1,12 @@
+{
+  "name": "BNB48 Club Token",
+  "symbol": "KOGE",
+  "web": "https://www.bnb48.club",
+  "explorer": "https://bscscan.com/token/0xe6df05ce8c8301223373cf5b969afcb1498c5528",
+  "links": {
+    "github": "BNB48Club",
+    "coingecko": "bnb48-club-token",
+    "twitter": "bnb48club",
+    "telegram": "bnb48club_en"
+  }
+}

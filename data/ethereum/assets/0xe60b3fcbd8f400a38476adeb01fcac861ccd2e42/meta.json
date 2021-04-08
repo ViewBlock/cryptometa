@@ -1,0 +1,14 @@
+{
+  "name": "Connect Mining Token",
+  "symbol": "XCMG",
+  "web": "https://www.connect-miningcoin.com",
+  "explorer": "https://etherscan.io/token/0xe60b3fcbd8f400a38476adeb01fcac861ccd2e42",
+  "links": {
+    "coingecko": "connect-mining-coin",
+    "twitter": "Connect_Mining"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

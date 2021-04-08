@@ -1,0 +1,16 @@
+{
+  "name": "Aurora",
+  "symbol": "AOA",
+  "web": "https://www.aurorachain.io",
+  "explorer": "https://etherscan.io/token/0x9ab165d795019b6d8b3e971dda91071421305e5a",
+  "links": {
+    "coingecko": "aurora",
+    "twitter": "AuroraOffic_en",
+    "facebook": "AuroraOfficialEN",
+    "telegram": "AuroraOfficialEN"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "AEROTOKEN",
+  "symbol": "AET",
+  "web": "https://www.aerotoken.org",
+  "explorer": "https://etherscan.io/token/0x8c9E4CF756b9d01D791b95bc2D0913EF2Bf03784",
+  "links": {
+    "github": "aerotoken",
+    "coingecko": "aerotoken",
+    "twitter": "aero_token",
+    "telegram": "Aero_token",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

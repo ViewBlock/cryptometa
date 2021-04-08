@@ -1,0 +1,13 @@
+{
+  "name": "ValueChain",
+  "symbol": "VLC",
+  "web": "http://valuechain.biz",
+  "explorer": "https://etherscan.io/token/0x8f7b0b40e27e357540f90f187d90ce06366ac5a5",
+  "links": {
+    "coingecko": "valuechain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

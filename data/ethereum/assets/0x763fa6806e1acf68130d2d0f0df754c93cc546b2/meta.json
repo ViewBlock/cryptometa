@@ -1,0 +1,18 @@
+{
+  "name": "Lition",
+  "symbol": "LIT",
+  "web": "https://www.lition.io",
+  "explorer": "https://etherscan.io/token/0x763fa6806e1acf68130d2d0f0df754c93cc546b2",
+  "links": {
+    "github": "lition-blockchain",
+    "coingecko": "lition",
+    "twitter": "Lition_Block",
+    "facebook": "LitionOfficial",
+    "telegram": "LitionEnergy",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

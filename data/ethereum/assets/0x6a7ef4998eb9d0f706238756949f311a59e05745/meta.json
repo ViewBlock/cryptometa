@@ -1,0 +1,15 @@
+{
+  "name": "Keysians Network",
+  "symbol": "KEN",
+  "web": "https://keysians.com",
+  "explorer": "https://etherscan.io/token/0x6a7ef4998eb9d0f706238756949f311a59e05745",
+  "links": {
+    "coingecko": "keysians-network",
+    "twitter": "keysians",
+    "telegram": "keysians"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

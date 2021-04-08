@@ -1,0 +1,16 @@
+{
+  "name": "Netkoin Liquid",
+  "symbol": "LIQUID",
+  "web": "https://www.netkoin.com/liquid",
+  "explorer": "https://etherscan.io/token/0xac2385e183d9301dd5e2bb08da932cbf9800dc9c",
+  "links": {
+    "coingecko": "netkoin-liquid",
+    "twitter": "netkoin",
+    "facebook": "Netkoin",
+    "telegram": "netkoindiscussion"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

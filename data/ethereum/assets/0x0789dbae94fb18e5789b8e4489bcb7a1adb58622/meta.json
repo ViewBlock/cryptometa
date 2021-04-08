@@ -1,0 +1,16 @@
+{
+  "name": "FISCO Coin",
+  "symbol": "FSCC",
+  "web": "https://fiscocoin.jp/index_en.html",
+  "explorer": "https://etherscan.io/token/0x0789dbAE94fb18e5789B8e4489BCB7A1ADB58622",
+  "links": {
+    "coingecko": "fisco",
+    "twitter": "fisco_jp",
+    "facebook": "fisco.jp"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

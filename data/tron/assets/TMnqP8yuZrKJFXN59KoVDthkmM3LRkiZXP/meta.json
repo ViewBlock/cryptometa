@@ -1,0 +1,17 @@
+{
+  "name": "Pollux Coin",
+  "symbol": "POX",
+  "web": "https://polluxcoin.info",
+  "explorer": "https://tronscan.org/#/token20/TMnqP8yuZrKJFXN59KoVDthkmM3LRkiZXP",
+  "links": {
+    "github": "polluxcoin2020",
+    "coingecko": "pollux-coin",
+    "twitter": "polluxcoin1",
+    "facebook": "PolluxCoin",
+    "telegram": "polluxcoinchat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

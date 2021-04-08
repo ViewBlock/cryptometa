@@ -1,0 +1,14 @@
+{
+  "name": "Tokenlon",
+  "symbol": "LON",
+  "web": "https://tokenlon.im",
+  "explorer": "https://etherscan.io/token/0x0000000000095413afc295d19edeb1ad7b71c952",
+  "links": {
+    "coingecko": "tokenlon",
+    "twitter": "tokenlon"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

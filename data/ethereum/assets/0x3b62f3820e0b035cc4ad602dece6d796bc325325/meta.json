@@ -1,0 +1,16 @@
+{
+  "name": "DEUS Finance",
+  "symbol": "DEUS",
+  "web": "http://deus.finance",
+  "explorer": "https://etherscan.io/token/0x3b62F3820e0B035cc4aD602dECe6d796BC325325",
+  "links": {
+    "github": "deusfinance",
+    "coingecko": "deus-finance",
+    "twitter": "DeusDao",
+    "telegram": "deusfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

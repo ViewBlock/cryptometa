@@ -1,0 +1,18 @@
+{
+  "name": "Tokok",
+  "symbol": "TOK",
+  "web": "http://www.tokok.com",
+  "explorer": "https://etherscan.io/token/0x9a49f02e128a8e989b443a8f94843c0918bf45e7",
+  "links": {
+    "github": "ccxt",
+    "coingecko": "tokok",
+    "twitter": "Tokokcom",
+    "facebook": "tokok.exchange",
+    "telegram": "https://t.me/tokokenglish",
+    "reddit": "r/tokok"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}
