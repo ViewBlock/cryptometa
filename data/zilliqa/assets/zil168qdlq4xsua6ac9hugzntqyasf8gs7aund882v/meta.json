@@ -3,8 +3,15 @@
   "symbol": "SRV",
   "web": "https://zilsurvey.com",
   "supply": "1000000",
+  "publicTeam": true,
+  "whitepaper": true,
+  "links": {
+    "github": "https://github.com/ArthurHoeke/",
+    "linkedin": "https://www.linkedin.com/in/arthur-hoeke-170691103/",
+    "twitter": "https://twitter.com/zilSurvey"
+  },
   "gen": {
     "logo": "logo.png",
-    "score": 0
+    "score": 5
   }
 }
