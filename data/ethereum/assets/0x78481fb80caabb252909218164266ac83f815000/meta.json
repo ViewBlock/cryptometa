@@ -1,0 +1,14 @@
+{
+  "name": "Ethereum High Yield Set",
+  "symbol": "EHY",
+  "web": "https://www.tokensets.com/set/ehy",
+  "explorer": "https://etherscan.io/token/0x78481fb80caabb252909218164266ac83f815000",
+  "links": {
+    "coingecko": "ethereum-high-yield-set",
+    "twitter": "SetProtocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Shopping.io",
+  "symbol": "SPI",
+  "web": "https://shopping.io",
+  "explorer": "https://etherscan.io/token/0x9b02dd390a603add5c07f9fd9175b7dabe8d63b7",
+  "links": {
+    "coingecko": "shopping-io",
+    "twitter": "shopping_io",
+    "facebook": "shopping.io",
+    "telegram": "shoppingio",
+    "reddit": "r/Shopping_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

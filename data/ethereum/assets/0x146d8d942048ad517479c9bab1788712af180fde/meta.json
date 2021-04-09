@@ -1,0 +1,17 @@
+{
+  "name": "MIB Coin",
+  "symbol": "MIB",
+  "web": "https://www.mibcoin.io",
+  "explorer": "https://etherscan.io/token/0x146d8d942048ad517479c9bab1788712af180fde",
+  "links": {
+    "github": "mosbc",
+    "coingecko": "mib-coin",
+    "twitter": "mibcoin",
+    "facebook": "mibcoinio",
+    "telegram": "MIB_Coin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

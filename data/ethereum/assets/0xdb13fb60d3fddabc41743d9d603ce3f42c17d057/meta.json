@@ -1,0 +1,16 @@
+{
+  "name": "Baby Token",
+  "symbol": "BABY",
+  "web": "https://babytoken.org",
+  "explorer": "https://etherscan.io/token/0xDB13fB60D3fDdaBc41743D9d603CE3F42C17D057",
+  "links": {
+    "coingecko": "baby-token",
+    "twitter": "babytokenorg",
+    "facebook": "babytokenorg",
+    "telegram": "babytokenorg"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

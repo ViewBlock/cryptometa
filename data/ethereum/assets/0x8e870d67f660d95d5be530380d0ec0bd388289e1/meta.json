@@ -1,0 +1,15 @@
+{
+  "name": "Paxos Standard",
+  "symbol": "PAX",
+  "web": "https://www.paxos.com/standard",
+  "explorer": "https://etherscan.io/token/0x8e870d67f660d95d5be530380d0ec0bd388289e1",
+  "links": {
+    "github": "paxosglobal",
+    "coingecko": "paxos-standard",
+    "twitter": "PaxosStandard"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

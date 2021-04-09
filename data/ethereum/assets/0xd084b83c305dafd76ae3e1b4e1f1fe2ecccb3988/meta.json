@@ -1,0 +1,16 @@
+{
+  "name": "Terra Virtua Kolect",
+  "symbol": "TVK",
+  "web": "https://www.terravirtua.io",
+  "explorer": "https://etherscan.io/token/0xd084b83c305dafd76ae3e1b4e1f1fe2ecccb3988",
+  "links": {
+    "coingecko": "terra-virtua-kolect",
+    "twitter": "terra_virtua",
+    "facebook": "officialterravirtua",
+    "telegram": "terravirtua"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Sp8de",
+  "symbol": "SPX",
+  "web": "https://sp8de.com",
+  "explorer": "https://etherscan.io/token/0x05aaaa829afa407d83315cded1d45eb16025910c",
+  "links": {
+    "github": "SP8DE",
+    "coingecko": "sp8de",
+    "twitter": "SP8DE_Official",
+    "facebook": "sp8deofficial",
+    "telegram": "sp8de",
+    "reddit": "r/sp8de"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

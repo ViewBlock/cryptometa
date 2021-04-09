@@ -1,0 +1,13 @@
+{
+  "name": "3X Short Bitcoin Token",
+  "symbol": "BEAR",
+  "web": "https://ftx.com/tokens/BEAR",
+  "explorer": "https://etherscan.io/token/0x016ee7373248a80bde1fd6baa001311d233b3cfa",
+  "links": {
+    "coingecko": "3x-short-bitcoin-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

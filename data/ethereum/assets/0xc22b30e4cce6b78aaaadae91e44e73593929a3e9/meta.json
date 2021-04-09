@@ -1,0 +1,14 @@
+{
+  "name": "RAC",
+  "symbol": "RAC",
+  "web": "https://ourzora.com/rac",
+  "explorer": "https://etherscan.io/token/0xc22b30e4cce6b78aaaadae91e44e73593929a3e9",
+  "links": {
+    "coingecko": "rac",
+    "twitter": "ourzora"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "BITTO",
+  "symbol": "BITTO",
+  "web": "https://www.bitto.tech",
+  "explorer": "https://etherscan.io/token/0x55a290f08bb4cae8dcf1ea5635a3fcfd4da60456",
+  "links": {
+    "github": "BittoExchange",
+    "coingecko": "bitto-exchange",
+    "twitter": "bittoexchange",
+    "facebook": "bittoexchange",
+    "telegram": "bittoexchange",
+    "reddit": "r/bittoexchange"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

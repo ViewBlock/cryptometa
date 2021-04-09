@@ -1,0 +1,15 @@
+{
+  "name": "Nyan V2",
+  "symbol": "NYAN-2",
+  "web": "https://nyan.finance/landing/intro",
+  "explorer": "https://etherscan.io/token/0xbF4a9A37EcFc21825011285222c36aB35De51F14",
+  "links": {
+    "coingecko": "nyan-v2",
+    "twitter": "nyanfinance",
+    "telegram": "nyanfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

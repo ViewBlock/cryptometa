@@ -1,0 +1,16 @@
+{
+  "name": "Alpha Token",
+  "symbol": "A",
+  "web": "https://www.Alphaplatform.co",
+  "explorer": "https://etherscan.io/token/0xffc63b9146967a1ba33066fb057ee3722221acf0",
+  "links": {
+    "github": "crypt04dvisor",
+    "coingecko": "alpha-platform",
+    "twitter": "Alpha_Token",
+    "telegram": "alpha_token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

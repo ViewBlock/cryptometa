@@ -1,0 +1,16 @@
+{
+  "name": "Orion Protocol",
+  "symbol": "ORN",
+  "web": "https://www.orionprotocol.io",
+  "explorer": "https://etherscan.io/token/0x0258f474786ddfd37abce6df6bbb1dd5dfc4434a",
+  "links": {
+    "github": "orionprotocol",
+    "coingecko": "orion-protocol",
+    "twitter": "orion_protocol",
+    "telegram": "orionprotocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

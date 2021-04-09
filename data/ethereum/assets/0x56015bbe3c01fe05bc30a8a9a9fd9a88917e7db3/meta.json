@@ -1,0 +1,17 @@
+{
+  "name": "Cat Token",
+  "symbol": "CAT",
+  "web": "http://www.thecattoken.com",
+  "explorer": "https://etherscan.io/token/0x56015bbe3c01fe05bc30a8a9a9fd9a88917e7db3",
+  "links": {
+    "github": "cattoken",
+    "coingecko": "cat-token",
+    "twitter": "itscattoken",
+    "telegram": "mycattoken",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

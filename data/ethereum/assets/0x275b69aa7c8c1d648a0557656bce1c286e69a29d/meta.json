@@ -1,0 +1,18 @@
+{
+  "name": "Enumivo",
+  "symbol": "ENU",
+  "web": "https://enumivo.org",
+  "explorer": "https://etherscan.io/token/0x275b69aa7c8c1d648a0557656bce1c286e69a29d",
+  "links": {
+    "github": "enumivo",
+    "coingecko": "enumivo",
+    "twitter": "EnuMivo",
+    "facebook": "enumivo",
+    "telegram": "enumivochat",
+    "reddit": "r/Enumivo"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

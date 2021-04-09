@@ -1,0 +1,13 @@
+{
+  "name": "LUCKY",
+  "symbol": "LUCKY",
+  "web": "https://www.ishuangsu.com",
+  "explorer": "http://etherscan.io/token/0xe478d4f4a87d4d641af97ca0b5cc3db61e266357",
+  "links": {
+    "coingecko": "lucky-2"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

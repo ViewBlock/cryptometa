@@ -1,0 +1,15 @@
+{
+  "name": "Tedesis",
+  "symbol": "TDI",
+  "web": "https://tedesis.org",
+  "explorer": "https://etherscan.io/token/0xa7b4a94254e59Ea96c127d15062847E91173b71C",
+  "links": {
+    "coingecko": "tedesis",
+    "twitter": "tedesis_org",
+    "facebook": "Tedesis-102444625155509"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

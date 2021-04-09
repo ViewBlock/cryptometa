@@ -1,0 +1,17 @@
+{
+  "name": "Coin",
+  "symbol": "COIN",
+  "web": "https://coindefi.org",
+  "explorer": "https://etherscan.io/token/0xe61fdaf474fac07063f2234fb9e60c1163cfa850",
+  "links": {
+    "github": "coindefi",
+    "coingecko": "coinvest",
+    "twitter": "coindefi",
+    "telegram": "coindefi",
+    "reddit": "r/Coinvest"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Komet",
+  "symbol": "KOMET",
+  "web": "https://komet.finance",
+  "explorer": "https://etherscan.io/token/0x6cfb6df56bbdb00226aeffcdb2cd1fe8da1abda7",
+  "links": {
+    "coingecko": "komet",
+    "twitter": "KometCapital",
+    "telegram": "kometFinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

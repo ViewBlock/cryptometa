@@ -1,0 +1,15 @@
+{
+  "name": "NuCypher",
+  "symbol": "NU",
+  "web": "https://www.nucypher.com",
+  "explorer": "https://etherscan.io/token/0x4fe83213d56308330ec302a8bd641f1d0113a4cc",
+  "links": {
+    "github": "nucypher",
+    "coingecko": "nucypher",
+    "reddit": "r/nucypher"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 14
+  }
+}

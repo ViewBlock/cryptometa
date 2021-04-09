@@ -1,0 +1,16 @@
+{
+  "name": "ankrETH",
+  "symbol": "AETH",
+  "web": "https://stkr.io",
+  "explorer": "https://etherscan.io/token/0xe95a203b1a91a908f9b9ce46459d101078c2c3cb",
+  "links": {
+    "github": "Ankr-network",
+    "coingecko": "ankreth",
+    "twitter": "ankr",
+    "telegram": "stkrsupport"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

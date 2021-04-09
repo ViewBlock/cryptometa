@@ -1,0 +1,17 @@
+{
+  "name": "Silvercashs",
+  "symbol": "SVC",
+  "web": "http://www.silvercashs.com",
+  "explorer": "https://www.trxplorer.io/token/1002182",
+  "links": {
+    "github": "SilverCashs",
+    "coingecko": "silvercashs",
+    "twitter": "silvercashs",
+    "facebook": "silvercashs",
+    "telegram": "silvercashs"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

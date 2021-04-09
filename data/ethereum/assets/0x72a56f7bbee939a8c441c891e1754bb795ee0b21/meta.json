@@ -1,0 +1,16 @@
+{
+  "name": "Crown Finance",
+  "symbol": "CRWN",
+  "web": "https://crown.finance",
+  "explorer": "https://etherscan.io/token/0x72a56f7bbee939a8c441c891e1754bb795ee0b21",
+  "links": {
+    "coingecko": "crown-finance",
+    "twitter": "CrownFinance1",
+    "facebook": "Crown-Finance-106176984700311",
+    "telegram": "crownfinanceofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

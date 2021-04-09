@@ -1,0 +1,16 @@
+{
+  "name": "Muse",
+  "symbol": "MUSE",
+  "web": "https://nft20.io",
+  "explorer": "https://etherscan.io/token/0xb6ca7399b4f9ca56fc27cbff44f4d2e4eef1fc81",
+  "links": {
+    "github": "verynifty",
+    "coingecko": "muse-2",
+    "twitter": "niftymuseum",
+    "telegram": "nft20"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

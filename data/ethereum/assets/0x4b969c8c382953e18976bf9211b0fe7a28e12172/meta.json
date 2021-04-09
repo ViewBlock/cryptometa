@@ -1,0 +1,13 @@
+{
+  "name": "Majatoken",
+  "symbol": "MJA",
+  "web": "https://themaja.io",
+  "explorer": "https://etherscan.io/token/0x4b969c8c382953e18976bf9211b0fe7a28e12172",
+  "links": {
+    "coingecko": "majatoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

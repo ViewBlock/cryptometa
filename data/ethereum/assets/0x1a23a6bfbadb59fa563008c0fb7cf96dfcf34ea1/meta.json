@@ -1,0 +1,17 @@
+{
+  "name": "CoFiX",
+  "symbol": "COFI",
+  "web": "https://cofix.io",
+  "explorer": "https://etherscan.io/token/0x1a23a6BfBAdB59fa563008c0fB7cf96dfCF34Ea1",
+  "links": {
+    "github": "Computable-Finance",
+    "coingecko": "cofix",
+    "twitter": "cofixprotocol",
+    "telegram": "CoFiXProtocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

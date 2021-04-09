@@ -1,0 +1,16 @@
+{
+  "name": "Gaps Chain",
+  "symbol": "GAP",
+  "web": "http://gapschain.io",
+  "explorer": "https://etherscan.io/token/0x9570ec7ab05d61877ff7eb180f837c7c079c4844",
+  "links": {
+    "coingecko": "gapp-network",
+    "twitter": "GAPS_chain",
+    "facebook": "gapsadmin",
+    "telegram": "gapschain_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

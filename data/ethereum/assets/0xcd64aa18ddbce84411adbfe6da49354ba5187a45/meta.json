@@ -1,0 +1,16 @@
+{
+  "name": "Korbot",
+  "symbol": "KBOT",
+  "web": "https://www.korbot.io",
+  "explorer": "https://etherscan.io/token/0xcd64aa18ddbce84411adbfe6da49354ba5187a45",
+  "links": {
+    "coingecko": "korbot-platform",
+    "twitter": "korbotplatform",
+    "facebook": "korbotplatform",
+    "telegram": "korbot_platform"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

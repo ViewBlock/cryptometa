@@ -1,0 +1,17 @@
+{
+  "name": "Bio Passport",
+  "symbol": "BIOT",
+  "web": "https://biopassport.io",
+  "explorer": "https://etherscan.io/token/0xc07A150ECAdF2cc352f5586396e344A6b17625EB",
+  "links": {
+    "github": "biopassport",
+    "coingecko": "biopassport",
+    "twitter": "Biopassport1",
+    "facebook": "BIOToken",
+    "telegram": "biopassportofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

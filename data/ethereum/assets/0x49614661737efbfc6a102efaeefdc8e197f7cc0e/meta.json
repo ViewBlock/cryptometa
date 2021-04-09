@@ -1,0 +1,15 @@
+{
+  "name": "Escroco Emerald",
+  "symbol": "ESCE",
+  "web": "https://escroco.net",
+  "explorer": "https://etherscan.io/token/0x49614661737efbfc6a102efaeefdc8e197f7cc0e",
+  "links": {
+    "coingecko": "escroco",
+    "twitter": "escrocotoken",
+    "facebook": "Escrocotoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

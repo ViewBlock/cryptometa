@@ -1,0 +1,18 @@
+{
+  "name": "imusify",
+  "symbol": "IMU",
+  "web": "https://imusify.com",
+  "explorer": " https://neotracker.io/asset/e9a85bc36e409e3f5cca5c43bc3bff338d7ada08",
+  "links": {
+    "github": "imusify",
+    "coingecko": "imusify",
+    "twitter": "imusify",
+    "facebook": "imusify",
+    "telegram": "imusifycommunity",
+    "reddit": "r/imusify"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

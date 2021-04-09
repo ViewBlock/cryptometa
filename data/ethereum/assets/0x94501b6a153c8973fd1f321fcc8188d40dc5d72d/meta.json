@@ -1,0 +1,15 @@
+{
+  "name": "DigiDinar Token",
+  "symbol": "DDRT",
+  "web": "https://www.digidinar.com",
+  "explorer": "https://etherscan.io/token/0x94501b6A153C8973fd1f321fCC8188d40dC5d72d",
+  "links": {
+    "coingecko": "digidinar-token",
+    "twitter": "DigiDinars",
+    "facebook": "digidinar"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

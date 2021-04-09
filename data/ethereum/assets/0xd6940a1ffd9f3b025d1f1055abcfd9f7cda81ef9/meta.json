@@ -1,0 +1,15 @@
+{
+  "name": "YouForia",
+  "symbol": "YFR",
+  "web": "https://youforia.nl",
+  "explorer": "https://etherscan.io/token/0xd6940a1ffd9f3b025d1f1055abcfd9f7cda81ef9",
+  "links": {
+    "coingecko": "youforia",
+    "twitter": "youForiaCoin",
+    "telegram": "youforia2020"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

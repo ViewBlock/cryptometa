@@ -1,0 +1,16 @@
+{
+  "name": "Apexel Natural Nano",
+  "symbol": "ANN",
+  "web": "https://anncoin.io",
+  "explorer": "https://etherscan.io/token/0x2d48d03ff3389cc3546931efdff2799017f3420c",
+  "links": {
+    "coingecko": "apexel-natural-nano",
+    "twitter": "ANNcoinmarket",
+    "facebook": "ANNCOINPAGE",
+    "telegram": "Anncoingroup"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

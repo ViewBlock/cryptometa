@@ -1,0 +1,16 @@
+{
+  "name": "Polkainsure Finance",
+  "symbol": "PIS",
+  "web": "https://polkainsure.finance",
+  "explorer": "https://etherscan.io/token/0x834ce7ad163ab3be0c5fd4e0a81e67ac8f51e00c",
+  "links": {
+    "github": "Polka-Insure",
+    "coingecko": "polkainsure-finance",
+    "twitter": "PolkaInsure",
+    "telegram": "polkainsure"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

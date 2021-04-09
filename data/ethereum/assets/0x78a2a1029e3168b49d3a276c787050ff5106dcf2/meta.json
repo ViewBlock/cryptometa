@@ -1,0 +1,16 @@
+{
+  "name": "EZOOW",
+  "symbol": "EZW",
+  "web": "https://www.ezoow.com",
+  "explorer": "https://etherscan.io/token/0x78a2a1029e3168b49d3a276c787050ff5106dcf2",
+  "links": {
+    "github": "ezoowtoken",
+    "coingecko": "ezoow",
+    "twitter": "EzoowToken",
+    "facebook": "ezoowofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

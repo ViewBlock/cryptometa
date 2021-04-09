@@ -1,0 +1,15 @@
+{
+  "name": "Better Money",
+  "symbol": "BETTER",
+  "web": "https://app.tryroll.com/token/BETTER",
+  "explorer": "https://etherscan.io/token/0xa7925aa2a6e4575ab0c74d169f3bc3e03d4c319a",
+  "links": {
+    "coingecko": "better-money",
+    "telegram": "LuchoPoletti",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

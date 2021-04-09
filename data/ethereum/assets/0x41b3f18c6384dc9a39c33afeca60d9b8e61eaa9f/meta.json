@@ -1,0 +1,19 @@
+{
+  "name": "Noah Decentralized State Coin",
+  "symbol": "NOAHP",
+  "web": "https://noahcoin.org",
+  "explorer": "https://etherscan.io/token/0x41b3F18c6384Dc9A39c33AFEcA60d9b8e61eAa9F",
+  "links": {
+    "github": "NoahFoundation",
+    "coingecko": "noah-coin",
+    "twitter": "NOAHCOIN_Proj",
+    "facebook": "NOAHCOINOfficial",
+    "telegram": "noahproject_community",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

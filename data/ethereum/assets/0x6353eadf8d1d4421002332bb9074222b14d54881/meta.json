@@ -1,0 +1,18 @@
+{
+  "name": "Payfair",
+  "symbol": "PFR",
+  "web": "https://trust.payfair.io",
+  "explorer": "https://etherscan.io/token/0x6353eadf8d1d4421002332bb9074222b14d54881",
+  "links": {
+    "github": "payfairio",
+    "coingecko": "payfair",
+    "twitter": "payfairio",
+    "facebook": "Payfairio",
+    "telegram": "payfair",
+    "reddit": "r/Payfair"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

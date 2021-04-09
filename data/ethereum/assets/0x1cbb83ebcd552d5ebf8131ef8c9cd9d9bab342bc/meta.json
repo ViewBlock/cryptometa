@@ -1,0 +1,16 @@
+{
+  "name": "Non-Fungible Yearn",
+  "symbol": "NFY",
+  "web": "https://nfy.finance",
+  "explorer": "https://etherscan.io/token/0x1cbb83ebcd552d5ebf8131ef8c9cd9d9bab342bc",
+  "links": {
+    "github": "NFYFinance",
+    "coingecko": "non-fungible-yearn",
+    "twitter": "NFYFinance",
+    "telegram": "NFYOfficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

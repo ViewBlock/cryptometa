@@ -1,0 +1,16 @@
+{
+  "name": "ERC223",
+  "symbol": "ERC223",
+  "web": "https://erc223token.my.cam",
+  "explorer": "https://etherscan.io/token/0xf8f237d074f637d777bcd2a4712bde793f94272b",
+  "links": {
+    "github": "ERC223",
+    "coingecko": "erc223",
+    "twitter": "ERC2232",
+    "telegram": "ERC223"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

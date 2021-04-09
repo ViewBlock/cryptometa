@@ -1,0 +1,14 @@
+{
+  "name": "MTI Finance",
+  "symbol": "MTI",
+  "web": "https://mti.finance",
+  "explorer": "https://etherscan.io/token/0x86d3f38edaf7e7959e5d8e6aea5ad3187b78c346",
+  "links": {
+    "coingecko": "mti-finance",
+    "telegram": "mtifinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

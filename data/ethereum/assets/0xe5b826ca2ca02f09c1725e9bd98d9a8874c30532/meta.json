@@ -1,0 +1,18 @@
+{
+  "name": "ZEON Network",
+  "symbol": "ZEON",
+  "web": "https://zeon.network",
+  "explorer": "https://etherscan.io/token/0xe5b826ca2ca02f09c1725e9bd98d9a8874c30532",
+  "links": {
+    "github": "ZeonNetwork",
+    "coingecko": "zeon",
+    "twitter": "zeon_coin",
+    "facebook": "zeoncoin",
+    "telegram": "zeon_officialgroup",
+    "reddit": "r/ZeonNetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

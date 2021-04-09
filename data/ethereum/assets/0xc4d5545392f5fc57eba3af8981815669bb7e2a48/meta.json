@@ -1,0 +1,17 @@
+{
+  "name": "HEdpAY",
+  "symbol": "HDP.Ф",
+  "web": "https://hedpay.com",
+  "explorer": "https://etherscan.io/token/0xc4d5545392f5fc57eba3af8981815669bb7e2a48",
+  "links": {
+    "coingecko": "hedpay",
+    "twitter": "MyHEdpAY",
+    "facebook": "hedpay",
+    "telegram": "HEdpAY",
+    "reddit": "r/HEdpAY"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

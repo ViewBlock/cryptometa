@@ -1,0 +1,16 @@
+{
+  "name": "One",
+  "symbol": "ONE",
+  "web": "https://big.one",
+  "explorer": "https://etherscan.io/token/0x946551dd05c5abd7cc808927480225ce36d8c475",
+  "links": {
+    "coingecko": "one",
+    "twitter": "BigONEexchange",
+    "facebook": "exBigONE",
+    "telegram": "B1_EN"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

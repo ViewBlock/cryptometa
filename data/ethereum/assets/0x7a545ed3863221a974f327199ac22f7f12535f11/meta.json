@@ -1,0 +1,15 @@
+{
+  "name": "Baguette Token",
+  "symbol": "BGTT",
+  "web": "https://baguettetoken.com",
+  "explorer": "https://etherscan.io/token/0x7a545Ed3863221A974F327199Ac22F7f12535F11",
+  "links": {
+    "coingecko": "baguette-token",
+    "twitter": "BaguetteToken",
+    "telegram": "BaguetteToken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

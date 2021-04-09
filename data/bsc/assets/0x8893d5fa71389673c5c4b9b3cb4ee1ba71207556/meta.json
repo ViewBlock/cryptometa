@@ -1,0 +1,11 @@
+{
+  "name": "Squirrel Finance",
+  "symbol": "NUTS",
+  "web": "https://squirrel.finance",
+  "explorer": "https://bscscan.com/token/0x8893d5fa71389673c5c4b9b3cb4ee1ba71207556",
+  "links": {
+    "coingecko": "squirrel-finance",
+    "twitter": "SquirrelDefi",
+    "telegram": "SquirrelDefi"
+  }
+}

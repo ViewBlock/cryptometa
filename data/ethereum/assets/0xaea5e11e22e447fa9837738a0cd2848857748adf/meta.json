@@ -1,0 +1,16 @@
+{
+  "name": "Social Finance",
+  "symbol": "SOFI",
+  "web": "https://socialfi.org",
+  "explorer": "https://etherscan.io/token/0xaea5e11e22e447fa9837738a0cd2848857748adf",
+  "links": {
+    "coingecko": "social-finance",
+    "twitter": "socialfinance00",
+    "telegram": "SocialFinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

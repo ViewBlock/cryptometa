@@ -1,0 +1,16 @@
+{
+  "name": "Voyager",
+  "symbol": "VGR",
+  "web": "https://voyagerclub.io/ru",
+  "explorer": "https://etherscan.io/token/0x16987c021c14ca1045cd0afebb33c124a58bf16c",
+  "links": {
+    "github": "Voyageapp",
+    "coingecko": "voyager",
+    "twitter": "voyagerappico",
+    "telegram": "voyagerclub"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

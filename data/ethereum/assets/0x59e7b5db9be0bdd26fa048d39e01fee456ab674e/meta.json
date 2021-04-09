@@ -1,0 +1,15 @@
+{
+  "name": "Yearn Finance Bit2",
+  "symbol": "YFB2",
+  "web": "https://yfbit.finance",
+  "explorer": "https://etherscan.io/token/0x59e7b5db9be0bdd26fa048d39e01fee456ab674e",
+  "links": {
+    "coingecko": "yearn-finance-bit2",
+    "twitter": "yf_bit",
+    "telegram": "yearfinancebit"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

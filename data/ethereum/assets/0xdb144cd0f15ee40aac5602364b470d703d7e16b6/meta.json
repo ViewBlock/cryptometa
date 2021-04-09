@@ -1,0 +1,17 @@
+{
+  "name": "vSlice",
+  "symbol": "VSL",
+  "web": "https://vslice.live",
+  "explorer": "https://etherscan.io/token/0xDb144CD0F15eE40AaC5602364B470d703d7e16b6",
+  "links": {
+    "github": "jamesgroton",
+    "coingecko": "vslice",
+    "twitter": "vSliceCoin",
+    "facebook": "vDice.io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

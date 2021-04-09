@@ -1,0 +1,15 @@
+{
+  "name": "JUST NETWORK",
+  "symbol": "JUS",
+  "web": "https://www.justalk.io",
+  "explorer": "https://etherscan.io/token/0x14ca41eecd7d81d5d13098586c0d2314eba285be",
+  "links": {
+    "coingecko": "just-network",
+    "twitter": "Justalk2019",
+    "telegram": "JustalkOfficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Flow",
+  "symbol": "FLOW",
+  "web": "https://www.onflow.org",
+  "explorer": "https://flow.bigdipper.live",
+  "links": {
+    "github": "onflow",
+    "coingecko": "flow",
+    "twitter": "flow_blockchain",
+    "telegram": "flow_blockchain"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

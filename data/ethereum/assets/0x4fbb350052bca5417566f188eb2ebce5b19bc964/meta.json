@@ -1,0 +1,18 @@
+{
+  "name": "RigoBlock",
+  "symbol": "GRG",
+  "web": "https://rigoblock.com",
+  "explorer": "https://etherscan.io/token/0x4fbb350052bca5417566f188eb2ebce5b19bc964",
+  "links": {
+    "github": "rigoblock",
+    "coingecko": "rigoblock",
+    "twitter": "RigoBlock",
+    "facebook": "RigoBlockProtocol",
+    "telegram": "rigoblockprotocol",
+    "reddit": "r/rigoblock"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

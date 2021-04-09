@@ -1,0 +1,12 @@
+{
+  "name": "Alpaca Finance",
+  "symbol": "ALPACA",
+  "web": "https://www.alpacafinance.org",
+  "explorer": "https://bscscan.com/token/0x8f0528ce5ef7b51152a59745befdd91d97091d2f",
+  "links": {
+    "github": "alpaca-finance",
+    "coingecko": "alpaca-finance",
+    "twitter": "AlpacaFinance",
+    "telegram": "alpacafinance"
+  }
+}

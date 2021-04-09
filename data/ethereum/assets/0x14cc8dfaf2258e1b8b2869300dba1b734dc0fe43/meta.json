@@ -1,0 +1,15 @@
+{
+  "name": "K-Tune",
+  "symbol": "KTT",
+  "web": "https://www.k-tune.org",
+  "explorer": "https://etherscan.io/token/0x14cc8dfaf2258e1b8b2869300dba1b734dc0fe43",
+  "links": {
+    "coingecko": "k-tune",
+    "twitter": "KTuneofficial1",
+    "telegram": "OfficialKtune"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Ammbr",
+  "symbol": "AMR",
+  "web": "http://ammbr.com",
+  "explorer": "https://etherscan.io/token/0xd3fb5cabd07c85395667f83d20b080642bde66c7",
+  "links": {
+    "github": "ammbrteam",
+    "coingecko": "ammbr",
+    "twitter": "ammbrplatform",
+    "facebook": "AmmbrPlatform",
+    "telegram": "ammbrICO"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

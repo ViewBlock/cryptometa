@@ -1,0 +1,15 @@
+{
+  "name": "rbase.finance",
+  "symbol": "RBASE",
+  "web": "https://www.rbase.finance",
+  "explorer": "https://etherscan.io/token/0xe8b251822d003a2b2466ee0e38391c2db2048739",
+  "links": {
+    "coingecko": "rbase-finance",
+    "twitter": "DefiProphets",
+    "telegram": "rbasebydefiprophets"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

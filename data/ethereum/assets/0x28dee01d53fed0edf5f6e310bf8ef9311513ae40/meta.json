@@ -1,0 +1,17 @@
+{
+  "name": "BlitzPredict",
+  "symbol": "XBP",
+  "web": "https://www.blitzpredict.io",
+  "explorer": "https://etherscan.io/token/0x28dee01d53fed0edf5f6e310bf8ef9311513ae40",
+  "links": {
+    "github": "blitzpredict",
+    "coingecko": "blitzpredict",
+    "twitter": "BlitzPredict",
+    "telegram": "BlitzPredict",
+    "reddit": "r/BlitzPredict"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

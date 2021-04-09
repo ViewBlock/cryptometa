@@ -1,0 +1,15 @@
+{
+  "name": "Stacy",
+  "symbol": "STACY",
+  "web": "https://chadswap.finance",
+  "explorer": "https://etherscan.io/token/0xf12EC0D3Dab64DdEfBdC96474bDe25af3FE1B327",
+  "links": {
+    "coingecko": "stacy",
+    "twitter": "chadsvc",
+    "telegram": "chads_vc"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

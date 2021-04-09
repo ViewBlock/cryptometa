@@ -1,0 +1,17 @@
+{
+  "name": "ContentBox",
+  "symbol": "BOX",
+  "web": "https://contentbox.one",
+  "explorer": "https://etherscan.io/token/0x63f584fa56e60e4d0fe8802b27c7e6e3b33e007f",
+  "links": {
+    "github": "BOXFoundation",
+    "coingecko": "contentbox",
+    "twitter": "Contentbox_one",
+    "telegram": "BoxCommunity",
+    "reddit": "r/ContentBoxOfficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

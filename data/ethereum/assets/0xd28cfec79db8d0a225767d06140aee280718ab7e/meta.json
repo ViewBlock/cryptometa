@@ -1,0 +1,19 @@
+{
+  "name": "Bizkey",
+  "symbol": "BZKY",
+  "web": "https://bizkey.io",
+  "explorer": "https://etherscan.io/token/0xd28cfec79db8d0a225767d06140aee280718ab7e",
+  "links": {
+    "github": "Bzky",
+    "coingecko": "bizkey",
+    "twitter": "bizkeyio",
+    "facebook": "bizkey",
+    "telegram": "bizkey_chat",
+    "reddit": "r/Bizkey_Official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

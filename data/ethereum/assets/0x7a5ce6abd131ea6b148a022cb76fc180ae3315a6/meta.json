@@ -1,0 +1,16 @@
+{
+  "name": "bAlpha",
+  "symbol": "BALPHA",
+  "web": "https://bigdataprotocol.com",
+  "explorer": "https://etherscan.io/token/0x7a5ce6abD131EA6B148a022CB76fc180ae3315A6",
+  "links": {
+    "github": "bigdataprotocol",
+    "coingecko": "balpha",
+    "twitter": "bigdataprotocol",
+    "telegram": "bigdataprotocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

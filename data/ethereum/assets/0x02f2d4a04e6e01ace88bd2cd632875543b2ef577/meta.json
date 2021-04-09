@@ -1,0 +1,16 @@
+{
+  "name": "PKG Token",
+  "symbol": "PKG",
+  "web": "http://pkgtoken.io",
+  "explorer": "https://etherscan.io/token/0x02f2d4a04e6e01ace88bd2cd632875543b2ef577",
+  "links": {
+    "github": "pokemongopkg",
+    "coingecko": "pkg-token",
+    "twitter": "pokemongopkg",
+    "telegram": "pokemongopkg"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

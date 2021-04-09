@@ -1,0 +1,15 @@
+{
+  "name": "Yearn Hold Finance",
+  "symbol": "YHFI",
+  "web": "https://yhold.finance",
+  "explorer": "https://etherscan.io/token/0x5a143f78bb66294ff37c47b5164584475b932bab",
+  "links": {
+    "coingecko": "yearn-hold-finance",
+    "twitter": "YholdF",
+    "telegram": "YHOLDFI"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

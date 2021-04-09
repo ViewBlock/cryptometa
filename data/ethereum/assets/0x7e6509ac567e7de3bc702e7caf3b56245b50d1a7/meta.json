@@ -1,0 +1,16 @@
+{
+  "name": "Swace",
+  "symbol": "SWACE",
+  "web": "https://swace.io",
+  "explorer": "https://etherscan.io/token/0x7e6509ac567e7de3bc702e7caf3b56245b50d1a7",
+  "links": {
+    "coingecko": "swace",
+    "twitter": "swaceapp",
+    "facebook": "swaceapp",
+    "telegram": "swace"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "ThinkCoin",
+  "symbol": "TCO",
+  "web": "https://www.tradeconnect.io",
+  "explorer": "https://etherscan.io/token/0x6288014d6BA425D71f5fdc1DBfb01378241D78DB",
+  "links": {
+    "coingecko": "thinkcoin",
+    "twitter": "tradeconnectio",
+    "facebook": "TradeConnect.io",
+    "telegram": "thinkcointoken",
+    "reddit": "r/thinkcoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

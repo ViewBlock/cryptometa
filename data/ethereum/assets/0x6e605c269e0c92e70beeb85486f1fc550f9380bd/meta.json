@@ -1,0 +1,18 @@
+{
+  "name": "Catex Token",
+  "symbol": "CATT",
+  "web": "https://www.catex.io",
+  "explorer": "https://etherscan.io/token/0x6e605c269e0c92e70beeb85486f1fc550f9380bd",
+  "links": {
+    "github": "Catexexchange",
+    "coingecko": "catex-token",
+    "twitter": "catexofficial",
+    "facebook": "officialcatex",
+    "telegram": "catex_group",
+    "reddit": "r/Catex"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

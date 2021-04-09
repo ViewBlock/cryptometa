@@ -1,0 +1,17 @@
+{
+  "name": "Bgogo Token",
+  "symbol": "BGG",
+  "web": "https://bgogo.com",
+  "explorer": "https://etherscan.io/token/0xea54c81fe0f72de8e86b6dc78a9271aa3925e3b5",
+  "links": {
+    "coingecko": "bgogo",
+    "twitter": "BgogoExchange",
+    "facebook": "BgogoExchange",
+    "telegram": "Bgogo",
+    "reddit": "r/Bgogo"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

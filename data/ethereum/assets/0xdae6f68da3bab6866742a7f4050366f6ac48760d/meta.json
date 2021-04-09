@@ -1,0 +1,14 @@
+{
+  "name": "GUSS.ONE",
+  "symbol": "GUSS",
+  "web": "http://guss.one/guss",
+  "explorer": "https://etherscan.io/token/0xdae6f68da3bab6866742a7f4050366f6ac48760d",
+  "links": {
+    "coingecko": "guss-one"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 5
+  }
+}

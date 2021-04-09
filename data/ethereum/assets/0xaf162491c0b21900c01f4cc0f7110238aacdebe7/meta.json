@@ -1,0 +1,14 @@
+{
+  "name": "arcane bear",
+  "symbol": "BEAR",
+  "web": "https://arcanebear.com",
+  "explorer": "https://etherscan.io/token/0xAf162491C0B21900C01F4Cc0F7110238AAcdebE7",
+  "links": {
+    "coingecko": "arcane-bear",
+    "twitter": "thearcanebear"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

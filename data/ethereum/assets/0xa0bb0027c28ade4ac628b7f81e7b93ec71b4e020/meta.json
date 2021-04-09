@@ -1,0 +1,15 @@
+{
+  "name": "Rug Proof",
+  "symbol": "RPT",
+  "web": "https://rugproof.io",
+  "explorer": "https://etherscan.io/token/0xa0bb0027c28ade4ac628b7f81e7b93ec71b4e020",
+  "links": {
+    "coingecko": "rug-proof",
+    "twitter": "rugproof",
+    "telegram": "rugproof"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

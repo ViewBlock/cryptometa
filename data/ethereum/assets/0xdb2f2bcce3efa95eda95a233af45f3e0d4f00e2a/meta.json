@@ -1,0 +1,16 @@
+{
+  "name": "Aegis",
+  "symbol": "AGS",
+  "web": "https://aegis.finance",
+  "explorer": "https://etherscan.io/token/0xdB2F2bCCe3efa95EDA95a233aF45F3e0d4f00e2A",
+  "links": {
+    "github": "AegisDeFi",
+    "coingecko": "aegis",
+    "twitter": "AegisDeFi",
+    "telegram": "AegisEN"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Wrapped Matic",
+  "symbol": "WMATIC",
+  "web": "https://matic.network",
+  "links": {
+    "coingecko": "wmatic"
+  }
+}

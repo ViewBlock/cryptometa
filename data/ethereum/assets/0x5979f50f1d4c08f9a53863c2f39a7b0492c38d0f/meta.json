@@ -1,0 +1,17 @@
+{
+  "name": "pTokens LTC",
+  "symbol": "PLTC",
+  "web": "https://ptokens.io",
+  "explorer": "https://etherscan.io/token/0x5979f50f1d4c08f9a53863c2f39a7b0492c38d0f",
+  "links": {
+    "github": "provable-things",
+    "coingecko": "ptokens-ltc",
+    "twitter": "pTokens_io",
+    "telegram": "ptokens",
+    "reddit": "r/pTokens"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

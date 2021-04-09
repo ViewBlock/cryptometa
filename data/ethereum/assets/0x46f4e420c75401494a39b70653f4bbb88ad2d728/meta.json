@@ -1,0 +1,15 @@
+{
+  "name": "WenBurn",
+  "symbol": "WENB",
+  "web": "https://wenburn.com",
+  "explorer": "https://etherscan.io/token/0x46f4e420c75401494a39b70653f4bbb88ad2d728",
+  "links": {
+    "coingecko": "wenburn",
+    "twitter": "wwenmoon",
+    "telegram": "wenburn"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

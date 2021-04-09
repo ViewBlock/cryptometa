@@ -1,0 +1,14 @@
+{
+  "name": "IPChain",
+  "symbol": "IPC",
+  "web": "https://www.ipcchain.org",
+  "explorer": "https://etherscan.io/token/0x622cd54deb2bb7a051515192417109bcf3fe098f",
+  "links": {
+    "github": "wugeipc",
+    "coingecko": "ipchain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

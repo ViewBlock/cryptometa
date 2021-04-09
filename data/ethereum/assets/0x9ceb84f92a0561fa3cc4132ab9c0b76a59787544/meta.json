@@ -1,0 +1,15 @@
+{
+  "name": "Doki Doki Finance",
+  "symbol": "DOKI",
+  "web": "https://dokidoki.finance",
+  "explorer": "https://etherscan.io/token/0x9cEB84f92A0561fa3Cc4132aB9c0b76A59787544",
+  "links": {
+    "coingecko": "doki-doki-finance",
+    "twitter": "dokidokifinance",
+    "telegram": "ddnfg"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

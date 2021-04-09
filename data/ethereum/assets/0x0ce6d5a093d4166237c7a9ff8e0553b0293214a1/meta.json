@@ -1,0 +1,17 @@
+{
+  "name": "Decenturion",
+  "symbol": "DCNT",
+  "web": "https://decenturion.com",
+  "explorer": "https://etherscan.io/token/0x0ce6d5a093d4166237c7a9ff8e0553b0293214a1",
+  "links": {
+    "coingecko": "decenturion",
+    "twitter": "DECENTURIONOF",
+    "facebook": "decenturionapp",
+    "telegram": "decenturion",
+    "reddit": "r/Decenturion"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Reddcoin",
+  "symbol": "RDD",
+  "web": "https://redd.love",
+  "explorer": "https://live.reddcoin.com",
+  "links": {
+    "github": "reddcoin-project",
+    "coingecko": "reddcoin",
+    "twitter": "reddcoin",
+    "facebook": "reddcoin",
+    "telegram": "ReddcoinOfficial",
+    "reddit": "r/reddCoin"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

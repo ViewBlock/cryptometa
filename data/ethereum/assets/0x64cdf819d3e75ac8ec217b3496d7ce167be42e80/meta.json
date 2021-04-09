@@ -1,0 +1,17 @@
+{
+  "name": "InsurePal",
+  "symbol": "IPL",
+  "web": "https://insurepal.io",
+  "explorer": "https://etherscan.io/token/0x64CdF819d3E75Ac8eC217B3496d7cE167Be42e80",
+  "links": {
+    "github": "InsurePal",
+    "coingecko": "insurepal",
+    "twitter": "InsurePal_io",
+    "facebook": "InsurePal",
+    "telegram": "InsurePal"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

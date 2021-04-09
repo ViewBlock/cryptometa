@@ -1,0 +1,18 @@
+{
+  "name": "MoneyToken",
+  "symbol": "IMT",
+  "web": "http://moneytoken.eu",
+  "explorer": "https://etherscan.io/token/0x13119e34e140097a507b07a5564bde1bc375d9e6",
+  "links": {
+    "github": "MoneyToken",
+    "coingecko": "moneytoken",
+    "twitter": "MoneyToken",
+    "facebook": "MoneyTokenOfficial",
+    "telegram": "moneytoken",
+    "reddit": "r/MoneyToken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

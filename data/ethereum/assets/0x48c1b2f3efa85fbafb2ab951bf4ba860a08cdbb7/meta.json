@@ -1,0 +1,16 @@
+{
+  "name": "ShowHand",
+  "symbol": "HAND",
+  "web": "https://www.showhand.io",
+  "explorer": "https://etherscan.io/token/0x48c1b2f3efa85fbafb2ab951bf4ba860a08cdbb7",
+  "links": {
+    "github": "showhand",
+    "coingecko": "showhand",
+    "twitter": "showhandio",
+    "telegram": "showhandofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

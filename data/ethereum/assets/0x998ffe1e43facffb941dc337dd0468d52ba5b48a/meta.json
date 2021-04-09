@@ -1,0 +1,17 @@
+{
+  "name": "Rupiah Token",
+  "symbol": "IDRT",
+  "web": "https://rupiahtoken.com",
+  "explorer": "https://etherscan.io/token/0x998FFE1E43fAcffb941dc337dD0468d52bA5b48A",
+  "links": {
+    "github": "rupiah-token",
+    "coingecko": "rupiah-token",
+    "twitter": "RupiahTokenIDRT",
+    "facebook": "RupiahTokenIDRT",
+    "telegram": "https://t.me/rupiahtokenindonesia"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

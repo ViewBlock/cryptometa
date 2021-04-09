@@ -1,0 +1,17 @@
+{
+  "name": "Status",
+  "symbol": "SNT",
+  "web": "https://status.im",
+  "explorer": "https://etherscan.io/token/0x744d70fdbe2ba4cf95131626614a1763df805b9e",
+  "links": {
+    "github": "status-im",
+    "coingecko": "status",
+    "twitter": "ethstatus",
+    "facebook": "ethstatus",
+    "reddit": "r/statusim"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

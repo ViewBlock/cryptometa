@@ -1,0 +1,15 @@
+{
+  "name": "Yearn Shark Finance",
+  "symbol": "YSKF",
+  "web": "https://www.yearnshark.finance",
+  "explorer": "https://etherscan.io/token/0x9c664f20c0a00a4949dffca76748c02754c875aa",
+  "links": {
+    "coingecko": "yearn-shark-finance",
+    "twitter": "yskfofficial",
+    "telegram": "YSKFofficialchat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

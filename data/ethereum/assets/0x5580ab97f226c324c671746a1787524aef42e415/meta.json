@@ -1,0 +1,17 @@
+{
+  "name": "JustLiquidity",
+  "symbol": "JUL",
+  "web": "https://justliquidity.org ",
+  "explorer": "https://etherscan.io/token/0x5580ab97f226c324c671746a1787524aef42e415",
+  "links": {
+    "github": "justliquidity",
+    "coingecko": "jul",
+    "twitter": "JustLiquidity",
+    "telegram": "justliquidity"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

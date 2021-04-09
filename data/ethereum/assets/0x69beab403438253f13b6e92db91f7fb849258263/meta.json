@@ -1,0 +1,15 @@
+{
+  "name": "Neurotoken",
+  "symbol": "NTK",
+  "web": "https://neuromation.io",
+  "explorer": "https://etherscan.io/token/0x69beab403438253f13b6e92db91f7fb849258263",
+  "links": {
+    "coingecko": "neurotoken",
+    "twitter": "neuromation_io",
+    "reddit": "r/Neuromation"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

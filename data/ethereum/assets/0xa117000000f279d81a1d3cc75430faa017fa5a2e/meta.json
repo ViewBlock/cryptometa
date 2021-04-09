@@ -1,0 +1,16 @@
+{
+  "name": "Aragon",
+  "symbol": "ANT",
+  "web": "https://aragon.org",
+  "explorer": "https://etherscan.io/token/0xa117000000f279d81a1d3cc75430faa017fa5a2e",
+  "links": {
+    "github": "aragon",
+    "coingecko": "aragon",
+    "twitter": "AragonProject",
+    "reddit": "r/aragonproject"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

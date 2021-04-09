@@ -1,0 +1,15 @@
+{
+  "name": "Bitgear",
+  "symbol": "GEAR",
+  "web": "https://bitgear.io",
+  "explorer": "https://etherscan.io/token/0x1b980e05943dE3dB3a459C72325338d327B6F5a9",
+  "links": {
+    "coingecko": "bitgear",
+    "twitter": "bitgeario",
+    "telegram": "bitgear"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

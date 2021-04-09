@@ -1,0 +1,16 @@
+{
+  "name": "Speedcash",
+  "symbol": "SCS",
+  "web": "http://scash.ml ",
+  "explorer": "https://etherscan.io/token/0x81995ff7aee5c780192b47e0b42a7a86692d1415",
+  "links": {
+    "github": "scashml",
+    "coingecko": "speedcash",
+    "twitter": "speedcashscs",
+    "telegram": "speedcashmedia"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

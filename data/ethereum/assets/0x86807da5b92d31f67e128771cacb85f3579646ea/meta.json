@@ -1,0 +1,13 @@
+{
+  "name": "3X Short TRX Token",
+  "symbol": "TRXBEAR",
+  "web": "https://ftx.com/tokens/TRXBEAR",
+  "explorer": "https://etherscan.io/token/0x86807da5b92d31f67e128771cacb85f3579646ea",
+  "links": {
+    "coingecko": "3x-short-trx-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

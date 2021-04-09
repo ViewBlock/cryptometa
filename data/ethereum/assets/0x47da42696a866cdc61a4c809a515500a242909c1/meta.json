@@ -1,0 +1,18 @@
+{
+  "name": "BitRewards Token",
+  "symbol": "BIT",
+  "web": "https://bitrewards.network",
+  "explorer": "https://etherscan.io/token/0x47da42696a866cdc61a4c809a515500a242909c1",
+  "links": {
+    "github": "BitRewards",
+    "coingecko": "bitrewards-token",
+    "twitter": "bitrewards",
+    "facebook": "bitrewards.network",
+    "telegram": "bitrewards",
+    "reddit": "r/BitRewards_Official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

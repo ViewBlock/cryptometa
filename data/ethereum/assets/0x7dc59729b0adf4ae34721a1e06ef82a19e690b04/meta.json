@@ -1,0 +1,16 @@
+{
+  "name": "BTC-Alpha Token",
+  "symbol": "BAC",
+  "web": "https://btc-alpha.com/en/exchange/BAC_USD",
+  "explorer": "https://etherscan.io/token/0x7dc59729b0adf4ae34721a1e06ef82a19e690b04",
+  "links": {
+    "coingecko": "btc-alpha-token",
+    "twitter": "btcalpha",
+    "facebook": "btcalpha",
+    "telegram": "btcalpha"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

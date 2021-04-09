@@ -1,0 +1,16 @@
+{
+  "name": "GoWithMi",
+  "symbol": "GMAT",
+  "web": "https://www.gowithmi.com",
+  "explorer": "https://etherscan.io/token/0xb13de094cc5cee6c4cc0a3737bf0290166d9ca5d",
+  "links": {
+    "github": "GoWithMi",
+    "coingecko": "gowithmi",
+    "twitter": "GoWithMi_GL",
+    "telegram": "GoWithMi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

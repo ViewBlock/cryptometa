@@ -1,0 +1,15 @@
+{
+  "name": "BlockBurn",
+  "symbol": "BURN",
+  "web": "https://blockburn.io",
+  "explorer": "https://etherscan.io/token/0x8515cd0f00ad81996d24b9a9c35121a3b759d6cd",
+  "links": {
+    "coingecko": "blockburn",
+    "twitter": "blockburnHQ",
+    "telegram": "blockburn"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

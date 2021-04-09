@@ -1,0 +1,17 @@
+{
+  "name": "Swarm City",
+  "symbol": "SWT",
+  "web": "https://swarm.city",
+  "explorer": "https://etherscan.io/token/0xb9e7f8568e08d5659f5d29c4997173d84cdf2607",
+  "links": {
+    "github": "swarmcity",
+    "coingecko": "swarm-city",
+    "twitter": "SwarmCityDApp",
+    "facebook": "SwarmCityDApp",
+    "reddit": "r/SwarmCity"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Stargaze Protocol",
+  "symbol": "STGZ",
+  "web": "https://stargazeprotocol.com",
+  "explorer": "https://etherscan.io/token/0xa9a8377287ea9c6b8b4249dd502e75d34148fc5b",
+  "links": {
+    "github": "stargazeprotocol?tab=projects",
+    "coingecko": "stargaze-protocol",
+    "twitter": "stgzprotocol",
+    "telegram": "stargazeprotocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

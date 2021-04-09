@@ -1,0 +1,13 @@
+{
+  "name": "CMDX",
+  "symbol": "CMDX",
+  "web": "https://cmdx.io",
+  "explorer": "https://etherscan.io/token/0xb2c19bA4D5246D4c587a62F0dfE9f78083568455",
+  "links": {
+    "coingecko": "cmdx"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Zcash",
+  "symbol": "ZEC",
+  "web": "https://z.cash",
+  "explorer": "https://blockchair.com/zcash",
+  "links": {
+    "github": "zcash",
+    "coingecko": "zcash",
+    "twitter": "electriccoinco",
+    "reddit": "r/zec"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

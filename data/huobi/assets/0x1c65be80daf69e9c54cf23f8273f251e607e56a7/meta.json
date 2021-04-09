@@ -1,0 +1,12 @@
+{
+  "name": "Mimosa",
+  "symbol": "MIMO",
+  "web": "http://mimosa.finance/mimosa",
+  "explorer": "https://scan.hecochain.com/token/0x1c65be80daf69e9c54cf23f8273f251e607e56a7",
+  "links": {
+    "github": "mimosa-token",
+    "coingecko": "mimosa",
+    "twitter": "MimosaOfficial",
+    "telegram": "MimosaOfficial"
+  }
+}

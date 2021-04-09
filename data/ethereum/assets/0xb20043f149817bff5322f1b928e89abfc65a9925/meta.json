@@ -1,0 +1,15 @@
+{
+  "name": "EXRT Network",
+  "symbol": "EXRT",
+  "web": "https://exrt.org",
+  "explorer": "https://etherscan.io/token/0xb20043F149817bff5322F1b928e89aBFC65A9925",
+  "links": {
+    "coingecko": "exrt-network",
+    "twitter": "EXRNtoken",
+    "reddit": "r/EXRNchain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ArdCoin",
+  "symbol": "ARDX",
+  "web": "https://ardcoin.com",
+  "explorer": "https://etherscan.io/token/0xb8e2e2101ed11e9138803cd3e06e16dd19910647",
+  "links": {
+    "coingecko": "ardcoin",
+    "twitter": "ard_coin",
+    "facebook": "ardbitglobal",
+    "telegram": "ardcoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

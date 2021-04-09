@@ -1,0 +1,14 @@
+{
+  "name": "sDEFI",
+  "symbol": "SDEFI",
+  "web": "https://www.synthetix.io/tokens",
+  "explorer": "https://etherscan.io/token/0xe1aFe1Fd76Fd88f78cBf599ea1846231B8bA3B6B",
+  "links": {
+    "coingecko": "sdefi",
+    "twitter": "synthetix_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Opus",
+  "symbol": "OPT",
+  "web": "http://opus-foundation.org",
+  "explorer": "https://etherscan.io/token/0x4355fC160f74328f9b383dF2EC589bB3dFd82Ba0",
+  "links": {
+    "github": "Opus-foundation",
+    "coingecko": "opus",
+    "twitter": "opusfoundation",
+    "facebook": "opusfoundation",
+    "telegram": "opusfoundation",
+    "reddit": "r/opusfoundation"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

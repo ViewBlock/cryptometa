@@ -1,0 +1,16 @@
+{
+  "name": "Ethereum Cash",
+  "symbol": "ECASH",
+  "web": "https://www.ethereumcash.technology",
+  "explorer": "https://etherscan.io/token/0x5d21ef5f25a985380b65c8e943a0082feda0db84",
+  "links": {
+    "github": "ethereumcashdev",
+    "coingecko": "ethereum-cash",
+    "twitter": "EthereumCash_",
+    "reddit": "r/EthereumCash"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

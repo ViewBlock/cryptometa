@@ -1,0 +1,17 @@
+{
+  "name": "Educoin",
+  "symbol": "EDU",
+  "web": "http://www.edu.one",
+  "explorer": "https://etherscan.io/token/0xf263292e14d9d8ecd55b58dad1f1df825a874b7c",
+  "links": {
+    "github": "Educoindevlopment",
+    "coingecko": "educoin",
+    "twitter": "EduCoinOfficial",
+    "facebook": "EduCoinOfficial/",
+    "telegram": "EduCoinGroup"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

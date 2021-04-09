@@ -1,0 +1,16 @@
+{
+  "name": "IFToken",
+  "symbol": "IFT",
+  "web": "https://iftoken.com",
+  "explorer": "https://etherscan.io/token/0x2731d151cbdf84a8a4c6d9d0bae74012db51e428",
+  "links": {
+    "github": "IFWallet",
+    "coingecko": "iftoken",
+    "twitter": "ifwallet",
+    "telegram": "ifwallet"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

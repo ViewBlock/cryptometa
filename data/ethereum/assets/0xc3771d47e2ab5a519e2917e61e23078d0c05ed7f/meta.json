@@ -1,0 +1,17 @@
+{
+  "name": "Gather",
+  "symbol": "GTH",
+  "web": "https://www.gather.network",
+  "explorer": "https://etherscan.io/token/0xc3771d47E2Ab5A519E2917E61e23078d0C05Ed7f",
+  "links": {
+    "coingecko": "gather",
+    "twitter": "Gather_Network",
+    "facebook": "GthNetwork",
+    "telegram": "GatherNetwork",
+    "reddit": "r/GatherNetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

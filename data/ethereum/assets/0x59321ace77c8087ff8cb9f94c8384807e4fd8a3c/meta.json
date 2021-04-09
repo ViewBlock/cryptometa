@@ -1,0 +1,14 @@
+{
+  "name": "Xeniumx",
+  "symbol": "XEMX",
+  "web": "https://xeniumx.com",
+  "explorer": "https://etherscan.io/token/0x59321ace77C8087FF8Cb9F94C8384807E4Fd8a3c",
+  "links": {
+    "coingecko": "xeniumx",
+    "twitter": "xeniumx2020"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

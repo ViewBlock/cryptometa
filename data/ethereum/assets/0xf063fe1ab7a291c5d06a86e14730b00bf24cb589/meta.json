@@ -1,0 +1,15 @@
+{
+  "name": "DxSale Network",
+  "symbol": "SALE",
+  "web": "https://dxsale.network",
+  "explorer": "https://etherscan.io/token/0xF063fE1aB7a291c5d06a86e14730b00BF24cB589",
+  "links": {
+    "coingecko": "dxsale-network",
+    "twitter": "dxsale",
+    "telegram": "dxsale"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

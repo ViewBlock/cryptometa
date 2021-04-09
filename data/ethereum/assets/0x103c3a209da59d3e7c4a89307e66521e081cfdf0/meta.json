@@ -1,0 +1,17 @@
+{
+  "name": "Genesis Vision",
+  "symbol": "GVT",
+  "web": "https://genesis.vision",
+  "explorer": "https://etherscan.io/token/0x103c3a209da59d3e7c4a89307e66521e081cfdf0",
+  "links": {
+    "github": "GenesisVision",
+    "coingecko": "genesis-vision",
+    "twitter": "genesis_vision",
+    "telegram": "genesisvision",
+    "reddit": "r/genesisvision"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

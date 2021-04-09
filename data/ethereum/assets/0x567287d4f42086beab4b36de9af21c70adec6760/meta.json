@@ -1,0 +1,15 @@
+{
+  "name": "Latino Token",
+  "symbol": "LATINO",
+  "web": "https://latinotoken.com",
+  "explorer": "https://etherscan.io/token/0x567287d4f42086beab4b36de9af21c70adec6760",
+  "links": {
+    "coingecko": "latino-token",
+    "twitter": "LatinoToken",
+    "facebook": "latinotoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "IDEX Membership",
+  "symbol": "IDXM",
+  "web": "https://auroradao.com/platform/idex",
+  "explorer": "https://etherscan.io/token/0xcc13fc627effd6e35d2d2706ea3c4d7396c610ea",
+  "links": {
+    "coingecko": "idex-membership",
+    "twitter": "Aurora_dao"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "bZx Protocol",
+  "symbol": "BZRX",
+  "web": "https://bzx.network",
+  "explorer": "https://etherscan.io/token/0x56d811088235F11C8920698a204A5010a788f4b3",
+  "links": {
+    "github": "bZxNetwork",
+    "coingecko": "bzx-protocol",
+    "twitter": "bzxHQ",
+    "telegram": "b0xNet"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

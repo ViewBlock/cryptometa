@@ -1,0 +1,17 @@
+{
+  "name": "Nexus",
+  "symbol": "NXS",
+  "web": "https://nexus.io",
+  "explorer": "https://explorer.nexus.io",
+  "links": {
+    "github": "Nexusoft",
+    "coingecko": "nexus",
+    "twitter": "NexusOfficial",
+    "facebook": "nxsearth",
+    "telegram": "NexusOfficial",
+    "reddit": "r/nexusearth"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

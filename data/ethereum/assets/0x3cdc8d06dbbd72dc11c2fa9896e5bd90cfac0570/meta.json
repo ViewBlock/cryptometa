@@ -1,0 +1,15 @@
+{
+  "name": "SPONB",
+  "symbol": "SPO",
+  "web": "https://www.sponb.net",
+  "explorer": "https://etherscan.io/token/0x3cdc8d06dbbd72dc11c2fa9896e5bd90cfac0570",
+  "links": {
+    "coingecko": "sponb",
+    "twitter": "sponb_net",
+    "facebook": "sponb.net"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

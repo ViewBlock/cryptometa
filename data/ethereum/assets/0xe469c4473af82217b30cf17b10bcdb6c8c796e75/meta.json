@@ -1,0 +1,14 @@
+{
+  "name": "EXRNchain",
+  "symbol": "EXRN",
+  "web": "https://exrn.org",
+  "explorer": "https://etherscan.io/token/0xe469c4473af82217b30cf17b10bcdb6c8c796e75",
+  "links": {
+    "coingecko": "exrnchain",
+    "twitter": "EXRNtoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

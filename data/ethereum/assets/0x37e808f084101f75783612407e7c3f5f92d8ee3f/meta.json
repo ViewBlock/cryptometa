@@ -1,0 +1,16 @@
+{
+  "name": "RI Token",
+  "symbol": "RI",
+  "web": "https://xiotri.io",
+  "explorer": "https://etherscan.io/token/0x37E808F084101F75783612407e7C3f5F92d8ee3F",
+  "links": {
+    "coingecko": "ri-token",
+    "twitter": "xiotri_defi",
+    "telegram": "xiotri_chat",
+    "reddit": "r/xiotri"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

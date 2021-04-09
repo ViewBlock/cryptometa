@@ -1,0 +1,16 @@
+{
+  "name": "BooBanker Research Association",
+  "symbol": "BBRA",
+  "web": "https://bbra.io/#",
+  "explorer": "https://etherscan.io/token/0x70460c3Bb9AbcC0aA51f922c00d37816d6EDe4D7",
+  "links": {
+    "github": "boobank",
+    "coingecko": "boobanker-research-association",
+    "twitter": "bbraofficial",
+    "telegram": "BBRAToken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

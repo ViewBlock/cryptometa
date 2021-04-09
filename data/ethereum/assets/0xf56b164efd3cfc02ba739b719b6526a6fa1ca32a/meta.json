@@ -1,0 +1,18 @@
+{
+  "name": "Curio Governance",
+  "symbol": "CGT",
+  "web": "https://curioinvest.com/curio-stablecoin",
+  "explorer": "https://etherscan.io/token/0xf56b164efd3cfc02ba739b719b6526a6fa1ca32a",
+  "links": {
+    "github": "CurioTeam",
+    "coingecko": "curio-governance",
+    "twitter": "curio_invest",
+    "facebook": "Curioinvest",
+    "telegram": "CurioInvestCommunity",
+    "reddit": "r/curioinvest"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

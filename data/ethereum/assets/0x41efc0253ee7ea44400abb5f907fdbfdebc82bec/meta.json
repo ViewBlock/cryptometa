@@ -1,0 +1,16 @@
+{
+  "name": "$AAPL",
+  "symbol": "$AAPL",
+  "web": "https://www.applescash.com",
+  "explorer": "https://etherscan.io/token/0x41efc0253ee7ea44400abb5f907fdbfdebc82bec",
+  "links": {
+    "coingecko": "aapl",
+    "twitter": "ApplescashC",
+    "facebook": "applescash",
+    "telegram": "applescash"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

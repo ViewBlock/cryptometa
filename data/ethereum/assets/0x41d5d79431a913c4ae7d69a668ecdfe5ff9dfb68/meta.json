@@ -1,0 +1,16 @@
+{
+  "name": "Inverse Finance",
+  "symbol": "INV",
+  "web": "https://inverse.finance",
+  "explorer": "https://etherscan.io/token/0x41d5d79431a913c4ae7d69a668ecdfe5ff9dfb68",
+  "links": {
+    "github": "InverseFinance",
+    "coingecko": "inverse-finance",
+    "twitter": "InverseFinance",
+    "telegram": "InverseFinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

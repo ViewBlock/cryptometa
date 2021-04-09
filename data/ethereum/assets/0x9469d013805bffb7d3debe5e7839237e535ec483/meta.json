@@ -1,0 +1,16 @@
+{
+  "name": "Darwinia Network Native Token",
+  "symbol": "RING",
+  "web": "https://darwinia.network",
+  "explorer": "https://etherscan.io/token/0x9469d013805bffb7d3debe5e7839237e535ec483",
+  "links": {
+    "github": "darwinia-network",
+    "coingecko": "darwinia-network-native-token",
+    "twitter": "DarwiniaNetwork",
+    "telegram": "DarwiniaNetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

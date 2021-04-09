@@ -1,0 +1,19 @@
+{
+  "name": "Covesting",
+  "symbol": "COV",
+  "web": "https://covesting.io",
+  "explorer": "https://etherscan.io/token/0xada86b1b313d1d5267e3fc0bb303f0a2b66d0ea7",
+  "links": {
+    "github": "covesting",
+    "coingecko": "covesting",
+    "twitter": "covesting",
+    "facebook": "covesting",
+    "telegram": "covesting",
+    "reddit": "r/Covesting"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Insight Protocol",
+  "symbol": "INX",
+  "web": "http://inxprotocol.io",
+  "explorer": "https://etherscan.io/token/0x84fE25f3921f3426395c883707950d0c00367576",
+  "links": {
+    "github": "insightprotocol",
+    "coingecko": "insight-protocol",
+    "twitter": "inxprotocol",
+    "telegram": "blockinsigjt"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

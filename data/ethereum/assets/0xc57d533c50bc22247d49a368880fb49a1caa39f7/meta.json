@@ -1,0 +1,16 @@
+{
+  "name": "PowerTrade Fuel",
+  "symbol": "PTF",
+  "web": "https://power.trade",
+  "explorer": "https://etherscan.io/token/0xC57d533c50bC22247d49a368880fb49a1caA39F7",
+  "links": {
+    "github": "Power-Trade",
+    "coingecko": "powertrade-fuel",
+    "twitter": "PowerTradeHQ",
+    "telegram": "power_tradeann"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "WePower",
+  "symbol": "WPR",
+  "web": "http://wepower.network",
+  "explorer": "https://etherscan.io/token/0x4CF488387F035FF08c371515562CBa712f9015d4",
+  "links": {
+    "github": "WePowerNetwork",
+    "coingecko": "wepower",
+    "twitter": "WePowerN",
+    "facebook": "WePowerNetwork",
+    "telegram": "WePowerNetwork"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Marginswap",
+  "symbol": "MFI",
+  "web": "https://marginswap.finance",
+  "explorer": "https://etherscan.io/token/0xaa4e3edb11afa93c41db59842b29de64b72e355b",
+  "links": {
+    "github": "marginswap",
+    "coingecko": "marginswap",
+    "twitter": "marginswap",
+    "telegram": "marginswap"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

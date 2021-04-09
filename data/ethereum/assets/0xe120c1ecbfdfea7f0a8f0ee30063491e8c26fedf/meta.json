@@ -1,0 +1,16 @@
+{
+  "name": "Suretly",
+  "symbol": "SUR",
+  "web": "https://www.suretly.com",
+  "explorer": "https://etherscan.io/token/0xe120c1ecbfdfea7f0a8f0ee30063491e8c26fedf",
+  "links": {
+    "github": "SURETLY",
+    "coingecko": "suretly",
+    "twitter": "suretly_com",
+    "facebook": "suretly"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Token CashPay",
+  "symbol": "TCP",
+  "web": "https://tcpcoins.net",
+  "explorer": "https://etherscan.io/token/0x331A4589516EAE384eA5F557853AF6aF73B9534e",
+  "links": {
+    "coingecko": "token-cashpay",
+    "twitter": "CashPay13",
+    "facebook": "TCashPay",
+    "telegram": "fatygroup"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

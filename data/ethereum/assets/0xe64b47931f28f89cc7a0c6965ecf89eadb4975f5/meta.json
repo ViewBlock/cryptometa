@@ -1,0 +1,16 @@
+{
+  "name": "Ludos Protocol",
+  "symbol": "LUD",
+  "web": "http://ludos.one",
+  "explorer": "https://etherscan.io/token/0xe64b47931f28f89cc7a0c6965ecf89eadb4975f5",
+  "links": {
+    "coingecko": "ludos",
+    "twitter": "LudosProtocol",
+    "facebook": "project.ludos",
+    "telegram": "LudosProtocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

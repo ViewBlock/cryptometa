@@ -1,0 +1,13 @@
+{
+  "name": "IDK",
+  "symbol": "IDK",
+  "web": "http://idkfoundation.org",
+  "explorer": "https://etherscan.io/token/0x61fd1c62551850d0c04c76fce614cbced0094498",
+  "links": {
+    "coingecko": "idk"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

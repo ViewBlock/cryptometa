@@ -1,0 +1,17 @@
+{
+  "name": "Ethereum Classic",
+  "symbol": "ETC",
+  "web": "http://ethereumclassic.org",
+  "explorer": "https://blockscout.com/etc/mainnet",
+  "links": {
+    "github": "ethereumclassic",
+    "coingecko": "ethereum-classic",
+    "twitter": "eth_classic",
+    "facebook": "ethereumclassic",
+    "telegram": "ethclassic",
+    "reddit": "r/EthereumClassic"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

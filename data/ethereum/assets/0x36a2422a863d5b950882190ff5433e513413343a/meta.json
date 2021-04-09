@@ -1,0 +1,14 @@
+{
+  "name": "sBCH",
+  "symbol": "SBCH",
+  "web": "https://www.synthetix.io/tokens",
+  "explorer": "https://etherscan.io/token/0x36a2422a863D5B950882190Ff5433E513413343a",
+  "links": {
+    "coingecko": "sbch",
+    "twitter": "synthetix_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

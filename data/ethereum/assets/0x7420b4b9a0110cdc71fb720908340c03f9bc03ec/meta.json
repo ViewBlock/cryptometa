@@ -1,0 +1,14 @@
+{
+  "name": "JasmyCoin",
+  "symbol": "JASMY",
+  "web": "https://www.jasmy.co.jp/en.html",
+  "explorer": "https://etherscan.io/token/0x7420B4b9a0110cdC71fB720908340C03F9Bc03EC",
+  "links": {
+    "github": "TokyoToken",
+    "coingecko": "jasmycoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

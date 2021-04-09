@@ -1,0 +1,16 @@
+{
+  "name": "Gasgains",
+  "symbol": "GASG",
+  "web": "https://www.gasgains.com",
+  "explorer": "https://etherscan.io/token/0xc58467b855401ef3ff8fda9216f236e29f0d6277",
+  "links": {
+    "coingecko": "gasgains",
+    "twitter": "gasgains",
+    "telegram": "gasgains"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

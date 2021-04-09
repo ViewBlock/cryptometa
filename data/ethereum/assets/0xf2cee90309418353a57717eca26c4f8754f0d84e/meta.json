@@ -1,0 +1,15 @@
+{
+  "name": "BitcoinBrand",
+  "symbol": "BTCB",
+  "web": "http://thebitcoinbrand.com",
+  "explorer": "https://etherscan.io/token/0xf2cee90309418353a57717ECa26C4f8754F0d84e",
+  "links": {
+    "coingecko": "bitcoinbrand",
+    "twitter": "bitcoin_brand",
+    "telegram": "bitcoinbrandofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

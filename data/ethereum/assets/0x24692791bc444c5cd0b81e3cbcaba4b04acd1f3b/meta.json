@@ -1,0 +1,16 @@
+{
+  "name": "Unikoin Gold",
+  "symbol": "UKG",
+  "web": "https://unikoingold.com",
+  "explorer": "https://etherscan.io/token/0x24692791bc444c5cd0b81e3cbcaba4b04acd1f3b",
+  "links": {
+    "github": "unikoingold",
+    "coingecko": "unikoin-gold",
+    "twitter": "unikoingold",
+    "reddit": "r/unikoingold"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

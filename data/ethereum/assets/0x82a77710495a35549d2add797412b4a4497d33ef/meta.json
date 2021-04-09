@@ -1,0 +1,13 @@
+{
+  "name": "Dogz",
+  "symbol": "DOGZ",
+  "web": "http://www.dogz.vip",
+  "explorer": "https://etherscan.io/token/0x82a77710495a35549d2add797412b4a4497d33ef",
+  "links": {
+    "coingecko": "dogz"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

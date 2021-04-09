@@ -1,0 +1,18 @@
+{
+  "name": "Lamden",
+  "symbol": "TAU",
+  "web": "https://lamden.io",
+  "explorer": "https://etherscan.io/token/0xc27a2f05fa577a83ba0fdb4c38443c0718356501",
+  "links": {
+    "github": "Lamden",
+    "coingecko": "lamden",
+    "twitter": "LamdenTau",
+    "facebook": "LamdenTau",
+    "telegram": "lamdenchat",
+    "reddit": "r/lamden"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

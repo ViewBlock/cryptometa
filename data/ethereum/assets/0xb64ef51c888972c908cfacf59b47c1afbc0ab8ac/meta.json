@@ -1,0 +1,17 @@
+{
+  "name": "Storj",
+  "symbol": "STORJ",
+  "web": "https://storj.io",
+  "explorer": "https://etherscan.io/token/0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac",
+  "links": {
+    "github": "storj",
+    "coingecko": "storj",
+    "twitter": "storjproject",
+    "telegram": "storjproject",
+    "reddit": "r/storj"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "BTU Protocol",
+  "symbol": "BTU",
+  "web": "https://www.btu-protocol.com",
+  "explorer": "https://etherscan.io/token/0xb683d83a532e2cb7dfa5275eed3698436371cc9f",
+  "links": {
+    "github": "btuprotocol",
+    "coingecko": "btu-protocol",
+    "twitter": "BtuProtocol",
+    "facebook": "btuprotocol",
+    "telegram": "btucommunity",
+    "reddit": "r/btuprotocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

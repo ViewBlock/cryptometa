@@ -1,0 +1,17 @@
+{
+  "name": "Divert Finance",
+  "symbol": "DEVE",
+  "web": "https://divertfinance.com",
+  "explorer": "https://etherscan.io/token/0xfdb615d6a15f929ddabc6b83a4f1cf9d361b064e",
+  "links": {
+    "github": "divertfinance",
+    "coingecko": "divert-finance",
+    "twitter": "divertfinance",
+    "facebook": "DivertFinance",
+    "telegram": "DivertCommunity"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

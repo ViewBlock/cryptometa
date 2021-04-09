@@ -1,0 +1,16 @@
+{
+  "name": "Mogu",
+  "symbol": "MOGX",
+  "web": "https://mogutech.io",
+  "explorer": "https://etherscan.io/token/0xbdec45952b5e234eddc2981b43eed360826d5087",
+  "links": {
+    "coingecko": "mogu",
+    "twitter": "mogutech",
+    "facebook": "MoguTechnologies",
+    "telegram": "MoguTech"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

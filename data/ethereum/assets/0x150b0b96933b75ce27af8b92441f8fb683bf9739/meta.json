@@ -1,0 +1,17 @@
+{
+  "name": "Dragonereum GOLD",
+  "symbol": "GOLD",
+  "web": "http://dragonereum.io",
+  "explorer": "https://etherscan.io/token/0x150b0b96933b75ce27af8b92441f8fb683bf9739",
+  "links": {
+    "github": "dragonereum",
+    "coingecko": "dragonereum-gold",
+    "twitter": "dragonereum",
+    "telegram": "dragonereum",
+    "reddit": "r/Dragonereum"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

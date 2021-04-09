@@ -1,0 +1,16 @@
+{
+  "name": "CryptoSoul",
+  "symbol": "SOUL",
+  "web": "https://cryptosoul.io",
+  "explorer": "https://etherscan.io/token/0xbb1f24c0c1554b9990222f036b0aad6ee4caec29",
+  "links": {
+    "coingecko": "cryptosoul",
+    "twitter": "CryptoSoul_",
+    "telegram": "CryptoSoulENG",
+    "reddit": "r/CryptoSoul"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "UnoSwap",
+  "symbol": "UNOS",
+  "web": "https://unos.finance",
+  "explorer": "https://etherscan.io/token/0xd18A8abED9274eDBEace4B12D86A8633283435Da",
+  "links": {
+    "github": "unosadmins",
+    "coingecko": "unoswap",
+    "twitter": "UnosFinance",
+    "telegram": "unoswapfin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

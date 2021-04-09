@@ -1,0 +1,16 @@
+{
+  "name": "Legal Block",
+  "symbol": "LBK",
+  "web": "https://legal-block.com",
+  "explorer": "https://etherscan.io/token/0xd9af2d11d788da0097076f4eb21bd1c5533743d9",
+  "links": {
+    "coingecko": "legal-block",
+    "twitter": "LEGALBLOCK_main",
+    "facebook": "LegalblockOfficial",
+    "telegram": "legalblock_announcement"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

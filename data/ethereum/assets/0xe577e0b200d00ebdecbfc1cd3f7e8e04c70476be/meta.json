@@ -1,0 +1,17 @@
+{
+  "name": "XEuro",
+  "symbol": "XEURO",
+  "web": "https://xeuro.online",
+  "explorer": "https://etherscan.io/token/0xe577e0B200d00eBdecbFc1cd3F7E8E04C70476BE",
+  "links": {
+    "github": "xeuro",
+    "coingecko": "xeuro",
+    "twitter": "xEuroOnline",
+    "facebook": "xEuro",
+    "telegram": "xeuro"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

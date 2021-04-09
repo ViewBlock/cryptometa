@@ -1,0 +1,14 @@
+{
+  "name": "Yfi.mobi",
+  "symbol": "YFIM",
+  "web": "https://app.yfi.mobi/#",
+  "explorer": "https://etherscan.io/token/0x2e2f3246b6c65ccc4239c9ee556ec143a7e5de2c",
+  "links": {
+    "coingecko": "yfimobi",
+    "twitter": "yfimobi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

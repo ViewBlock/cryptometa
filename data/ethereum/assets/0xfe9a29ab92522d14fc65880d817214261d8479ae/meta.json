@@ -1,0 +1,16 @@
+{
+  "name": "Snowswap",
+  "symbol": "SNOW",
+  "web": "https://snowswap.org",
+  "explorer": "https://etherscan.io/token/0xfe9a29ab92522d14fc65880d817214261d8479ae",
+  "links": {
+    "coingecko": "snowswap",
+    "twitter": "snow_swap",
+    "telegram": "Snow_Swap",
+    "reddit": "r/Snowswap"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

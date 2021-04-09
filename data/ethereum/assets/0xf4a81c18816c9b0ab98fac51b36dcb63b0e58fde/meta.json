@@ -1,0 +1,15 @@
+{
+  "name": "YieldWars",
+  "symbol": "WAR",
+  "web": "https://yieldwars.com",
+  "explorer": "https://etherscan.io/token/0xf4a81c18816c9b0ab98fac51b36dcb63b0e58fde",
+  "links": {
+    "coingecko": "yieldwars-com",
+    "twitter": "yieldwars",
+    "telegram": "yieldwarsofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

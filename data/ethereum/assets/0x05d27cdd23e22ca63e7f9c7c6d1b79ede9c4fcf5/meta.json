@@ -1,0 +1,16 @@
+{
+  "name": "Yearn Finance Passive Income",
+  "symbol": "YFPI",
+  "web": "https://yfpi.finance",
+  "explorer": "https://etherscan.io/token/0x05D27CdD23E22ca63e7f9c7C6D1B79ede9C4fCF5",
+  "links": {
+    "github": "yfpi",
+    "coingecko": "yearn-finance-passive-income",
+    "twitter": "YFPIncome",
+    "telegram": "YFPI_Discuss"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

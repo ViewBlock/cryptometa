@@ -1,0 +1,16 @@
+{
+  "name": "Adventure Token",
+  "symbol": "TWA",
+  "web": "https://www.adventuretoken.com",
+  "explorer": "https://etherscan.io/token/0xa2ef2757d2ed560c9e3758d1946d7bcccbd5a7fe",
+  "links": {
+    "github": "AdrianWoodward",
+    "coingecko": "adventure-token",
+    "twitter": "Adventure_Token",
+    "telegram": "AdventureToken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

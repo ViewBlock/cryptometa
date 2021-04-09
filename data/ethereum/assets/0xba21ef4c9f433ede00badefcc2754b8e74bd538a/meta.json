@@ -1,0 +1,16 @@
+{
+  "name": "Swapfolio",
+  "symbol": "SWFL",
+  "web": "https://swapfol.io",
+  "explorer": "https://etherscan.io/token/0xba21ef4c9f433ede00badefcc2754b8e74bd538a",
+  "links": {
+    "coingecko": "swapfolio",
+    "twitter": "swapfolio_app",
+    "telegram": "swapfolio_app",
+    "reddit": "r/swapfolio_app"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

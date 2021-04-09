@@ -1,0 +1,17 @@
+{
+  "name": "TBCC Wallet",
+  "symbol": "TBCC",
+  "web": "https://tbccwallet.com",
+  "explorer": "https://etherscan.io/token/0x2Ecb95eB932DfBBb71545f4D23CA303700aC855F",
+  "links": {
+    "github": "tbccwallet",
+    "coingecko": "tbcc-wallet",
+    "twitter": "LabsTbcc",
+    "facebook": "TBCC-Labs-112734580490523",
+    "telegram": "tbcc_china"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

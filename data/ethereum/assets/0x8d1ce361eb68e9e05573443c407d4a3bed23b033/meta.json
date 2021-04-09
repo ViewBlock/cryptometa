@@ -1,0 +1,17 @@
+{
+  "name": "PieDAO DEFI++",
+  "symbol": "DEFI++",
+  "web": "https://pools.piedao.org/#/pie/0x8d1ce361eb68e9e05573443c407d4a3bed23b033",
+  "explorer": "https://etherscan.io/token/0x8d1ce361eb68e9e05573443c407d4a3bed23b033",
+  "links": {
+    "github": "pie-dao",
+    "coingecko": "piedao-defi",
+    "twitter": "piedao_defi",
+    "telegram": "piedao",
+    "reddit": "r/PieDAO"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

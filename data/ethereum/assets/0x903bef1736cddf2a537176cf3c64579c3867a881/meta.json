@@ -1,0 +1,15 @@
+{
+  "name": "ICHI",
+  "symbol": "ICHI",
+  "web": "https://www.ichi.org",
+  "explorer": "https://etherscan.io/token/0x903bef1736cddf2a537176cf3c64579c3867a881",
+  "links": {
+    "coingecko": "ichi-farm",
+    "twitter": "ichifarm",
+    "telegram": "ichifarm"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

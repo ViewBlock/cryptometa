@@ -1,0 +1,16 @@
+{
+  "name": "Definex",
+  "symbol": "DSWAP",
+  "web": "https://dswap.mydefinex.com",
+  "explorer": "https://etherscan.io/token/0x3f344c88d823f180fb8b44a3c7cfc4edc92dfa35",
+  "links": {
+    "coingecko": "definex",
+    "twitter": "MyDefinex",
+    "facebook": "MyDefinex",
+    "telegram": "mydefinexgroup"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

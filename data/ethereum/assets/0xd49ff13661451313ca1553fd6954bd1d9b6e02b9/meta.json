@@ -1,0 +1,17 @@
+{
+  "name": "Electrify.Asia",
+  "symbol": "ELEC",
+  "web": "https://electrify.asia",
+  "explorer": "https://etherscan.io/token/0xd49ff13661451313ca1553fd6954bd1d9b6e02b9",
+  "links": {
+    "github": "electrifyasia",
+    "coingecko": "electrify-asia",
+    "twitter": "electrifyasia",
+    "facebook": "electrify.asia",
+    "telegram": "electrifyasia"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

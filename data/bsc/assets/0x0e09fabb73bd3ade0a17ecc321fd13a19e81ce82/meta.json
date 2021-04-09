@@ -1,0 +1,12 @@
+{
+  "name": "PancakeSwap",
+  "symbol": "CAKE",
+  "web": "https://pancakeswap.finance",
+  "explorer": "https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+  "links": {
+    "github": "pancakeswap",
+    "coingecko": "pancakeswap-token",
+    "twitter": "pancakeswap",
+    "telegram": "PancakeSwap"
+  }
+}

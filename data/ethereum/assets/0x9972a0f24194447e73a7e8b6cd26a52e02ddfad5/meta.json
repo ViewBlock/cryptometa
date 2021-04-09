@@ -1,0 +1,15 @@
+{
+  "name": "Thorecash (ERC-20)",
+  "symbol": "TCH",
+  "web": "https://www.thorecash.com",
+  "explorer": "https://etherscan.io/token/0x9972a0f24194447e73a7e8b6cd26a52e02ddfad5",
+  "links": {
+    "coingecko": "thorecash",
+    "twitter": "Thr_Official",
+    "telegram": "ThoreGroup"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Soar",
+  "symbol": "SOAR",
+  "web": "https://soar.fi",
+  "explorer": "https://etherscan.io/token/0xbae5f2d8a1299e5c4963eaff3312399253f27ccb",
+  "links": {
+    "coingecko": "soar-2",
+    "twitter": "Soar_Fi",
+    "telegram": "SoarFi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

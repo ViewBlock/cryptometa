@@ -1,0 +1,15 @@
+{
+  "name": "PETROLEUM",
+  "symbol": "OIL",
+  "web": "https://petroleum0.webnode.com",
+  "explorer": "https://etherscan.io/token/0xae6eb6f6c0a1694968b9f78a4316319c27b0964b",
+  "links": {
+    "coingecko": "petroleum",
+    "twitter": "PetroleumFunda1",
+    "facebook": "petroleum.oil.3990"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

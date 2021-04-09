@@ -1,0 +1,17 @@
+{
+  "name": "Elxis",
+  "symbol": "LEX",
+  "web": "https://elxisenergy.com",
+  "explorer": "https://tronscan.org/#/token20/TPpN9uHL3ozazSeMjFMELPPkdcBJQ3xTRf",
+  "links": {
+    "github": "Elxistoken",
+    "coingecko": "elxis",
+    "twitter": "elxisenergy",
+    "facebook": "ElxisEnergy",
+    "telegram": "Elxisenergy"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

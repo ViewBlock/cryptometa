@@ -1,0 +1,16 @@
+{
+  "name": "Big Data Protocol",
+  "symbol": "BDP",
+  "web": "https://bigdataprotocol.com",
+  "explorer": "https://etherscan.io/token/0xf3dcbc6D72a4E1892f7917b7C43b74131Df8480e",
+  "links": {
+    "github": "bigdataprotocol",
+    "coingecko": "big-data-protocol",
+    "twitter": "bigdataprotocol",
+    "telegram": "bigdataprotocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

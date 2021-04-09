@@ -1,0 +1,16 @@
+{
+  "name": "LinkBased",
+  "symbol": "LBD",
+  "web": "https://linkbased.org",
+  "explorer": "https://etherscan.io/token/0xb15ae165000c8d7b69d2a82e425e110668c73ad5",
+  "links": {
+    "github": "LinkBased",
+    "coingecko": "linkbased",
+    "twitter": "LinkBasedApp",
+    "telegram": "LinkBasedChat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Sether",
+  "symbol": "SETH",
+  "web": "https://www.sether.io",
+  "explorer": "https://etherscan.io/token/0x78b039921e84e726eb72e7b1212bb35504c645ca",
+  "links": {
+    "github": "mware-solutions",
+    "coingecko": "sether",
+    "twitter": "setherplatform",
+    "facebook": "setherplatform"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

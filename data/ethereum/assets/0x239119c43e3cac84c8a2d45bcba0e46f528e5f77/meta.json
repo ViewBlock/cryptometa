@@ -1,0 +1,15 @@
+{
+  "name": "Dripper",
+  "symbol": "DRIP",
+  "web": "https://dripper.finance",
+  "explorer": "https://etherscan.io/token/0x239119c43e3cac84c8a2d45bcba0e46f528e5f77",
+  "links": {
+    "coingecko": "dripper-finance",
+    "twitter": "dripperfinance",
+    "telegram": "drippergang"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

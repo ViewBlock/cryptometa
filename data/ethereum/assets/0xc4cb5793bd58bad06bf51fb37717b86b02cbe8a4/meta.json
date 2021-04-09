@@ -1,0 +1,16 @@
+{
+  "name": "PROXI DeFi",
+  "symbol": "CREDIT",
+  "web": "https://proxidefi.com",
+  "explorer": "https://etherscan.io/token/0xc4cb5793bd58bad06bf51fb37717b86b02cbe8a4",
+  "links": {
+    "github": "ProxideFi",
+    "coingecko": "credit-2",
+    "twitter": "_ProxiDeFi",
+    "telegram": "proxi_defi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

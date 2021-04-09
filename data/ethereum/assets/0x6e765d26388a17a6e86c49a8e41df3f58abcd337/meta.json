@@ -1,0 +1,16 @@
+{
+  "name": "Kangal",
+  "symbol": "KANGAL",
+  "web": "https://www.kangaltoken.com",
+  "explorer": "https://etherscan.io/token/0x6e765d26388a17a6e86c49a8e41df3f58abcd337",
+  "links": {
+    "coingecko": "kangal",
+    "twitter": "kangaltoken",
+    "telegram": "kangaltoken",
+    "reddit": "r/kangaltoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

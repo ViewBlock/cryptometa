@@ -1,0 +1,15 @@
+{
+  "name": "BCdiploma-EvidenZ",
+  "symbol": "BCDT",
+  "web": "https://www.evidenz.io",
+  "explorer": "https://etherscan.io/token/0xacfa209fb73bf3dd5bbfb1101b9bc999c49062a5",
+  "links": {
+    "coingecko": "bcdiploma",
+    "twitter": "MyEvidenZ ",
+    "telegram": "BCDiploma"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

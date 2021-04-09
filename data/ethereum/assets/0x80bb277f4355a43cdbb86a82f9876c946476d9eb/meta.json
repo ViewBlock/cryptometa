@@ -1,0 +1,15 @@
+{
+  "name": "DogDeFiCoin",
+  "symbol": "DOGDEFI",
+  "web": "https://dogdeficoin.com",
+  "explorer": "https://etherscan.io/token/0x80bb277f4355A43CDbB86a82F9876C946476d9Eb",
+  "links": {
+    "coingecko": "dogdeficoin",
+    "twitter": "DogDeFiCoin",
+    "telegram": "DogDefiCoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

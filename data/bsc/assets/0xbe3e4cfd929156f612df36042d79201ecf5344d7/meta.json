@@ -1,0 +1,11 @@
+{
+  "name": "Weather Finance",
+  "symbol": "WEATHER",
+  "web": "https://weatherfinance.org",
+  "explorer": "https://bscscan.com/token/0xbe3e4cfd929156f612df36042d79201ecf5344d7",
+  "links": {
+    "coingecko": "weather-finance",
+    "twitter": "WeatherfinanceO",
+    "telegram": "Weatherfinance_org"
+  }
+}

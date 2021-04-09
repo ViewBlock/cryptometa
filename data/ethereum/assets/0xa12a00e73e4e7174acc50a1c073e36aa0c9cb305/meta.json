@@ -1,0 +1,16 @@
+{
+  "name": "Swaap Stablecoin",
+  "symbol": "SAP",
+  "web": "https://www.swaap.org",
+  "explorer": "https://etherscan.io/token/0xa12a00e73e4e7174acc50a1c073e36aa0c9cb305",
+  "links": {
+    "github": "SwaapCrypto",
+    "coingecko": "swaap-stablecoin",
+    "twitter": "SwaapCrypto",
+    "telegram": "swaapcrypto"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

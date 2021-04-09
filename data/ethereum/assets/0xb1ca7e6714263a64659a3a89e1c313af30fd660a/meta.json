@@ -1,0 +1,15 @@
+{
+  "name": "ETH Moonshot X Yield Set",
+  "symbol": "ETHMOONX",
+  "web": "https://www.tokensets.com/set/ethmoonx-1",
+  "explorer": "https://etherscan.io/token/0xb1ca7e6714263a64659a3a89e1c313af30fd660a",
+  "links": {
+    "github": "SetProtocol",
+    "coingecko": "eth-moonshot-x-yield-set",
+    "twitter": "SetProtocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

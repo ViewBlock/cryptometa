@@ -1,0 +1,16 @@
+{
+  "name": "Rocket Pool",
+  "symbol": "RPL",
+  "web": "https://www.rocketpool.net",
+  "explorer": "https://etherscan.io/token/0xb4efd85c19999d84251304bda99e90b92300bd93",
+  "links": {
+    "github": "rocket-pool",
+    "coingecko": "rocket-pool",
+    "twitter": "Rocket_Pool",
+    "reddit": "r/rocketpool"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

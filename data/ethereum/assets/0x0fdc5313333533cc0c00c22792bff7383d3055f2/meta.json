@@ -1,0 +1,16 @@
+{
+  "name": "YFPRO Finance",
+  "symbol": "YFPRO",
+  "web": "https://yfpro.finance",
+  "explorer": "https://etherscan.io/token/0x0fdc5313333533cc0c00c22792bff7383d3055f2",
+  "links": {
+    "github": "yfprofinance",
+    "coingecko": "yfpro-finance",
+    "twitter": "yield_farm",
+    "telegram": "yield_farm"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

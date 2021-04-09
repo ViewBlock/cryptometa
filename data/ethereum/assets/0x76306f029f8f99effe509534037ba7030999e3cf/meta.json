@@ -1,0 +1,15 @@
+{
+  "name": "Acreage Coin",
+  "symbol": "ACR",
+  "web": "https://acreagecoin.com",
+  "explorer": "https://etherscan.io/token/0x76306f029f8f99effe509534037ba7030999e3cf",
+  "links": {
+    "github": "AcreageCoin",
+    "coingecko": "acreage-coin",
+    "twitter": "CoinAcreage"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Cudos",
+  "symbol": "CUDOS",
+  "web": "https://www.cudos.org",
+  "explorer": "https://etherscan.io/token/0x817bbDbC3e8A1204f3691d14bB44992841e3dB35",
+  "links": {
+    "coingecko": "cudos",
+    "twitter": "CUDOS_",
+    "telegram": "cudostelegram"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

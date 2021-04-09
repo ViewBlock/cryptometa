@@ -1,0 +1,14 @@
+{
+  "name": "iDeFi",
+  "symbol": "IDEFI",
+  "web": "https://www.synthetix.io/tokens",
+  "explorer": "https://etherscan.io/token/0x14d10003807AC60d07BB0ba82cAeaC8d2087c157",
+  "links": {
+    "coingecko": "idefi",
+    "twitter": "synthetix_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

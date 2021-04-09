@@ -1,0 +1,15 @@
+{
+  "name": "Vidya",
+  "symbol": "VIDYA",
+  "web": "https://team3d.io",
+  "explorer": "https://etherscan.io/token/0x3d3d35bb9bec23b06ca00fe472b50e7a4c692c30",
+  "links": {
+    "coingecko": "vidya",
+    "twitter": "team3d_official",
+    "telegram": "Team3D_Official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

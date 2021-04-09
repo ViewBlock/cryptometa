@@ -1,0 +1,16 @@
+{
+  "name": "King Of Defi",
+  "symbol": "KODX",
+  "web": "https://kingofdefi.org",
+  "explorer": "https://tronscan.org/#/token20/TTUwzoZAK6rpDjpSh8B2XFTnxGfbMLHJaq",
+  "links": {
+    "github": "kodxofficial",
+    "coingecko": "king-of-defi",
+    "twitter": "kodxofficial",
+    "telegram": "kodxchat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

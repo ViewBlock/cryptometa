@@ -1,0 +1,18 @@
+{
+  "name": "ShareToken",
+  "symbol": "SHR",
+  "web": "https://sharering.network",
+  "explorer": "https://etherscan.io/token/0xd98f75b1a3261dab9eed4956c93f33749027a964",
+  "links": {
+    "github": "ShareRing",
+    "coingecko": "sharering",
+    "twitter": "ShareRingGlobal ",
+    "facebook": "ShareRing.Network",
+    "telegram": "ShareRing",
+    "reddit": "r/ShareRing"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

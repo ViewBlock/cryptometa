@@ -1,0 +1,18 @@
+{
+  "name": "Uniris",
+  "symbol": "UCO",
+  "web": "https://uniris.io",
+  "explorer": "https://etherscan.io/token/0x8a3d77e9d6968b780564936d15B09805827C21fa",
+  "links": {
+    "github": "UNIRIS",
+    "coingecko": "uniris",
+    "twitter": "unirislife",
+    "facebook": "uniris.io",
+    "telegram": "uniris",
+    "reddit": "r/uniris"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

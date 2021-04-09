@@ -1,0 +1,14 @@
+{
+  "name": "sBNB",
+  "symbol": "SBNB",
+  "web": "https://etherscan.io/token/0x013ae307648f529aa72c5767a334ddd37aab43c3",
+  "explorer": "https://etherscan.io/token/0x617aeCB6137B5108D1E7D4918e3725C8cEbdB848",
+  "links": {
+    "coingecko": "sbnb",
+    "twitter": "synthetix_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

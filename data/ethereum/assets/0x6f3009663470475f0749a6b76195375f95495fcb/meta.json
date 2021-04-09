@@ -1,0 +1,16 @@
+{
+  "name": "Hatch DAO",
+  "symbol": "HATCH",
+  "web": "https://hatchdao.finance",
+  "explorer": "https://etherscan.io/token/0x6f3009663470475f0749a6b76195375f95495fcb",
+  "links": {
+    "github": "HatchDAO",
+    "coingecko": "hatch-dao",
+    "twitter": "HatchDAO",
+    "telegram": "hatchdao"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

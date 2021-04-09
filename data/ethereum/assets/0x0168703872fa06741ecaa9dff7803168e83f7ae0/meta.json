@@ -1,0 +1,16 @@
+{
+  "name": "Mirocana",
+  "symbol": "MIRO",
+  "web": "https://mirocana.com",
+  "explorer": "https://etherscan.io/token/0x0168703872fa06741ecaa9dff7803168e83f7ae0",
+  "links": {
+    "coingecko": "mirocana",
+    "twitter": "mirocana",
+    "facebook": "mirocanaAI",
+    "telegram": "mirocana_system"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

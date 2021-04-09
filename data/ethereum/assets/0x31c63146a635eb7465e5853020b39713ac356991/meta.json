@@ -1,0 +1,16 @@
+{
+  "name": "Mirrored United States Oil Fund",
+  "symbol": "MUSO",
+  "web": "https://mirror.finance",
+  "explorer": "https://etherscan.io/token/0x31c63146a635eb7465e5853020b39713ac356991",
+  "links": {
+    "coingecko": "mirrored-united-states-oil-fund",
+    "twitter": "mirror_protocol",
+    "telegram": "mirror_protocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

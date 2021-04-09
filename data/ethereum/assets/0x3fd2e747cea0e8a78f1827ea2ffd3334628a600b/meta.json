@@ -1,0 +1,17 @@
+{
+  "name": "Banklife",
+  "symbol": "LIB",
+  "web": "https://banklife.io",
+  "explorer": "https://etherscan.io/token/0x3fd2e747cea0e8a78f1827ea2ffd3334628a600b",
+  "links": {
+    "github": "banklife-io",
+    "coingecko": "banklife",
+    "twitter": "banklife_io",
+    "facebook": "Banklife.LIB",
+    "telegram": "banklife_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Joy of All Culture",
+  "symbol": "JAC",
+  "web": "https://www.idcmtaiwan.io",
+  "explorer": "https://etherscan.io/token/0x852791963379b994e4F28FFD4196FA798002c873",
+  "links": {
+    "coingecko": "joy-of-all-culture"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

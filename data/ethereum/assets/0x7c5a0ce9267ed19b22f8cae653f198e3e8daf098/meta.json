@@ -1,0 +1,15 @@
+{
+  "name": "Santiment Network Token",
+  "symbol": "SAN",
+  "web": "https://santiment.net",
+  "explorer": "https://etherscan.io/token/0x7c5a0ce9267ed19b22f8cae653f198e3e8daf098",
+  "links": {
+    "github": "santiment",
+    "coingecko": "santiment-network-token",
+    "twitter": "santimentfeed"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "DUST Token",
+  "symbol": "DUST",
+  "web": "https://dust-token.com",
+  "explorer": "https://etherscan.io/token/0xbca3c97837a39099ec3082df97e28ce91be14472",
+  "links": {
+    "github": "icinsight",
+    "coingecko": "dust-token",
+    "twitter": "DustToken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

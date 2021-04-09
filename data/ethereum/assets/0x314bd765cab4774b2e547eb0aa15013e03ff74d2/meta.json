@@ -1,0 +1,16 @@
+{
+  "name": "MONEY PARTY",
+  "symbol": "PARTY",
+  "web": "https://moneyparty.vip",
+  "explorer": "https://etherscan.io/token/0x314bd765cab4774b2e547eb0aa15013e03ff74d2",
+  "links": {
+    "coingecko": "money-party",
+    "twitter": "moneypartyvip",
+    "telegram": "moneypartywaitlist",
+    "reddit": "r/moneyparty"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

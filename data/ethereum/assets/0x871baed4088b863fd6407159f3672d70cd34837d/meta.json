@@ -1,0 +1,13 @@
+{
+  "name": "3X Long Ethereum Token",
+  "symbol": "ETHBULL",
+  "web": "https://ftx.com/tokens/ETHBULL",
+  "explorer": "https://etherscan.io/token/0x871baed4088b863fd6407159f3672d70cd34837d",
+  "links": {
+    "coingecko": "3x-long-ethereum-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

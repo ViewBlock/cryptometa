@@ -1,0 +1,16 @@
+{
+  "name": "IOTEdge Network",
+  "symbol": "IOTE",
+  "web": "https://iotedge.co",
+  "explorer": "https://etherscan.io/token/0xad7195e2f5e4f104cc2ed31cb719efd95b9eb490",
+  "links": {
+    "coingecko": "iotedge-network",
+    "twitter": "iotedgechain",
+    "facebook": "iotedge",
+    "telegram": "iotedge"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

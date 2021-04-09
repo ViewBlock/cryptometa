@@ -1,0 +1,17 @@
+{
+  "name": "Birdchain",
+  "symbol": "BIRD",
+  "web": "https://www.birdchain.io",
+  "explorer": "https://etherscan.io/token/0x026e62dded1a6ad07d93d39f96b9eabd59665e0d",
+  "links": {
+    "github": "Birdchain",
+    "coingecko": "birdchain",
+    "twitter": "birdchain_io",
+    "facebook": "birdchain.io",
+    "telegram": "birdchainchat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

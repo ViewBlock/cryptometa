@@ -1,0 +1,17 @@
+{
+  "name": "Edgeless",
+  "symbol": "EDG",
+  "web": "https://edgeless.io",
+  "explorer": "https://etherscan.io/token/0x08711d3b02c8758f2fb3ab4e80228418a7f8e39c",
+  "links": {
+    "github": "EdgelessCasino",
+    "coingecko": "edgeless",
+    "twitter": "edgelessproject",
+    "facebook": "EdgelessCasino",
+    "reddit": "r/Edgeless"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "JPYQ Stablecoin by Q DAO v1.0",
+  "symbol": "JPYQ",
+  "web": "https://qdao.io",
+  "explorer": "https://etherscan.io/token/0x558a069a3a1a1e72398607b9e3577fce1c67ea63",
+  "links": {
+    "github": "Platinumengineering",
+    "coingecko": "jpyq-stablecoin-by-q-dao-v1",
+    "twitter": "platinumqdao",
+    "facebook": "FundPlatinum",
+    "telegram": "PlatinumQeng"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

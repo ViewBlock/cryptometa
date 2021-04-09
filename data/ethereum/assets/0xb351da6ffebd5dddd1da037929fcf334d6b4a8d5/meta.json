@@ -1,0 +1,16 @@
+{
+  "name": "Flit Token",
+  "symbol": "FLT",
+  "web": "https://flittoken.com",
+  "explorer": "https://etherscan.io/token/0xb351da6ffebd5dddd1da037929fcf334d6b4a8d5",
+  "links": {
+    "github": "Flittoken",
+    "coingecko": "flit-token",
+    "twitter": "Flittoken",
+    "telegram": "flittoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

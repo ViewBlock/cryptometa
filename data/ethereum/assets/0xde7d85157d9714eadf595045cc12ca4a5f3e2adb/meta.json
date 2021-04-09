@@ -1,0 +1,15 @@
+{
+  "name": "STP Network",
+  "symbol": "STPT",
+  "web": "https://stp.network",
+  "explorer": "https://etherscan.io/token/0xde7d85157d9714eadf595045cc12ca4a5f3e2adb",
+  "links": {
+    "coingecko": "stp-network",
+    "twitter": "STP_Networks",
+    "telegram": "STPofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Venus SXP",
+  "symbol": "VSXP",
+  "web": "https://venus.io",
+  "explorer": "https://bscscan.com/token/0x2ff3d0f6990a40261c66e1ff2017acbc282eb6d0",
+  "links": {
+    "coingecko": "venus-sxp",
+    "twitter": "VenusProtocol",
+    "telegram": "VenusProtocol"
+  }
+}

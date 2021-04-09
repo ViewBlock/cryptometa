@@ -1,0 +1,17 @@
+{
+  "name": "CryptalDash",
+  "symbol": "CRD",
+  "web": "www.crdtoken.org",
+  "explorer": "https://etherscan.io/token/0xcaaa93712bdac37f736c323c93d4d5fdefcc31cc",
+  "links": {
+    "coingecko": "cryptaldash",
+    "twitter": "cryptaldash",
+    "facebook": "cryptaldash",
+    "telegram": "CryptalDash",
+    "reddit": "r/CryptalDashCommunity"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

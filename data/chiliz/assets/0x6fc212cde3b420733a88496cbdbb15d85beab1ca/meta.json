@@ -1,0 +1,11 @@
+{
+  "name": "Paris Saint-Germain Fan Token",
+  "symbol": "PSG",
+  "web": "https://www.psg.fr",
+  "explorer": "https://explorer.chiliz.com/tokens/0x6fc212cde3b420733a88496cbdbb15d85beab1ca/token-transfers",
+  "links": {
+    "coingecko": "paris-saint-germain-fan-token",
+    "twitter": "PSG_inside",
+    "facebook": "PSG"
+  }
+}

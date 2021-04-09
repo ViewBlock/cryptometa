@@ -1,0 +1,17 @@
+{
+  "name": "Algorand",
+  "symbol": "ALGO",
+  "web": "https://algorand.foundation",
+  "explorer": "https://algoexplorer.io",
+  "links": {
+    "github": "algorand",
+    "coingecko": "algorand",
+    "twitter": "algorand",
+    "telegram": "algorand",
+    "reddit": "r/algorand"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true
+  }
+}

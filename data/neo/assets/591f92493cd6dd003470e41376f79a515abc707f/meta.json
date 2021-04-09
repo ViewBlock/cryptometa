@@ -1,0 +1,16 @@
+{
+  "name": "Guard",
+  "symbol": "GUARD",
+  "web": "http://guardtoken.net",
+  "explorer": "https://neotracker.io/asset/591f92493cd6dd003470e41376f79a515abc707f",
+  "links": {
+    "coingecko": "guardium",
+    "twitter": "guardiancircle",
+    "telegram": "guardium",
+    "reddit": "r/Guardium"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

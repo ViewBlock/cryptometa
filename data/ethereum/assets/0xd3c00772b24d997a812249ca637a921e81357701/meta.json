@@ -1,0 +1,15 @@
+{
+  "name": "Wild Crypto",
+  "symbol": "WILD",
+  "web": "https://wildcrypto.com",
+  "explorer": "https://etherscan.io/token/0xd3c00772b24d997a812249ca637a921e81357701",
+  "links": {
+    "github": "WildCryptoICO",
+    "coingecko": "wild-crypto",
+    "twitter": "WildCrypto"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

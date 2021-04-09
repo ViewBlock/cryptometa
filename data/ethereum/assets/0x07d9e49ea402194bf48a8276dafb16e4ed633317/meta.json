@@ -1,0 +1,14 @@
+{
+  "name": "Dalecoin",
+  "symbol": "DALC",
+  "web": "http://dalecoin.org",
+  "explorer": "https://etherscan.io/token/0x07d9e49ea402194bf48a8276dafb16e4ed633317",
+  "links": {
+    "coingecko": "dalecoin",
+    "twitter": "DalecoinN"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

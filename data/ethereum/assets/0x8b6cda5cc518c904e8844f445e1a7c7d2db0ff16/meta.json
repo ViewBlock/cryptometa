@@ -1,0 +1,17 @@
+{
+  "name": "SF Capital",
+  "symbol": "SFCP",
+  "web": "https://www.sfcapital.io",
+  "explorer": "https://etherscan.io/token/0x8b6cda5cc518c904e8844f445e1a7c7d2db0ff16",
+  "links": {
+    "github": "sfcapitalteamwork",
+    "coingecko": "sf-capital",
+    "twitter": "SfcpCoin",
+    "facebook": "SFCPCOIN",
+    "telegram": "sfcapital"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "EventChain",
+  "symbol": "EVC",
+  "web": "https://eventchain.io",
+  "explorer": "https://etherscan.io/token/0xb62d18dea74045e822352ce4b3ee77319dc5ff2f",
+  "links": {
+    "coingecko": "eventchain",
+    "twitter": "eventchain_io",
+    "facebook": "EventChain",
+    "reddit": "r/eventchain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

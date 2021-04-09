@@ -1,0 +1,16 @@
+{
+  "name": "Decentral Games",
+  "symbol": "DG",
+  "web": "https://decentral.games",
+  "explorer": "https://etherscan.io/token/0xee06a81a695750e71a662b51066f2c74cf4478a0",
+  "links": {
+    "github": "decentralgames",
+    "coingecko": "decentral-games",
+    "twitter": "decentralgames",
+    "telegram": "decentralgames"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

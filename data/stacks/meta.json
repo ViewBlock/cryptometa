@@ -1,0 +1,16 @@
+{
+  "name": "Stacks",
+  "symbol": "STX",
+  "web": "https://blockstack.org",
+  "explorer": "https://explorer.blockstack.org",
+  "links": {
+    "github": "blockstack",
+    "coingecko": "blockstack",
+    "twitter": "Stacks ",
+    "telegram": "BlockstackChat",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

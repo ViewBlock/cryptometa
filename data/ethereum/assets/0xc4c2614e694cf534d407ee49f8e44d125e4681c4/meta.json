@@ -1,0 +1,17 @@
+{
+  "name": "Chain Games",
+  "symbol": "CHAIN",
+  "web": "https://chaingames.io",
+  "explorer": "https://etherscan.io/token/0xC4C2614E694cF534D407Ee49F8E44D125E4681c4",
+  "links": {
+    "github": "Chain-Games",
+    "coingecko": "chain-games",
+    "twitter": "realchaingames",
+    "facebook": "realchaingames",
+    "telegram": "chaingames"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

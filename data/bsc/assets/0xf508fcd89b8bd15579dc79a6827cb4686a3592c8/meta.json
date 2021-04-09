@@ -1,0 +1,11 @@
+{
+  "name": "Venus ETH",
+  "symbol": "VETH",
+  "web": "https://venus.io",
+  "explorer": "https://bscscan.com/token/0xf508fcd89b8bd15579dc79a6827cb4686a3592c8",
+  "links": {
+    "coingecko": "venus-eth",
+    "twitter": "VenusProtocol",
+    "telegram": "VenusProtocol"
+  }
+}

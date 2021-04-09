@@ -1,0 +1,16 @@
+{
+  "name": "Predictz",
+  "symbol": "PRDZ",
+  "web": "https://predictz.io",
+  "explorer": "https://etherscan.io/token/0x4e085036a1b732cbe4ffb1c12ddfdd87e7c3664d",
+  "links": {
+    "github": "predictz",
+    "coingecko": "predictz",
+    "twitter": "PredReal",
+    "telegram": "predictzdefi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "EYES Protocol",
+  "symbol": "EYES",
+  "web": "https://www.eyesprotocol.io",
+  "explorer": "https://etherscan.io/token/0x2dca19e944453e46d9130950ca135461b3bc0c30",
+  "links": {
+    "coingecko": "eyes-protocol",
+    "twitter": "EYES_Protocol",
+    "facebook": "Eyesprotocol",
+    "telegram": "EYESProtocolOfficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

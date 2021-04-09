@@ -1,0 +1,16 @@
+{
+  "name": "Bitcoin Pro",
+  "symbol": "BTCP",
+  "web": "https://bitcoinpro.money",
+  "explorer": "https://etherscan.io/token/0x723cbfc05e2cfcc71d3d89e770d32801a5eef5ab",
+  "links": {
+    "github": "Bitcoin-PRO",
+    "coingecko": "bitcoin-pro",
+    "twitter": "Bitcoin_Pro_",
+    "telegram": "bitcoinproofficial"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

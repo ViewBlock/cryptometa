@@ -1,0 +1,18 @@
+{
+  "name": "Morpheus Network",
+  "symbol": "MRPH",
+  "web": "https://morpheus.network",
+  "explorer": "https://etherscan.io/token/0x7b0c06043468469967dba22d1af33d77d44056c8",
+  "links": {
+    "github": "MorpheusNetwork",
+    "coingecko": "morpheus-network",
+    "twitter": "MRPHSupplyChain",
+    "facebook": "themorpheusnetwork",
+    "telegram": "themorpheusnetwork",
+    "reddit": "r/MorpheusNetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

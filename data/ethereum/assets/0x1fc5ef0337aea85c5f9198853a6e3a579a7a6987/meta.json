@@ -1,0 +1,15 @@
+{
+  "name": "ReapChain",
+  "symbol": "REAP",
+  "web": "https://www.reapchain.com",
+  "explorer": "https://etherscan.io/token/0x1fc5ef0337aea85c5f9198853a6e3a579a7a6987",
+  "links": {
+    "github": "reapchain",
+    "coingecko": "reapchain",
+    "twitter": "ReapChain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

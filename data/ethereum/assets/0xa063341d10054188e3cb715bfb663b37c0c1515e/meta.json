@@ -1,0 +1,16 @@
+{
+  "name": "Diagon",
+  "symbol": "DGN",
+  "web": "https://www.diagon.io",
+  "explorer": "https://etherscan.io/token/0xa063341d10054188e3cb715bfb663b37c0c1515e",
+  "links": {
+    "coingecko": "diagon",
+    "twitter": "diagonio",
+    "facebook": "diagonio",
+    "telegram": "diagonio"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

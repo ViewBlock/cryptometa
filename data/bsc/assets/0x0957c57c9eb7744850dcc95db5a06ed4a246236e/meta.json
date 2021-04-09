@@ -1,0 +1,12 @@
+{
+  "name": "Dango",
+  "symbol": "DANGO",
+  "web": "https://bsc.dango.money",
+  "explorer": "https://bscscan.com/token/0x0957c57c9eb7744850dcc95db5a06ed4a246236e",
+  "links": {
+    "github": "dango-money",
+    "coingecko": "dango",
+    "twitter": "dango_money",
+    "telegram": "DangoANN"
+  }
+}

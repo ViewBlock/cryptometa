@@ -1,0 +1,15 @@
+{
+  "name": "GOGO Finance",
+  "symbol": "GOGO",
+  "web": "https://gogo.finance",
+  "explorer": "https://etherscan.io/token/0x9a96E767bFCcE8E80370BE00821ED5BA283D4A17",
+  "links": {
+    "coingecko": "gogo-finance",
+    "twitter": "gogofinance",
+    "telegram": "gogofinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

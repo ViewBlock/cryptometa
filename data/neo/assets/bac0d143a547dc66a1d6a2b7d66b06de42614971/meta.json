@@ -1,0 +1,18 @@
+{
+  "name": "Bridge Protocol",
+  "symbol": "BRDG",
+  "web": "https://www.bridgeprotocol.io",
+  "explorer": "https://neotracker.io/asset/bac0d143a547dc66a1d6a2b7d66b06de42614971",
+  "links": {
+    "github": "bridge-protocol",
+    "coingecko": "bridge-protocol",
+    "twitter": "BridgeProtocol",
+    "facebook": "BRIDGEprotocol",
+    "telegram": "BRIDGEprotocol",
+    "reddit": "r/iambridgeprotocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

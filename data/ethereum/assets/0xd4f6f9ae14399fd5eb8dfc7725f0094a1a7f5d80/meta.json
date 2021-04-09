@@ -1,0 +1,15 @@
+{
+  "name": "Bitsten Token",
+  "symbol": "BST",
+  "web": "https://bitsten.com",
+  "explorer": "https://etherscan.io/token/0xd4f6f9ae14399fd5eb8dfc7725f0094a1a7f5d80",
+  "links": {
+    "coingecko": "bitsten-token",
+    "twitter": "BitstenToken",
+    "telegram": "bitsten_official"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

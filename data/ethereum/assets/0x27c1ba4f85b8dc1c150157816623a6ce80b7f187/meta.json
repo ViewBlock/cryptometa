@@ -1,0 +1,13 @@
+{
+  "name": "3X Long XRP Token",
+  "symbol": "XRPBULL",
+  "web": "https://ftx.com/tokens/XRPBULL",
+  "explorer": "https://etherscan.io/token/0x27c1ba4f85b8dc1c150157816623a6ce80b7f187",
+  "links": {
+    "coingecko": "3x-long-xrp-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

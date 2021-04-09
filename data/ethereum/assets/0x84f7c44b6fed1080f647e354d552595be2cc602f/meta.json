@@ -1,0 +1,17 @@
+{
+  "name": "Bigbom",
+  "symbol": "BBO",
+  "web": "https://bigbom.com",
+  "explorer": "https://etherscan.io/token/0x84f7c44b6fed1080f647e354d552595be2cc602f",
+  "links": {
+    "github": "bigbomio",
+    "coingecko": "bigbom-eco",
+    "twitter": "bigbomofficial",
+    "telegram": "bigbomicogroup",
+    "reddit": "r/bigbom"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

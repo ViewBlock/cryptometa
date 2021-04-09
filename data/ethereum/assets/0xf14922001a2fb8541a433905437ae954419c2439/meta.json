@@ -1,0 +1,18 @@
+{
+  "name": "Direct Insurance Token",
+  "symbol": "DIT",
+  "web": "https://inmediate.io",
+  "explorer": "https://etherscan.io/token/0xf14922001a2fb8541a433905437ae954419c2439",
+  "links": {
+    "github": "Inmediate",
+    "coingecko": "inmediate",
+    "twitter": "Inmediatesg",
+    "facebook": "inmediatesg",
+    "telegram": "inmediate",
+    "reddit": "r/inmediate"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

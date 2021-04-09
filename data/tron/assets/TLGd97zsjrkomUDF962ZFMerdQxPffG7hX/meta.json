@@ -1,0 +1,15 @@
+{
+  "name": "ZelaaPayAE",
+  "symbol": "ZPAE",
+  "web": "https://www.zelaapay.ae",
+  "explorer": "https://tronscan.org/#/token20/TLGd97zsjrkomUDF962ZFMerdQxPffG7hX",
+  "links": {
+    "coingecko": "zelaapayae",
+    "twitter": "zelaapay",
+    "telegram": "ZPaeArabia"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

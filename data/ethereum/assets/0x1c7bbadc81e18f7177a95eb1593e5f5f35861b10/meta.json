@@ -1,0 +1,16 @@
+{
+  "name": "Auric Network",
+  "symbol": "AUSCM",
+  "web": "https://auric.network",
+  "explorer": "https://etherscan.io/token/0x1c7bbadc81e18f7177a95eb1593e5f5f35861b10",
+  "links": {
+    "github": "auricfinance",
+    "coingecko": "auric-network",
+    "twitter": "auric_network",
+    "telegram": "auricfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Facite",
+  "symbol": "FIT",
+  "web": "https://www.facite.org",
+  "explorer": "https://etherscan.io/token/0x9bfedc30a3930b709c0fcb01c5c59733b64ac827",
+  "links": {
+    "coingecko": "facite"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

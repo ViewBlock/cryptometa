@@ -1,0 +1,17 @@
+{
+  "name": "MozoX",
+  "symbol": "MOZOX",
+  "web": "https://mozocoin.io",
+  "explorer": "https://etherscan.io/token/0xea4931bfcf3260da6dbf0550e27f5c214e3c268b",
+  "links": {
+    "github": "Biglabs",
+    "coingecko": "mozox",
+    "twitter": "MozoToken",
+    "facebook": "mozocoin.io",
+    "telegram": "mozotoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Furucombo",
+  "symbol": "COMBO",
+  "web": "https://furucombo.app",
+  "explorer": "https://etherscan.io/token/0xfFffFffF2ba8F66D4e51811C5190992176930278",
+  "links": {
+    "coingecko": "furucombo",
+    "twitter": "furucombo",
+    "telegram": "furucombo"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Bispex",
+  "symbol": "BPX",
+  "web": "https://bispex.com",
+  "explorer": "https://etherscan.io/token/0x2AA4a3E8bB72BE68a31c9c3C98CA7BeC723C6222",
+  "links": {
+    "github": "bispex",
+    "coingecko": "bispex",
+    "twitter": "BISPEXOFFICIAL1",
+    "facebook": "bispexofficial",
+    "telegram": "bispexofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Extend Finance",
+  "symbol": "EXF",
+  "web": "https://extendfinance.online",
+  "explorer": "https://bscscan.com/token/0x6306e883493824ccf606d90e25f68a28e47b98a3",
+  "links": {
+    "coingecko": "extend-finance",
+    "twitter": "ExtendFinance",
+    "telegram": "extendfinance"
+  }
+}

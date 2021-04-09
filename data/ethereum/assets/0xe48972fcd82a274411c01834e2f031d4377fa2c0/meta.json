@@ -1,0 +1,17 @@
+{
+  "name": "2key.network",
+  "symbol": "2KEY",
+  "web": "https://2key.network",
+  "explorer": "https://etherscan.io/token/0xe48972fcd82a274411c01834e2f031d4377fa2c0",
+  "links": {
+    "github": "2key",
+    "coingecko": "2key",
+    "twitter": "2keyNetwork",
+    "facebook": "2keyNetwork",
+    "telegram": "twokey_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

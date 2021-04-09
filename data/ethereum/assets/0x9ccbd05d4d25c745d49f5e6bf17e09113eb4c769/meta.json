@@ -1,0 +1,17 @@
+{
+  "name": "Decentralized Crypto Token",
+  "symbol": "DCTO",
+  "web": "https://dctoproject.org",
+  "explorer": "https://etherscan.io/token/0x9ccbd05d4d25c745d49f5e6bf17e09113eb4c769",
+  "links": {
+    "github": "dcto-project",
+    "coingecko": "decentralized-crypto-token",
+    "twitter": "dcto_project",
+    "facebook": "dcto.info",
+    "telegram": "dctoproject"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

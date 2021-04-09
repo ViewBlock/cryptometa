@@ -1,0 +1,14 @@
+{
+  "name": "Boolean",
+  "symbol": "BOOL",
+  "web": "https://www.boolean.news",
+  "explorer": "https://etherscan.io/token/0x6c929cde908481f3d1d775008791f42b1b89dbb0",
+  "links": {
+    "coingecko": "boolean",
+    "twitter": "booleancoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

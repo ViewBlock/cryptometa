@@ -1,0 +1,17 @@
+{
+  "name": "HeartBout",
+  "symbol": "HB",
+  "web": "http://heartbout.com",
+  "explorer": "https://etherscan.io/token/0x877c7deb5eb1fc5faad30c71e3a6e39dc8b1519f",
+  "links": {
+    "github": "heartbout",
+    "coingecko": "heartbout",
+    "twitter": "HeartBout",
+    "facebook": "Heartbout-1502342206487293",
+    "telegram": "heartbout"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

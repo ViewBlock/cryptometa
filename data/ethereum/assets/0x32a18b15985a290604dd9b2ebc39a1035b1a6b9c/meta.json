@@ -1,0 +1,16 @@
+{
+  "name": "YFST.Protocol",
+  "symbol": "YFST",
+  "web": "https://www.yfstprotocol.com",
+  "explorer": "https://etherscan.io/token/0x32a18b15985a290604dd9b2ebc39a1035b1a6b9c",
+  "links": {
+    "coingecko": "yfst-protocol",
+    "twitter": "yfstprotocol",
+    "facebook": "yfst.protocol.official",
+    "telegram": "yfst_protocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Aelysir",
+  "symbol": "AEL",
+  "web": "https://aelysir.com",
+  "explorer": "https://etherscan.io/token/0x0405BE40241A2f7822c33C5A3eee238Bf2973ba3",
+  "links": {
+    "coingecko": "aelysir"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

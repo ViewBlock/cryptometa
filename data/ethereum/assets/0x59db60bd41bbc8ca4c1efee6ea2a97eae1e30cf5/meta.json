@@ -1,0 +1,13 @@
+{
+  "name": "3X Long Midcap Index Token",
+  "symbol": "MIDBULL",
+  "web": "https://ftx.com/tokens/MIDBULL",
+  "explorer": "https://etherscan.io/token/0x59db60bd41bbc8ca4c1efee6ea2a97eae1e30cf5",
+  "links": {
+    "coingecko": "3x-long-midcap-index-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

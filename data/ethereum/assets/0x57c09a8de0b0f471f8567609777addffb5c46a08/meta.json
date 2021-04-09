@@ -1,0 +1,17 @@
+{
+  "name": "Bitex Global XBX Coin",
+  "symbol": "XBX",
+  "web": "https://bitex.global",
+  "explorer": "https://etherscan.io/token/0x57c09a8de0b0f471f8567609777addffb5c46a08",
+  "links": {
+    "coingecko": "bitex-global",
+    "twitter": "Bitex_Global",
+    "facebook": "bitex.global",
+    "telegram": "Bitex_Global_Ico_Official",
+    "reddit": "r/BITEXGlobal"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

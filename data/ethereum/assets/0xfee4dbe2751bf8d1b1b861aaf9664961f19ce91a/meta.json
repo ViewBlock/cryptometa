@@ -1,0 +1,16 @@
+{
+  "name": "Q DeFi Rating & Governance Token v2.0",
+  "symbol": "QDEFI",
+  "web": "https://qdefirating.com/en",
+  "explorer": "https://etherscan.io/token/0xfee4DBe2751bF8d1B1B861aAF9664961F19Ce91A",
+  "links": {
+    "coingecko": "qdefi-rating-governance-token-v2",
+    "twitter": "QDefi",
+    "facebook": "QDeFi",
+    "telegram": "PlatinumQeng"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

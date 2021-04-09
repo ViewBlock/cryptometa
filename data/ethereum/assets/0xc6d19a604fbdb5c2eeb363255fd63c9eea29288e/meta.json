@@ -1,0 +1,16 @@
+{
+  "name": "DarkBundles",
+  "symbol": "DBUND",
+  "web": "https://www.darkbundles.finance",
+  "explorer": "https://etherscan.io/token/0xc6d19a604fbdb5c2eeb363255fd63c9eea29288e",
+  "links": {
+    "coingecko": "darkbundles",
+    "twitter": "dark_bundles",
+    "telegram": "DarkBundlesChat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

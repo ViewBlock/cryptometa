@@ -1,0 +1,17 @@
+{
+  "name": "Ethereum Meta",
+  "symbol": "ETHM",
+  "web": "https://ethermeta.com",
+  "explorer": "https://etherscan.io/token/0x340ef83ec8560892168d4062720f030460468656",
+  "links": {
+    "github": "ethermeta",
+    "coingecko": "ethereum-meta",
+    "twitter": "EthereumMeta",
+    "facebook": "ethereummeta",
+    "telegram": "ethereummeta"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

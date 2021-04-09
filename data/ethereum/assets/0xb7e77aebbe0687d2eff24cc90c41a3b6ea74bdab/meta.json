@@ -1,0 +1,14 @@
+{
+  "name": "Project WITH",
+  "symbol": "WIKEN",
+  "web": "https://projectwith.io",
+  "explorer": "https://etherscan.io/token/0xb7e77aebbe0687d2eff24cc90c41a3b6ea74bdab",
+  "links": {
+    "coingecko": "project-with",
+    "telegram": "projectwith_eng"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

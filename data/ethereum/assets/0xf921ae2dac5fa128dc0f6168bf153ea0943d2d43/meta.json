@@ -1,0 +1,15 @@
+{
+  "name": "Fire Protocol",
+  "symbol": "FIRE",
+  "web": "https://fireprotocol.io",
+  "explorer": "https://etherscan.io/token/0xF921ae2DAC5fa128DC0F6168Bf153ea0943d2D43",
+  "links": {
+    "coingecko": "fire-protocol",
+    "twitter": "FireProtocolOS",
+    "telegram": "fireprotocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

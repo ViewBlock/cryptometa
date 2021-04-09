@@ -1,0 +1,16 @@
+{
+  "name": "Ethereum Stake",
+  "symbol": "ETHYS",
+  "web": "https://ethereumstake.farm",
+  "explorer": "https://etherscan.io/token/0xD0d3EbCAd6A20ce69BC3Bc0e1ec964075425e533",
+  "links": {
+    "github": "ethereumyieldfarm",
+    "coingecko": "ethereum-stake",
+    "twitter": "EthereumYield",
+    "telegram": "ethereumstakefarm"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

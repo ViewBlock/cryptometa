@@ -1,0 +1,16 @@
+{
+  "name": "DigixDAO",
+  "symbol": "DGD",
+  "web": "https://digix.global",
+  "explorer": "https://etherscan.io/token/0xe0b7927c4af23765cb51314a0e0521a9645f0e2a",
+  "links": {
+    "github": "DigixGlobal",
+    "coingecko": "digixdao",
+    "twitter": "digixglobal",
+    "reddit": "r/digix"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

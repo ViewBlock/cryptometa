@@ -1,0 +1,17 @@
+{
+  "name": "Stronghold Token",
+  "symbol": "SHX",
+  "web": "https://stronghold.co/stronghold-shx",
+  "explorer": "https://stellar.expert/explorer/public/asset/SHX-GDSTRSHXHGJ7ZIVRBXEYE5Q74XUVCUSEKEBR7UCHEUUEK72N7I7KJ6JH",
+  "links": {
+    "coingecko": "stronghold-token",
+    "twitter": "strongholdxchg",
+    "facebook": "strongholdxchg",
+    "telegram": "strongholdxchg",
+    "reddit": "r/strongholdxchg"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

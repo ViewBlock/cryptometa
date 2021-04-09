@@ -1,0 +1,15 @@
+{
+  "name": "Axion",
+  "symbol": "AXN",
+  "web": "https://axion.network",
+  "explorer": "https://etherscan.io/token/0x71f85b2e46976bd21302b64329868fd15eb0d127",
+  "links": {
+    "coingecko": "axion",
+    "twitter": "axion_network",
+    "telegram": "axionofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

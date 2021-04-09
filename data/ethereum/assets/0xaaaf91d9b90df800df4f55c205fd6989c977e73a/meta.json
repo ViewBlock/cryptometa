@@ -1,0 +1,19 @@
+{
+  "name": "Monolith",
+  "symbol": "TKN",
+  "web": "https://monolith.xyz",
+  "explorer": "https://etherscan.io/token/0xaaaf91d9b90df800df4f55c205fd6989c977e73a",
+  "links": {
+    "github": "tokencard",
+    "coingecko": "tokencard",
+    "twitter": "monolith_web3",
+    "facebook": "MonolithWeb3",
+    "telegram": "Monolith_Web3",
+    "reddit": "r/Monolith_Web3"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "score": 19
+  }
+}

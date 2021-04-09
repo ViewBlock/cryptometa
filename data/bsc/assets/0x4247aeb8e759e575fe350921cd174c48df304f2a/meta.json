@@ -1,0 +1,11 @@
+{
+  "name": "Aedart Network",
+  "symbol": "AEDART",
+  "web": "https://aedart.network",
+  "explorer": "https://bscscan.com/token/0x4247aeb8e759e575fe350921cd174c48df304f2a",
+  "links": {
+    "coingecko": "aedart-network",
+    "twitter": "AEDARTNetwork",
+    "telegram": "AEDARTNetwork"
+  }
+}

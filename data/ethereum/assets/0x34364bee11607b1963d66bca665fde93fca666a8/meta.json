@@ -1,0 +1,17 @@
+{
+  "name": "YOU Chain",
+  "symbol": "YOU",
+  "web": "https://www.youchain.cc",
+  "explorer": "https://etherscan.io/token/0x34364bee11607b1963d66bca665fde93fca666a8",
+  "links": {
+    "coingecko": "you-chain",
+    "twitter": "YOUChain_cc",
+    "facebook": "YOUChain.cc",
+    "telegram": "YOUChain_EN",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

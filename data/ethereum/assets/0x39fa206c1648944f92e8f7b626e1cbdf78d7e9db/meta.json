@@ -1,0 +1,16 @@
+{
+  "name": "DXY Finance",
+  "symbol": "DXY",
+  "web": "https://dxy.finance",
+  "explorer": "https://etherscan.io/token/0x39Fa206c1648944f92E8F7B626e1CBdf78d7E9dB",
+  "links": {
+    "github": "dxyfinance",
+    "coingecko": "dxy-finance",
+    "twitter": "dxyfinance",
+    "telegram": "dxyfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

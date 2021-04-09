@@ -1,0 +1,16 @@
+{
+  "name": "THORChain (ERC20)",
+  "symbol": "RUNE",
+  "web": "https://thorchain.org",
+  "explorer": "https://etherscan.io/token/0x3155ba85d5f96b2d030a4966af206230e46849cb",
+  "links": {
+    "coingecko": "thorchain-erc20",
+    "twitter": "thorchain_org",
+    "telegram": "thorchain_org",
+    "reddit": "r/thorchain"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

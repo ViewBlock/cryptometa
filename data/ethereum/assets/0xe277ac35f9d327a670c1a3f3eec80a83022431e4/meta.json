@@ -1,0 +1,15 @@
+{
+  "name": "PolypuX",
+  "symbol": "PUX",
+  "web": "https://www.polypux.com",
+  "explorer": "https://etherscan.io/token/0xe277ac35f9d327a670c1a3f3eec80a83022431e4",
+  "links": {
+    "coingecko": "polypux",
+    "twitter": "polypuXapp",
+    "telegram": "polypux"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

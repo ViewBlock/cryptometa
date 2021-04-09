@@ -1,0 +1,15 @@
+{
+  "name": "BTC Range Bound Min Volatility Set",
+  "symbol": "BTCMINVOL",
+  "web": "https://www.tokensets.com/set/btcminvol",
+  "explorer": "https://etherscan.io/token/0x81c55017F7Ce6E72451cEd49FF7bAB1e3DF64d0C",
+  "links": {
+    "github": "SetProtocol",
+    "coingecko": "btc-range-bound-min-volatility-set",
+    "twitter": "SetProtocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

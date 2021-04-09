@@ -1,0 +1,11 @@
+{
+  "name": "Thugs Fi",
+  "symbol": "THUGS",
+  "web": "https://thugs.fi",
+  "explorer": "https://bscscan.com/token/0xE10e9822A5de22F8761919310DDA35CD997d63c0",
+  "links": {
+    "coingecko": "thugs-finance",
+    "twitter": "ThugsFinance",
+    "telegram": "thugsfinance"
+  }
+}

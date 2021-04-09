@@ -1,0 +1,14 @@
+{
+  "name": "Wrapped Filecoin",
+  "symbol": "WFIL",
+  "web": "https://www.wrapped.com",
+  "explorer": "https://etherscan.io/token/0x6e1A19F235bE7ED8E3369eF73b196C07257494DE",
+  "links": {
+    "coingecko": "wrapped-filecoin",
+    "twitter": "wrappedfi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

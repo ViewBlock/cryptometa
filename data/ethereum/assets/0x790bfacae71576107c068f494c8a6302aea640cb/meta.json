@@ -1,0 +1,16 @@
+{
+  "name": "CryptoBossCoin",
+  "symbol": "CBC",
+  "web": "https://cryptoboss.me",
+  "explorer": "https://etherscan.io/token/0x790bfacae71576107c068f494c8a6302aea640cb",
+  "links": {
+    "coingecko": "cryptobosscoin",
+    "twitter": "CBCCOIN",
+    "facebook": "mernesmax",
+    "telegram": "Mernes"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

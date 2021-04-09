@@ -1,0 +1,15 @@
+{
+  "name": "Lendefi Token",
+  "symbol": "LDFI",
+  "web": "https://lendefi.io",
+  "explorer": "https://etherscan.io/token/0x5479d565e549f3ecdbde4ab836d02d86e0d6a8c7",
+  "links": {
+    "coingecko": "lendefi",
+    "twitter": "lendefi_io",
+    "telegram": "lendefi_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

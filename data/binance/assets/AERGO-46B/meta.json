@@ -1,0 +1,12 @@
+{
+  "name": "Aergo",
+  "symbol": "AERGO-46B",
+  "explorer": "https://explorer.binance.org/asset/AERGO-46B",
+  "links": {
+    "research": "https://research.binance.com/en/projects/aergo"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

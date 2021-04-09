@@ -1,0 +1,13 @@
+{
+  "name": "IAB",
+  "symbol": "IAB",
+  "web": "http://www.iabchain.com",
+  "explorer": "https://etherscan.io/token/0xded2583b3fbf4b381851f5031188a5a3562ab2cd",
+  "links": {
+    "coingecko": "iab"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

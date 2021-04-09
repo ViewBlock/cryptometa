@@ -1,0 +1,16 @@
+{
+  "name": "LCX",
+  "symbol": "LCX",
+  "web": "https://www.LCX.com",
+  "explorer": "https://etherscan.io/token/0x037a54aab062628c9bbae1fdb1583c195585fe41",
+  "links": {
+    "coingecko": "lcx",
+    "twitter": "lcx",
+    "facebook": "lcx.exchange",
+    "telegram": "JoinLCX"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

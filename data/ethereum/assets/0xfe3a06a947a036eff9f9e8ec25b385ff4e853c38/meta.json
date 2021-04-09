@@ -1,0 +1,16 @@
+{
+  "name": "Trust Union",
+  "symbol": "TUT",
+  "web": "https://www.tut.credit",
+  "explorer": "https://etherscan.io/token/0xfe3a06a947a036eff9f9e8ec25b385ff4e853c38",
+  "links": {
+    "coingecko": "trust-union",
+    "twitter": "TrustUnion1",
+    "facebook": "trustunionhk",
+    "telegram": "TUTrustUnion"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "NAR Token",
+  "symbol": "NAR",
+  "web": "https://narwhalswap.org",
+  "explorer": "https://bscscan.com/token/0xa1303e6199b319a891b79685f0537d289af1fc83",
+  "links": {
+    "github": "narwhalswap",
+    "coingecko": "nar-token",
+    "twitter": "narwhalswap",
+    "telegram": "narwhalswap"
+  }
+}

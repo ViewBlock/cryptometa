@@ -1,0 +1,16 @@
+{
+  "name": "BetterBetting",
+  "symbol": "BETR",
+  "web": "https://www.betterbetting.org",
+  "explorer": "https://etherscan.io/token/0x763186eb8d4856d536ed4478302971214febc6a9",
+  "links": {
+    "github": "BetterBetting",
+    "coingecko": "betterbetting",
+    "twitter": "BETRBetting",
+    "facebook": "BETRBetting"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

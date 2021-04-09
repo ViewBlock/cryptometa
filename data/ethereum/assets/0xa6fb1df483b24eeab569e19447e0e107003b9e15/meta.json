@@ -1,0 +1,16 @@
+{
+  "name": "Earnbase",
+  "symbol": "ENB",
+  "web": "https://earnbase.org",
+  "explorer": "https://etherscan.io/token/0xa6FB1DF483b24EEAB569e19447E0e107003B9E15",
+  "links": {
+    "github": "earnbasefinance",
+    "coingecko": "earnbase",
+    "twitter": "earnbasefinance",
+    "telegram": "earnbasefinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

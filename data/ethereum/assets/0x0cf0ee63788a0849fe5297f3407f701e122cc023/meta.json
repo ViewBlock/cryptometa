@@ -1,0 +1,17 @@
+{
+  "name": "Streamr DATAcoin",
+  "symbol": "DATA",
+  "web": "https://streamr.network",
+  "explorer": "https://etherscan.io/token/0x0cf0ee63788a0849fe5297f3407f701e122cc023",
+  "links": {
+    "github": "streamr-dev",
+    "coingecko": "streamr-datacoin",
+    "twitter": "streamr",
+    "telegram": "streamrdata",
+    "reddit": "r/streamr"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

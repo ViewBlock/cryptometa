@@ -1,0 +1,16 @@
+{
+  "name": "WAXE",
+  "symbol": "WAXE",
+  "web": "https://wax.io",
+  "explorer": "https://etherscan.io/token/0x7a2bc711e19ba6aff6ce8246c546e8c4b4944dfd",
+  "links": {
+    "github": "worldwide-asset-exchange",
+    "coingecko": "waxe",
+    "twitter": "WAX_io",
+    "telegram": "wax_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

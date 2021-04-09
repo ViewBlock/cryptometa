@@ -1,0 +1,17 @@
+{
+  "name": "PieDAO DEFI Small Cap",
+  "symbol": "DEFI+S",
+  "web": "https://pools.piedao.org",
+  "explorer": "https://etherscan.io/token/0xad6a626ae2b43dcb1b39430ce496d2fa0365ba9c",
+  "links": {
+    "github": "pie-dao",
+    "coingecko": "piedao-defi-small-cap",
+    "twitter": "PieDAO_DeFi",
+    "telegram": "piedao",
+    "reddit": "r/PieDAO"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

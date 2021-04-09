@@ -1,0 +1,15 @@
+{
+  "name": "BAEPAY",
+  "symbol": "BAEPAY",
+  "web": "https://mybae.io",
+  "explorer": "https://etherscan.io/token/0x6bffa07a1b0cebc474ce6833eaf2be6326252449",
+  "links": {
+    "coingecko": "baepay",
+    "telegram": "baeart"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 5
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "PLAAS FARMERS TOKEN",
+  "symbol": "PLAAS",
+  "web": "https://plaas.io",
+  "explorer": "https://etherscan.io/token/0x60571e95e12c78cba5223042692908f0649435a5",
+  "links": {
+    "github": "plaasio",
+    "coingecko": "plaas-farmers-token",
+    "twitter": "plaasio",
+    "facebook": "plaas.io",
+    "telegram": "Plaas2018"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

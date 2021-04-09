@@ -1,0 +1,15 @@
+{
+  "name": "Trustswap",
+  "symbol": "SWAP",
+  "web": "https://trustswap.org",
+  "explorer": "https://etherscan.io/token/0xcc4304a31d09258b0029ea7fe63d032f52e44efe",
+  "links": {
+    "coingecko": "trustswap",
+    "twitter": "trustswap",
+    "telegram": "TrustSwap"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

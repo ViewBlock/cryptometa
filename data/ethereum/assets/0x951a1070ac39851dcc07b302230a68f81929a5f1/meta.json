@@ -1,0 +1,13 @@
+{
+  "name": "GT STAR Token",
+  "symbol": "GTS",
+  "web": "http://www.gt-star.com",
+  "explorer": "https://etherscan.io/token/0x951a1070ac39851dcc07b302230a68f81929a5f1",
+  "links": {
+    "coingecko": "gt-star-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

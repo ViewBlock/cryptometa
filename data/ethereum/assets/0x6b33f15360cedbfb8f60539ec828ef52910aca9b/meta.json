@@ -1,0 +1,14 @@
+{
+  "name": "xINCHb",
+  "symbol": "XINCHB",
+  "web": "https://xtoken.market",
+  "explorer": "https://etherscan.io/token/0x6B33f15360cedBFB8F60539ec828ef52910acA9b",
+  "links": {
+    "coingecko": "xinchb",
+    "twitter": "xtokenmarket"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

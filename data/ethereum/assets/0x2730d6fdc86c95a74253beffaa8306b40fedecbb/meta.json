@@ -1,0 +1,15 @@
+{
+  "name": "UNICORN Token",
+  "symbol": "UNI",
+  "web": "https://unicorn.cm",
+  "explorer": "https://etherscan.io/token/0x2730d6fdc86c95a74253beffaa8306b40fedecbb",
+  "links": {
+    "github": "uni-official",
+    "coingecko": "unicorn-token",
+    "twitter": "unicorn_unx"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

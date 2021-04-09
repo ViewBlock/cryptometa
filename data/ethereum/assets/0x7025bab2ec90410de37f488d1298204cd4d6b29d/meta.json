@@ -1,0 +1,17 @@
+{
+  "name": "Xriba",
+  "symbol": "XRA",
+  "web": "https://xriba.com",
+  "explorer": "https://etherscan.io/token/0x7025bab2ec90410de37f488d1298204cd4d6b29d",
+  "links": {
+    "coingecko": "xriba",
+    "twitter": "xribapay",
+    "facebook": "XribaPay",
+    "telegram": "xriba"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

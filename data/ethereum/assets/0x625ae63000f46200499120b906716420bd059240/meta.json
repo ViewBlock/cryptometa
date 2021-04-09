@@ -1,0 +1,17 @@
+{
+  "name": "Aave SUSD v1",
+  "symbol": "ASUSD",
+  "web": "https://aave.com/atokens",
+  "explorer": "https://etherscan.io/token/0x625ae63000f46200499120b906716420bd059240",
+  "links": {
+    "github": "aave",
+    "coingecko": "aave-susd",
+    "twitter": "aaveaave",
+    "telegram": "Aavesome",
+    "reddit": "r/Aave_Official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

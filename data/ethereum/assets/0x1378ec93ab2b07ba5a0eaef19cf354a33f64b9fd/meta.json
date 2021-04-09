@@ -1,0 +1,15 @@
+{
+  "name": "Yearn Finance Diamond Token",
+  "symbol": "YFDT",
+  "web": "https://yfdt.finance",
+  "explorer": "https://etherscan.io/token/0x1378ec93ab2b07ba5a0eaef19cf354a33f64b9fd",
+  "links": {
+    "coingecko": "yearn-finance-diamond-token",
+    "twitter": "YFDTToken",
+    "telegram": "yfdiamond"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

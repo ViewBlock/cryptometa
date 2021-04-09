@@ -1,0 +1,15 @@
+{
+  "name": "BitKan",
+  "symbol": "KAN",
+  "web": "http://kan.land",
+  "explorer": "https://etherscan.io/token/0x1410434b0346f5be678d0fb554e5c7ab620f8f4a",
+  "links": {
+    "coingecko": "kan",
+    "twitter": "BitKanOfficial",
+    "telegram": "BitKan"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

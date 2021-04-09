@@ -1,0 +1,14 @@
+{
+  "name": "Tower",
+  "symbol": "TOWER",
+  "web": "https://www.crazydefenseheroes.com",
+  "explorer": "https://etherscan.io/token/0x1c9922314ed1415c95b9fd453c3818fd41867d0b",
+  "links": {
+    "coingecko": "tower",
+    "twitter": "CrazyDefenseEN"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

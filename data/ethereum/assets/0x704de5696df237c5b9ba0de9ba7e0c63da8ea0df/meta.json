@@ -1,0 +1,15 @@
+{
+  "name": "xAAVEb",
+  "symbol": "XAAVEB",
+  "web": "https://xtoken.market",
+  "explorer": "https://etherscan.io/address/0x704de5696df237c5b9ba0de9ba7e0c63da8ea0df",
+  "links": {
+    "github": "xtokenmarket",
+    "coingecko": "xaaveb",
+    "twitter": "xtokenmarket"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

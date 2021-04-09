@@ -1,0 +1,11 @@
+{
+  "name": "fry.world",
+  "symbol": "FRIES",
+  "web": "https://fry.world",
+  "explorer": "https://bscscan.com/token/0x393b312c01048b3ed2720bf1b090084c09e408a1",
+  "links": {
+    "coingecko": "fryworld",
+    "twitter": "fry_world",
+    "telegram": "FryWorldFinance"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "3X Short Tether Token",
+  "symbol": "USDTBEAR",
+  "web": "https://ftx.com/tokens/USDTBEAR",
+  "explorer": "https://etherscan.io/token/0x0cd6c8161f1638485a1a2f5bf1a0127e45913c2f",
+  "links": {
+    "coingecko": "3x-short-tether-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

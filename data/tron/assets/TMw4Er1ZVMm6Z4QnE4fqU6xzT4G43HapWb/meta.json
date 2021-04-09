@@ -1,0 +1,16 @@
+{
+  "name": "DLIKE",
+  "symbol": "DLIKE",
+  "web": "https://dlike.io",
+  "explorer": "https://tronscan.org/#/contract/TMw4Er1ZVMm6Z4QnE4fqU6xzT4G43HapWb/transactions",
+  "links": {
+    "coingecko": "dlike",
+    "twitter": "dlike_io",
+    "facebook": "dlike.io",
+    "telegram": "dlike_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

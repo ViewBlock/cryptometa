@@ -1,0 +1,18 @@
+{
+  "name": "EtherBone",
+  "symbol": "ETHBN",
+  "web": "https://mydogdata.com",
+  "explorer": "https://etherscan.io/token/0x96b52B5BF8D902252D0714A1BD2651A785Fd2660",
+  "links": {
+    "github": "dogdata",
+    "coingecko": "etherbone",
+    "twitter": "FaceBook4Dog",
+    "facebook": "DogsData",
+    "telegram": "DogDataICO",
+    "reddit": "r/AskDogExpert"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

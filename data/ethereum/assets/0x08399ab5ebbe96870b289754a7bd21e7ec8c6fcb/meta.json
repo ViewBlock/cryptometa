@@ -1,0 +1,16 @@
+{
+  "name": "Becaz",
+  "symbol": "BCZ",
+  "web": "https://becaz.org",
+  "explorer": "https://etherscan.io/token/0x08399ab5eBBE96870B289754A7bD21E7EC8c6FCb",
+  "links": {
+    "github": "becaz",
+    "coingecko": "becaz",
+    "twitter": "becazworld",
+    "telegram": "BecazWorld"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

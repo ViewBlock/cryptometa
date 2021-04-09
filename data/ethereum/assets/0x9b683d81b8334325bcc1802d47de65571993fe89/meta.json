@@ -1,0 +1,16 @@
+{
+  "name": "CoinBene Future Token",
+  "symbol": "CFT",
+  "web": "https://www.coinbene.vip",
+  "explorer": "https://etherscan.io/token/0x9b683d81b8334325bcc1802d47de65571993fe89",
+  "links": {
+    "coingecko": "coinbene-future-token",
+    "twitter": "coinbene",
+    "facebook": "CoinBeneOfficial",
+    "telegram": "CB_coinbene"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

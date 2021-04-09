@@ -1,0 +1,16 @@
+{
+  "name": "GoldFinX",
+  "symbol": "GIX",
+  "web": "https://goldfinx.com",
+  "explorer": "https://etherscan.io/token/0xbd434a09191d401da3283a5545bb3515d033b8c4",
+  "links": {
+    "coingecko": "goldfinx",
+    "facebook": "goldfinx",
+    "telegram": "goldfinxofficial",
+    "reddit": "r/GoldFinX"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Fesschain",
+  "symbol": "FESS",
+  "web": "https://fesschain.live",
+  "explorer": "https://etherscan.io/token/0xe09394f8ba642430ed448ca20f342ec7aa1ba2e1",
+  "links": {
+    "github": "Fesschain",
+    "coingecko": "fess-chain",
+    "twitter": "fesschain",
+    "facebook": "fesschain",
+    "telegram": "fesschain",
+    "reddit": "r/fessOfficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

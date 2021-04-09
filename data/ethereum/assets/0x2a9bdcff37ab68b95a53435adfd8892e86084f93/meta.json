@@ -1,0 +1,16 @@
+{
+  "name": "Alpha Quark Token",
+  "symbol": "AQT",
+  "web": "https://alphaquark.io",
+  "explorer": "https://etherscan.io/token/0x2a9bDCFF37aB68B95A53435ADFd8892e86084F93",
+  "links": {
+    "github": "alphaquark",
+    "coingecko": "alpha-quark-token",
+    "twitter": "Alphaquark_",
+    "telegram": "AlphaQuark"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "HotDollars Token",
+  "symbol": "HDS",
+  "web": "https://hdsgo.io/html/web/index.html",
+  "explorer": "https://etherscan.io/token/0xcafe27178308351a12fffffdeb161d9d730da082",
+  "links": {
+    "coingecko": "hotdollars-token",
+    "twitter": "hds_official_",
+    "telegram": "hdsofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

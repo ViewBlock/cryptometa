@@ -1,0 +1,17 @@
+{
+  "name": "Levolution",
+  "symbol": "LEVL",
+  "web": "https://ito.levolution.io",
+  "explorer": "https://etherscan.io/token/0x09970aec766b6f3223aca9111555e99dc50ff13a",
+  "links": {
+    "github": "LEVL-LLC",
+    "coingecko": "levolution",
+    "twitter": "LevolutionP",
+    "facebook": "LevolutionPlatform",
+    "telegram": "levolutionITO"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Internxt",
+  "symbol": "INXT",
+  "web": "https://internxt.com",
+  "explorer": "https://etherscan.io/token/0xa8006c4ca56f24d6836727d106349320db7fef82",
+  "links": {
+    "github": "internxt",
+    "coingecko": "internxt",
+    "reddit": "r/internxt"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

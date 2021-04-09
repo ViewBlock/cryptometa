@@ -1,0 +1,16 @@
+{
+  "name": "Blockcloud",
+  "symbol": "BLOC",
+  "web": "https://www.block-cloud.io",
+  "explorer": "https://etherscan.io/token/0x6f919d67967a97ea36195a2346d9244e60fe0ddb",
+  "links": {
+    "coingecko": "blockcloud",
+    "twitter": "BlockcloudTeam",
+    "facebook": "Blockcloud-605495993154497",
+    "telegram": "BlockcloudTeam"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

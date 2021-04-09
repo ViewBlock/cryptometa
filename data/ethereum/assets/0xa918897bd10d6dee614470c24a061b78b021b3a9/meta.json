@@ -1,0 +1,17 @@
+{
+  "name": "Universal Coin",
+  "symbol": "UCOIN",
+  "web": "https://ucoincurrency.io",
+  "explorer": "https://etherscan.io/token/0xa918897bd10d6dee614470c24a061b78b021b3a9",
+  "links": {
+    "github": "ucoincurrency",
+    "coingecko": "universal-coin",
+    "twitter": "ucoincurrency",
+    "facebook": "ucoincurrency",
+    "telegram": "ucoincurrency"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

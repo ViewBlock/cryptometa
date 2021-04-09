@@ -1,0 +1,15 @@
+{
+  "name": "Katana Finance",
+  "symbol": "KATANA",
+  "web": "https://katana.finance",
+  "explorer": "https://etherscan.io/token/0xe6410569602124506658ff992f258616ea2d4a3d",
+  "links": {
+    "coingecko": "katana-finance",
+    "twitter": "katanafinance",
+    "telegram": "katanafinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

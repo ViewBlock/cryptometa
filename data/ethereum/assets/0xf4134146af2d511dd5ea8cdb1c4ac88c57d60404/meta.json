@@ -1,0 +1,17 @@
+{
+  "name": "SunContract",
+  "symbol": "SNC",
+  "web": "https://suncontract.org",
+  "explorer": "https://etherscan.io/token/0xF4134146AF2d511Dd5EA8cDB1C4AC88C57D60404",
+  "links": {
+    "github": "SunContract",
+    "coingecko": "suncontract",
+    "twitter": "sun_contract",
+    "reddit": "r/suncontract"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

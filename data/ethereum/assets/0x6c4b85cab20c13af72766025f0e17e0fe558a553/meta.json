@@ -1,0 +1,15 @@
+{
+  "name": "YFFII Finance",
+  "symbol": "YFFII",
+  "web": "https://yffii.finance",
+  "explorer": "https://etherscan.io/token/0x6c4b85cab20c13af72766025f0e17e0fe558a553",
+  "links": {
+    "coingecko": "yffii-finance",
+    "twitter": "yffiifinance",
+    "telegram": "yffiifinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

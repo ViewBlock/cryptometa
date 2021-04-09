@@ -1,0 +1,15 @@
+{
+  "name": "cUSDT",
+  "symbol": "CUSDT",
+  "web": "https://compound.finance",
+  "explorer": "https://etherscan.io/token/0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9",
+  "links": {
+    "coingecko": "compound-usdt",
+    "twitter": "compoundfinance",
+    "reddit": "r/Compound"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "YFarmLand Token",
+  "symbol": "YFARMER",
+  "web": "https://yfarmland.finance",
+  "explorer": "https://etherscan.io/token/0x7B0F66fA5cf5cc28280c1e7051af881E06579362",
+  "links": {
+    "github": "YFarmLand",
+    "coingecko": "yfarmland-token",
+    "twitter": "YfarmlandF",
+    "telegram": "yieldfarmland"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

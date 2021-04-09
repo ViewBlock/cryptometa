@@ -1,0 +1,15 @@
+{
+  "name": "xBTC",
+  "symbol": "XBTC",
+  "web": "https://xbtc.fi",
+  "explorer": "https://etherscan.io/token/0xECbF566944250ddE88322581024E611419715f7A",
+  "links": {
+    "coingecko": "xbtc",
+    "twitter": "XBTC_Official",
+    "telegram": "xBTC_Official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

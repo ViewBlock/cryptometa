@@ -1,0 +1,17 @@
+{
+  "name": "Enigma",
+  "symbol": "ENG",
+  "web": "https://enigma.co",
+  "explorer": "https://etherscan.io/token/0xf0ee6b27b759c9893ce4f094b49ad28fd15a23e4",
+  "links": {
+    "github": "enigmampc",
+    "coingecko": "enigma",
+    "twitter": "enigmampc",
+    "telegram": "enigmacatalyst",
+    "reddit": "r/EnigmaProject"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

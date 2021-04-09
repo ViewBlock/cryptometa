@@ -1,0 +1,15 @@
+{
+  "name": "Rope",
+  "symbol": "$ROPE",
+  "web": "https://rope.lol",
+  "explorer": "https://etherscan.io/token/0x9d47894f8becb68b9cf3428d256311affe8b068b",
+  "links": {
+    "coingecko": "rope",
+    "twitter": "dontbuyrope",
+    "telegram": "dontbuyrope"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

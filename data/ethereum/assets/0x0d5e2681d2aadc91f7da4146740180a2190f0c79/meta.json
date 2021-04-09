@@ -1,0 +1,13 @@
+{
+  "name": "3X Long Huobi Token Token",
+  "symbol": "HTBULL",
+  "web": "https://ftx.com/tokens/HTBULL",
+  "explorer": "https://etherscan.io/token/0x0D5E2681D2AaDC91F7DA4146740180A2190f0c79",
+  "links": {
+    "coingecko": "3x-long-huobi-token-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

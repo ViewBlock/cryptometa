@@ -1,0 +1,18 @@
+{
+  "name": "Potentiam",
+  "symbol": "PTM",
+  "web": "https://www.potentiam.io",
+  "explorer": "https://etherscan.io/token/0x7c32DB0645A259FaE61353c1f891151A2e7f8c1e",
+  "links": {
+    "github": "Potentiam",
+    "coingecko": "potentiam",
+    "twitter": "Potentiam_io",
+    "facebook": "potentiam.io",
+    "telegram": "potentiamgroup",
+    "reddit": "r/Potentiam"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

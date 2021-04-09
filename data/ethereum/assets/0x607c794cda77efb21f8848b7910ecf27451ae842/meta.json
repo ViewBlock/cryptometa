@@ -1,0 +1,16 @@
+{
+  "name": "DeFiPie",
+  "symbol": "PIE",
+  "web": "https://defipie.com",
+  "explorer": "https://etherscan.io/token/0x607C794cDa77efB21F8848B7910ecf27451Ae842",
+  "links": {
+    "github": "DefiPie",
+    "coingecko": "defipie",
+    "twitter": "defipiepie",
+    "telegram": "defipie"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

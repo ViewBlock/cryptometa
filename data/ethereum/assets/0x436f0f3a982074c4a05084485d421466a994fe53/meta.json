@@ -1,0 +1,18 @@
+{
+  "name": "Rate3",
+  "symbol": "RTE",
+  "web": "https://www.rate3.network",
+  "explorer": "https://etherscan.io/token/0x436f0f3a982074c4a05084485d421466a994fe53",
+  "links": {
+    "github": "rate-engineering",
+    "coingecko": "rate3",
+    "twitter": "officialrate3",
+    "facebook": "officialrate3",
+    "telegram": "officialrate3",
+    "reddit": "r/rate3"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

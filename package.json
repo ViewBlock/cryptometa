@@ -1,19 +1,26 @@
 {
   "name": "cryptometa",
-  "version": "0.0.9",
+  "version": "0.1.5",
   "main": "src",
   "scripts": {
     "gen": "node bin/generate",
+    "test": "ava",
     "clean": "git checkout data/{**/,}**/logo-white.png"
-  },
-  "license": "MIT",
-  "devDependencies": {
-    "axios": "^0.21.0",
-    "image-pixels": "^2.2.2",
-    "nearest-color": "^0.4.4",
-    "svg2img": "^0.9.0"
   },
   "dependencies": {
     "isomorphic-fetch": "^3.0.0"
-  }
+  },
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "axios": "^0.21.0",
+    "axios-retry": "^3.1.9",
+    "image-pixels": "^2.2.2",
+    "lodash": "^4.17.21",
+    "looks-same": "^7.3.0",
+    "nearest-color": "^0.4.4",
+    "prompts": "^2.4.0",
+    "puppeteer": "^8.0.0",
+    "svg2img": "^0.9.0"
+  },
+  "license": "MIT"
 }

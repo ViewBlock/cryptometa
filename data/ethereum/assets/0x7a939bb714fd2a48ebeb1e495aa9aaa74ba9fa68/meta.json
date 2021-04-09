@@ -1,0 +1,14 @@
+{
+  "name": "Electric Vehicle Zone",
+  "symbol": "EVZ",
+  "web": "https://www.evzlife.com",
+  "explorer": "https://etherscan.io/token/0x7a939bb714fd2a48ebeb1e495aa9aaa74ba9fa68",
+  "links": {
+    "coingecko": "electric-vehicle-zone",
+    "telegram": "evzlife"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

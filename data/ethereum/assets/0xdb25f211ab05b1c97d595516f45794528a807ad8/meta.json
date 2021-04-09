@@ -1,0 +1,17 @@
+{
+  "name": "STASIS EURO",
+  "symbol": "EURS",
+  "web": "https://stasis.net",
+  "explorer": "https://etherscan.io/token/0xdb25f211ab05b1c97d595516f45794528a807ad8",
+  "links": {
+    "github": "STASISNET",
+    "coingecko": "stasis-eurs",
+    "twitter": "stasisnet",
+    "facebook": "stasisnet",
+    "telegram": "stasis_community"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

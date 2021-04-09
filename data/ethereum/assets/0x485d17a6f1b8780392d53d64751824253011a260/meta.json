@@ -1,0 +1,18 @@
+{
+  "name": "chrono.tech",
+  "symbol": "TIME",
+  "web": "https://chrono.tech",
+  "explorer": "https://etherscan.io/token/0x485d17A6f1B8780392d53D64751824253011A260",
+  "links": {
+    "github": "ChronoBank",
+    "coingecko": "chronobank",
+    "twitter": "ChronotechNews",
+    "facebook": "ChronotechNews",
+    "telegram": "chronotech",
+    "reddit": "r/ChronoBank"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

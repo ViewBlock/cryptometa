@@ -1,0 +1,17 @@
+{
+  "name": "Medooza Ecosystem",
+  "symbol": "MDZA",
+  "web": "https://medooza.io",
+  "explorer": "https://etherscan.io/token/0x0ecdd783dc7bf820614044b51862ed29714d2ba5",
+  "links": {
+    "github": "medooza-network",
+    "coingecko": "medooza-ecosystem",
+    "twitter": "medooza8",
+    "facebook": "medoozaio",
+    "telegram": "medoozaio"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

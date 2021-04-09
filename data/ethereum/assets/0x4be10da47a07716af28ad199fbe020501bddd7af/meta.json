@@ -1,0 +1,14 @@
+{
+  "name": "XT.com Token",
+  "symbol": "XT",
+  "web": "https://www.xt.com",
+  "explorer": "https://etherscan.io/token/0x4be10da47a07716af28ad199fbe020501bddd7af",
+  "links": {
+    "coingecko": "xtcom-token",
+    "telegram": "XtChinsesGroupA"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

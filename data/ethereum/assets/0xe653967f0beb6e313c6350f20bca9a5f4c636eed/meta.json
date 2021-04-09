@@ -1,0 +1,14 @@
+{
+  "name": "MISS",
+  "symbol": "MISS",
+  "web": "http://www.okmiss.top",
+  "explorer": "https://etherscan.io/token/0xe653967f0beb6e313c6350f20bca9a5f4c636eed",
+  "links": {
+    "coingecko": "miss",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

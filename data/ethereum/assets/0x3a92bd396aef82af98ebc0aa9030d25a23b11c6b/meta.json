@@ -1,0 +1,18 @@
+{
+  "name": "Tokenbox",
+  "symbol": "TBX",
+  "web": "https://tokenbox.io",
+  "explorer": "https://etherscan.io/token/0x3a92bd396aef82af98ebc0aa9030d25a23b11c6b",
+  "links": {
+    "github": "zeriontech",
+    "coingecko": "tokenbox",
+    "twitter": "tokenbox",
+    "facebook": "Tokenbox",
+    "telegram": "Tokenbox",
+    "reddit": "r/tokenbox"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

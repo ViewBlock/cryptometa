@@ -1,0 +1,15 @@
+{
+  "name": "Bavala",
+  "symbol": "BVA",
+  "web": "https://www.bavala.com",
+  "explorer": "https://etherscan.io/token/0x10d88d7495ca381df1391229bdb82d015b9ad17d",
+  "links": {
+    "coingecko": "bavala",
+    "twitter": "bavalaofficial",
+    "telegram": "BAVALAOFFICIAL"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

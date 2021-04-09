@@ -1,0 +1,15 @@
+{
+  "name": "Pepemon Pepeballs",
+  "symbol": "PPBLZ",
+  "web": "https://pepemon.world",
+  "explorer": "https://etherscan.io/token/0x4d2ee5dae46c86da2ff521f7657dad98834f97b8",
+  "links": {
+    "coingecko": "pepemon-pepeballs",
+    "twitter": "pepemonfinance",
+    "telegram": "pepemonfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

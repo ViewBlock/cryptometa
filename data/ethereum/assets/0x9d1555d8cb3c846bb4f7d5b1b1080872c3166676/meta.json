@@ -1,0 +1,17 @@
+{
+  "name": "Mirrored iShares Silver Trust",
+  "symbol": "MSLV",
+  "web": "https://mirror.finance",
+  "explorer": "https://etherscan.io/token/0x9d1555d8cB3C846Bb4f7D5B1B1080872c3166676",
+  "links": {
+    "github": "mirror-protocol",
+    "coingecko": "mirrored-ishares-silver-trust",
+    "twitter": "mirror_protocol",
+    "telegram": "mirror_protocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

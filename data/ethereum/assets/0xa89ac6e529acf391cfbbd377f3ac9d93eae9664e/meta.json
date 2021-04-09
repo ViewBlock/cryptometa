@@ -1,0 +1,16 @@
+{
+  "name": "Keep4r",
+  "symbol": "KP4R",
+  "web": "https://kp4r.network/#",
+  "explorer": "https://etherscan.io/token/0xa89ac6e529acf391cfbbd377f3ac9d93eae9664e",
+  "links": {
+    "github": "keep4rnetwork",
+    "coingecko": "keep4r",
+    "twitter": "kp4rnetwork",
+    "telegram": "keep4rnetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

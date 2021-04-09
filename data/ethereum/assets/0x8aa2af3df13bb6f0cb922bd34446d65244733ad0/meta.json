@@ -1,0 +1,17 @@
+{
+  "name": "Libra",
+  "symbol": "LC",
+  "web": "https://libraecosystem.com",
+  "explorer": "https://etherscan.io/token/0x8Aa2aF3DF13BB6f0cb922bd34446D65244733ad0",
+  "links": {
+    "coingecko": "libra-2",
+    "twitter": "libraecosystem",
+    "facebook": "ecosystemlibra",
+    "telegram": "LibraEcosystem",
+    "reddit": "r/LibraEcosystem"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

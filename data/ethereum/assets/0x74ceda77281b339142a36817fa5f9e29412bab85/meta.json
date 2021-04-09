@@ -1,0 +1,17 @@
+{
+  "name": "Eroscoin",
+  "symbol": "ERO",
+  "web": "https://eroscoin.org",
+  "explorer": "https://etherscan.io/token/0x74ceda77281b339142a36817fa5f9e29412bab85",
+  "links": {
+    "github": "eroscoin",
+    "coingecko": "eroscoin",
+    "twitter": "ErosCoinNews",
+    "facebook": "eroscoin",
+    "telegram": "eroscoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

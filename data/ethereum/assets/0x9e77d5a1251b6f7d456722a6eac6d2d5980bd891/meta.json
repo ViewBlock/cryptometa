@@ -1,0 +1,16 @@
+{
+  "name": "BROTHER",
+  "symbol": "BRAT",
+  "web": "http://bro-consortium.io",
+  "explorer": "https://etherscan.io/token/0x9e77d5a1251b6f7d456722a6eac6d2d5980bd891",
+  "links": {
+    "coingecko": "brother",
+    "twitter": "coinbrat",
+    "telegram": "brotherenglish",
+    "reddit": "r/Brothercoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

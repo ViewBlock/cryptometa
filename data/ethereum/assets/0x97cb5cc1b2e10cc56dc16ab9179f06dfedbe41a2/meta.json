@@ -1,0 +1,16 @@
+{
+  "name": "MobilinkToken",
+  "symbol": "MOLK",
+  "web": "https://mobilink.io",
+  "explorer": "https://etherscan.io/token/0x97cb5cc1b2e10cc56dc16ab9179f06dfedbe41a2",
+  "links": {
+    "coingecko": "mobilink-coin",
+    "twitter": "mobilinkcoin",
+    "facebook": "MOBILINKICO",
+    "reddit": "r/mobilinkcoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

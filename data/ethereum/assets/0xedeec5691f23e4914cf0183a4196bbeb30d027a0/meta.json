@@ -1,0 +1,16 @@
+{
+  "name": "Wrapped Statera",
+  "symbol": "WSTA",
+  "web": "https://stateratoken.com",
+  "explorer": "https://etherscan.io/token/0xedeec5691f23e4914cf0183a4196bbeb30d027a0",
+  "links": {
+    "coingecko": "wrapped-statera",
+    "twitter": "StateraProject",
+    "telegram": "stateratoken",
+    "reddit": "r/StateraToken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

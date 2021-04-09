@@ -1,0 +1,15 @@
+{
+  "name": "Moon Juice",
+  "symbol": "JUICE",
+  "web": "https://moonjuice.xyz",
+  "explorer": "https://etherscan.io/token/0x889efb523cc39590b8483eb9491890ac71407f64",
+  "links": {
+    "coingecko": "moon-juice",
+    "twitter": "MoonJuice_xyz",
+    "telegram": "moonjuice_xyz"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Nebulas",
+  "symbol": "NAS",
+  "web": "https://nebulas.io",
+  "explorer": "https://etherscan.io/token/0x5d65d971895edc438f465c17db6992698a52318d",
+  "links": {
+    "github": "nebulasio",
+    "coingecko": "nebulas",
+    "twitter": "nebulasio",
+    "facebook": "nebulasproject",
+    "telegram": "nebulasen",
+    "reddit": "r/nebulas"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "score": 19
+  }
+}

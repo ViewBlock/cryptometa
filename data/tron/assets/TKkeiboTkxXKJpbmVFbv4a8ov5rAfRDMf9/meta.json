@@ -1,0 +1,15 @@
+{
+  "name": "Sun Token",
+  "symbol": "SUN",
+  "web": "https://sun.io",
+  "explorer": "https://tronscan.org/#/token20/TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9",
+  "links": {
+    "coingecko": "sun-token",
+    "twitter": "SunMarket_DeFi",
+    "telegram": "SunMarket_Defi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

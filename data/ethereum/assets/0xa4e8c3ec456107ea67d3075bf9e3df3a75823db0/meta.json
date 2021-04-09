@@ -1,0 +1,16 @@
+{
+  "name": "Loom Network",
+  "symbol": "LOOM",
+  "web": "https://loomx.io",
+  "explorer": "https://etherscan.io/token/0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0",
+  "links": {
+    "github": "loomnetwork",
+    "coingecko": "loom-network",
+    "twitter": "loomnetwork",
+    "telegram": "loomnetwork"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

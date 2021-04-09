@@ -1,0 +1,15 @@
+{
+  "name": "DeFi on MCW",
+  "symbol": "DFM",
+  "web": "https://mycoldwallet.io",
+  "explorer": "https://etherscan.io/token/0x0ccD5DD52Dee42B171a623478e5261C1eaaE092A",
+  "links": {
+    "coingecko": "defi-on-mcw",
+    "twitter": "mycoldwallet",
+    "telegram": "p2pDeFi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

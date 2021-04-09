@@ -1,0 +1,16 @@
+{
+  "name": "RAIN Network",
+  "symbol": "RAIN",
+  "web": "https://rainnetwork.online",
+  "explorer": "https://etherscan.io/token/0x61cdb66e56fad942a7b5ce3f419ffe9375e31075",
+  "links": {
+    "github": "rainnetwork",
+    "coingecko": "rain-network",
+    "twitter": "rainnetworketh",
+    "telegram": "rainnetworketh"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "YFMoonBeam",
+  "symbol": "YFMB",
+  "web": "https://www.yfmoonbeam.com",
+  "explorer": "https://etherscan.io/token/0x7aFaC1D878C66A47263DCe57976C371Ae2e74882",
+  "links": {
+    "github": "https:",
+    "coingecko": "yfmoonbeam",
+    "twitter": "yfmoonbeam",
+    "telegram": "yfmoonbeam"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

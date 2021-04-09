@@ -1,0 +1,13 @@
+{
+  "name": "Super Trip Chain",
+  "symbol": "SUPT",
+  "web": "http://supt.pro",
+  "explorer": "https://etherscan.io/token/0x868ab6c9e560ff70584b9770d1bd1b961ad09d82",
+  "links": {
+    "coingecko": "super-trip-chain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Index Cooperative",
+  "symbol": "INDEX",
+  "web": "https://www.indexcoop.com",
+  "explorer": "https://etherscan.io/token/0x0954906da0Bf32d5479e25f46056d22f08464cab",
+  "links": {
+    "coingecko": "index-cooperative",
+    "twitter": "indexcoop"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

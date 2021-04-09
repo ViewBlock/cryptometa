@@ -1,0 +1,16 @@
+{
+  "name": "Krypton Galaxy Coin",
+  "symbol": "KGC",
+  "web": "https://kexingqiu.net",
+  "explorer": "https://etherscan.io/token/0xa8262eb913fccea4c3f77fc95b8b4043b384cfbb",
+  "links": {
+    "coingecko": "krypton-token",
+    "twitter": "KryptonFans",
+    "facebook": "virtualkrypton",
+    "telegram": "kexingqiu666"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

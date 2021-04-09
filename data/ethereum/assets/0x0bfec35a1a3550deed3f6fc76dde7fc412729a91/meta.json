@@ -1,0 +1,15 @@
+{
+  "name": "xKNCa",
+  "symbol": "XKNCA",
+  "web": "https://xtoken.market",
+  "explorer": "https://etherscan.io/token/0x0bfEc35a1A3550Deed3F6fC76Dde7FC412729a91",
+  "links": {
+    "github": "xtokenmarket",
+    "coingecko": "xknca",
+    "twitter": "xtokenmarket"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

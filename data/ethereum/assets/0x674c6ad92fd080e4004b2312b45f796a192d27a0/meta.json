@@ -1,0 +1,17 @@
+{
+  "name": "Neutrino USD",
+  "symbol": "USDN",
+  "web": "https://neutrino.at",
+  "explorer": "https://etherscan.io/token/0x674C6Ad92Fd080e4004b2312b45f796a192D27a0",
+  "links": {
+    "github": "ventuary-lab",
+    "coingecko": "neutrino",
+    "twitter": "neutrino_proto",
+    "facebook": "Neutrino-Protocol-106351204088941",
+    "telegram": "neutrino_protocol_news"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

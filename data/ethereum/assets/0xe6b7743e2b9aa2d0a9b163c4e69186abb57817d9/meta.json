@@ -1,0 +1,13 @@
+{
+  "name": "Kuky Star",
+  "symbol": "KUKY",
+  "web": "http://www.kuky.io",
+  "explorer": "https://etherscan.io/token/0xe6b7743e2b9aa2d0a9b163c4e69186abb57817d9",
+  "links": {
+    "coingecko": "kuky-star"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

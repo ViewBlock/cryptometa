@@ -1,0 +1,16 @@
+{
+  "name": "Torex",
+  "symbol": "TOR",
+  "web": "https://torex.one",
+  "explorer": "https://etherscan.io/token/0x9ea20fbfaa44efbc60c6728fcdba17f01b7e04fe",
+  "links": {
+    "coingecko": "torex",
+    "twitter": "TorexOne",
+    "facebook": "torex.one",
+    "telegram": "torexofficial"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Payship",
+  "symbol": "PSHP",
+  "web": "https://payship.org",
+  "explorer": "https://etherscan.io/token/0x88D59Ba796fDf639dEd3b5E720988D59fDb71Eb8",
+  "links": {
+    "coingecko": "payship",
+    "twitter": "payship_org",
+    "telegram": "payship"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

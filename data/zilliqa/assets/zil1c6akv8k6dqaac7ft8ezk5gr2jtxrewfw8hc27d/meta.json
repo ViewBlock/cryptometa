@@ -1,0 +1,19 @@
+{
+  "name": "DuckDuck",
+  "symbol": "Duck",
+  "product": false,
+  "web": "https://home.duck.community",
+  "supply": "420.69",
+  "email": "duckduckzil@protonmail.com",
+  "links": {
+    "twitter": "https://twitter.com/zilduck",
+    "medium": "https://duckduckzil.medium.com",
+    "telegram": "https://t.me/zilduck",
+    "discord": "https://discord.gg/rm936388X7",
+    "github": "https://github.com/ZilDuck"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

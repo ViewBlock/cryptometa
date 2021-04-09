@@ -1,0 +1,18 @@
+{
+  "name": "KardiaChain",
+  "symbol": "KAI",
+  "web": "https://www.kardiachain.io",
+  "explorer": "https://etherscan.io/token/0xd9ec3ff1f8be459bb9369b4e79e9ebcf7141c093",
+  "links": {
+    "github": "kardiachain",
+    "coingecko": "kardiachain",
+    "twitter": "KardiaChain",
+    "facebook": "KardiaChainFoundation",
+    "telegram": "kardiachainofficial",
+    "reddit": "r/KardiaChain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

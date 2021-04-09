@@ -1,0 +1,16 @@
+{
+  "name": "YFISCURITY",
+  "symbol": "YFIS",
+  "web": "https://yfiexchange.finance",
+  "explorer": "https://etherscan.io/token/0x86965a86539e2446f9e72634cefca7983cc21a81",
+  "links": {
+    "github": "yfiexchange",
+    "coingecko": "yfiscurity",
+    "twitter": "YfiexchangeF",
+    "telegram": "yfiexchange"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

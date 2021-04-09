@@ -1,0 +1,15 @@
+{
+  "name": "Autonio",
+  "symbol": "NIOX",
+  "web": "https://autonio.foundation",
+  "explorer": "https://etherscan.io/token/0xc813EA5e3b48BEbeedb796ab42A30C5599b01740",
+  "links": {
+    "coingecko": "autonio",
+    "twitter": "AI_Autonio",
+    "telegram": "Autonio_Foundation"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

@@ -1,19 +1,21 @@
 {
-  "symbol": "SWINGBY-888",
   "name": "Swingby Token",
-  "email": "contact@swingby.network",
+  "symbol": "SWINGBY-888",
   "web": "https://swingby.network",
-  "decimals": null,
-  "supply": 1000000000,
+  "explorer": "https://explorer.binance.org/asset/SWINGBY-888",
   "links": {
     "github": "https://github.com/SwingbyProtocol",
+    "coingecko": "swingby",
+    "twitter": "https://twitter.com/SwingbyProtocol",
     "telegram": "https://t.me/Swingby",
-    "medium": "https://medium.com/swingby-protocol",
-    "twitter": "https://twitter.com/SwingbyProtocol"
+    "reddit": "r/swingbyofficial",
+    "medium": "https://medium.com/swingby-protocol"
   },
+  "email": "contact@swingby.network",
+  "decimals": null,
+  "supply": 1000000000,
   "gen": {
     "logo": "logo.png",
-    "hasDark": false,
     "score": 19
   }
 }

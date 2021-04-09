@@ -1,0 +1,15 @@
+{
+  "name": "OneRoot Network",
+  "symbol": "RNT",
+  "web": "https://www.oneroot.io/en",
+  "explorer": "https://etherscan.io/token/0xff603f43946a3a28df5e6a73172555d8c8b02386",
+  "links": {
+    "coingecko": "oneroot-network",
+    "twitter": "OneRootNetwork",
+    "telegram": "OneRootProject"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "pNetwork",
+  "symbol": "PNT",
+  "web": "https://p.network",
+  "explorer": "https://etherscan.io/token/0x89ab32156e46f46d02ade3fecbe5fc4243b9aaed",
+  "links": {
+    "github": "provable-things",
+    "coingecko": "pnetwork",
+    "twitter": "pNetworkDeFi",
+    "telegram": "pNetworkDefi",
+    "reddit": "r/pTokens"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

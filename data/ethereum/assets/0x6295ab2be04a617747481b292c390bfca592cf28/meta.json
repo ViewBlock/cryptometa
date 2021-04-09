@@ -1,0 +1,15 @@
+{
+  "name": "TokenDesk",
+  "symbol": "TDS",
+  "web": "https://www.tokendesk.io",
+  "explorer": "https://etherscan.io/token/0x6295Ab2BE04A617747481B292c390BfcA592Cf28",
+  "links": {
+    "coingecko": "tokendesk",
+    "twitter": "tokendesk",
+    "facebook": "Tokendesk-295767304231539"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

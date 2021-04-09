@@ -1,0 +1,17 @@
+{
+  "name": "Aeron",
+  "symbol": "ARNX",
+  "web": "https://aeron.aero",
+  "explorer": "https://etherscan.io/token/0x0C37Bcf456bC661C14D596683325623076D7e283",
+  "links": {
+    "github": "aeronaero",
+    "coingecko": "aeron",
+    "twitter": "aeron_aero",
+    "telegram": "aeronaero",
+    "reddit": "r/aeronaero"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

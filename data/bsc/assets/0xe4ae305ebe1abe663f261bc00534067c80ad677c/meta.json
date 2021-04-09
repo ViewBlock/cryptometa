@@ -1,0 +1,13 @@
+{
+  "name": "Spartan Protocol Token",
+  "symbol": "SPARTA",
+  "web": "https://spartanprotocol.org",
+  "explorer": "https://bscscan.com/token/0xe4ae305ebe1abe663f261bc00534067c80ad677c",
+  "links": {
+    "github": "spartan-protocol",
+    "coingecko": "spartan-protocol-token",
+    "twitter": "SpartanProtocol",
+    "telegram": "SpartanProtocolOrg",
+    "reddit": "https://www.reddit.com"
+  }
+}

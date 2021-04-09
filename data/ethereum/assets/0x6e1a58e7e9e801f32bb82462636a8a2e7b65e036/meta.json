@@ -1,0 +1,16 @@
+{
+  "name": "LCG",
+  "symbol": "LCG",
+  "web": "https://lcg-energy.com",
+  "explorer": "https://etherscan.io/token/0x6e1a58e7e9e801f32bb82462636a8a2e7b65e036",
+  "links": {
+    "coingecko": "lcg",
+    "twitter": "LcgIco",
+    "facebook": "LCGICO",
+    "telegram": "LCG_ICO_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

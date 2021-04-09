@@ -1,0 +1,18 @@
+{
+  "name": "Natmin",
+  "symbol": "NAT",
+  "web": "https://www.natmin.io",
+  "explorer": "https://etherscan.io/token/0x90d46a9636b973f18186541d1b04ed3621a49cb0",
+  "links": {
+    "github": "NatminPureEscrow",
+    "coingecko": "natmin-pure-escrow",
+    "twitter": "NatminPE",
+    "facebook": "natminpureescrow",
+    "telegram": "NatminPureEscrow",
+    "reddit": "r/NatminPureEscrow"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

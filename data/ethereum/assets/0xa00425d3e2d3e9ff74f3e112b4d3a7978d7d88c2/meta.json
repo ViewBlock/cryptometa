@@ -1,0 +1,18 @@
+{
+  "name": "GoPower",
+  "symbol": "GPT",
+  "web": "https://tokengoplatform.com",
+  "explorer": "https://etherscan.io/token/0xa00425d3e2d3e9ff74f3e112b4d3a7978d7d88c2",
+  "links": {
+    "github": "TokenGo",
+    "coingecko": "tokengo",
+    "twitter": "Token_Go",
+    "facebook": "tokengoplatform",
+    "telegram": "TokenGo_EN",
+    "reddit": "r/Tokengo"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

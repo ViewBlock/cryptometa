@@ -1,0 +1,13 @@
+{
+  "name": "Oracle System",
+  "symbol": "ORC",
+  "web": "http://www.oraclesystem.io",
+  "explorer": "https://etherscan.io/token/0x324af2d5353f2dd138e234b359d30d67c64b1b20",
+  "links": {
+    "coingecko": "oracle-system"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

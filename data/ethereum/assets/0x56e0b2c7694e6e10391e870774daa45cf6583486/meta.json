@@ -1,0 +1,17 @@
+{
+  "name": "DUO Network",
+  "symbol": "DUO",
+  "web": "https://duo.network",
+  "explorer": "https://etherscan.io/token/0x56e0b2c7694e6e10391e870774daa45cf6583486",
+  "links": {
+    "github": "FinBook",
+    "coingecko": "duo",
+    "twitter": "duo_network",
+    "telegram": "duonetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

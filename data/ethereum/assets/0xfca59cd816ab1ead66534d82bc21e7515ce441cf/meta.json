@@ -1,0 +1,15 @@
+{
+  "name": "Rarible",
+  "symbol": "RARI",
+  "web": "https://app.rarible.com/rari",
+  "explorer": "https://etherscan.io/token/0xfca59cd816ab1ead66534d82bc21e7515ce441cf",
+  "links": {
+    "coingecko": "rarible",
+    "twitter": "rariblecom",
+    "telegram": "rarible"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "DATA",
+  "symbol": "DTA",
+  "web": "http://data.eco",
+  "explorer": "https://etherscan.io/token/0x69b148395ce0015c13e36bffbad63f49ef874e03",
+  "links": {
+    "github": "Blockchain-DATA",
+    "coingecko": "data",
+    "twitter": "Blockchain_Data",
+    "facebook": "Blockchain-Data-Foundation-1949486855317034",
+    "telegram": "blockchainDATA",
+    "reddit": "r/DATAblockchain"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "ORS Group",
+  "symbol": "ORS",
+  "web": "https://www.orsgroup.io",
+  "explorer": "https://etherscan.io/token/0xac2e58a06e6265f1cf5084ee58da68e5d75b49ca",
+  "links": {
+    "github": "ORSGroup",
+    "coingecko": "orsgroup-io",
+    "twitter": "ORS_ICO",
+    "facebook": "orsgroup.io",
+    "telegram": "orstoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Sparkster",
+  "symbol": "SPRK",
+  "web": "https://sparkster.me",
+  "explorer": "https://etherscan.io/token/0x971d048e737619884f2df75e31c7eb6412392328",
+  "links": {
+    "github": "sparkster-me",
+    "coingecko": "sparkster",
+    "twitter": "Sparkster_Me",
+    "telegram": "SparksterICO"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

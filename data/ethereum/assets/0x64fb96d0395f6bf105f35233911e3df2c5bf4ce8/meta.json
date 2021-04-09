@@ -1,0 +1,16 @@
+{
+  "name": "Elastic Bitcoin",
+  "symbol": "XBT",
+  "web": "https://elasticbitcoin.org",
+  "explorer": "https://etherscan.io/token/0x64fB96d0395f6bf105F35233911e3dF2C5bf4Ce8",
+  "links": {
+    "github": "ElasticBTC-XBT",
+    "coingecko": "elastic-bitcoin",
+    "twitter": "elasticbitcoin",
+    "telegram": "elasticbitcoinxbt"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

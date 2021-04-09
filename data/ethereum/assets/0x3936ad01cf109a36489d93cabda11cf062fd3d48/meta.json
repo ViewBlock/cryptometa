@@ -1,0 +1,16 @@
+{
+  "name": "Coil",
+  "symbol": "COIL",
+  "web": "https://coilcrypto.com",
+  "explorer": "https://etherscan.io/token/0x3936Ad01cf109a36489d93cabdA11cF062fd3d48",
+  "links": {
+    "github": "Coil-Official",
+    "coingecko": "coil-crypto",
+    "twitter": "CoilCrypto",
+    "telegram": "coilcrypto"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

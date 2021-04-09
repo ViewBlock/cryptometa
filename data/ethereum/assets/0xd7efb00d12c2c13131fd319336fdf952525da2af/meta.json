@@ -1,0 +1,18 @@
+{
+  "name": "Proton",
+  "symbol": "XPR",
+  "web": "https://www.protonchain.com",
+  "explorer": "https://etherscan.io/token/0xd7efb00d12c2c13131fd319336fdf952525da2af",
+  "links": {
+    "github": "ProtonProtocol",
+    "coingecko": "proton",
+    "twitter": "protonxpr",
+    "facebook": "protonxpr",
+    "telegram": "ProtonXPR",
+    "reddit": "r/ProtonChain"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

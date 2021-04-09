@@ -1,0 +1,17 @@
+{
+  "name": "Hintchain",
+  "symbol": "HINT",
+  "web": "http://hintchain.io",
+  "explorer": "https://etherscan.io/token/0x6ce21e5f5383c95691d243879a86a6025e0870c0",
+  "links": {
+    "coingecko": "hintchain",
+    "twitter": "hintchain",
+    "facebook": "hintchain",
+    "telegram": "hintchain_official_en",
+    "reddit": "r/Hintchain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "smARTOFGIVING",
+  "symbol": "AOG",
+  "web": "https://www.smartofgiving.com",
+  "explorer": "https://etherscan.io/token/0x8578530205cecbe5db83f7f29ecfeec860c297c2",
+  "links": {
+    "github": "smartofgiving",
+    "coingecko": "smartofgiving",
+    "twitter": "AogCoin",
+    "facebook": "Aogtoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

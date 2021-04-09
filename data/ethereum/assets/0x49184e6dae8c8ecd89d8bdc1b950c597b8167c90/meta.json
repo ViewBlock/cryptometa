@@ -1,0 +1,16 @@
+{
+  "name": "LIBERTAS",
+  "symbol": "LIBERTAS",
+  "web": "https://libertas.network",
+  "explorer": "https://etherscan.io/token/0x49184e6dae8c8ecd89d8bdc1b950c597b8167c90",
+  "links": {
+    "github": "TheLibertasProject",
+    "coingecko": "libertas-token",
+    "twitter": "TheRealLibertas",
+    "telegram": "libertasproject"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

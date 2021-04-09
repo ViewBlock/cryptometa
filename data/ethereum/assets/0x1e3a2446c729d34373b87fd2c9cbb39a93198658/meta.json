@@ -1,0 +1,15 @@
+{
+  "name": "DeFi Nation Signals DAO",
+  "symbol": "DSD",
+  "web": "https://joindefination.com",
+  "explorer": "https://etherscan.io/token/0x1e3a2446c729d34373b87fd2c9cbb39a93198658",
+  "links": {
+    "coingecko": "defi-nation-signals-dao",
+    "twitter": "JoinDeFi",
+    "telegram": "dsd_trading"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

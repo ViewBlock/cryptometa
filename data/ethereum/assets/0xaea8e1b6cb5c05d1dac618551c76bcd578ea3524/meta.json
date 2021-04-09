@@ -1,0 +1,17 @@
+{
+  "name": "Sogur",
+  "symbol": "SGR",
+  "web": "https://www.sogur.com",
+  "explorer": "https://etherscan.io/token/0xaea8e1b6cb5c05d1dac618551c76bcd578ea3524",
+  "links": {
+    "github": "SagaCurrency",
+    "coingecko": "saga",
+    "twitter": "sogurcurrency",
+    "facebook": "sogurcurrency",
+    "telegram": "SogurSGR_ANN"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

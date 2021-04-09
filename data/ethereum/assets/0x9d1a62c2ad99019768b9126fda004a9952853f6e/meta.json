@@ -1,0 +1,13 @@
+{
+  "name": "3X Long BNB Token",
+  "symbol": "BNBBULL",
+  "web": "https://ftx.com/tokens/BNBBULL",
+  "explorer": "https://etherscan.io/token/0x9d1a62c2ad99019768b9126fda004a9952853f6e",
+  "links": {
+    "coingecko": "3x-long-bnb-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

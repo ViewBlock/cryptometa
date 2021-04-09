@@ -1,0 +1,17 @@
+{
+  "name": "Genesis Network",
+  "symbol": "GENX",
+  "web": "https://genesisnetwork.io",
+  "explorer": "https://tronscan.org/#/token20/TY7pG4ABFjRcnAHmJJc2xAaarGEU753LxG",
+  "links": {
+    "github": "genesisofficial",
+    "coingecko": "genesis-network",
+    "twitter": "genx_network",
+    "facebook": "genxnetwork",
+    "reddit": "r/genesisnetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

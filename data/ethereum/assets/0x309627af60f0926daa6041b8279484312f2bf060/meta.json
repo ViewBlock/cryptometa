@@ -1,0 +1,15 @@
+{
+  "name": "USD Bancor",
+  "symbol": "USDB",
+  "web": "https://usdb.peg.network",
+  "explorer": "https://etherscan.io/token/0x309627af60f0926daa6041b8279484312f2bf060",
+  "links": {
+    "github": "zachdoty",
+    "coingecko": "usd-bancor",
+    "telegram": "pegnetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Stellar Classic",
+  "symbol": "XLMX",
+  "web": "https://stellar-classics.com",
+  "explorer": "https://etherscan.io/token/0x1e66008a24a486456a796e0c771fdc0cdf43cad9",
+  "links": {
+    "github": "Stellarclassics",
+    "coingecko": "stellar-classic",
+    "twitter": "classicsstellar",
+    "facebook": "Stellarclassics",
+    "telegram": "stellarclassics"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

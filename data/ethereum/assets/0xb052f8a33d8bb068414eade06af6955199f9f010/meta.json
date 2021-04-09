@@ -1,0 +1,16 @@
+{
+  "name": "Ecoreal Estate",
+  "symbol": "ECOREAL",
+  "web": "https://ecoreal.estate",
+  "explorer": "https://etherscan.io/token/0xb052f8a33d8bb068414eade06af6955199f9f010",
+  "links": {
+    "coingecko": "ecoreal-estate",
+    "twitter": "EcorealT",
+    "facebook": "ecorealtoken",
+    "telegram": "ecorealtoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

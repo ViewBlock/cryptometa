@@ -1,0 +1,16 @@
+{
+  "name": "Migranet",
+  "symbol": "MIG",
+  "web": "https://migranet.io",
+  "explorer": "https://etherscan.io/token/0x05a78ffea2b35aa1af438c21cf06668cf118df0a",
+  "links": {
+    "coingecko": "migranet",
+    "twitter": "migranet1",
+    "facebook": "migranet888",
+    "telegram": "migranet"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

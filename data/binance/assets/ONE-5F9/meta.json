@@ -15,8 +15,7 @@
     "research": "https://research.binance.com/en/projects/harmony"
   },
   "gen": {
-    "logo": "logo.png",
-    "hasDark": false,
+    "logo": "logo.svg",
     "score": 29
   }
 }

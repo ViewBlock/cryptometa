@@ -1,0 +1,16 @@
+{
+  "name": "Triaconta",
+  "symbol": "TRIA",
+  "web": "https://triaconta.com",
+  "explorer": "https://etherscan.io/token/0x3293cc907fde439b39aedaf1b982785adaff186b",
+  "links": {
+    "github": "nevixa",
+    "coingecko": "triaconta",
+    "twitter": "triacontacc",
+    "facebook": "Triaconta"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

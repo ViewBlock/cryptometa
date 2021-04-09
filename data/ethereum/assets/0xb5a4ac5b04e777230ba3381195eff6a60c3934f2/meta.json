@@ -1,0 +1,17 @@
+{
+  "name": "inSure DeFi",
+  "symbol": "SURE",
+  "web": "https://insuretoken.net",
+  "explorer": "https://etherscan.io/token/0xb5a4ac5b04e777230ba3381195eff6a60c3934f2",
+  "links": {
+    "github": "inSureToken",
+    "coingecko": "insure",
+    "twitter": "InsureToken",
+    "facebook": "inSuretoken",
+    "telegram": "insuresystem"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

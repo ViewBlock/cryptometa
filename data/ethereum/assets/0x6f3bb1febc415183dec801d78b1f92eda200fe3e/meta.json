@@ -1,0 +1,16 @@
+{
+  "name": "Greenheart Punt",
+  "symbol": "PUNT",
+  "web": "https://greenheartcbd.ie",
+  "explorer": "https://etherscan.io/token/0x6f3bb1febc415183dec801d78b1f92eda200fe3e",
+  "links": {
+    "coingecko": "greenheart-punt",
+    "twitter": "CbdGreenheart",
+    "facebook": "greenheartpunttoken",
+    "telegram": "greenheartpunt"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

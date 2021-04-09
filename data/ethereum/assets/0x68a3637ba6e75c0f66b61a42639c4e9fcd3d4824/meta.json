@@ -1,0 +1,16 @@
+{
+  "name": "MoonSwap",
+  "symbol": "MOON",
+  "web": "https://moonswap.fi",
+  "explorer": "https://etherscan.io/token/0x68a3637ba6e75c0f66b61a42639c4e9fcd3d4824",
+  "links": {
+    "github": "moon-migration",
+    "coingecko": "moonswap",
+    "twitter": "imMoonSwap",
+    "telegram": "moonswap"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

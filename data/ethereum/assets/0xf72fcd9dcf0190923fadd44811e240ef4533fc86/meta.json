@@ -1,0 +1,17 @@
+{
+  "name": "Mirrored ProShares VIX",
+  "symbol": "MVIXY",
+  "web": "https://mirror.finance",
+  "explorer": "https://etherscan.io/token/0xf72FCd9DCF0190923Fadd44811E240Ef4533fc86",
+  "links": {
+    "github": "mirror-protocol",
+    "coingecko": "mirrored-proshares-vix",
+    "twitter": "mirror_protocol",
+    "telegram": "mirror_protocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

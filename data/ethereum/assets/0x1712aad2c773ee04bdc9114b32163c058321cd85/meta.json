@@ -1,0 +1,15 @@
+{
+  "name": "LimitSwap",
+  "symbol": "LIMIT",
+  "web": "https://www.limitswap.com",
+  "explorer": "https://etherscan.io/token/0x1712aad2c773ee04bdc9114b32163c058321cd85",
+  "links": {
+    "coingecko": "limitswap",
+    "twitter": "LimitSwap",
+    "telegram": "limitswap"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

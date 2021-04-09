@@ -1,0 +1,16 @@
+{
+  "name": "Nest Protocol",
+  "symbol": "NEST",
+  "web": "https://nestdapp.io",
+  "explorer": "https://etherscan.io/token/0x04abeda201850ac0124161f037efd70c74ddc74c",
+  "links": {
+    "github": "NEST-Protocol",
+    "coingecko": "nest",
+    "twitter": "BruceYang_NEST",
+    "telegram": "nest_chat"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

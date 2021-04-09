@@ -1,0 +1,15 @@
+{
+  "name": "TerraUSD",
+  "symbol": "UST",
+  "web": "https://terra.money",
+  "explorer": "https://etherscan.io/token/0xa47c8bf37f92abed4a126bda807a7b7498661acd",
+  "links": {
+    "github": "terra-project",
+    "coingecko": "terrausd",
+    "twitter": "terra_money"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

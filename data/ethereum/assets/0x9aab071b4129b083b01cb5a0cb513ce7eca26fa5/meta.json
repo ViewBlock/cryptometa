@@ -1,0 +1,17 @@
+{
+  "name": "HUNT",
+  "symbol": "HUNT",
+  "web": "https://token.hunt.town",
+  "explorer": "https://etherscan.io/token/0x9aab071b4129b083b01cb5a0cb513ce7eca26fa5",
+  "links": {
+    "github": "Steemhunt",
+    "coingecko": "hunt-token",
+    "twitter": "steemhunt",
+    "telegram": "steemhunt",
+    "reddit": "r/steemhunt"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

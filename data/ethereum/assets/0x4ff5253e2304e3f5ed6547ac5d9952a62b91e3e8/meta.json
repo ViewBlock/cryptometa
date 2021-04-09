@@ -1,0 +1,17 @@
+{
+  "name": "Stabinol",
+  "symbol": "STOL",
+  "web": "https://stabilize.finance",
+  "explorer": "https://etherscan.io/token/0x4ff5253e2304e3f5ed6547ac5d9952a62b91e3e8",
+  "links": {
+    "github": "stabilize-token",
+    "coingecko": "stabinol",
+    "twitter": "StabilizePro",
+    "telegram": "stabilizeprotocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

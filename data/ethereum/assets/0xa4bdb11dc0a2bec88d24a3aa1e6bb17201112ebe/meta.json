@@ -1,0 +1,15 @@
+{
+  "name": "Stably Dollar",
+  "symbol": "USDS",
+  "web": "https://www.stably.io",
+  "explorer": "https://etherscan.io/token/0xa4bdb11dc0a2bec88d24a3aa1e6bb17201112ebe",
+  "links": {
+    "coingecko": "stableusd",
+    "twitter": "StablyCoin",
+    "facebook": "stablycoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

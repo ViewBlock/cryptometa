@@ -1,0 +1,17 @@
+{
+  "name": "Bitmax Token",
+  "symbol": "BTMX",
+  "web": "https://bitmax.io/#/home",
+  "explorer": "https://etherscan.io/token/0xcca0c9c383076649604ee31b20248bc04fdf61ca",
+  "links": {
+    "coingecko": "bmax",
+    "twitter": "BitMax_Official",
+    "facebook": "BitMaxOfficial",
+    "telegram": "BitMaxioEnglishOfficial",
+    "reddit": "r/BitMax"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

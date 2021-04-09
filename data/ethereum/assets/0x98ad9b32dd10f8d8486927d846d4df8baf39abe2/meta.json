@@ -1,0 +1,16 @@
+{
+  "name": "VELO Token",
+  "symbol": "VLO",
+  "web": "https://velotoken.fi",
+  "explorer": "https://etherscan.io/token/0x98ad9B32dD10f8D8486927D846D4Df8BAf39Abe2",
+  "links": {
+    "github": "velo-finance",
+    "coingecko": "velo-token",
+    "twitter": "velotoken",
+    "telegram": "Velotoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

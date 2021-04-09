@@ -1,0 +1,14 @@
+{
+  "name": "BeeKan / Beenews",
+  "symbol": "BKBT",
+  "web": "https://www.beekan.org/index_en.html#",
+  "explorer": "https://etherscan.io/token/0x6a27348483d59150ae76ef4c0f3622a78b0ca698",
+  "links": {
+    "coingecko": "beekan",
+    "twitter": "beekan_org"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

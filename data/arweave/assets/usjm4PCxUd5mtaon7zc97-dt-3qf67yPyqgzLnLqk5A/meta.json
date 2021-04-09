@@ -6,6 +6,7 @@
   "email": "tate@verto.exchange",
   "product": true,
   "publicTeam": true,
+  "trusted": true,
   "links": {
     "github": "https://github.com/useverto",
     "twitter": "https://twitter.com/vertoexchange",
@@ -17,8 +18,9 @@
     "manualDark": true
   },
   "gen": {
-    "logo": "logo.png",
+    "logo": "logo.svg",
     "hasDark": true,
-    "score": 71
+    "darkExt": "svg",
+    "score": 100
   }
 }

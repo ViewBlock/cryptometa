@@ -1,0 +1,15 @@
+{
+  "name": "Thorncoin",
+  "symbol": "THRN",
+  "web": "https://thorncoin.com",
+  "explorer": "https://etherscan.io/token/0x35a735b7d1d811887966656855f870c05fd0a86d",
+  "links": {
+    "coingecko": "thorncoin",
+    "twitter": "thorncoin",
+    "telegram": "Thorncoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

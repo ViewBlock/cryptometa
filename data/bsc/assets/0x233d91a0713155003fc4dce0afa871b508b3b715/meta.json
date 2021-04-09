@@ -1,0 +1,10 @@
+{
+  "name": "Ditto",
+  "symbol": "DITTO",
+  "web": "https://ditto.money",
+  "explorer": "https://bscscan.com/token/0x233d91A0713155003fc4DcE0AFa871b508B3B715",
+  "links": {
+    "coingecko": "ditto",
+    "telegram": "dittomoney"
+  }
+}

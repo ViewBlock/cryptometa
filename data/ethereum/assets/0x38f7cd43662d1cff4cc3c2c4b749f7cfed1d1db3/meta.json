@@ -1,0 +1,15 @@
+{
+  "name": "Neeva Defi",
+  "symbol": "NVA",
+  "web": "https://neevadefi.com",
+  "explorer": "https://etherscan.io/token/0x38f7cd43662d1cff4cc3c2c4b749f7cfed1d1db3",
+  "links": {
+    "coingecko": "neeva-defi",
+    "twitter": "neevatoken",
+    "facebook": "NEEVA-101777771697322"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Tcbcoin",
+  "symbol": "TCFX",
+  "web": "https://tcbtrade.com",
+  "explorer": "https://etherscan.io/token/0x36dCffe069a3F2878Fab2A46D81e83D462d0cBF7",
+  "links": {
+    "coingecko": "tcbcoin",
+    "telegram": "tcbtradechannel"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

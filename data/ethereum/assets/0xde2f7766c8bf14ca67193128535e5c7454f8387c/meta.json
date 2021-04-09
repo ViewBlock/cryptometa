@@ -1,0 +1,19 @@
+{
+  "name": "Metadium",
+  "symbol": "META",
+  "web": "https://metadium.com",
+  "explorer": "https://etherscan.io/token/0xde2f7766c8bf14ca67193128535e5c7454f8387c",
+  "links": {
+    "github": "METADIUM",
+    "coingecko": "metadium",
+    "twitter": "metadiumg",
+    "facebook": "Metadium",
+    "telegram": "MetadiumOfficial",
+    "reddit": "r/metadiumprotocol"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "score": 19
+  }
+}

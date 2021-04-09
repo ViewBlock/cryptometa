@@ -1,0 +1,16 @@
+{
+  "name": "FoundryDAO Logistics",
+  "symbol": "FRY",
+  "web": "https://foundrydao.com",
+  "explorer": "https://etherscan.io/token/0x6c972b70c533e2e045f333ee28b9ffb8d717be69",
+  "links": {
+    "github": "team-toast",
+    "coingecko": "foundrydao-logistics",
+    "twitter": "foundrydao",
+    "telegram": "foundrycommunity"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

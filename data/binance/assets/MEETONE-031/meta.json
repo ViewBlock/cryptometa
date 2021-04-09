@@ -8,7 +8,7 @@
   "links": {},
   "gen": {
     "logo": "logo.png",
-    "hasDark": false,
+    "hasDark": true,
     "score": 5
   }
 }

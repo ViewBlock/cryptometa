@@ -1,0 +1,15 @@
+{
+  "name": "Verge",
+  "symbol": "XVG",
+  "web": "http://vergecurrency.com",
+  "explorer": "https://verge-blockchain.info",
+  "links": {
+    "github": "vergecurrency",
+    "coingecko": "verge",
+    "twitter": "vergecurrency",
+    "reddit": "r/vergecurrency"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

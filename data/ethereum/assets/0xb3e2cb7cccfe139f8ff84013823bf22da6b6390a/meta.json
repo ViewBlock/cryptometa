@@ -1,0 +1,19 @@
+{
+  "name": "Iconic Token",
+  "symbol": "ICNQ",
+  "web": "https://iconicholding.com/icnq-token",
+  "explorer": "https://etherscan.io/token/0xb3e2cb7cccfe139f8ff84013823bf22da6b6390a",
+  "links": {
+    "github": "IconiqLab",
+    "coingecko": "iconiq-lab-token",
+    "twitter": "iconic_holding",
+    "facebook": "iconiclabvc",
+    "telegram": "iconicholdingchat",
+    "reddit": "r/iconiqlab"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

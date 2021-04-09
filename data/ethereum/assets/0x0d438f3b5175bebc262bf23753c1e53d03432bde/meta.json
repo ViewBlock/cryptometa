@@ -1,0 +1,14 @@
+{
+  "name": "Wrapped NXM",
+  "symbol": "WNXM",
+  "web": "https://nexusmutual.io",
+  "explorer": "https://etherscan.io/token/0x0d438f3b5175bebc262bf23753c1e53d03432bde",
+  "links": {
+    "coingecko": "wrapped-nxm",
+    "twitter": "NexusMutual"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "UniCrapToken.xyz",
+  "symbol": "UNICRAP",
+  "web": "https://unicraptoken.xyz",
+  "explorer": "https://etherscan.io/token/0x64c5572e7a100af9901c148d75d72c619a7f1e9d",
+  "links": {
+    "coingecko": "unicrap",
+    "twitter": "UniCrapToken",
+    "telegram": "UniCrapToken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

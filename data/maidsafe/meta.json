@@ -1,0 +1,17 @@
+{
+  "name": "MaidSafeCoin",
+  "symbol": "MAID",
+  "web": "http://maidsafe.net",
+  "explorer": "https://omniexplorer.info",
+  "links": {
+    "github": "maidsafe",
+    "coingecko": "maidsafecoin",
+    "twitter": "maidsafe",
+    "facebook": "GetMaidSafe",
+    "telegram": "safenetwork",
+    "reddit": "r/safenetwork"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

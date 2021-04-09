@@ -1,0 +1,15 @@
+{
+  "name": "cUSDC",
+  "symbol": "CUSDC",
+  "web": "https://compound.finance",
+  "explorer": "https://etherscan.io/token/0x39aa39c021dfbae8fac545936693ac917d5e7563",
+  "links": {
+    "github": "compound-finance",
+    "coingecko": "compound-usd-coin",
+    "twitter": "compoundfinance"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

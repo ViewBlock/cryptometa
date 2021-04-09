@@ -1,0 +1,17 @@
+{
+  "name": "Joint Ventures",
+  "symbol": "JOINT",
+  "web": "https://jointventures.io",
+  "explorer": "https://etherscan.io/token/0x347c099f110ca6761779329d2879957b606b6ace",
+  "links": {
+    "github": "JointVentures",
+    "coingecko": "joint",
+    "twitter": "jointventuresio",
+    "facebook": "jointventuresio",
+    "telegram": "jointventures"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

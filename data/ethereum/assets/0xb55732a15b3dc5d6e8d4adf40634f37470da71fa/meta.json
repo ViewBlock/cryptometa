@@ -1,0 +1,16 @@
+{
+  "name": "ECPN Token",
+  "symbol": "ECPN",
+  "web": "https://ecpntoken.org",
+  "explorer": "https://etherscan.io/token/0xb55732a15b3dc5d6e8d4adf40634f37470da71fa",
+  "links": {
+    "github": "ecpn",
+    "coingecko": "ecpntoken",
+    "twitter": "ecpntoken",
+    "facebook": "ecpn.token.3"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

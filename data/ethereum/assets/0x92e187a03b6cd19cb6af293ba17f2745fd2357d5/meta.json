@@ -1,0 +1,16 @@
+{
+  "name": "Unit Protocol New",
+  "symbol": "DUCK",
+  "web": "https://unit.xyz",
+  "explorer": "https://etherscan.io/token/0x92e187a03b6cd19cb6af293ba17f2745fd2357d5",
+  "links": {
+    "github": "unitprotocol",
+    "coingecko": "unit-protocol-duck",
+    "twitter": "unitprotocol",
+    "telegram": "unit_en"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Digital Ticks",
+  "symbol": "DTX",
+  "web": "https://www.digitalticks.com",
+  "explorer": "https://etherscan.io/token/0x82fdedfb7635441aa5a92791d001fa7388da8025",
+  "links": {
+    "github": "digitalticks",
+    "coingecko": "digital-ticks",
+    "twitter": "digitalticks",
+    "facebook": "DigitalTicksExchange"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

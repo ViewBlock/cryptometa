@@ -1,0 +1,16 @@
+{
+  "name": "DFI.money",
+  "symbol": "YFII",
+  "web": "https://dfi.money",
+  "explorer": "https://etherscan.io/token/0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83",
+  "links": {
+    "github": "yfii",
+    "coingecko": "yfii-finance",
+    "twitter": "DfiMoney",
+    "telegram": "yfiifinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

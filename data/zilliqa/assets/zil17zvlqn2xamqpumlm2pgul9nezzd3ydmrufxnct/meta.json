@@ -4,11 +4,11 @@
   "web": "https://cryptobarter.group/",
   "whitepaper": "https://cryptobarter.group/wp-content/uploads/2020/12/whitepaper.pdf",
   "links": {
-    "github": "https://github.com/CryptoBarterGroup"
+    "github": "https://github.com/CryptoBarterGroup",
+    "twitter": "https://twitter.com/BarterCrypto"
   },
   "gen": {
     "logo": "logo.svg",
-    "hasDark": false,
-    "score": 24
+    "score": 29
   }
 }

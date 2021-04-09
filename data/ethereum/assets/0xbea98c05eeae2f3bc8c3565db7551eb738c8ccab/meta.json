@@ -1,0 +1,16 @@
+{
+  "name": "Geyser",
+  "symbol": "GYSR",
+  "web": "https://gysr.io",
+  "explorer": "https://etherscan.io/token/0xbea98c05eeae2f3bc8c3565db7551eb738c8ccab",
+  "links": {
+    "github": "gysr-io",
+    "coingecko": "geyser",
+    "twitter": "gysr_io",
+    "telegram": "gysr_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

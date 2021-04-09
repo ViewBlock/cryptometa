@@ -1,0 +1,16 @@
+{
+  "name": "Belacoin",
+  "symbol": "BELA",
+  "web": "https://www.livebela.com",
+  "explorer": "https://etherscan.io/token/0x2e98a6804e4b6c832ed0ca876a943abd3400b224",
+  "links": {
+    "github": "TheAmbiaFund",
+    "coingecko": "belacoin",
+    "twitter": "LetsLiveBela",
+    "telegram": "letslivebela"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

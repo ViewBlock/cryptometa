@@ -1,0 +1,16 @@
+{
+  "name": "ASSY Index",
+  "symbol": "ASSY",
+  "web": "https://powerindex.io/#/mainnet/0xfa2562da1bba7b954f26c74725df51fb62646313/supply",
+  "explorer": "https://etherscan.io/token/0xFA2562da1Bba7B954f26C74725dF51fb62646313",
+  "links": {
+    "github": "powerpool-finance",
+    "coingecko": "assy-index",
+    "twitter": "powerpoolcvp",
+    "telegram": "powerpoolcvp"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

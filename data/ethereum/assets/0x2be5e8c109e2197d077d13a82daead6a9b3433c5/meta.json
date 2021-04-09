@@ -1,0 +1,17 @@
+{
+  "name": "Tokamak Network",
+  "symbol": "TON",
+  "web": "https://tokamak.network",
+  "explorer": "https://etherscan.io/token/0x2be5e8c109e2197D077D13A82dAead6a9b3433C5",
+  "links": {
+    "github": "onther-tech",
+    "coingecko": "tokamak-network",
+    "twitter": "tokamak_network",
+    "facebook": "OntherInc",
+    "telegram": "tokamak_network"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

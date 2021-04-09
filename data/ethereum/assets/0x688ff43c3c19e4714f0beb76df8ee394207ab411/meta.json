@@ -1,0 +1,15 @@
+{
+  "name": "CitiOS",
+  "symbol": "R2R",
+  "web": "https://www.citios.io",
+  "explorer": "https://etherscan.io/token/0x688ff43c3c19e4714f0beb76df8ee394207ab411",
+  "links": {
+    "coingecko": "citios",
+    "twitter": "CitiosOfficial",
+    "facebook": "CitiOSofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "SOTA Finance",
+  "symbol": "SOTA",
+  "web": "https://sota.finance/en",
+  "explorer": "https://etherscan.io/token/0x0dde6f6e345bfd23f3f419f0dfe04e93143b44fb",
+  "links": {
+    "coingecko": "sota-finance",
+    "twitter": "sotaNFTs",
+    "telegram": "sotaNFTer"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

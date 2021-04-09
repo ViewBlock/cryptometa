@@ -1,0 +1,15 @@
+{
+  "name": "noob.finance",
+  "symbol": "$NOOB",
+  "web": "https://noob.finance",
+  "explorer": "https://etherscan.io/token/0x1fc05d480b1ef1175a31123bfdbd36bfee256889",
+  "links": {
+    "coingecko": "noob-finance",
+    "twitter": "noob_finance",
+    "telegram": "noobfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

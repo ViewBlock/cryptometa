@@ -1,0 +1,16 @@
+{
+  "name": "Storiqa",
+  "symbol": "STQ",
+  "web": "https://ico.storiqa.com",
+  "explorer": "https://etherscan.io/token/0x5c3a228510d246b78a3765c20221cbf3082b44a4",
+  "links": {
+    "coingecko": "storiqa",
+    "twitter": "storiqa",
+    "facebook": "storiqa",
+    "telegram": "storiqa_en"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

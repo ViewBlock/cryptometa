@@ -1,0 +1,17 @@
+{
+  "name": "Voltz",
+  "symbol": "VOLTZ",
+  "web": "https://voltz.io",
+  "explorer": "https://etherscan.io/token/0x60715e436c37444e29772c0d26a98ae1e8e1a989",
+  "links": {
+    "github": "voltz-energy",
+    "coingecko": "voltz",
+    "twitter": "UkVoltz",
+    "facebook": "VOLTZ.IO",
+    "telegram": "VoltzUK"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

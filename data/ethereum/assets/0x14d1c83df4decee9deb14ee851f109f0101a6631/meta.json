@@ -1,0 +1,15 @@
+{
+  "name": "Volts.Finance",
+  "symbol": "VOLTS",
+  "web": "https://volts.finance",
+  "explorer": "https://etherscan.io/token/0x14d1c83df4decee9deb14ee851f109f0101a6631",
+  "links": {
+    "coingecko": "volts-finance",
+    "twitter": "VoltsFinance",
+    "telegram": "volts_finance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

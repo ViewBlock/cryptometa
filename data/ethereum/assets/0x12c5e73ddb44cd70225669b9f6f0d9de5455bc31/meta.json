@@ -1,0 +1,17 @@
+{
+  "name": "Idoneus Token",
+  "symbol": "IDON",
+  "web": "https://idoneus.io",
+  "explorer": "https://etherscan.io/token/0x12c5E73Ddb44cD70225669B9F6f0d9DE5455Bc31",
+  "links": {
+    "github": "idoneusglobal",
+    "coingecko": "idoneus-token",
+    "twitter": "idoneusglobal",
+    "facebook": "idoneusglobal",
+    "telegram": "idoneusglobal"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

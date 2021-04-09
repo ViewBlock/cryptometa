@@ -1,0 +1,16 @@
+{
+  "name": "True Seigniorage Dollar",
+  "symbol": "TSD",
+  "web": "https://truedollar.finance/#",
+  "explorer": "https://etherscan.io/token/0x4846239fdf4d4c1aeb26729fa064b0205aca90e1",
+  "links": {
+    "github": "TrueDollar",
+    "coingecko": "true-seigniorage-dollar",
+    "twitter": "TrueSeigniorage",
+    "telegram": "TrueSeigniorageDollar"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

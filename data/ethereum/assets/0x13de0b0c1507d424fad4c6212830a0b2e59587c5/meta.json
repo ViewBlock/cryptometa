@@ -1,0 +1,16 @@
+{
+  "name": "WishChain",
+  "symbol": "WISH",
+  "web": "https://wishchain.io",
+  "explorer": "https://etherscan.io/token/0x13de0b0c1507d424fad4c6212830a0b2e59587c5",
+  "links": {
+    "coingecko": "wishchain",
+    "twitter": "WishChain",
+    "facebook": "Wish-Chain-505868386485439",
+    "telegram": "wishchain_announce"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

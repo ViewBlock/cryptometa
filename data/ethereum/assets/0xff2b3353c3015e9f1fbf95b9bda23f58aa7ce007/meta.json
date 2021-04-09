@@ -1,0 +1,17 @@
+{
+  "name": "BitScreener",
+  "symbol": "BITX",
+  "web": "https://tokensale.bitscreener.com",
+  "explorer": "https://etherscan.io/token/0xff2b3353c3015e9f1fbf95b9bda23f58aa7ce007",
+  "links": {
+    "github": "BitScreenerTech",
+    "coingecko": "bitscreener",
+    "twitter": "BitScreener",
+    "facebook": "bitscreenercom",
+    "telegram": "BitScreener"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

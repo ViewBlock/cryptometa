@@ -1,0 +1,17 @@
+{
+  "name": "Cosmo Coin",
+  "symbol": "COSM",
+  "web": "https://cosmochain.io",
+  "explorer": "https://etherscan.io/token/0xd1e10c37a27d95d95720291b1dc6f12f74c71443",
+  "links": {
+    "github": "cosmochain",
+    "coingecko": "cosmo-coin",
+    "twitter": "cosmochain",
+    "facebook": "cosmochain",
+    "telegram": "cosmochain_english"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

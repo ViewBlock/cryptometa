@@ -1,0 +1,18 @@
+{
+  "name": "QuarkChain",
+  "symbol": "QKC",
+  "web": "https://quarkchain.io",
+  "explorer": "https://etherscan.io/token/0xea26c4ac16d4a5a106820bc8aee85fd0b7b2b664",
+  "links": {
+    "github": "QuarkChain",
+    "coingecko": "quark-chain",
+    "twitter": "Quark_Chain",
+    "facebook": "quarkchain",
+    "telegram": "quarkchainio",
+    "reddit": "r/quarkchainio"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

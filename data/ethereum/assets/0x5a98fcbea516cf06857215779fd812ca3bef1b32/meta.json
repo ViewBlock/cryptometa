@@ -1,0 +1,16 @@
+{
+  "name": "Lido DAO",
+  "symbol": "LDO",
+  "web": "https://stake.lido.fi",
+  "explorer": "https://etherscan.io/token/0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+  "links": {
+    "github": "lidofinance",
+    "coingecko": "lido-dao",
+    "twitter": "lidofinance",
+    "telegram": "lidofinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

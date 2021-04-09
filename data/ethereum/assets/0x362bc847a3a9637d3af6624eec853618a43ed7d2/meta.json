@@ -1,0 +1,15 @@
+{
+  "name": "PARSIQ",
+  "symbol": "PRQ",
+  "web": "https://www.parsiq.net",
+  "explorer": "https://etherscan.io/token/0x362bc847A3a9637d3af6624EeC853618a43ed7D2",
+  "links": {
+    "coingecko": "parsiq",
+    "twitter": "parsiq_net",
+    "telegram": "parsiq_group"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

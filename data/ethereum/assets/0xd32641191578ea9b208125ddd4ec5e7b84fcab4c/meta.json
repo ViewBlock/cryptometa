@@ -1,0 +1,16 @@
+{
+  "name": "MDsquare",
+  "symbol": "TMED",
+  "web": "https://mdsqr.io",
+  "explorer": "https://etherscan.io/token/0xd32641191578ea9b208125ddd4ec5e7b84fcab4c",
+  "links": {
+    "coingecko": "mdsquare",
+    "facebook": "tmedtoken",
+    "telegram": "mdsqr",
+    "reddit": "r/MDsquare"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

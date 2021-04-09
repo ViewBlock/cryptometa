@@ -1,0 +1,8 @@
+{
+  "name": "Huobi Ethereum",
+  "symbol": "HETH",
+  "web": "https://www.htokens.finance/en-us",
+  "links": {
+    "coingecko": "huobi-ethereum"
+  }
+}

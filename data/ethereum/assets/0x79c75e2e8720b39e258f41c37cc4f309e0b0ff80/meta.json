@@ -1,0 +1,17 @@
+{
+  "name": "Phantasma",
+  "symbol": "SOUL",
+  "web": "https://phantasma.io",
+  "explorer": "https://etherscan.io/token/0x79c75e2e8720b39e258f41c37cc4f309e0b0ff80",
+  "links": {
+    "github": "phantasma-io",
+    "coingecko": "phantasma",
+    "twitter": "phantasmachain",
+    "telegram": "phantasma_io",
+    "reddit": "https://www.reddit.comr/phantasma"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

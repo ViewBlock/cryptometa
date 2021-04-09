@@ -1,0 +1,17 @@
+{
+  "name": "IONChain",
+  "symbol": "IONC",
+  "web": "https://www.ionchain.org",
+  "explorer": "https://etherscan.io/token/0xbc647aad10114b89564c0a7aabe542bd0cf2c5af",
+  "links": {
+    "github": "ionchain",
+    "coingecko": "ionchain-token",
+    "twitter": "ion_chain",
+    "telegram": "ionchainen",
+    "reddit": "r/ionchain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

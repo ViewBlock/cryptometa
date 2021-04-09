@@ -1,0 +1,15 @@
+{
+  "name": "Dock",
+  "symbol": "DOCK",
+  "web": "https://dock.io",
+  "explorer": "https://etherscan.io/token/0xe5dada80aa6477e85d09747f2842f7993d0df71c",
+  "links": {
+    "coingecko": "dock",
+    "twitter": "docknetwork",
+    "reddit": "r/dockio"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

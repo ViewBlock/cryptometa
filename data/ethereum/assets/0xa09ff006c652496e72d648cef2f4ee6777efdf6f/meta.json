@@ -1,0 +1,15 @@
+{
+  "name": "deCraft Finance",
+  "symbol": "CRAFT",
+  "web": "https://decraft.finance",
+  "explorer": "https://etherscan.io/token/0xa09ff006c652496e72d648cef2f4ee6777efdf6f",
+  "links": {
+    "coingecko": "decraft-finance",
+    "twitter": "deCRAFTfinance",
+    "telegram": "deCraftfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

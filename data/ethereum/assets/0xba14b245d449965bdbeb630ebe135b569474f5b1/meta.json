@@ -1,0 +1,15 @@
+{
+  "name": "EvaCash",
+  "symbol": "EVC",
+  "web": "https://theevacash.com",
+  "explorer": "https://etherscan.io/token/0xba14b245d449965bdbeb630ebe135b569474f5b1",
+  "links": {
+    "coingecko": "evacash",
+    "twitter": "evacash_token",
+    "telegram": "evacash"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

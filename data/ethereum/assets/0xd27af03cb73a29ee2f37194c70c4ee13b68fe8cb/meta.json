@@ -1,0 +1,16 @@
+{
+  "name": "Freq Set Dollar",
+  "symbol": "FSD",
+  "web": "https://freqset.finance",
+  "explorer": "https://etherscan.io/token/0xD27af03cb73a29eE2f37194c70c4Ee13B68fE8cb",
+  "links": {
+    "github": "freqsetdollars",
+    "coingecko": "freq-set-dollar",
+    "twitter": "FreqSet",
+    "telegram": "freqsetdollar"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

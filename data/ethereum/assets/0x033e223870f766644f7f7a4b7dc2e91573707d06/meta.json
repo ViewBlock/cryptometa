@@ -1,0 +1,18 @@
+{
+  "name": "Zin",
+  "symbol": "ZIN",
+  "web": "https://www.zin.finance",
+  "explorer": "https://etherscan.io/token/0x033e223870f766644f7f7a4B7dc2E91573707d06",
+  "links": {
+    "github": "ZinFinance",
+    "coingecko": "zin",
+    "twitter": "ZinFinance",
+    "facebook": "zinfinance",
+    "telegram": "zinfinance",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

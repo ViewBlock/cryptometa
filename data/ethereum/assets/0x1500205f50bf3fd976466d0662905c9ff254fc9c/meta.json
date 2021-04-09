@@ -1,0 +1,16 @@
+{
+  "name": "BitBoost",
+  "symbol": "BBT",
+  "web": "https://www.bitboost.net",
+  "explorer": "https://etherscan.io/token/0x1500205f50bf3fd976466d0662905c9ff254fc9c",
+  "links": {
+    "github": "Bitboost",
+    "coingecko": "bitboost",
+    "twitter": "bitboosters",
+    "facebook": "1819931498257673"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "LUX BIO EXCHANGE COIN",
+  "symbol": "LBXC",
+  "web": "https://luxbio.io",
+  "explorer": "https://etherscan.io/token/0xffe510a92434a0df346c5e72a3494b043cf249eb",
+  "links": {
+    "coingecko": "lux-bio-exchange-coin",
+    "twitter": "OLuxbio",
+    "telegram": "LBXC_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

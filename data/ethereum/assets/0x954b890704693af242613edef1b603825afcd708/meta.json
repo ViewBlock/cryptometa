@@ -1,0 +1,18 @@
+{
+  "name": "Cardstack",
+  "symbol": "CARD",
+  "web": "https://cardstack.com",
+  "explorer": "https://etherscan.io/token/0x954b890704693af242613edef1b603825afcd708",
+  "links": {
+    "github": "cardstack",
+    "coingecko": "cardstack",
+    "twitter": "cardstack",
+    "facebook": "cardstackproject",
+    "telegram": "cardstack",
+    "reddit": "r/Cardstack"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

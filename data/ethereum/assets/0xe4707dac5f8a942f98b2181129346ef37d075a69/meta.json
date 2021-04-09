@@ -1,0 +1,14 @@
+{
+  "name": "Cryptlo",
+  "symbol": "CLO",
+  "web": "https://www.cryptlodex.com",
+  "explorer": "https://etherscan.io/token/0xe4707dac5f8a942f98b2181129346ef37d075a69",
+  "links": {
+    "coingecko": "cryptlo",
+    "twitter": "cryptlodex"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Unifty",
+  "symbol": "NIF",
+  "web": "https://unifty.io",
+  "explorer": "https://etherscan.io/token/0x7e291890b01e5181f7ecc98d79ffbe12ad23df9e",
+  "links": {
+    "coingecko": "unifty",
+    "twitter": "unifty_io",
+    "telegram": "unifty"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "xMARK",
+  "symbol": "XMARK",
+  "web": "https://benchmarkprotocol.finance",
+  "explorer": "https://bscscan.com/token/0x26a5dfab467d4f58fb266648cae769503cec9580",
+  "links": {
+    "github": "benchmarkprotocol",
+    "coingecko": "xmark",
+    "twitter": "benchmark_defi",
+    "telegram": "benchmark_protocol"
+  }
+}

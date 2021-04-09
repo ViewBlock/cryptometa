@@ -1,0 +1,15 @@
+{
+  "name": "Pylon Finance",
+  "symbol": "PYLON",
+  "web": "https://pylon.finance/#",
+  "explorer": "https://etherscan.io/token/0xD7B7d3C0bdA57723Fb54ab95Fd8F9EA033AF37f2",
+  "links": {
+    "coingecko": "pylon-finance",
+    "twitter": "Pylonfinance",
+    "telegram": "pylonfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "N3RD Finance",
+  "symbol": "N3RDZ",
+  "web": "https://n3rd.finance",
+  "explorer": "https://etherscan.io/token/0x32c868f6318d6334b2250f323d914bc2239e4eee",
+  "links": {
+    "github": "N3RD-FINANCE",
+    "coingecko": "n3rd-finance",
+    "twitter": "nerdfinance1",
+    "telegram": "nerdfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

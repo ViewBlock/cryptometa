@@ -1,0 +1,17 @@
+{
+  "name": "Tourist Review Token",
+  "symbol": "TRET",
+  "web": "https://touristreview.io",
+  "explorer": "https://etherscan.io/token/0xc6d603a9df53d1542552058c382bf115aace70c7",
+  "links": {
+    "github": "tretchainvn",
+    "coingecko": "tourist-review-token",
+    "twitter": "TRET_Global",
+    "facebook": "TouristReviewGlobal",
+    "telegram": "touristreviewofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

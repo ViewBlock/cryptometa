@@ -1,0 +1,15 @@
+{
+  "name": "BitUnits Europa",
+  "symbol": "OPA",
+  "web": "https://www.bitunits.club",
+  "explorer": "https://blockscout.com/etc/mainnet/address/0x3ec00ee8a4fbe81e7eea328029ce490654e8e11a/tokens/0xeceadbb8441aa28b76d8c756ee873ac574068204/token_transfers",
+  "links": {
+    "coingecko": "bitunits-europa",
+    "twitter": "bitunits",
+    "reddit": "r/BitUnits"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

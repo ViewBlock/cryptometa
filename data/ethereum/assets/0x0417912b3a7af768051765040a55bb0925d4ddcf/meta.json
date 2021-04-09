@@ -1,0 +1,17 @@
+{
+  "name": "Liquidity Dividends Protocol",
+  "symbol": "LID",
+  "web": "https://www.lid.sh",
+  "explorer": "https://etherscan.io/token/0x0417912b3a7af768051765040a55bb0925d4ddcf",
+  "links": {
+    "github": "carlsbad-sunshine",
+    "coingecko": "liquidity-dividends-protocol",
+    "twitter": "LID_Protocol",
+    "telegram": "LIDProtocol",
+    "reddit": "https://www.reddit.comr/LIDProtocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

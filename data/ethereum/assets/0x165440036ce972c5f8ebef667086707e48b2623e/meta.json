@@ -1,0 +1,15 @@
+{
+  "name": "UniGraph",
+  "symbol": "GRAPH",
+  "web": "https://unigraph.app",
+  "explorer": "https://etherscan.io/token/0x165440036ce972c5f8ebef667086707e48b2623e",
+  "links": {
+    "coingecko": "unigraph",
+    "twitter": "UnigraphApp",
+    "telegram": "unigraphapp"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

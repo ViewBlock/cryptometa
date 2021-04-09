@@ -1,0 +1,17 @@
+{
+  "name": "DOS Network",
+  "symbol": "DOS",
+  "web": "https://dos.network",
+  "explorer": "https://etherscan.io/token/0x0A913beaD80F321E7Ac35285Ee10d9d922659cB7",
+  "links": {
+    "github": "DOSNetwork",
+    "coingecko": "dos-network",
+    "twitter": "DosNetwork",
+    "telegram": "dosnetwork_en",
+    "reddit": "r/DOSNetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

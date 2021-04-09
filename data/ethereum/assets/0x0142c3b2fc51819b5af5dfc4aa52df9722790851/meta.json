@@ -1,0 +1,17 @@
+{
+  "name": "Paycent",
+  "symbol": "PYN",
+  "web": "https://paycent.com",
+  "explorer": "https://etherscan.io/token/0x0142c3b2fc51819b5af5dfc4aa52df9722790851",
+  "links": {
+    "github": "PaycentGlobal",
+    "coingecko": "paycent",
+    "twitter": "PaycentGlobal",
+    "facebook": "paycent.sg",
+    "telegram": "paycent"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

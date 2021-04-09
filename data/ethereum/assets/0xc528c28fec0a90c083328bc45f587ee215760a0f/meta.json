@@ -1,0 +1,17 @@
+{
+  "name": "Endor Protocol Token",
+  "symbol": "EDR",
+  "web": "https://www.endor.com",
+  "explorer": "https://etherscan.io/token/0xc528c28fec0a90c083328bc45f587ee215760a0f",
+  "links": {
+    "github": "EndorCoin",
+    "coingecko": "endor",
+    "twitter": "endorscience",
+    "facebook": "EndorScience-1105921412798077",
+    "reddit": "r/EndorCoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

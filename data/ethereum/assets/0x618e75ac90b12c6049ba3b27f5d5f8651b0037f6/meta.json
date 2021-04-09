@@ -1,0 +1,17 @@
+{
+  "name": "QASH",
+  "symbol": "QASH",
+  "web": "https://liquid.com",
+  "explorer": "https://etherscan.io/token/0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6",
+  "links": {
+    "coingecko": "qash",
+    "twitter": "Liquid_Global",
+    "facebook": "LiquidGlobal",
+    "telegram": "QUOINENews",
+    "reddit": "r/liquid"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

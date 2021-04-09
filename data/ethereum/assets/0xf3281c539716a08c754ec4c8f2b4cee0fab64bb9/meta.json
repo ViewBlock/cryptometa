@@ -1,0 +1,17 @@
+{
+  "name": "Markaccy",
+  "symbol": "MKCY",
+  "web": "https://markaccy.io",
+  "explorer": "https://etherscan.io/token/0xF3281c539716a08c754EC4C8F2B4cEe0faB64BB9",
+  "links": {
+    "github": "markaccyofficial",
+    "coingecko": "markaccy",
+    "twitter": "Markaccy",
+    "facebook": " https://www.facebook.com/Markaccy ",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

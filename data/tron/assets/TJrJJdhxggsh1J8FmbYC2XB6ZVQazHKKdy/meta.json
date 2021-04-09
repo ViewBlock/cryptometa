@@ -1,0 +1,16 @@
+{
+  "name": "TronNodes",
+  "symbol": "TRN",
+  "web": "https://tronnodes.com",
+  "explorer": "https://tronscan.org/#/token20/TJrJJdhxggsh1J8FmbYC2XB6ZVQazHKKdy",
+  "links": {
+    "coingecko": "tronnodes",
+    "twitter": "NodesTron",
+    "facebook": "tron.nodes.1",
+    "telegram": "TronNodesCommunity"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

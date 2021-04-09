@@ -1,0 +1,16 @@
+{
+  "name": "Connect Financial",
+  "symbol": "CNFI",
+  "web": "https://www.connect.financial",
+  "explorer": "https://etherscan.io/token/0xeabb8996ea1662cad2f7fb715127852cd3262ae9",
+  "links": {
+    "github": "Connect-Financial",
+    "coingecko": "connect-financial",
+    "twitter": "ConnectWallet",
+    "telegram": "connectfinancial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

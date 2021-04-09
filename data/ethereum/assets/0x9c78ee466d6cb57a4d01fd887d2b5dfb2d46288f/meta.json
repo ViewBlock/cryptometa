@@ -1,0 +1,17 @@
+{
+  "name": "Must",
+  "symbol": "MUST",
+  "web": "https://www.cometh.io",
+  "explorer": "https://etherscan.io/token/0x9C78EE466D6Cb57A4d01Fd887D2b5dFb2D46288f",
+  "links": {
+    "github": "cometh-game",
+    "coingecko": "must",
+    "twitter": "MUSTCometh",
+    "telegram": "cometh_io",
+    "reddit": "r/cometh"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

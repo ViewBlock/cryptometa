@@ -1,0 +1,17 @@
+{
+  "name": "Aragon Court",
+  "symbol": "ANJ",
+  "web": "https://anj.aragon.org",
+  "explorer": "https://etherscan.io/token/0xcD62b1C403fa761BAadFC74C525ce2B51780b184",
+  "links": {
+    "github": "aragon",
+    "coingecko": "anj",
+    "twitter": "AragonProject",
+    "telegram": "aragonproject",
+    "reddit": "r/aragonproject"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

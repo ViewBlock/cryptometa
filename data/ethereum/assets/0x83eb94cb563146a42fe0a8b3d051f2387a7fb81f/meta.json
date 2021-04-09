@@ -1,0 +1,17 @@
+{
+  "name": "Cipher Core Token",
+  "symbol": "CIPHC",
+  "web": "https://www.cipher-core.com",
+  "explorer": "https://etherscan.io/token/0x83eB94cB563146a42Fe0a8b3D051F2387A7FB81f",
+  "links": {
+    "github": "cipher-core",
+    "coingecko": "cipher-core-token",
+    "twitter": "CryptoC63943050",
+    "facebook": "cryptocash.space",
+    "telegram": "cryptocash_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "QCAD",
+  "symbol": "QCAD",
+  "web": "https://www.stablecorp.ca",
+  "explorer": "https://etherscan.io/token/0x4A16BAf414b8e637Ed12019faD5Dd705735DB2e0",
+  "links": {
+    "coingecko": "qcad",
+    "twitter": "stablecorp"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

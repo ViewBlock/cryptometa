@@ -1,0 +1,16 @@
+{
+  "name": "Curate",
+  "symbol": "XCUR",
+  "web": "https://curate.style",
+  "explorer": "https://etherscan.io/token/0xE1c7E30C42C24582888C758984f6e382096786bd",
+  "links": {
+    "github": "curate-project",
+    "coingecko": "curate",
+    "twitter": "curateproject",
+    "telegram": "curate"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

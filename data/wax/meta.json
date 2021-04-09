@@ -1,0 +1,16 @@
+{
+  "name": "WAX",
+  "symbol": "WAXP",
+  "web": "https://wax.io",
+  "explorer": "http://wax.bloks.io",
+  "links": {
+    "github": "worldwide-asset-exchange",
+    "coingecko": "wax",
+    "twitter": "WAX_io",
+    "telegram": "wax_io",
+    "reddit": "r/WAX_io"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

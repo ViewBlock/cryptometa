@@ -1,0 +1,17 @@
+{
+  "name": "OAX",
+  "symbol": "OAX",
+  "web": "https://www.oax.org",
+  "explorer": "https://etherscan.io/token/0x701c244b988a513c945973defa05de933b23fe1d",
+  "links": {
+    "github": "OAXFoundation",
+    "coingecko": "openanx",
+    "twitter": "oax_foundation",
+    "telegram": "openanxteam",
+    "reddit": "r/OpenANX"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

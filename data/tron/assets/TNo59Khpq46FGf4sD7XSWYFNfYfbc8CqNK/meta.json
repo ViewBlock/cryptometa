@@ -1,0 +1,15 @@
+{
+  "name": "Bankroll Network",
+  "symbol": "BNKR",
+  "web": "https://bankroll.network",
+  "explorer": "https://tronscan.org/#/token20/TNo59Khpq46FGf4sD7XSWYFNfYfbc8CqNK",
+  "links": {
+    "coingecko": "bankroll-network",
+    "twitter": "Bankroll_Status",
+    "telegram": "bankrollnetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

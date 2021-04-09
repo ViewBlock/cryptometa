@@ -1,0 +1,15 @@
+{
+  "name": "Toshify.finance",
+  "symbol": "YFT",
+  "web": "https://toshify.finance",
+  "explorer": "https://etherscan.io/token/0x9cd39da8f25ec50cf2ee260e464ac23ea23f6bb0",
+  "links": {
+    "coingecko": "toshify-finance",
+    "twitter": "toshifyfinance",
+    "telegram": "toshifyfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

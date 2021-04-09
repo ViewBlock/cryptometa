@@ -1,0 +1,15 @@
+{
+  "name": "FreeTip",
+  "symbol": "FTT",
+  "web": "https://freetiptoken.com",
+  "explorer": "https://etherscan.io/token/0x174bea2cb8b20646681e855196cf34fcecec2489",
+  "links": {
+    "coingecko": "freetip",
+    "twitter": "freetiptoken",
+    "telegram": "freetiptoken"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

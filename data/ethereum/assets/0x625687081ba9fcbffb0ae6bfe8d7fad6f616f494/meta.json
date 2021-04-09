@@ -1,0 +1,16 @@
+{
+  "name": "Medalte",
+  "symbol": "MDTL",
+  "web": "https://medalte.com",
+  "explorer": "https://etherscan.io/token/0x625687081ba9fcbffb0ae6bfe8d7fad6f616f494",
+  "links": {
+    "github": "Medalte",
+    "coingecko": "medalte",
+    "twitter": "medaltetoken",
+    "telegram": "Medalte"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

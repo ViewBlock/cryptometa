@@ -1,0 +1,14 @@
+{
+  "name": "KittenFinance",
+  "symbol": "KIF",
+  "web": "https://www.kitten.finance",
+  "explorer": "https://etherscan.io/token/0x177ba0cac51bfc7ea24bad39d81dcefd59d74faa",
+  "links": {
+    "coingecko": "kittenfinance",
+    "twitter": "KittenFinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

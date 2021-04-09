@@ -1,0 +1,17 @@
+{
+  "name": "Waves",
+  "symbol": "WAVES",
+  "web": "https://waves.tech",
+  "explorer": "https://etherscan.io/token/0x1cF4592ebfFd730c7dc92c1bdFFDfc3B9EfCf29a",
+  "links": {
+    "github": "wavesplatform",
+    "coingecko": "waves",
+    "twitter": "wavesprotocol",
+    "telegram": "wavesnews",
+    "reddit": "r/Wavesplatform"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

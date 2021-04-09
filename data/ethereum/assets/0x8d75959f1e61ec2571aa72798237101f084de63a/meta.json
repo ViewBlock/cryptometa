@@ -1,0 +1,16 @@
+{
+  "name": "Substratum",
+  "symbol": "SUB",
+  "web": "https://substratum.net",
+  "explorer": "https://etherscan.io/token/0x8d75959f1e61ec2571aa72798237101f084de63a",
+  "links": {
+    "github": "substratum-net",
+    "coingecko": "substratum",
+    "twitter": "SubstratumNet",
+    "reddit": "r/SubstratumNetwork"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

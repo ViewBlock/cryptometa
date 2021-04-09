@@ -1,0 +1,15 @@
+{
+  "name": "uUSDrBTC Synthetic Token Expiring 1 October 2020",
+  "symbol": "UUSDRBTC-OCT",
+  "web": "https://umaproject.org",
+  "explorer": "https://etherscan.io/token/0x208D174775dc39fe18B1b374972F77ddEc6c0F73",
+  "links": {
+    "github": "UMAprotocol",
+    "coingecko": "uusdrbtc-synthetic-token-expiring-1-october-2020",
+    "twitter": "UMAprotocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

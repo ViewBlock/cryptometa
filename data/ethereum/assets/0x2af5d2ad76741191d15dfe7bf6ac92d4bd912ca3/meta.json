@@ -1,0 +1,17 @@
+{
+  "name": "LEO Token",
+  "symbol": "LEO",
+  "web": "https://www.bitfinex.com",
+  "explorer": "https://etherscan.io/token/0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3",
+  "links": {
+    "coingecko": "leo-token",
+    "twitter": "bitfinex",
+    "facebook": "bitfinex",
+    "telegram": "bfxtelegram",
+    "reddit": "r/bitfinex"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

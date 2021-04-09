@@ -1,0 +1,17 @@
+{
+  "name": "Aave ZRX v1",
+  "symbol": "AZRX",
+  "web": "https://aave.com/atokens",
+  "explorer": "https://etherscan.io/token/0x6Fb0855c404E09c47C3fBCA25f08d4E41f9F062f",
+  "links": {
+    "github": "aave",
+    "coingecko": "aave-zrx",
+    "twitter": "aaveaave",
+    "telegram": "Aavesome",
+    "reddit": "r/Aave_Official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

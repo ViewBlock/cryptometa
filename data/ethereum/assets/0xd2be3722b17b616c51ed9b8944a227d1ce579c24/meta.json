@@ -1,0 +1,17 @@
+{
+  "name": "Dtube Coin",
+  "symbol": "DTUBE",
+  "web": "https://d.tube",
+  "explorer": "https://etherscan.io/token/0xd2be3722B17b616c51ed9B8944A227D1ce579C24",
+  "links": {
+    "github": "dtube",
+    "coingecko": "dtube-coin",
+    "twitter": "DTube_Official",
+    "telegram": "dtube_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "etor",
+  "symbol": "ETOR",
+  "web": "https://etor.io",
+  "explorer": "https://etherscan.io/token/0x32163c2d2d313c73279e87398e7f84bb9f537e9d",
+  "links": {
+    "github": "EHROI911",
+    "coingecko": "etor",
+    "twitter": "Ethroi1",
+    "facebook": "ETOR-329913940914236"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

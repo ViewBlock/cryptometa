@@ -1,0 +1,15 @@
+{
+  "name": "Block Duelers",
+  "symbol": "BDT",
+  "web": "https://blockduelers.io",
+  "explorer": "https://etherscan.io/token/0x7bce667ef12023dc5f8577d015a2f09d99a5ef58",
+  "links": {
+    "coingecko": "block-duelers",
+    "twitter": "BlockDuelers",
+    "telegram": "blockduelers"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

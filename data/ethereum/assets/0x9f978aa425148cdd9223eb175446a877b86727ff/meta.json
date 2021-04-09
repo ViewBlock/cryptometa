@@ -1,0 +1,16 @@
+{
+  "name": "PayYoda",
+  "symbol": "YOT",
+  "web": "https://www.yot.la",
+  "explorer": "https://etherscan.io/token/0x9f978aa425148cdd9223eb175446a877b86727ff",
+  "links": {
+    "coingecko": "payyoda",
+    "twitter": "payYodaO",
+    "facebook": "PayYodaofficial",
+    "telegram": "PayYodachannel"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

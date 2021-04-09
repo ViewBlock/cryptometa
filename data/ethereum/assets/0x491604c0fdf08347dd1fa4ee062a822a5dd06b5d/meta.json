@@ -1,0 +1,18 @@
+{
+  "name": "Cartesi",
+  "symbol": "CTSI",
+  "web": "https://cartesi.io",
+  "explorer": "https://etherscan.io/token/0x491604c0fdf08347dd1fa4ee062a822a5dd06b5d",
+  "links": {
+    "github": "cartesi",
+    "coingecko": "cartesi",
+    "twitter": "cartesiproject",
+    "facebook": "cartesiproject",
+    "telegram": "cartesiproject",
+    "reddit": "r/cartesi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

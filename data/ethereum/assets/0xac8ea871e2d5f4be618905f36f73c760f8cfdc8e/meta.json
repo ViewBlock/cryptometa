@@ -1,0 +1,15 @@
+{
+  "name": "BTC Network Demand Set II",
+  "symbol": "BYTE",
+  "web": "https://www.tokensets.com/set/byte-1",
+  "explorer": "https://etherscan.io/token/0xac8ea871e2d5f4be618905f36f73c760f8cfdc8e",
+  "links": {
+    "github": "SetProtocol",
+    "coingecko": "btc-network-demand-set-ii",
+    "twitter": "SetProtocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

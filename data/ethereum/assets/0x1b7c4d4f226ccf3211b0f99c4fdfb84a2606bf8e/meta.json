@@ -1,0 +1,14 @@
+{
+  "name": "Orb V2",
+  "symbol": "ORB",
+  "web": "https://orb.bz",
+  "explorer": "https://etherscan.io/token/0x1b7c4d4f226ccf3211b0f99c4fdfb84a2606bf8e",
+  "links": {
+    "coingecko": "orb-v2",
+    "telegram": "orbneo"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

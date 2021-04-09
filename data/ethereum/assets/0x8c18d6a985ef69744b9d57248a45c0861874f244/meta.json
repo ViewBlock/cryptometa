@@ -1,0 +1,17 @@
+{
+  "name": "ClinTex CTi",
+  "symbol": "CTI",
+  "web": "https://clintex.io",
+  "explorer": "https://etherscan.io/token/0x8c18d6a985ef69744b9d57248a45c0861874f244",
+  "links": {
+    "github": "http:",
+    "coingecko": "clintex-cti",
+    "twitter": "ClinTexCTi",
+    "telegram": "ClinTexCTi",
+    "reddit": "r/ClinTexCTi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

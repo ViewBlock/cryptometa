@@ -1,0 +1,16 @@
+{
+  "name": "Crypterium",
+  "symbol": "CRPT",
+  "web": "https://crypterium.com",
+  "explorer": "https://etherscan.io/token/0x08389495d7456e1951ddf7c3a1314a4bfb646d8b",
+  "links": {
+    "coingecko": "crypterium",
+    "twitter": "crypterium",
+    "facebook": "crypterium.io",
+    "telegram": "crypterium"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

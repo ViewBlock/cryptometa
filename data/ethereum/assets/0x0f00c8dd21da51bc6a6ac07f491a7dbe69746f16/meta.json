@@ -1,0 +1,15 @@
+{
+  "name": "Clap Clap Token",
+  "symbol": "CCT",
+  "web": "https://www.clapclaptoken.com",
+  "explorer": "https://etherscan.io/token/0x0f00c8dd21da51bc6a6ac07f491a7dbe69746f16",
+  "links": {
+    "coingecko": "clap-clap-token",
+    "twitter": "ClapClapToken",
+    "telegram": "clapclaptoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Quras Token",
+  "symbol": "XQC",
+  "web": "https://quras.io",
+  "explorer": "https://etherscan.io/token/0x70da48f4b7e83c386ef983d4cef4e58c2c09d8ac",
+  "links": {
+    "github": "quras-official",
+    "coingecko": "quras-token",
+    "twitter": "qurasofficial",
+    "facebook": "QurasOfficial",
+    "telegram": "QurasOfficialGroup"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

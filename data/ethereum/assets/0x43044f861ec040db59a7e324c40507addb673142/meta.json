@@ -1,0 +1,16 @@
+{
+  "name": "Cap",
+  "symbol": "CAP",
+  "web": "https://cap.eth.link/#",
+  "explorer": "https://etherscan.io/token/0x43044f861ec040DB59A7e324c40507adDb673142",
+  "links": {
+    "github": "capfina",
+    "coingecko": "cap",
+    "twitter": "CapDotFinance",
+    "telegram": "capfin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

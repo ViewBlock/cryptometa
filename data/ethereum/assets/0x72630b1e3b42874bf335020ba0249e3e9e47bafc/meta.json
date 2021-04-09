@@ -1,0 +1,15 @@
+{
+  "name": "Paypolitan Token",
+  "symbol": "EPAN",
+  "web": "https://paypolitan.io",
+  "explorer": "https://etherscan.io/token/0x72630b1e3b42874bf335020ba0249e3e9e47bafc",
+  "links": {
+    "coingecko": "paypolitan-token",
+    "twitter": "paypolitan",
+    "telegram": "paypolitan_ann"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

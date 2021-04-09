@@ -1,0 +1,15 @@
+{
+  "name": "Team Finance",
+  "symbol": "TEAM",
+  "web": "https://team.finance",
+  "explorer": "https://etherscan.io/token/0xb05AF453011d7ad68a92b0065FFD9d1277eD2741",
+  "links": {
+    "coingecko": "team-finance",
+    "twitter": "teamfinance_",
+    "telegram": "team_finance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

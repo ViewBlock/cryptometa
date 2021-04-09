@@ -1,0 +1,15 @@
+{
+  "name": "Maverick Chain",
+  "symbol": "MVC",
+  "web": "http://www.mvchain.net",
+  "explorer": "https://etherscan.io/token/0xb17df9a3b09583a9bdcf757d6367171476d4d8a3",
+  "links": {
+    "coingecko": "maverick-chain",
+    "twitter": "MaverickChain",
+    "facebook": "maverickchainproject"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

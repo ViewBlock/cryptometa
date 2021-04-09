@@ -1,0 +1,16 @@
+{
+  "name": "Parachute",
+  "symbol": "PAR",
+  "web": "https://www.parachutetoken.com",
+  "explorer": "https://etherscan.io/token/0x1beef31946fbbb40b877a72e4ae04a8d1a5cee06",
+  "links": {
+    "coingecko": "parachute",
+    "twitter": "parachutetoken",
+    "telegram": "parachutetokengroup",
+    "reddit": "r/ParachuteToken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

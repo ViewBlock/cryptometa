@@ -1,0 +1,17 @@
+{
+  "name": "GameCredits",
+  "symbol": "GAME",
+  "web": "https://gamecredits.org",
+  "explorer": "https://etherscan.io/token/0x63f88a2298a5c4aee3c216aa6d926b184a4b2437",
+  "links": {
+    "github": "gamecredits-project",
+    "coingecko": "gamecredits",
+    "twitter": "gamecredits",
+    "telegram": "gamecreditsglobal",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "ODEM",
+  "symbol": "ODE",
+  "web": "https://odem.io",
+  "explorer": "https://etherscan.io/token/0xbf52f2ab39e26e0951d2a02b49b7702abe30406a",
+  "links": {
+    "github": "odemio",
+    "coingecko": "odem",
+    "twitter": "ODEM_IO",
+    "facebook": "odemio",
+    "telegram": "odem_io",
+    "reddit": "r/ODEM"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

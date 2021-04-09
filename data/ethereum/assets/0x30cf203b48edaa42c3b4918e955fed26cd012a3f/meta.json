@@ -1,0 +1,15 @@
+{
+  "name": "MetaGame",
+  "symbol": "SEED",
+  "web": "https://wiki.metagame.wtf",
+  "explorer": "https://etherscan.io/token/0x30cF203b48edaA42c3B4918E955fED26Cd012A3F",
+  "links": {
+    "github": "MetaFam",
+    "coingecko": "metagame",
+    "twitter": "MetaFam"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

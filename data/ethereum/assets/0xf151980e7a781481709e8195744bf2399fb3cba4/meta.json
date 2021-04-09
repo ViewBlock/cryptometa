@@ -1,0 +1,16 @@
+{
+  "name": "Freeway Token",
+  "symbol": "FWT",
+  "web": "https://aubit.io",
+  "explorer": "https://etherscan.io/token/0xf151980e7a781481709e8195744bf2399fb3cba4",
+  "links": {
+    "coingecko": "freeway-token",
+    "twitter": "aubitnetwork",
+    "facebook": "aubitnetwork",
+    "telegram": "AuBit_Official_Community"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

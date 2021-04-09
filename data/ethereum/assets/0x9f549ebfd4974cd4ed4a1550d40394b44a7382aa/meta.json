@@ -1,0 +1,16 @@
+{
+  "name": "LinkCoin Token",
+  "symbol": "LKN",
+  "web": "https://www.linkcoin.pro",
+  "explorer": "https://etherscan.io/token/0x9f549ebfd4974cd4ed4a1550d40394b44a7382aa",
+  "links": {
+    "coingecko": "linkcoin-token",
+    "twitter": "LinkCoinLKN",
+    "facebook": "LinkCoinLKN",
+    "telegram": "LinkCoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

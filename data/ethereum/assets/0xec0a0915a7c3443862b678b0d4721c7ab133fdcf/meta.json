@@ -1,0 +1,14 @@
+{
+  "name": "Wrapped Origin Axie",
+  "symbol": "WOA",
+  "web": "https://axieinfinity.com",
+  "explorer": "https://etherscan.io/token/0xEC0A0915A7c3443862B678B0d4721C7aB133FDCf",
+  "links": {
+    "coingecko": "wrapped-origin-axie",
+    "twitter": "AxieInfinity"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

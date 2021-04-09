@@ -1,0 +1,15 @@
+{
+  "name": "TNC Coin",
+  "symbol": "TNC",
+  "web": "https://tnccoin.com",
+  "explorer": "https://etherscan.io/token/0x39e743fee400a5d9b36f1167b70c10e8f06440e5",
+  "links": {
+    "coingecko": "tnc-coin",
+    "facebook": "tncitgroup",
+    "telegram": "tncitgroup"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 5
+  }
+}

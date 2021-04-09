@@ -1,0 +1,15 @@
+{
+  "name": "Wrapped CrescoFin",
+  "symbol": "WCRES",
+  "web": "https://defi.crescofin.ch",
+  "explorer": "https://etherscan.io/token/0xa0afaa285ce85974c3c881256cb7f225e3a1178a",
+  "links": {
+    "coingecko": "wrapped-crescofin",
+    "twitter": "CrescoFinSA",
+    "telegram": "crescofinofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

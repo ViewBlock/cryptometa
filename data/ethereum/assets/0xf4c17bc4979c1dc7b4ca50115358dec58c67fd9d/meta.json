@@ -1,0 +1,17 @@
+{
+  "name": "Omega Protocol Money",
+  "symbol": "OPM",
+  "web": "https://omgswap.in",
+  "explorer": "https://etherscan.io/token/0xf4c17bc4979c1dc7b4ca50115358dec58c67fd9d",
+  "links": {
+    "github": "omgswap",
+    "coingecko": "omega-protocol-money",
+    "twitter": "omegadefi",
+    "facebook": "omegadefi",
+    "telegram": "omegadefi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

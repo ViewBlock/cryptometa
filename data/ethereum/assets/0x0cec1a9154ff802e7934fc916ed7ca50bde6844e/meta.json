@@ -1,0 +1,15 @@
+{
+  "name": "PoolTogether",
+  "symbol": "POOL",
+  "web": "https://pooltogether.com",
+  "explorer": "https://etherscan.io/token/0x0cec1a9154ff802e7934fc916ed7ca50bde6844e",
+  "links": {
+    "coingecko": "pooltogether",
+    "twitter": "PoolTogether_",
+    "reddit": "r/PoolTogether"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

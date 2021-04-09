@@ -1,0 +1,14 @@
+{
+  "name": "ChainLink Trading Set",
+  "symbol": "CTS",
+  "web": "https://www.tokensets.com/set/cts",
+  "explorer": "https://etherscan.io/token/0x57e83505827788c9f92bcfd398a51a7b0c83dd8e",
+  "links": {
+    "coingecko": "chainlink-trading-set",
+    "twitter": "SetProtocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

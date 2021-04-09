@@ -1,0 +1,17 @@
+{
+  "name": "Seigniorage Shares",
+  "symbol": "SHARE",
+  "web": "https://dollarprotocol.com",
+  "explorer": "https://etherscan.io/token/0x39795344CBCc76cC3Fb94B9D1b15C23c2070C66D",
+  "links": {
+    "github": "Dollar-Protocol",
+    "coingecko": "seigniorage-shares",
+    "twitter": "DollarProtocol",
+    "telegram": "dollarprotocol",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

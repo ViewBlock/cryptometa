@@ -1,0 +1,17 @@
+{
+  "name": "Casino Betting Coin",
+  "symbol": "CBC",
+  "web": "https://casinobettingcoin.com",
+  "explorer": "https://etherscan.io/token/0x26DB5439F651CAF491A87d48799dA81F191bDB6b",
+  "links": {
+    "coingecko": "cashbet-coin",
+    "twitter": "getcbc",
+    "facebook": "CashBetCoin",
+    "telegram": "casinobettingcoin",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

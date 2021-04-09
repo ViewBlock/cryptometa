@@ -1,0 +1,15 @@
+{
+  "name": "Evimeria",
+  "symbol": "EVI",
+  "web": "https://www.evimeria.io",
+  "explorer": "https://etherscan.io/token/0x920db6c38cf5a2a12554e812d4b3ac2daa8eba4d",
+  "links": {
+    "coingecko": "evimeria",
+    "twitter": "evimeria",
+    "telegram": "evimeria"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

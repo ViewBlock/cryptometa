@@ -1,0 +1,17 @@
+{
+  "name": "BenePit",
+  "symbol": "BNP",
+  "web": "https://www.benepit.io",
+  "explorer": "https://etherscan.io/token/0xd27d76a1ba55ce5c0291ccd04febbe793d22ebf4",
+  "links": {
+    "github": "benepit",
+    "coingecko": "benepit",
+    "twitter": "BenepitOfficial",
+    "facebook": "BenePit.io",
+    "telegram": "BenePit_global"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

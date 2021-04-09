@@ -1,0 +1,14 @@
+{
+  "name": "Pickle Finance",
+  "symbol": "PICKLE",
+  "web": "https://pickle.finance",
+  "explorer": "https://etherscan.io/token/0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5",
+  "links": {
+    "coingecko": "pickle-finance",
+    "twitter": "picklefinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

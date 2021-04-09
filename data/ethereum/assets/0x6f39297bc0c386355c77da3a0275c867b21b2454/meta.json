@@ -1,0 +1,13 @@
+{
+  "name": "GrandPa Fan",
+  "symbol": "FYY",
+  "web": "http://www.fyycoin.com",
+  "explorer": "https://etherscan.io/token/0x6f39297bc0c386355c77da3a0275c867b21b2454",
+  "links": {
+    "coingecko": "grandpa-fan"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

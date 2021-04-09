@@ -1,0 +1,17 @@
+{
+  "name": "P2PGO",
+  "symbol": "P2PG",
+  "web": "https://p2pgo.io",
+  "explorer": "https://etherscan.io/token/0xA2A19165C17B36a5C753A246c1e188489754A693",
+  "links": {
+    "github": "p2pgo",
+    "coingecko": "p2pgo",
+    "twitter": "P2pgoCapital",
+    "facebook": "P2PGo",
+    "telegram": "p2pgocapital"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

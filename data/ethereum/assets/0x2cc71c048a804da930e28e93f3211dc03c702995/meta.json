@@ -1,0 +1,17 @@
+{
+  "name": "Kripton",
+  "symbol": "LPK",
+  "web": "https://ico.lpesa.io",
+  "explorer": "https://etherscan.io/token/0x2cc71c048a804da930e28e93f3211dc03c702995",
+  "links": {
+    "github": "lpkripton",
+    "coingecko": "l-pesa",
+    "twitter": "LpesaICO",
+    "facebook": "lpesaico",
+    "telegram": "LpesaICO"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

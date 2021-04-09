@@ -1,0 +1,16 @@
+{
+  "name": "Float Protocol",
+  "symbol": "BANK",
+  "web": "https://floatprotocol.eth.link",
+  "explorer": "https://etherscan.io/token/0x24a6a37576377f63f194caa5f518a60f45b42921",
+  "links": {
+    "github": "FloatProtocol",
+    "coingecko": "float-protocol",
+    "twitter": "FloatProtocol",
+    "telegram": "officialfloatprotocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

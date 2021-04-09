@@ -1,0 +1,17 @@
+{
+  "name": "IDEX",
+  "symbol": "IDEX",
+  "web": "https://idex.market",
+  "explorer": "https://etherscan.io/token/0xB705268213D593B8FD88d3FDEFF93AFF5CbDcfAE",
+  "links": {
+    "github": "idexio",
+    "coingecko": "aurora-dao",
+    "twitter": "idexio",
+    "facebook": "AuroraDAO",
+    "reddit": "r/auroradao"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

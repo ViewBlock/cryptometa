@@ -1,0 +1,16 @@
+{
+  "name": "Dego Finance",
+  "symbol": "DEGO",
+  "web": "https://dego.finance",
+  "explorer": "https://etherscan.io/token/0x88ef27e69108b2633f8e1c184cc37940a075cc02",
+  "links": {
+    "github": "dego-labs",
+    "coingecko": "dego-finance",
+    "twitter": "dego_finance",
+    "telegram": "dego_finance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Smart Valor",
+  "symbol": "VALOR",
+  "web": "https://smartvalor.com",
+  "explorer": "https://etherscan.io/token/0x297e4e5e59ad72b1b0a2fd446929e76117be0e0a",
+  "links": {
+    "github": "smartvalor",
+    "coingecko": "smart-valor",
+    "twitter": "smartvalorinc",
+    "facebook": "smartvalorinc",
+    "telegram": "smartvalor_official",
+    "reddit": "r/SmartValorOfficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

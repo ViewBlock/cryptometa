@@ -1,0 +1,16 @@
+{
+  "name": "QuiverX",
+  "symbol": "QRX",
+  "web": "https://quiverx.io",
+  "explorer": "https://etherscan.io/token/0x6e0dade58d2d89ebbe7afc384e3e4f15b70b14d8",
+  "links": {
+    "github": "QuiverX",
+    "coingecko": "quiverx",
+    "twitter": "quiverx5",
+    "telegram": "QuiverXCapital"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

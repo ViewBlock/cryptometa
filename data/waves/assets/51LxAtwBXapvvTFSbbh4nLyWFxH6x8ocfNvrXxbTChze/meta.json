@@ -1,0 +1,11 @@
+{
+  "name": "TORcorp",
+  "symbol": "TORR",
+  "web": "https://tor-corporation.com",
+  "explorer": "http://wavesexplorer.com/tx/51LxAtwBXapvvTFSbbh4nLyWFxH6x8ocfNvrXxbTChze",
+  "links": {
+    "coingecko": "torcorp",
+    "twitter": "TORCorporation",
+    "telegram": "torcorporation"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "3X Long Chainlink Token",
+  "symbol": "LINKBULL",
+  "web": "https://ftx.com/tokens/LINKBULL",
+  "explorer": "https://etherscan.io/token/0x83aD87C988aC0c6277C0c6234Cc8108b20bB5d9B",
+  "links": {
+    "coingecko": "3x-long-chainlink-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Globalvillage Ecosystem",
+  "symbol": "GVE",
+  "web": "http://gve.io",
+  "explorer": "https://etherscan.io/token/0x81705082ef9f0d660f07be80093d46d826d48b25",
+  "links": {
+    "coingecko": "globalvillage-ecosystem",
+    "twitter": "gv_eco",
+    "facebook": "andy.hu.16547008"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

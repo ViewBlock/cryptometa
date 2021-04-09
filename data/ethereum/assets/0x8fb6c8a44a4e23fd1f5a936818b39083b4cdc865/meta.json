@@ -1,0 +1,16 @@
+{
+  "name": "BitOnyx Token",
+  "symbol": "BTNYX",
+  "web": "https://bitonyx.io",
+  "explorer": "https://etherscan.io/token/0x8fb6c8a44a4e23fd1f5a936818b39083b4cdc865",
+  "links": {
+    "github": "bitonyx",
+    "coingecko": "bitonyx-token",
+    "twitter": "BitOnyx_AI",
+    "telegram": "bitonyx_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

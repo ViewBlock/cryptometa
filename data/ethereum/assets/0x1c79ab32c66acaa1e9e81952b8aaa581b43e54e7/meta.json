@@ -1,0 +1,18 @@
+{
+  "name": "TEAM",
+  "symbol": "TEAM",
+  "web": "https://tokenstars.com",
+  "explorer": "https://etherscan.io/token/0x1c79ab32C66aCAa1e9E81952B8AAa581B43e54E7",
+  "links": {
+    "github": "tokenstars",
+    "coingecko": "tokenstars-team",
+    "twitter": "tokenstars",
+    "facebook": "TokenStars",
+    "telegram": "TokenStars_en",
+    "reddit": "r/TokenStars"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

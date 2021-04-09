@@ -1,0 +1,14 @@
+{
+  "name": "Heart Number",
+  "symbol": "HTN",
+  "web": "http://www.heartnumber.com",
+  "explorer": "https://etherscan.io/token/0x4b4b1d389d4f4e082b30f75c6319c0ce5acbd619",
+  "links": {
+    "coingecko": "heartnumber",
+    "telegram": "heartnumber"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

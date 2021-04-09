@@ -1,0 +1,13 @@
+{
+  "name": "BTEcoin",
+  "symbol": "BTE",
+  "web": "https://www.btet.me/mobile/index.html",
+  "explorer": "https://etherscan.io/token/0xfd62247943f94c3910a4922af2c62c2d3fac2a8f",
+  "links": {
+    "coingecko": "btecoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

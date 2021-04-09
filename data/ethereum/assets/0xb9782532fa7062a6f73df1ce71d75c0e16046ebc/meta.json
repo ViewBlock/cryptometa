@@ -1,0 +1,16 @@
+{
+  "name": "YFI Paprika",
+  "symbol": "YFIP",
+  "web": "https://yfipaprika.finance",
+  "explorer": "https://etherscan.io/token/0xB9782532FA7062A6F73df1CE71d75c0E16046ebC",
+  "links": {
+    "github": "yfipaprika",
+    "coingecko": "yfi-paprika",
+    "twitter": "yfipaprika",
+    "telegram": "yfipaprika"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

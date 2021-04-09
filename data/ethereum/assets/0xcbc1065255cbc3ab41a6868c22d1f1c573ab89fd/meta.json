@@ -1,0 +1,16 @@
+{
+  "name": "Cream ETH 2",
+  "symbol": "CRETH2",
+  "web": "https://cream.finance",
+  "explorer": "https://etherscan.io/token/0xcbc1065255cbc3ab41a6868c22d1f1c573ab89fd",
+  "links": {
+    "github": "CreamFi",
+    "coingecko": "cream-eth2",
+    "twitter": "CreamdotFinance",
+    "telegram": "creamfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

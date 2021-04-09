@@ -1,0 +1,15 @@
+{
+  "name": "Gemini Dollar",
+  "symbol": "GUSD",
+  "web": "https://gemini.com/dollar",
+  "explorer": "https://etherscan.io/token/0x056fd409e1d7a124bd7017459dfea2f387b6d5cd",
+  "links": {
+    "github": "gemini",
+    "coingecko": "gemini-dollar",
+    "twitter": "GeminiDotCom"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

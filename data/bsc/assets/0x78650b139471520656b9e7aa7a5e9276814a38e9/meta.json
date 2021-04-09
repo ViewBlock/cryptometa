@@ -1,0 +1,11 @@
+{
+  "name": "BTC Standard Hashrate Token",
+  "symbol": "BTCST",
+  "web": "https://www.1-b.tc",
+  "explorer": "https://bscscan.com/token/0x78650b139471520656b9e7aa7a5e9276814a38e9",
+  "links": {
+    "github": "Standard-Hashrate-Group",
+    "coingecko": "btc-standard-hashrate-token",
+    "telegram": "BTCST_Community_EN"
+  }
+}

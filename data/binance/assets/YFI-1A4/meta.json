@@ -8,6 +8,9 @@
   "links": {
     "research": "https://research.binance.com/en/projects/yearnfinance"
   },
+  "config": {
+    "dark": true
+  },
   "gen": {
     "logo": "logo.png",
     "hasDark": true,

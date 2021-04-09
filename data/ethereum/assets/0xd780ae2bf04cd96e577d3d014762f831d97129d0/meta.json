@@ -1,0 +1,17 @@
+{
+  "name": "Envion",
+  "symbol": "EVN",
+  "web": "https://www.envion.org/en",
+  "explorer": "https://etherscan.io/token/0xd780ae2bf04cd96e577d3d014762f831d97129d0",
+  "links": {
+    "github": "envion",
+    "coingecko": "envion",
+    "twitter": "Envion_org",
+    "facebook": "envion.org",
+    "telegram": "envion"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

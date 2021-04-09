@@ -1,0 +1,18 @@
+{
+  "name": "Lendingblock",
+  "symbol": "LND",
+  "web": "https://lendingblock.com",
+  "explorer": "https://etherscan.io/token/0x0947b0e6d821378805c9598291385ce7c791a6b2",
+  "links": {
+    "github": "lendingblock",
+    "coingecko": "lendingblock",
+    "twitter": "lendingblock",
+    "facebook": "lendingblock",
+    "telegram": "lendingblock",
+    "reddit": "r/Lendingblock"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

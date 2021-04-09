@@ -1,0 +1,15 @@
+{
+  "name": "Tapmydata",
+  "symbol": "TAP",
+  "web": "https://tapmydata.com",
+  "explorer": "https://etherscan.io/token/0x7f1f2d3dfa99678675ece1c243d3f7bc3746db5d",
+  "links": {
+    "coingecko": "tapmydata",
+    "twitter": "tapmydata",
+    "telegram": "tapmydataofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

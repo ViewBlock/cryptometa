@@ -1,0 +1,17 @@
+{
+  "name": "iExec RLC",
+  "symbol": "RLC",
+  "web": "http://iex.ec",
+  "explorer": "https://etherscan.io/token/0x607F4C5BB672230e8672085532f7e901544a7375",
+  "links": {
+    "github": "iExecBlockchainComputing",
+    "coingecko": "iexec-rlc",
+    "twitter": "iEx_ec",
+    "facebook": "iexecteam",
+    "reddit": "r/iexec"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

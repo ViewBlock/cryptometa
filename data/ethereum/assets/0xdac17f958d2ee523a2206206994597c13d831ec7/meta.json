@@ -1,0 +1,15 @@
+{
+  "name": "Tether",
+  "symbol": "USDT",
+  "web": "https://tether.to",
+  "explorer": "https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7",
+  "links": {
+    "coingecko": "tether",
+    "twitter": "Tether_to",
+    "facebook": "tether.to"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

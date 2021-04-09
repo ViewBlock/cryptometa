@@ -1,0 +1,17 @@
+{
+  "name": "DIA",
+  "symbol": "DIA",
+  "web": "https://diadata.org",
+  "explorer": "https://etherscan.io/token/0x84ca8bc7997272c7cfb4d0cd3d55cd942b3c9419",
+  "links": {
+    "github": "diadata-org",
+    "coingecko": "dia-data",
+    "twitter": "DIAdata_org",
+    "telegram": "DIAdata_org",
+    "reddit": "https://www.reddit.comr/DIAdata"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

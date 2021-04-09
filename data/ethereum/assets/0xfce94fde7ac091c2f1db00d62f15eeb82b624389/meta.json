@@ -1,0 +1,15 @@
+{
+  "name": "Noah's Ark",
+  "symbol": "NOAHARK",
+  "web": "https://noahcity.org/en",
+  "explorer": "https://etherscan.io/token/0xfce94fde7ac091c2f1db00d62f15eeb82b624389",
+  "links": {
+    "coingecko": "noah-ark",
+    "twitter": "noah_city",
+    "telegram": "noahproject"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

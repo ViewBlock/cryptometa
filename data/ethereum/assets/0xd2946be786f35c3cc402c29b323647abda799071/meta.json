@@ -1,0 +1,16 @@
+{
+  "name": "VikkyToken",
+  "symbol": "VIKKY",
+  "web": "https://ico.vikky.io",
+  "explorer": "https://etherscan.io/token/0xd2946be786f35c3cc402c29b323647abda799071",
+  "links": {
+    "github": "vikkyteam",
+    "coingecko": "vikkytoken",
+    "twitter": "VikkyGlobal",
+    "telegram": "vikkyglobal"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

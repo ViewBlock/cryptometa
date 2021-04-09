@@ -1,0 +1,15 @@
+{
+  "name": "YD-BTC-MAR21",
+  "symbol": "YD-BTC-MAR21",
+  "web": "https://umaproject.org",
+  "explorer": "https://etherscan.io/token/0x002f0b1a71c5730cf2f4da1970a889207bdb6d0d",
+  "links": {
+    "github": "UMAprotocol",
+    "coingecko": "yd-btc-mar21",
+    "twitter": "UMAprotocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

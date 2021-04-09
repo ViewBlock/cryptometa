@@ -1,0 +1,15 @@
+{
+  "name": "12Ships",
+  "symbol": "TSHP",
+  "web": "http://12ships.com",
+  "explorer": "https://etherscan.io/token/0x525794473f7ab5715c81d06d10f52d11cc052804",
+  "links": {
+    "coingecko": "12ships",
+    "twitter": "TwelveShips12",
+    "telegram": "TwelveSHIPS_Global"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

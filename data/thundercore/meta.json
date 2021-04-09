@@ -4,7 +4,6 @@
   "web": "https://thundercore.com",
   "explorer": "https://viewblock.io/thundercore",
   "gen": {
-    "logo": "logo.svg",
-    "hasDark": false
+    "logo": "logo.svg"
   }
 }

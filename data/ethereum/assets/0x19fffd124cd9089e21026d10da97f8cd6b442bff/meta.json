@@ -1,0 +1,16 @@
+{
+  "name": "Zuflo Coin",
+  "symbol": "ZFL",
+  "web": "https://www.zedxe.com",
+  "explorer": "https://etherscan.io/token/0x19fFfd124CD9089E21026d10dA97f8cD6B442Bff",
+  "links": {
+    "coingecko": "zedxe",
+    "twitter": "Zed_Xe",
+    "facebook": "ZedXe",
+    "telegram": "zuflo"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

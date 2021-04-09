@@ -1,0 +1,16 @@
+{
+  "name": "Livenodes Token",
+  "symbol": "LNOT",
+  "web": "https://livenodes.online",
+  "explorer": "https://etherscan.io/token/0xb4ea189499c7722b39cba00443cd9d0e600a8670",
+  "links": {
+    "coingecko": "livenodes-token",
+    "twitter": "LiveNodes",
+    "facebook": "Livenodes",
+    "telegram": "cryptomasterss"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

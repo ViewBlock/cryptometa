@@ -1,0 +1,18 @@
+{
+  "name": "Humanscape",
+  "symbol": "HUM",
+  "web": "https://www.humanscape.io",
+  "explorer": "https://etherscan.io/token/0x174afe7a032b5a33a3270a9f6c30746e25708532",
+  "links": {
+    "github": "humanscape",
+    "coingecko": "humanscape",
+    "twitter": "Humanscape_ICO",
+    "facebook": "humanscape",
+    "telegram": "Humanscape",
+    "reddit": "r/Humanscape_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "PumaPay",
+  "symbol": "PMA",
+  "web": "https://pumapay.io",
+  "explorer": "https://etherscan.io/token/0x846c66cf71c43f80403b51fe3906b3599d63336f",
+  "links": {
+    "github": "pumapayio",
+    "coingecko": "pumapay",
+    "twitter": "PumaPay",
+    "facebook": "PumaPay",
+    "telegram": "PumaPay",
+    "reddit": "r/PumaPay"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

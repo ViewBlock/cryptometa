@@ -1,0 +1,15 @@
+{
+  "name": "ELDORADO TOKEN",
+  "symbol": "ERD",
+  "web": "https://eldoradotoken.com",
+  "explorer": "https://etherscan.io/token/0x12dc767728105aa415dd720dfbd0ea1d85841172",
+  "links": {
+    "coingecko": "eldorado-token",
+    "twitter": "EldoradoTokens",
+    "facebook": "EldoradoToken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

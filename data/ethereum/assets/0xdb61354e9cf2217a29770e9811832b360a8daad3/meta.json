@@ -1,0 +1,13 @@
+{
+  "name": "3X Long Litecoin Token",
+  "symbol": "LTCBULL",
+  "web": "https://ftx.com/tokens/LTCBULL",
+  "explorer": "https://etherscan.io/token/0xdb61354e9cf2217a29770e9811832b360a8daad3",
+  "links": {
+    "coingecko": "3x-long-litecoin-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "The Tokenized Bitcoin",
+  "symbol": "IMBTC",
+  "web": "https://tokenlon.im/imBTC",
+  "explorer": "https://etherscan.io/token/0x3212b29E33587A00FB1C83346f5dBFA69A458923",
+  "links": {
+    "coingecko": "the-tokenized-bitcoin",
+    "twitter": "tokenlon",
+    "telegram": "tokenlonDEX"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Frenzy",
+  "symbol": "FZY",
+  "web": "http://frenzy-singapore.com",
+  "explorer": "https://etherscan.io/token/0x8720C8429b78df262360b0F39917a03f9B894746",
+  "links": {
+    "coingecko": "frenzy",
+    "twitter": "FrenzySG",
+    "facebook": "FrenzySG",
+    "telegram": "FrenzySingapore"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

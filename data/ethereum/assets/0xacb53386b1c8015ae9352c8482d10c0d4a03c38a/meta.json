@@ -1,0 +1,16 @@
+{
+  "name": "CREATIVE MEDIA INITIATIVE",
+  "symbol": "CMID",
+  "web": "https://www.cmi.zone",
+  "explorer": "https://etherscan.io/token/0xacb53386b1c8015ae9352c8482d10c0d4a03c38a",
+  "links": {
+    "coingecko": "creative-media-initiative",
+    "twitter": "CMI_Crypto",
+    "facebook": "cimicnews",
+    "telegram": "CMI_zone"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

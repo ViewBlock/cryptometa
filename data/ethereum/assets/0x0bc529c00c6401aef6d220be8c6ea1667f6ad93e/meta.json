@@ -1,0 +1,17 @@
+{
+  "name": "yearn.finance",
+  "symbol": "YFI",
+  "web": "https://yearn.finance",
+  "explorer": "https://etherscan.io/token/0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+  "links": {
+    "github": "iearn-finance",
+    "coingecko": "yearn-finance",
+    "twitter": "iearnfinance",
+    "telegram": "yearnfinance",
+    "reddit": "r/yearn_finance"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

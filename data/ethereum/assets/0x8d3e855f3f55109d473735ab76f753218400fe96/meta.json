@@ -1,0 +1,15 @@
+{
+  "name": "Bundles",
+  "symbol": "BUND",
+  "web": "https://bundles.finance",
+  "explorer": "https://etherscan.io/token/0x8D3E855f3f55109D473735aB76F753218400fe96",
+  "links": {
+    "coingecko": "bundles",
+    "twitter": "BundlesFinance",
+    "telegram": "BundlesFinanceDiscussion"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

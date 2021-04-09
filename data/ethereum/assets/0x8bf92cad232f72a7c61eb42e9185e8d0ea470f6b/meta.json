@@ -1,0 +1,15 @@
+{
+  "name": "SMPL Foundation",
+  "symbol": "SMPL",
+  "web": "https://smplfoundation.com",
+  "explorer": "https://etherscan.io/token/0x8bf92cad232f72a7c61eb42e9185e8d0ea470f6b",
+  "links": {
+    "coingecko": "smpl-foundation",
+    "twitter": "FoundationSmpl",
+    "telegram": "SMPLFoundation"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

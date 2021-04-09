@@ -1,0 +1,16 @@
+{
+  "name": "Gifto",
+  "symbol": "GTO",
+  "web": "https://gifto.io",
+  "explorer": "https://etherscan.io/token/0xc5bbae50781be1669306b9e001eff57a2957b09d",
+  "links": {
+    "github": "GIFTO-io",
+    "coingecko": "gifto",
+    "twitter": "GIFTO_io",
+    "facebook": "gifto.io"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

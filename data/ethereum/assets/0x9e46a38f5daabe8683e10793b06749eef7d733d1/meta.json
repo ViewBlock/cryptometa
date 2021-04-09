@@ -1,0 +1,18 @@
+{
+  "name": "PolySwarm",
+  "symbol": "NCT",
+  "web": "https://polyswarm.io",
+  "explorer": "https://etherscan.io/token/0x9e46a38f5daabe8683e10793b06749eef7d733d1",
+  "links": {
+    "github": "polyswarm",
+    "coingecko": "polyswarm",
+    "twitter": "polyswarm",
+    "facebook": "PolySwarm",
+    "telegram": "polyswarm",
+    "reddit": "r/PolySwarm"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

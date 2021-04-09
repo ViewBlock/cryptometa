@@ -1,0 +1,15 @@
+{
+  "name": "UMA",
+  "symbol": "UMA",
+  "web": "https://umaproject.org",
+  "explorer": "https://etherscan.io/token/0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828",
+  "links": {
+    "github": "UMAprotocol",
+    "coingecko": "uma",
+    "twitter": "UMAprotocol"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

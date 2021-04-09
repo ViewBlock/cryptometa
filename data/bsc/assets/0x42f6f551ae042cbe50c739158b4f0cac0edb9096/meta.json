@@ -1,0 +1,11 @@
+{
+  "name": "Nerve Finance",
+  "symbol": "NRV",
+  "web": "https://nerve.fi",
+  "explorer": "https://bscscan.com/token/0x42F6f551ae042cBe50C739158b4f0CAC0Edb9096",
+  "links": {
+    "coingecko": "nerve-finance",
+    "twitter": "nervefinance",
+    "telegram": "nervefinance"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "3X Short Exchange Token Index Token",
+  "symbol": "EXCHBEAR",
+  "web": "https://ftx.com/tokens/EXCHBEAR",
+  "explorer": "https://etherscan.io/token/0x6baa91cd8aa07431760ef2eedfedcef662a6b8b3",
+  "links": {
+    "coingecko": "3x-short-exchange-token-index-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

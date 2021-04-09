@@ -1,0 +1,14 @@
+{
+  "name": "sXMR",
+  "symbol": "SXMR",
+  "web": "https://www.synthetix.io/tokens",
+  "explorer": "https://etherscan.io/token/0x5299d6F7472DCc137D7f3C4BcfBBB514BaBF341A",
+  "links": {
+    "coingecko": "sxmr",
+    "twitter": "synthetix_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

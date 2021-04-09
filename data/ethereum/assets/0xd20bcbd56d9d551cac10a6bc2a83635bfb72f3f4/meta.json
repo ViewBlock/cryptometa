@@ -1,0 +1,15 @@
+{
+  "name": "FUNDChains",
+  "symbol": "FUND",
+  "web": "http://www.fundchains.org",
+  "explorer": "https://etherscan.io/token/0xd20bcbd56d9d551cac10a6bc2a83635bfb72f3f4",
+  "links": {
+    "coingecko": "fundchains",
+    "twitter": "fundchains",
+    "telegram": "fundchains"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

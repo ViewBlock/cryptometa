@@ -1,0 +1,14 @@
+{
+  "name": "Rally",
+  "symbol": "RLY",
+  "web": "https://rally.io",
+  "explorer": "https://etherscan.io/token/0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b",
+  "links": {
+    "coingecko": "rally-2",
+    "twitter": "rally_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

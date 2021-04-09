@@ -1,0 +1,15 @@
+{
+  "name": "NEEO Token",
+  "symbol": "NEEO",
+  "web": "http://neeoico.com",
+  "explorer": "https://etherscan.io/token/0xd8446236fa95b9b5f9fd0f8e7df1a944823c683d",
+  "links": {
+    "coingecko": "neeo-token",
+    "twitter": "neeopal",
+    "facebook": "neeopal"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

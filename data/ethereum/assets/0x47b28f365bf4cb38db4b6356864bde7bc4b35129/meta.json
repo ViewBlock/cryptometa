@@ -1,0 +1,15 @@
+{
+  "name": "FNB Protocol",
+  "symbol": "FNB",
+  "web": "https://fnbprotocol.io",
+  "explorer": "https://etherscan.io/token/0x47b28f365bf4cb38db4b6356864bde7bc4b35129",
+  "links": {
+    "coingecko": "fnb-protocol",
+    "twitter": "fnbprotocol",
+    "telegram": "fnbprotocolglobal"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

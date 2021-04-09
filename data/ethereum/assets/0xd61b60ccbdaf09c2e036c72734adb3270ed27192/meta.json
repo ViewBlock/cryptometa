@@ -1,0 +1,16 @@
+{
+  "name": "WaterDrop",
+  "symbol": "WDP",
+  "web": "https://waterdrop.business",
+  "explorer": "https://etherscan.io/token/0xd61b60ccbdaf09c2e036c72734adb3270ed27192",
+  "links": {
+    "github": "Waterdrop-Token",
+    "coingecko": "waterdrop",
+    "twitter": "waterdropteam",
+    "telegram": "waterdropcommunityy"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

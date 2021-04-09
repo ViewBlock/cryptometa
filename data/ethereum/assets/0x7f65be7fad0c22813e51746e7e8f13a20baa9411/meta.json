@@ -1,0 +1,16 @@
+{
+  "name": "Rebitcoin",
+  "symbol": "RBTC",
+  "web": "https://rebitcoin.co",
+  "explorer": "https://etherscan.io/token/0x7f65be7fad0c22813e51746e7e8f13a20baa9411",
+  "links": {
+    "coingecko": "rebitcoin",
+    "twitter": "rebitcoins",
+    "facebook": "rebitcoins",
+    "telegram": "rebitcoins"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

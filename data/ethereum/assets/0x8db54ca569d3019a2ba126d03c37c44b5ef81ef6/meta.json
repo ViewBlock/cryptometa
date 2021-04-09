@@ -1,0 +1,17 @@
+{
+  "name": "Datawallet",
+  "symbol": "DXT",
+  "web": "https://datawallet.com",
+  "explorer": "https://etherscan.io/token/0x8db54ca569d3019a2ba126d03c37c44b5ef81ef6",
+  "links": {
+    "coingecko": "datawallet",
+    "twitter": "DataWalletHQ",
+    "telegram": "https://t.me/datawallet",
+    "reddit": "r/datawallethq"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

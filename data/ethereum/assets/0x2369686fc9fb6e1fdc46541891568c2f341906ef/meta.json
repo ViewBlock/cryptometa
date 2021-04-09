@@ -1,0 +1,15 @@
+{
+  "name": "Drakoin",
+  "symbol": "DRK",
+  "web": "https://drakoin.drakons.io",
+  "explorer": "https://etherscan.io/token/0x2369686fc9fb6e1fdc46541891568c2f341906ef",
+  "links": {
+    "coingecko": "drakoin",
+    "twitter": "DrakonsIO",
+    "telegram": "Drakoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

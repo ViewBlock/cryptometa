@@ -1,0 +1,16 @@
+{
+  "name": "Freight Trust Network",
+  "symbol": "EDI",
+  "web": "https://freighttrust.com",
+  "explorer": "https://etherscan.io/token/0x79c5a1ae586322a07bfb60be36e1b31ce8c84a1e",
+  "links": {
+    "github": "freight-chain",
+    "coingecko": "freight-trust-network",
+    "twitter": "freighttrustnet",
+    "telegram": "freighttrust"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

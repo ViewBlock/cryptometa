@@ -1,0 +1,16 @@
+{
+  "name": "DIVO Token",
+  "symbol": "DIVO",
+  "web": "https://www.divo.fashion",
+  "explorer": "https://etherscan.io/token/0xff1beda5ca92a83d05323e338d0534410858b6a2",
+  "links": {
+    "coingecko": "divo-token",
+    "twitter": "divo_fashion",
+    "facebook": "Divo.Platform",
+    "telegram": "divo_fashion"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

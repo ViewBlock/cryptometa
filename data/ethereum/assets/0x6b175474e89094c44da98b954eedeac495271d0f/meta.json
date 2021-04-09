@@ -1,0 +1,15 @@
+{
+  "name": "Dai",
+  "symbol": "DAI",
+  "web": "https://makerdao.com",
+  "explorer": "https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f",
+  "links": {
+    "coingecko": "dai",
+    "twitter": "MakerDAO",
+    "reddit": "r/MakerDAO"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "POMA",
+  "symbol": "POMAC",
+  "web": "https://projectpoma.com",
+  "explorer": "https://etherscan.io/token/0xdf4df8ee1bd1c9f01e60ee15e4c2f7643b690699",
+  "links": {
+    "coingecko": "poma",
+    "twitter": "ProjectPoma",
+    "facebook": "projectpoma",
+    "reddit": "r/projectpoma"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

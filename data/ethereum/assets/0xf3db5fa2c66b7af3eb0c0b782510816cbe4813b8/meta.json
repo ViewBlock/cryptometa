@@ -1,0 +1,17 @@
+{
+  "name": "Everex",
+  "symbol": "EVX",
+  "web": "https://www.everex.io",
+  "explorer": "https://etherscan.io/token/0xf3db5fa2c66b7af3eb0c0b782510816cbe4813b8",
+  "links": {
+    "github": "EverexIO",
+    "coingecko": "everex",
+    "twitter": "everexio",
+    "telegram": "everexio",
+    "reddit": "r/Everex"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

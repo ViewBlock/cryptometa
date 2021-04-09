@@ -1,0 +1,13 @@
+{
+  "name": "B360",
+  "symbol": "B360",
+  "web": "https://www.bee360.io",
+  "explorer": "https://etherscan.io/token/0xa870879e2872f9f2dc3a33933a9af3345b00fd14",
+  "links": {
+    "coingecko": "b360"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

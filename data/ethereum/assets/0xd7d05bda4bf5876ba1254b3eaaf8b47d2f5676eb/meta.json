@@ -1,0 +1,15 @@
+{
+  "name": "STABLE ASSET",
+  "symbol": "STA",
+  "web": "https://stable.trade",
+  "explorer": "https://etherscan.io/token/0xd7d05bda4bf5876ba1254b3eaaf8b47d2f5676eb",
+  "links": {
+    "coingecko": "stable-asset",
+    "twitter": "StableProject",
+    "facebook": "stableOfficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

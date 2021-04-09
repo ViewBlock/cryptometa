@@ -1,0 +1,15 @@
+{
+  "name": "Interop",
+  "symbol": "TROP",
+  "web": "https://interop.finance",
+  "explorer": "https://etherscan.io/token/0x2eC75589856562646afE393455986CaD26c4Cc5f",
+  "links": {
+    "coingecko": "interop",
+    "twitter": "INTEROP_FI",
+    "telegram": "interop_finance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

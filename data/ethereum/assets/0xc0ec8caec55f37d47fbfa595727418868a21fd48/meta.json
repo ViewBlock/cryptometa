@@ -1,0 +1,13 @@
+{
+  "name": "EcoG9coin",
+  "symbol": "EGC",
+  "web": "http://www.g9c.io",
+  "explorer": "https://etherscan.io/token/0xc0ec8caec55f37d47fbfa595727418868a21fd48",
+  "links": {
+    "coingecko": "ecog9coin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

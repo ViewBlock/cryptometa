@@ -1,0 +1,17 @@
+{
+  "name": "TouchCon",
+  "symbol": "TOC",
+  "web": "http://www.touchcon.org",
+  "explorer": "https://etherscan.io/token/0xE02784175C3BE0DEa7CC0F284041b64503639E66",
+  "links": {
+    "github": "touchconDev",
+    "coingecko": "touchcon",
+    "twitter": "TouchconInfo",
+    "facebook": "touchcoin",
+    "telegram": "touchconplatform"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Sora Validator Token",
+  "symbol": "VAL",
+  "web": "https://sora.org",
+  "explorer": "https://etherscan.io/token/0xe88f8313e61a97cec1871ee37fbbe2a8bf3ed1e4",
+  "links": {
+    "github": "sora-xor",
+    "coingecko": "sora-validator-token",
+    "twitter": "sora_xor",
+    "facebook": "sora.xor",
+    "telegram": "sora_xor",
+    "reddit": "r/SORA"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

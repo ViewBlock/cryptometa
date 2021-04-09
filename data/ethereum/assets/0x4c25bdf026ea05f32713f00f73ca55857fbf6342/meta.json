@@ -1,0 +1,17 @@
+{
+  "name": "Font",
+  "symbol": "FONT",
+  "web": "https://font.community",
+  "explorer": "https://etherscan.io/token/0x4c25bdf026ea05f32713f00f73ca55857fbf6342",
+  "links": {
+    "github": "fontcommunity",
+    "coingecko": "font",
+    "twitter": "fontcommunity",
+    "telegram": "fontcommunitygroup",
+    "reddit": "r/fontcommunity"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

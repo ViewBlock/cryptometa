@@ -1,0 +1,18 @@
+{
+  "name": "LocalCoinSwap",
+  "symbol": "LCS",
+  "web": "https://www.localcoinswap.com",
+  "explorer": "https://etherscan.io/token/0xaa19961b6b858d9f18a115f25aa1d98abc1fdba8",
+  "links": {
+    "github": "LocalCoinSwap",
+    "coingecko": "localcoinswap",
+    "twitter": "Localcoinswap_",
+    "facebook": "localcoinswap",
+    "telegram": "localcoinswap",
+    "reddit": "r/Localcoinswap"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

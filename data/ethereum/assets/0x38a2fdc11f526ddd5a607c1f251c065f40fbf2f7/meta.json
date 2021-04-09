@@ -1,0 +1,18 @@
+{
+  "name": "PhoenixDAO",
+  "symbol": "PHNX",
+  "web": "https://phoenixdao.io",
+  "explorer": "https://etherscan.io/token/0x38A2fDc11f526Ddd5a607C1F251C065f40fBF2f7",
+  "links": {
+    "github": "PhoenixDAO",
+    "coingecko": "phoenixdao",
+    "twitter": "phnxdao",
+    "facebook": "Phoenix-DAO-110119317367230",
+    "telegram": "PHNXDAO",
+    "reddit": "r/PhoenixDAO"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

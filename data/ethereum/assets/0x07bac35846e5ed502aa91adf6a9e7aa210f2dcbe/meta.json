@@ -1,0 +1,16 @@
+{
+  "name": "Sifchain",
+  "symbol": "EROWAN",
+  "web": "https://sifchain.finance",
+  "explorer": "https://etherscan.io/token/0x07bac35846e5ed502aa91adf6a9e7aa210f2dcbe",
+  "links": {
+    "github": "Sifchain",
+    "coingecko": "sifchain",
+    "twitter": "sifchain",
+    "telegram": "sifchainann"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

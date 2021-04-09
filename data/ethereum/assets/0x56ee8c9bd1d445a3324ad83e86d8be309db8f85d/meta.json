@@ -1,0 +1,17 @@
+{
+  "name": "Solareum",
+  "symbol": "SLRM",
+  "web": "https://solareum.club",
+  "explorer": "https://etherscan.io/token/0x56ee8c9bd1d445a3324ad83e86d8be309db8f85d",
+  "links": {
+    "github": "Solareum",
+    "coingecko": "solareum",
+    "twitter": "solareumclub",
+    "facebook": "Solareum-300189880473588",
+    "telegram": "solareumclub"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "yffi finance",
+  "symbol": "YFFI",
+  "web": "https://www.yffi.finance",
+  "explorer": "https://etherscan.io/token/0xcee1d3c3a02267e37e6b373060f79d5d7b9e1669",
+  "links": {
+    "coingecko": "yffi-finance",
+    "twitter": "YFFIFinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

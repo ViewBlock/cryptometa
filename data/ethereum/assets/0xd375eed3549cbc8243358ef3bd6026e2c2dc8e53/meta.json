@@ -1,0 +1,15 @@
+{
+  "name": "CSC JACKPOT",
+  "symbol": "CSCJ",
+  "web": "https://cscjackpot.com",
+  "explorer": "https://etherscan.io/token/0xd375eed3549cbc8243358ef3bd6026e2c2dc8e53",
+  "links": {
+    "coingecko": "csc-jackpot",
+    "twitter": "cscjackpot",
+    "facebook": "cscj.global"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

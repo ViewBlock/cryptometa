@@ -1,0 +1,16 @@
+{
+  "name": "Atari",
+  "symbol": "ATRI",
+  "web": "https://www.atarichain.com",
+  "explorer": "https://etherscan.io/token/0xdacd69347de42babfaecd09dc88958378780fb62",
+  "links": {
+    "coingecko": "atari",
+    "twitter": "ataritoken",
+    "facebook": "atari",
+    "telegram": "AtariTokenOfficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

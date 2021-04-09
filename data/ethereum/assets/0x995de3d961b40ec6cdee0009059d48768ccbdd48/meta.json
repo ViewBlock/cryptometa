@@ -1,0 +1,15 @@
+{
+  "name": "Union Fair Coin",
+  "symbol": "UFC",
+  "web": "http://www.ufc.today",
+  "explorer": "https://etherscan.io/token/0x995de3d961b40ec6cdee0009059d48768ccbdd48",
+  "links": {
+    "coingecko": "union-fair-coin",
+    "twitter": "ChainUfc",
+    "telegram": "UFCproject"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

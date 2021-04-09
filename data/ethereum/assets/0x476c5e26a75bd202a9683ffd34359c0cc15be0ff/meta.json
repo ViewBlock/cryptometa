@@ -1,0 +1,15 @@
+{
+  "name": "Serum",
+  "symbol": "SRM",
+  "web": "https://projectserum.com",
+  "explorer": "https://etherscan.io/token/0x476c5e26a75bd202a9683ffd34359c0cc15be0ff",
+  "links": {
+    "coingecko": "serum",
+    "twitter": "projectserum",
+    "telegram": "ProjectSerum"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

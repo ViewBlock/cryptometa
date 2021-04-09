@@ -1,0 +1,16 @@
+{
+  "name": "YFIDapp",
+  "symbol": "YFID",
+  "web": "https://yfidapp.finance",
+  "explorer": "https://etherscan.io/token/0x61266424B904d65cEb2945a1413Ac322185187D5",
+  "links": {
+    "github": "YFIDapp",
+    "coingecko": "yfidapp",
+    "twitter": "yfidapp",
+    "telegram": "YFIDappOfficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

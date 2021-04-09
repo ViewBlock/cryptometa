@@ -1,0 +1,17 @@
+{
+  "name": "Sync Network",
+  "symbol": "SYNC",
+  "web": "https://syncbond.com",
+  "explorer": "https://etherscan.io/token/0xb6ff96b8a8d214544ca0dbc9b33f7ad6503efd32",
+  "links": {
+    "github": "C-O-F-E",
+    "coingecko": "sync-network",
+    "twitter": "SYNCTOKEN",
+    "telegram": "SYNC_NETWORK",
+    "reddit": "r/SyncNetworkOfficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

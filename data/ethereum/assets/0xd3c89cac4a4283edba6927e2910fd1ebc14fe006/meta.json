@@ -1,0 +1,15 @@
+{
+  "name": "Moonaï",
+  "symbol": "MOOI",
+  "web": "https://en.xn--moona-gta.com",
+  "explorer": "https://etherscan.io/token/0xd3c89cac4a4283edba6927e2910fd1ebc14fe006",
+  "links": {
+    "coingecko": "moonai",
+    "twitter": "Moona76887445",
+    "facebook": "moonaicrypto"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

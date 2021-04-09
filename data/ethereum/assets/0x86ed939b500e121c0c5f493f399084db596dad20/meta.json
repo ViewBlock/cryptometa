@@ -1,0 +1,19 @@
+{
+  "name": "SpaceChain (ERC-20)",
+  "symbol": "SPC",
+  "web": "http://spacechain.com",
+  "explorer": "https://etherscan.io/token/0x86ed939b500e121c0c5f493f399084db596dad20",
+  "links": {
+    "coingecko": "spacechain-erc-20",
+    "twitter": "SpaceChain",
+    "facebook": "spacechainfound",
+    "telegram": "SpaceChainOfficial_EN",
+    "reddit": "r/SpaceChain",
+    "github": "spacechain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

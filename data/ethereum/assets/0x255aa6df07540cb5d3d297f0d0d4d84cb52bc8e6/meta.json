@@ -1,0 +1,16 @@
+{
+  "name": "Raiden Network Token",
+  "symbol": "RDN",
+  "web": "https://raiden.network",
+  "explorer": "https://etherscan.io/token/0x255aa6df07540cb5d3d297f0d0d4d84cb52bc8e6",
+  "links": {
+    "github": "raiden-network",
+    "coingecko": "raiden-network",
+    "twitter": "raiden_network",
+    "reddit": "r/raidennetwork"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

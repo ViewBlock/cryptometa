@@ -1,0 +1,14 @@
+{
+  "name": "Halving",
+  "symbol": "HALV",
+  "web": "https://halvingcoin.space",
+  "explorer": "https://etherscan.io/token/0x245b78f9957f0dc435d1c093c64d2defe78577b2",
+  "links": {
+    "coingecko": "halving-coin",
+    "twitter": "Halvingtoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

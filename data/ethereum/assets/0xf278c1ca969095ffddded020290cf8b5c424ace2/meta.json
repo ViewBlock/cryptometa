@@ -1,0 +1,17 @@
+{
+  "name": "Ruff",
+  "symbol": "RUFF",
+  "web": "http://ruffchain.com",
+  "explorer": "https://etherscan.io/token/0xf278c1ca969095ffddded020290cf8b5c424ace2",
+  "links": {
+    "github": "RuffNotes",
+    "coingecko": "ruff",
+    "twitter": "Ruff_Chain",
+    "facebook": "RuffChainProject",
+    "telegram": "RuffChain"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

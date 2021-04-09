@@ -1,0 +1,16 @@
+{
+  "name": "Ink",
+  "symbol": "INK",
+  "web": "https://ink.one",
+  "explorer": "https://explorer.qtum.org/token/fe59cbc1704e89a698571413a81f0de9d8f00c69",
+  "links": {
+    "github": "inklabsfoundation",
+    "coingecko": "ink",
+    "twitter": "inklabsfound",
+    "reddit": "r/InkLabsFoundation"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

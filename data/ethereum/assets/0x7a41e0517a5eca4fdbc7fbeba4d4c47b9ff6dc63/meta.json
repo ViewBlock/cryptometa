@@ -1,0 +1,14 @@
+{
+  "name": "Zeusshield",
+  "symbol": "ZSC",
+  "web": "https://zsc.io",
+  "explorer": "https://etherscan.io/token/0x7A41e0517a5ecA4FdbC7FbebA4D4c47B9fF6DC63",
+  "links": {
+    "coingecko": "zeusshield",
+    "twitter": "zeusshield"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Gameswap",
+  "symbol": "GSWAP",
+  "web": "https://www.gameswap.org",
+  "explorer": "https://etherscan.io/token/0xaac41ec512808d64625576eddd580e7ea40ef8b2",
+  "links": {
+    "coingecko": "gameswap-org",
+    "twitter": "GameswapDEX",
+    "telegram": "shroomfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

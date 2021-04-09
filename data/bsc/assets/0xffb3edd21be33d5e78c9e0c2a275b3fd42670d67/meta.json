@@ -1,0 +1,12 @@
+{
+  "name": "Stakd Finance",
+  "symbol": "STAKD",
+  "web": "https://stakd.finance",
+  "explorer": "https://www.bscscan.com/token/0xFfB3eDd21be33d5e78C9e0C2A275b3Fd42670D67",
+  "links": {
+    "github": "stakdfinance",
+    "coingecko": "stakd-finance",
+    "twitter": "STAKD_finance",
+    "telegram": "stakdfinance"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "BiLira",
+  "symbol": "TRYB",
+  "web": "https://www.bilira.co",
+  "explorer": "https://etherscan.io/token/0x2c537e5624e4af88a7ae4060c022609376c8d0eb",
+  "links": {
+    "coingecko": "bilira",
+    "twitter": "BiLira_Official",
+    "telegram": "bilira_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

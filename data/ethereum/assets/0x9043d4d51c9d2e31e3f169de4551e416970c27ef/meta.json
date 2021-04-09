@@ -1,0 +1,17 @@
+{
+  "name": "Prime DAI",
+  "symbol": "PDAI",
+  "web": "https://omgswap.in",
+  "explorer": "https://etherscan.io/token/0x9043d4d51c9d2e31e3f169de4551e416970c27ef",
+  "links": {
+    "github": "omgswap",
+    "coingecko": "prime-dai",
+    "twitter": "omegadefi",
+    "facebook": "omegadefi",
+    "telegram": "omegadefi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

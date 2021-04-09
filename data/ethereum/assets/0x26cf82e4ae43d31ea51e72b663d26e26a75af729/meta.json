@@ -1,0 +1,15 @@
+{
+  "name": "Moonbase",
+  "symbol": "MBBASED",
+  "web": "https://based.money",
+  "explorer": "https://etherscan.io/token/0x26cF82e4aE43D31eA51e72B663d26e26a75AF729",
+  "links": {
+    "coingecko": "moonbase",
+    "twitter": "basedprotocol",
+    "telegram": "basedmoney"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

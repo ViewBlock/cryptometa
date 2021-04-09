@@ -1,0 +1,16 @@
+{
+  "name": "Bryllite",
+  "symbol": "BRC",
+  "web": "https://www.bryllite.com/en",
+  "explorer": "https://etherscan.io/token/0x8f7a9b503aa7f9255368bd34d01aea2b502164c2",
+  "links": {
+    "github": "bryllite",
+    "coingecko": "bryllite",
+    "twitter": "Bryllite_",
+    "facebook": "Bryllite"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

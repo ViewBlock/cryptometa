@@ -1,0 +1,14 @@
+{
+  "name": "Quality Tracing Chain",
+  "symbol": "QTC",
+  "web": "https://www.qtchain.org",
+  "explorer": "https://etherscan.io/token/0x19131a8ae42e32c747c1ead318fadb98b0be45b7",
+  "links": {
+    "coingecko": "quality-tracing-chain",
+    "twitter": "qtchain_org"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

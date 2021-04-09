@@ -1,0 +1,15 @@
+{
+  "name": "Wise",
+  "symbol": "WISE",
+  "web": "https://wisetoken.net",
+  "explorer": "https://etherscan.io/token/0x66a0f676479cee1d7373f3dc2e2952778bff5bd6",
+  "links": {
+    "github": "wise-foundation",
+    "coingecko": "wise-token11",
+    "telegram": "wisetoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

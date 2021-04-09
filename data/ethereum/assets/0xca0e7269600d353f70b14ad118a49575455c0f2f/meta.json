@@ -1,0 +1,17 @@
+{
+  "name": "AMLT Network",
+  "symbol": "AMLT",
+  "web": "https://amlt.coinfirm.com",
+  "explorer": "https://etherscan.io/token/0xca0e7269600d353f70b14ad118a49575455c0f2f",
+  "links": {
+    "coingecko": "coinfirm-amlt",
+    "twitter": "AMLT_Token",
+    "facebook": "AMLToken",
+    "telegram": "AMLT_Coinfirm",
+    "reddit": "r/AMLT"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

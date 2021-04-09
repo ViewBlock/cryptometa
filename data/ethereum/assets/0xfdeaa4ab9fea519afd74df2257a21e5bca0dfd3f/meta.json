@@ -1,0 +1,13 @@
+{
+  "name": "BCAT",
+  "symbol": "BCAT",
+  "web": "https://bcathub.com",
+  "explorer": "https://etherscan.io/token/0xfdeaa4ab9fea519afd74df2257a21e5bca0dfd3f",
+  "links": {
+    "coingecko": "bcat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

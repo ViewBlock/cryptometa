@@ -1,0 +1,13 @@
+{
+  "name": "Communication Development Resources Token",
+  "symbol": "CDR",
+  "web": "http://www.shujin168.com",
+  "explorer": "https://etherscan.io/token/0x5a9f5992085e8a25a45716cb6f8ff5b57a05d332",
+  "links": {
+    "coingecko": "communication-development-resources-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

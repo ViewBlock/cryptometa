@@ -1,0 +1,16 @@
+{
+  "name": "Gas",
+  "symbol": "GAS",
+  "web": "https://neo.org",
+  "explorer": "https://neotracker.io/asset/602c79718b16e442de58778e148d0b1084e3b2dffd5de6b7b16cee7969282de7",
+  "links": {
+    "github": "neo-project",
+    "coingecko": "gas",
+    "twitter": "neo_blockchain",
+    "reddit": "r/NEO"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

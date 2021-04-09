@@ -1,0 +1,15 @@
+{
+  "name": "Arbiswap",
+  "symbol": "ASWAP",
+  "web": "https://arbiswap.online",
+  "explorer": "https://etherscan.io/token/0xad0887734461aF8C6033068bDE4047Dbe84074cc",
+  "links": {
+    "coingecko": "arbiswap",
+    "twitter": "Arbiswaponline",
+    "telegram": "arbiswapchannel"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

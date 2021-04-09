@@ -1,0 +1,15 @@
+{
+  "name": "Propy",
+  "symbol": "PRO",
+  "web": "https://propy.com",
+  "explorer": "https://etherscan.io/token/0x226bb599a12c826476e3a771454697ea52e9e220",
+  "links": {
+    "coingecko": "propy",
+    "twitter": "PropyInc",
+    "telegram": "propy"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

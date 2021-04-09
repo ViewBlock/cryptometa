@@ -1,0 +1,15 @@
+{
+  "name": "Machi X",
+  "symbol": "MCX",
+  "web": "https://machix.com",
+  "explorer": "https://etherscan.io/token/0xd15ecdcf5ea68e3995b2d0527a0ae0a3258302f8",
+  "links": {
+    "coingecko": "machix",
+    "twitter": "MachiXOfficial",
+    "facebook": "OfficialMachiX"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

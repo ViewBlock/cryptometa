@@ -1,0 +1,13 @@
+{
+  "name": "3X Long OKB Token",
+  "symbol": "OKBBULL",
+  "web": "https://ftx.com/tokens/OKBBULL",
+  "explorer": "https://etherscan.io/token/0x8aF785687ee8D75114B028997c9ca36b5CC67Bc4",
+  "links": {
+    "coingecko": "3x-long-okb-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Monkey Coin",
+  "symbol": "MC",
+  "web": "http://www.houcoin.com",
+  "explorer": "https://etherscan.io/token/0xA38b7EE9dF79955b90cC4E2dE90421f6Baa83A3D",
+  "links": {
+    "coingecko": "monkey-coin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "YFOX Finance",
+  "symbol": "YFOX",
+  "web": "https://yfox.finance",
+  "explorer": "https://etherscan.io/token/0x706cb9e741cbfee00ad5b3f5acc8bd44d1644a74",
+  "links": {
+    "github": "YFOXFINANCE",
+    "coingecko": "yfox-finance",
+    "twitter": "yfoxfinance",
+    "telegram": "YFOX_Finance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

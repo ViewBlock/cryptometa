@@ -1,0 +1,15 @@
+{
+  "name": "Peet DeFi",
+  "symbol": "PTE",
+  "web": "https://peetdecentralized.finance",
+  "explorer": "https://etherscan.io/token/0x51bb9c623226ce781f4a54fc8f4a530a47142b6b",
+  "links": {
+    "coingecko": "peet-defi",
+    "twitter": "peet_fi",
+    "telegram": "peetdefi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

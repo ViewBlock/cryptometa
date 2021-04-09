@@ -1,0 +1,16 @@
+{
+  "name": "BONK Token",
+  "symbol": "BONK",
+  "web": "https://bonktoken.com",
+  "explorer": "https://etherscan.io/token/0x6d6506e6f438ede269877a0a720026559110b7d5",
+  "links": {
+    "coingecko": "bonk-token",
+    "twitter": "bonktoken",
+    "telegram": "bonktoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

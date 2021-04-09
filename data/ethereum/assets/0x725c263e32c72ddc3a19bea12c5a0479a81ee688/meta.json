@@ -1,0 +1,15 @@
+{
+  "name": "Bridge Mutual",
+  "symbol": "BMI",
+  "web": "https://bridgemutual.io",
+  "explorer": "https://etherscan.io/token/0x725c263e32c72ddc3a19bea12c5a0479a81ee688",
+  "links": {
+    "coingecko": "bridge-mutual",
+    "twitter": "Bridge_Mutual",
+    "telegram": "bridge_mutual"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Morph Tracker",
+  "symbol": "MORT",
+  "web": "https://morph.finance",
+  "explorer": "https://etherscan.io/token/0x970b596ea3cb9864397f799902f0a579cdc3377b",
+  "links": {
+    "coingecko": "dynamic-supply-tracker",
+    "twitter": "MorphCoin",
+    "telegram": "morphfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

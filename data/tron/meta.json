@@ -1,0 +1,17 @@
+{
+  "name": "TRON",
+  "symbol": "TRX",
+  "web": "https://tron.network",
+  "explorer": "https://tronscan.org",
+  "links": {
+    "github": "tronprotocol",
+    "coingecko": "tron",
+    "twitter": "tronfoundation",
+    "facebook": "tronfoundation",
+    "telegram": "tronnetworkEN03",
+    "reddit": "r/Tronix"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

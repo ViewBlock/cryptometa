@@ -1,0 +1,15 @@
+{
+  "name": "DGL Coin",
+  "symbol": "DGL",
+  "web": "https://dglcoin.com",
+  "explorer": "https://etherscan.io/token/0x842c2b97772b4528589ed243f6bda3381ef0261f",
+  "links": {
+    "coingecko": "dgl-coin",
+    "twitter": "DgLcoin",
+    "telegram": "dglcoinoficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

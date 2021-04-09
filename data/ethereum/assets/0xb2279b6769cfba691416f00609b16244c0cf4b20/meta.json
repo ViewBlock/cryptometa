@@ -1,0 +1,16 @@
+{
+  "name": "Waifu Token",
+  "symbol": "WAIF",
+  "web": "https://waifutoken.io",
+  "explorer": "https://etherscan.io/token/0xb2279b6769cfba691416f00609b16244c0cf4b20",
+  "links": {
+    "github": "WaifuToken",
+    "coingecko": "waifu-token",
+    "twitter": "WaifuToken",
+    "telegram": "waifutoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

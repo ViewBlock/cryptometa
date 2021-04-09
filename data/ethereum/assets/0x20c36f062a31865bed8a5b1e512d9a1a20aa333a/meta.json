@@ -1,0 +1,16 @@
+{
+  "name": "DefiDollar DAO",
+  "symbol": "DFD",
+  "web": "https://app.dusd.finance",
+  "explorer": "https://etherscan.io/token/0x20c36f062a31865bED8a5B1e512D9a1A20AA333A",
+  "links": {
+    "github": "defidollar",
+    "coingecko": "defidollar-dao",
+    "twitter": "defidollar",
+    "telegram": "defidollar_community"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

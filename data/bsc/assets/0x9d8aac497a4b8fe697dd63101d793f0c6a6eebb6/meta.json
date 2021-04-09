@@ -1,0 +1,11 @@
+{
+  "name": "Defi 100",
+  "symbol": "D100",
+  "web": "https://defi100.org",
+  "explorer": "https://bscscan.com/token/0x9d8aac497a4b8fe697dd63101d793f0c6a6eebb6",
+  "links": {
+    "coingecko": "defi-100",
+    "twitter": "defi100",
+    "telegram": "defi100chat"
+  }
+}

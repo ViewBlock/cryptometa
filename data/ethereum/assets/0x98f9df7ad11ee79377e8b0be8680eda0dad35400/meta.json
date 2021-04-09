@@ -1,0 +1,15 @@
+{
+  "name": "Scammedium",
+  "symbol": "SCAMMEDIUM",
+  "web": "https://qdefirating.com",
+  "explorer": "https://etherscan.io/token/0x98f9df7ad11ee79377e8b0be8680eda0dad35400",
+  "links": {
+    "coingecko": "scammedium",
+    "twitter": "platinumqdao",
+    "telegram": "PlatinumQeng"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

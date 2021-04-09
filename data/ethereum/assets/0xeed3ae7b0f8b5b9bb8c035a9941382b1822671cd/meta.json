@@ -1,0 +1,17 @@
+{
+  "name": "EveryCoin",
+  "symbol": "EVY",
+  "web": "https://www.everycoin.io",
+  "explorer": "https://etherscan.io/token/0xEEd3aE7b0F8b5B9BB8C035A9941382B1822671CD",
+  "links": {
+    "github": "aaron-platform",
+    "coingecko": "everycoin",
+    "twitter": "AaronJin20",
+    "facebook": "aaron.jin.5895",
+    "telegram": "aaron_platform"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

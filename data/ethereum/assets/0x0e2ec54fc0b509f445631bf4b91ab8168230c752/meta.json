@@ -1,0 +1,15 @@
+{
+  "name": "LINKUSD",
+  "symbol": "LINKUSD",
+  "web": "https://arcx.game",
+  "explorer": "https://etherscan.io/token/0x0e2ec54fc0b509f445631bf4b91ab8168230c752",
+  "links": {
+    "github": "arcxgame",
+    "coingecko": "linkusd",
+    "twitter": "arcxgame"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Aave",
+  "symbol": "AAVE",
+  "web": "https://app.aave.com/?referral=93",
+  "explorer": "https://etherscan.io/token/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+  "links": {
+    "github": "aave",
+    "coingecko": "aave",
+    "twitter": "AaveAave",
+    "facebook": "AaveCom",
+    "telegram": "Aavesome",
+    "reddit": "r/Aave_Official"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

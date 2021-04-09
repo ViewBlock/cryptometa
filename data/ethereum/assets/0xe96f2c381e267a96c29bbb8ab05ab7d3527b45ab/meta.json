@@ -1,0 +1,16 @@
+{
+  "name": "SatoExchange Token",
+  "symbol": "SATX",
+  "web": "https://www.satoexchange.com/SATX",
+  "explorer": "https://etherscan.io/token/0xe96f2c381e267a96c29bbb8ab05ab7d3527b45ab",
+  "links": {
+    "coingecko": "satoexchange-token",
+    "twitter": "satoexchange",
+    "facebook": "satoexchange",
+    "telegram": "satoexchange_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

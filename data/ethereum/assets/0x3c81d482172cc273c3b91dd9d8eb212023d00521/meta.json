@@ -1,0 +1,17 @@
+{
+  "name": "Prophecy",
+  "symbol": "PRY",
+  "web": "https://prophecyproject.io",
+  "explorer": "https://etherscan.io/token/0x3c81d482172cc273c3b91dd9d8eb212023d00521",
+  "links": {
+    "github": "prophetproject1",
+    "coingecko": "prophecy",
+    "twitter": "Buy_Prophecy",
+    "telegram": "prophecyproject",
+    "reddit": "r/Prophet_DeFi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

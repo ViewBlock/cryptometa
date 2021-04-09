@@ -1,0 +1,15 @@
+{
+  "name": "PromotionChain",
+  "symbol": "PC",
+  "web": "http://www.pchain.io",
+  "explorer": "https://etherscan.io/token/0xa6714a2e5f0b1bdb97b895b0913b4fcd3a775e4d",
+  "links": {
+    "coingecko": "promotionchain",
+    "twitter": "PromotionChain",
+    "facebook": "PromotionChain-938583542982567"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

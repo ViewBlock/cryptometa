@@ -1,0 +1,14 @@
+{
+  "name": "Yobit Token",
+  "symbol": "YO",
+  "web": "https://yobit.net/en",
+  "explorer": "https://etherscan.io/token/0xebf4ca5319f406602eeff68da16261f1216011b5",
+  "links": {
+    "coingecko": "yobit-token",
+    "twitter": "YobitExchange"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

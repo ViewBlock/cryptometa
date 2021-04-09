@@ -1,0 +1,16 @@
+{
+  "name": "Mettalex",
+  "symbol": "MTLX",
+  "web": "https://mettalex.com",
+  "explorer": "https://etherscan.io/token/0x2e1E15C44Ffe4Df6a0cb7371CD00d5028e571d14",
+  "links": {
+    "github": "fetchai",
+    "coingecko": "mettalex",
+    "twitter": "Mettalex",
+    "telegram": "mettalex_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

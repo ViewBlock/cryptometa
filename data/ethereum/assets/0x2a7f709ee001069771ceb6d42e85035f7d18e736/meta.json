@@ -1,0 +1,16 @@
+{
+  "name": "OWL Token",
+  "symbol": "OWL",
+  "web": "https://stealthswap.org",
+  "explorer": "https://etherscan.io/token/0x2a7f709ee001069771ceb6d42e85035f7d18e736",
+  "links": {
+    "github": "stealthswap",
+    "coingecko": "owl-token",
+    "twitter": "stealthswap",
+    "telegram": "StealthSwapETH"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

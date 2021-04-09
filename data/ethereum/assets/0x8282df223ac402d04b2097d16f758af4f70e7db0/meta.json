@@ -1,0 +1,15 @@
+{
+  "name": "YFLink Synthetic",
+  "symbol": "SYFL",
+  "web": "https://yflink.io/#",
+  "explorer": "https://etherscan.io/token/0x8282df223AC402d04B2097d16f758Af4F70e7Db0",
+  "links": {
+    "coingecko": "yflink-synthetic",
+    "twitter": "YFLinkio",
+    "telegram": "YFLinkGroup"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

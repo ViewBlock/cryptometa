@@ -1,0 +1,17 @@
+{
+  "name": "Zoracles",
+  "symbol": "ZORA",
+  "web": "https://zoracles.com",
+  "explorer": "https://etherscan.io/token/0xD8E3FB3b08eBA982F2754988d70D57eDc0055ae6",
+  "links": {
+    "github": "zoracles",
+    "coingecko": "zoracles",
+    "twitter": "z0racles",
+    "telegram": "zoracles",
+    "reddit": "r/Zoracles"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

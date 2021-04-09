@@ -1,0 +1,17 @@
+{
+  "name": "Funder One",
+  "symbol": "FUNDX",
+  "web": "http://fundx.io",
+  "explorer": "https://etherscan.io/token/0x30d862bbbef3b75f700d6ba7d323b95708eaafaa",
+  "links": {
+    "coingecko": "funder-one",
+    "twitter": "Funder_One",
+    "facebook": "Funder-One-Capital-108213930753683",
+    "telegram": "FunderOne"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

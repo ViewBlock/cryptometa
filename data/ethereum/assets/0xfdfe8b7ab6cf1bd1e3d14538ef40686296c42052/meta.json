@@ -1,0 +1,18 @@
+{
+  "name": "Skraps",
+  "symbol": "SKRP",
+  "web": "https://skraps.io",
+  "explorer": "https://etherscan.io/token/0xfdfe8b7ab6cf1bd1e3d14538ef40686296c42052",
+  "links": {
+    "github": "SkrapsIO",
+    "coingecko": "skraps",
+    "twitter": "SkrapsApp",
+    "facebook": "SKRAPSAPP",
+    "telegram": "SkrapsOfficial",
+    "reddit": "r/SKRAPSio"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

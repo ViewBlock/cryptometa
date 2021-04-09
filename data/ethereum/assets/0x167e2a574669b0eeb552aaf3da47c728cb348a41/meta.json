@@ -1,0 +1,15 @@
+{
+  "name": "Spartan",
+  "symbol": "300",
+  "web": "https://300.army",
+  "explorer": "https://etherscan.io/token/0x167e2a574669b0eeb552aaf3da47c728cb348a41",
+  "links": {
+    "coingecko": "spartan",
+    "twitter": "300Token",
+    "telegram": "Token300"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

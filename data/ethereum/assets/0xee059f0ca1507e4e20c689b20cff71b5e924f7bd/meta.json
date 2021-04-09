@@ -1,0 +1,17 @@
+{
+  "name": "Litecoin SV",
+  "symbol": "LSV",
+  "web": "https://litecoin-sv.com",
+  "explorer": "https://etherscan.io/token/0xee059f0ca1507e4e20c689b20cff71b5e924f7bd",
+  "links": {
+    "github": "Litecoin-SV",
+    "coingecko": "litecoin-sv",
+    "twitter": "Litecoin_SV",
+    "facebook": "LitecoinSv",
+    "telegram": "litecoinsvofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

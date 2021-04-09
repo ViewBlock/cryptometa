@@ -1,0 +1,15 @@
+{
+  "name": "BlackDragon Token",
+  "symbol": "BDT",
+  "web": "https://www.blackdragon.io",
+  "explorer": "https://etherscan.io/token/0x4Efe8665e564bF454cCF5C90Ee16817F7485d5Cf",
+  "links": {
+    "coingecko": "blackdragon-token",
+    "twitter": "BlackDragon_io",
+    "telegram": "BlackDragon_Chat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Bmining Token",
+  "symbol": "BMT",
+  "web": "https://bmining.finance",
+  "explorer": "https://etherscan.io/token/0xf205d2d65205711b6f6aae3fcb7ebdbc8573f192",
+  "links": {
+    "github": "bmining-finance",
+    "coingecko": "bmining-token",
+    "twitter": "bMiningdefi",
+    "telegram": "bmininghashrate"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

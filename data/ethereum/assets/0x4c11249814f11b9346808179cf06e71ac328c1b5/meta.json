@@ -1,0 +1,17 @@
+{
+  "name": "Oraichain Token",
+  "symbol": "ORAI",
+  "web": "https://orai.io",
+  "explorer": "https://etherscan.io/token/0x4c11249814f11b9346808179cf06e71ac328c1b5",
+  "links": {
+    "github": "oraichain",
+    "coingecko": "oraichain-token",
+    "twitter": "oraichain",
+    "facebook": "oraichain",
+    "telegram": "oraichain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

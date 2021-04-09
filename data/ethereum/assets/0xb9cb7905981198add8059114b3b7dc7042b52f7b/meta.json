@@ -1,0 +1,15 @@
+{
+  "name": "Tamy Token",
+  "symbol": "TMT",
+  "web": "https://tamy.io",
+  "explorer": "https://etherscan.io/token/0xb9cb7905981198add8059114b3b7dc7042b52f7b",
+  "links": {
+    "github": "blobs-coin",
+    "coingecko": "tamy-token",
+    "telegram": "tamytoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "EthereumAI",
+  "symbol": "EAI",
+  "web": "http://ethereumai.io",
+  "explorer": "https://etherscan.io/token/0x2f102963f61acf1ca4badfe82057b440f2fc722c",
+  "links": {
+    "coingecko": "ethereumai"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

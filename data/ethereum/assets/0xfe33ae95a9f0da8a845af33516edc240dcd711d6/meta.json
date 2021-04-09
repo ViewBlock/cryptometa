@@ -1,0 +1,15 @@
+{
+  "name": "sDASH",
+  "symbol": "SDASH",
+  "web": "https://docs.synthetix.io/tokens/list",
+  "explorer": "https://etherscan.io/token/0xfE33ae95A9f0DA8A845aF33516EDc240DCD711d6",
+  "links": {
+    "github": "Synthetixio",
+    "coingecko": "sdash",
+    "twitter": "synthetix_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

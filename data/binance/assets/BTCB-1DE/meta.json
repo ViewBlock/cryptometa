@@ -1,14 +1,16 @@
 {
-  "symbol": "BTCB-1DE",
   "name": "Bitcoin BEP2",
-  "email": null,
+  "symbol": "BTCB-1DE",
   "web": null,
+  "explorer": "https://explorer.binance.org/asset/BTCB-1DE",
+  "links": {
+    "coingecko": "bitcoin-bep2"
+  },
+  "email": null,
   "decimals": 18,
   "supply": 9001,
-  "links": {},
   "gen": {
     "logo": "logo.png",
-    "hasDark": false,
     "score": 0
   }
 }

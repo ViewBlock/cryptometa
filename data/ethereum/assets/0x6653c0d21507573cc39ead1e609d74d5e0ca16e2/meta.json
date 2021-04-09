@@ -1,0 +1,18 @@
+{
+  "name": "ReFork",
+  "symbol": "EFK",
+  "web": "https://refork.org",
+  "explorer": "https://etherscan.io/token/0x6653c0d21507573cc39ead1e609d74d5e0ca16e2",
+  "links": {
+    "github": "refork-org",
+    "coingecko": "refork",
+    "twitter": "refork",
+    "facebook": "refork.official",
+    "telegram": "reforkcommunity",
+    "reddit": "r/ReFork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

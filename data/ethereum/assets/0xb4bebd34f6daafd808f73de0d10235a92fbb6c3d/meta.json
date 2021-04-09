@@ -1,0 +1,16 @@
+{
+  "name": "Yearn Ecosystem Token Index",
+  "symbol": "YETI",
+  "web": "https://powerindex.io/#",
+  "explorer": "https://etherscan.io/token/0xb4bebD34f6DaaFd808f73De0d10235a92Fbb6c3D",
+  "links": {
+    "github": "powerpool-finance",
+    "coingecko": "yearn-ecosystem-token-index",
+    "twitter": "powerpoolcvp",
+    "telegram": "powerpoolcvp"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "TranslateMe Network Token",
+  "symbol": "TMN",
+  "web": "https://translateme.network",
+  "explorer": "https://neotracker.io/asset/d613223fa138a1555ff711581982462acde209c5",
+  "links": {
+    "coingecko": "ttanslateme-network-token",
+    "twitter": "translatemenet",
+    "facebook": "translatemenet",
+    "reddit": "r/TranslateMe"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

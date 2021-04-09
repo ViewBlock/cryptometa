@@ -1,0 +1,14 @@
+{
+  "name": "iXMR",
+  "symbol": "IXMR",
+  "web": "https://www.synthetix.io/tokens",
+  "explorer": "https://etherscan.io/token/0x4AdF728E2Df4945082cDD6053869f51278fae196",
+  "links": {
+    "coingecko": "ixmr",
+    "twitter": "synthetix_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

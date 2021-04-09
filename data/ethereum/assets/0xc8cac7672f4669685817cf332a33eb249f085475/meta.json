@@ -1,0 +1,18 @@
+{
+  "name": "LivenPay",
+  "symbol": "LVN",
+  "web": "https://livenpay.io",
+  "explorer": "https://etherscan.io/token/0xc8cac7672f4669685817cf332a33eb249f085475",
+  "links": {
+    "github": "LivenPay",
+    "coingecko": "livenpay",
+    "twitter": "livenpay",
+    "facebook": "LivenPay",
+    "telegram": "livenpay",
+    "reddit": "r/LivenPay"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

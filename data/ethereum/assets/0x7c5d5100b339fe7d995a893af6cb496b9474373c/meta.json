@@ -1,0 +1,14 @@
+{
+  "name": "Loon Network",
+  "symbol": "LOON",
+  "web": "https://www.loonetwork.com",
+  "explorer": "https://etherscan.io/token/0x7C5d5100B339Fe7D995a893AF6CB496B9474373c",
+  "links": {
+    "coingecko": "loon-network",
+    "telegram": "loonetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

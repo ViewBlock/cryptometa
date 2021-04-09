@@ -1,0 +1,18 @@
+{
+  "name": "FXPay",
+  "symbol": "FXP",
+  "web": "https://fxpay.io",
+  "explorer": "https://etherscan.io/token/0x14ddda446688b73161aa1382f4e4343353af6fc8",
+  "links": {
+    "github": "fxpayglobal",
+    "coingecko": "fxpay",
+    "twitter": "fxpayglobal",
+    "facebook": "fxpayglobal",
+    "telegram": "fxpglobal",
+    "reddit": "r/FXPayGlobal"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

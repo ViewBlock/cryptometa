@@ -1,0 +1,16 @@
+{
+  "name": "Stand Cash",
+  "symbol": "SAC",
+  "web": "https://stand.cash",
+  "explorer": "https://etherscan.io/token/0xacd8f2523a4613eee78904354187c81bb05ae2b8",
+  "links": {
+    "github": "standcash",
+    "coingecko": "stand-cash",
+    "twitter": "StandCash",
+    "telegram": "standcash"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

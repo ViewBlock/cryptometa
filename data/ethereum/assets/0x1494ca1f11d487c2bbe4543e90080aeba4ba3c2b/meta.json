@@ -1,0 +1,15 @@
+{
+  "name": "DeFiPulse Index",
+  "symbol": "DPI",
+  "web": "https://www.indexcoop.com",
+  "explorer": "https://etherscan.io/token/0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b",
+  "links": {
+    "github": "SetProtocol",
+    "coingecko": "defipulse-index",
+    "twitter": "SetProtocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

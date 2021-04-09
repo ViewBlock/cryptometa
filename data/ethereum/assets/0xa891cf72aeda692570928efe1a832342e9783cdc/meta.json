@@ -1,0 +1,17 @@
+{
+  "name": "Interfinex Bills",
+  "symbol": "IFEX",
+  "web": "https://interfinex.io",
+  "explorer": "https://etherscan.io/token/0xa891cf72aeda692570928efe1a832342e9783cdc",
+  "links": {
+    "github": "International-Financial-Exchange",
+    "coingecko": "interfinex-bills",
+    "twitter": "Interfinex_io",
+    "facebook": "Interfinex-103763214881679",
+    "telegram": "interfinexio"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

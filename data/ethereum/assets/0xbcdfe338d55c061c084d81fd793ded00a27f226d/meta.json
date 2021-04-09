@@ -1,0 +1,17 @@
+{
+  "name": "Decentralized Machine Learning Protocol",
+  "symbol": "DML",
+  "web": "https://decentralizedml.com",
+  "explorer": "https://etherscan.io/token/0xbcdfe338d55c061c084d81fd793ded00a27f226d",
+  "links": {
+    "github": "DecentralizedML",
+    "coingecko": "decentralized-machine-learning",
+    "twitter": "DecentralizedML",
+    "telegram": "DecentralizedML",
+    "reddit": "r/decentralizedML"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

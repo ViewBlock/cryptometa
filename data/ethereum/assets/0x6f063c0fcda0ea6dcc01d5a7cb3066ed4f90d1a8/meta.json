@@ -1,0 +1,15 @@
+{
+  "name": "EBSP Token",
+  "symbol": "EBSP",
+  "web": "https://www.ebsp1.com",
+  "explorer": "https://etherscan.io/token/0x6f063c0fcda0ea6dcc01d5a7cb3066ed4f90d1a8",
+  "links": {
+    "coingecko": "ebsp-token",
+    "twitter": "CompanyEbsp",
+    "telegram": "EBSP1"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

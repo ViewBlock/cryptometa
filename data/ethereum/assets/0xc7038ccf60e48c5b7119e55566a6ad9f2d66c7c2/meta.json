@@ -1,0 +1,13 @@
+{
+  "name": "3X Long BiLira Token",
+  "symbol": "TRYBBULL",
+  "web": "https://ftx.com/tokens/TRYBBULL",
+  "explorer": "https://etherscan.io/token/0xc7038cCf60E48C5b7119E55566A6aD9f2D66C7c2",
+  "links": {
+    "coingecko": "3x-long-bilira-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

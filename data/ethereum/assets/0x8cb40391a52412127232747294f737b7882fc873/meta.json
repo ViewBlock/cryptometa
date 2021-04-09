@@ -1,0 +1,16 @@
+{
+  "name": "1ClickToken",
+  "symbol": "1CT",
+  "web": "https://1clickexchange.com",
+  "explorer": "https://etherscan.io/token/0x8cB40391A52412127232747294f737B7882fC873",
+  "links": {
+    "coingecko": "1clicktoken",
+    "twitter": "1_Ecosystem",
+    "facebook": "1clickNigeria",
+    "telegram": "One_Ecosystem"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

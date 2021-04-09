@@ -1,0 +1,10 @@
+{
+  "name": "SafePal",
+  "symbol": "SFP",
+  "web": "https://www.safepal.io",
+  "links": {
+    "coingecko": "safepal",
+    "twitter": "iSafePal",
+    "telegram": "SafePalwallet"
+  }
+}

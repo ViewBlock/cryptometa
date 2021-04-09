@@ -1,0 +1,15 @@
+{
+  "name": "Global Business Hub",
+  "symbol": "GBH",
+  "web": "https://www.globalbusinesshub.io",
+  "explorer": "https://etherscan.io/token/0xc2ba253771006c7fe2952e67f1780703c4707bea",
+  "links": {
+    "github": "GBHUB5796",
+    "coingecko": "global-business-hub",
+    "twitter": "bhub5796"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "WeOwn",
+  "symbol": "CHX",
+  "web": "https://weown.com",
+  "explorer": "https://etherscan.io/token/0x1460a58096d80a50a2F1f956DDA497611Fa4f165",
+  "links": {
+    "github": "Chainium",
+    "coingecko": "chainium",
+    "twitter": "weownmarket",
+    "facebook": "OwnMarket",
+    "telegram": "OwnMarket"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

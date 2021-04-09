@@ -1,0 +1,17 @@
+{
+  "name": "U Network",
+  "symbol": "UUU",
+  "web": "https://u.network",
+  "explorer": "https://etherscan.io/token/0x3543638ed4a9006e4840b105944271bcea15605d",
+  "links": {
+    "github": "U-Network",
+    "coingecko": "u-network",
+    "twitter": "UNetworkHQ",
+    "telegram": "UNetwork",
+    "reddit": "r/UNetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "DLP Duck Token",
+  "symbol": "DUCK",
+  "web": "https://duckdao.io",
+  "explorer": "https://etherscan.io/token/0xc0ba369c8db6eb3924965e5c4fd0b4c1b91e305f",
+  "links": {
+    "coingecko": "dlp-duck-token",
+    "twitter": "dao_duck",
+    "telegram": "duckliquiditypool"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

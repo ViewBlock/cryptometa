@@ -1,0 +1,16 @@
+{
+  "name": "Oasis Network",
+  "symbol": "ROSE",
+  "web": "https://oasisprotocol.org",
+  "explorer": "https://www.oasisscan.com",
+  "links": {
+    "github": "oasislabs",
+    "coingecko": "oasis-network",
+    "twitter": "oasisprotocol",
+    "telegram": "oasisprotocolcommunity",
+    "reddit": "r/oasislabs"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

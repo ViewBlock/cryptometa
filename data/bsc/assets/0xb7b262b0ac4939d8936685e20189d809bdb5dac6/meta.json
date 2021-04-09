@@ -1,0 +1,11 @@
+{
+  "name": "Wealth Locks",
+  "symbol": "WLT",
+  "web": "https://wealthlocks.io",
+  "explorer": "https://bscscan.com/token/0xb7b262b0ac4939d8936685e20189d809bdb5dac6",
+  "links": {
+    "coingecko": "wealth-locks",
+    "twitter": "Wealthlocks",
+    "telegram": "wealthlocks"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Debitum Network",
+  "symbol": "DEB",
+  "web": "https://debitum.network",
+  "explorer": "https://etherscan.io/token/0x151202c9c18e495656f372281f493eb7698961d5",
+  "links": {
+    "github": "debitum",
+    "coingecko": "debitum-network",
+    "twitter": "DebitumNetwork",
+    "facebook": "DebitumNetwork",
+    "reddit": "r/DebitumNetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

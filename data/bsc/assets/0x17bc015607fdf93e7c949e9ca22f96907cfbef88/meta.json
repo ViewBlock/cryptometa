@@ -1,0 +1,12 @@
+{
+  "name": "BSC Farm",
+  "symbol": "BSC",
+  "web": "https://bsc.farm",
+  "explorer": "https://bscscan.com/token/0x17bc015607fdf93e7c949e9ca22f96907cfbef88",
+  "links": {
+    "github": "bscfarm",
+    "coingecko": "bsc-farm",
+    "twitter": "BscFarm",
+    "telegram": "bscfarm"
+  }
+}

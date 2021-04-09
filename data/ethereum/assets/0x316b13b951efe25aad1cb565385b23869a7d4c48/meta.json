@@ -1,0 +1,15 @@
+{
+  "name": "ETH 26 EMA Crossover Yield Set",
+  "symbol": "ETHEMAAPY",
+  "web": "https://www.tokensets.com/set/ethemaapy",
+  "explorer": "https://etherscan.io/token/0x316b13B951Efe25AAd1Cb565385B23869A7D4c48",
+  "links": {
+    "github": "SetProtocol",
+    "coingecko": "eth-26-ema-crossover-yield-set",
+    "twitter": "SetProtocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

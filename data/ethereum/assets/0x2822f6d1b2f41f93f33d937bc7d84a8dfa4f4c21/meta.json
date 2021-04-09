@@ -1,0 +1,17 @@
+{
+  "name": "Poseidon Network",
+  "symbol": "QQQ",
+  "web": "https://poseidon.network",
+  "explorer": "https://etherscan.io/token/0x2822f6D1B2f41F93f33d937bc7d84A8Dfa4f4C21",
+  "links": {
+    "github": "poseidon-network",
+    "coingecko": "qqq-token",
+    "twitter": "qqqtoken",
+    "telegram": "QQQ_Poseidon_En",
+    "reddit": "r/QQQ_Poseidon"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Aave SNX v1",
+  "symbol": "ASNX",
+  "web": "https://aave.com/atokens",
+  "explorer": "https://etherscan.io/token/0x328C4c80BC7aCa0834Db37e6600A6c49E12Da4DE",
+  "links": {
+    "github": "aave",
+    "coingecko": "aave-snx",
+    "twitter": "aaveaave",
+    "telegram": "Aavesome",
+    "reddit": "r/Aave_Official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

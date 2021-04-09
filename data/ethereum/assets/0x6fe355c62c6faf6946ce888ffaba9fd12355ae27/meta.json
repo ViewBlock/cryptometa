@@ -1,0 +1,16 @@
+{
+  "name": "HashBX",
+  "symbol": "HBX",
+  "web": "https://hashbx.io",
+  "explorer": "https://etherscan.io/token/0x6fe355c62c6faf6946ce888ffaba9fd12355ae27",
+  "links": {
+    "github": "hashbx",
+    "coingecko": "hashbx",
+    "twitter": "HashbxThailand",
+    "facebook": "Hashbx.io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

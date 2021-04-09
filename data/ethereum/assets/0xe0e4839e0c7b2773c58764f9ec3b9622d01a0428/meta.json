@@ -1,0 +1,16 @@
+{
+  "name": "EnCore",
+  "symbol": "ENCORE",
+  "web": "https://evault.finance",
+  "explorer": "https://etherscan.io/token/0xe0E4839E0c7b2773c58764F9Ec3B9622d01A0428",
+  "links": {
+    "github": "1andonlypika",
+    "coingecko": "encore",
+    "twitter": "encorevault",
+    "telegram": "encorevault"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

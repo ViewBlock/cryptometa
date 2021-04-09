@@ -1,0 +1,15 @@
+{
+  "name": "dHEDGE DAO",
+  "symbol": "DHT",
+  "web": "https://www.dhedge.org",
+  "explorer": "https://etherscan.io/token/0xca1207647ff814039530d7d35df0e1dd2e91fa84",
+  "links": {
+    "coingecko": "dhedge-dao",
+    "twitter": "dhedgeorg",
+    "telegram": "dhedge"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

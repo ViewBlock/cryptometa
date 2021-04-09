@@ -1,0 +1,15 @@
+{
+  "name": "ETH 50 Day MA Crossover Set",
+  "symbol": "ETH50SMACO",
+  "web": "https://www.tokensets.com/set/eth50smaco",
+  "explorer": "https://etherscan.io/token/0xa360F2aF3F957906468c0FD7526391AeD08aE3DB",
+  "links": {
+    "github": "SetProtocol",
+    "coingecko": "eth-50-day-ma-crossover-set",
+    "twitter": "SetProtocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

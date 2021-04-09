@@ -1,0 +1,18 @@
+{
+  "name": "Boldman Capital",
+  "symbol": "BOLD",
+  "web": "https://boldman.capital",
+  "explorer": "https://etherscan.io/token/0x2d4de3c744d43cf77cb12399921faf0d78b7415b",
+  "links": {
+    "coingecko": "boldman-capital",
+    "twitter": "boldmancapital",
+    "facebook": "BoldmanCapital",
+    "telegram": "boldmancapital",
+    "reddit": "r/BoldmanCapital"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

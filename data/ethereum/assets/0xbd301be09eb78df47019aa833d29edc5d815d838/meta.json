@@ -1,0 +1,16 @@
+{
+  "name": "YFUEL",
+  "symbol": "YFUEL",
+  "web": "https://home.yfuel.finance",
+  "explorer": "https://etherscan.io/token/0xbd301be09eb78df47019aa833d29edc5d815d838",
+  "links": {
+    "github": "yfueldev",
+    "coingecko": "yfuel",
+    "twitter": "yfuelfinance",
+    "telegram": "yfuelfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

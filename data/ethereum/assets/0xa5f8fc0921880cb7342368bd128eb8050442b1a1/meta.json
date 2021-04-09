@@ -1,0 +1,17 @@
+{
+  "name": "Block Array",
+  "symbol": "ARY",
+  "web": "https://www.blockarray.com",
+  "explorer": "https://etherscan.io/token/0xa5f8fc0921880cb7342368bd128eb8050442b1a1",
+  "links": {
+    "github": "blockarraygroup",
+    "coingecko": "block-array",
+    "twitter": "blockarraygroup",
+    "telegram": "blockarraygroup",
+    "reddit": "r/blockarraygroup"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

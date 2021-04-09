@@ -1,0 +1,14 @@
+{
+  "name": "Baer Chain",
+  "symbol": "BRC",
+  "web": "https://www.baerchain.com",
+  "explorer": "https://etherscan.io/token/0x21ab6c9fac80c59d401b37cb43f81ea9dde7fe34",
+  "links": {
+    "coingecko": "baer-chain",
+    "twitter": "BaerChain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

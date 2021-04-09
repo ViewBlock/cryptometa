@@ -1,0 +1,17 @@
+{
+  "name": "Change",
+  "symbol": "CAG",
+  "web": "https://www.changeinvest.com",
+  "explorer": "https://etherscan.io/token/0x7d4b8cce0591c9044a22ee543533b72e976e36c3",
+  "links": {
+    "github": "ChangeFinance",
+    "coingecko": "change",
+    "twitter": "changefinance",
+    "facebook": "changeinvest",
+    "telegram": "ChangeBank"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

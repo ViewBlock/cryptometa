@@ -1,0 +1,17 @@
+{
+  "name": "MixTrust",
+  "symbol": "MXT",
+  "web": "https://www.mixtrust.exchange",
+  "explorer": "https://etherscan.io/token/0x6251e725cd45fb1af99354035a414a2c0890b929",
+  "links": {
+    "github": "Mixtrust",
+    "coingecko": "mixtrust",
+    "twitter": "MixtrustMXT",
+    "facebook": "mxt.mixtrust.3",
+    "telegram": "MixtrustCommunity"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}
