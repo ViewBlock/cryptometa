@@ -1,15 +1,21 @@
 {
   "name": "ZilPay",
   "symbol": "ZLP",
-  "web": "https://zilpay.xyz",
+  "web": "https://zilpay.io",
   "links": {
     "github": "https://github.com/zilpay",
-    "telegram": "https://t.me/zilpay"
+    "telegram": "https://t.me/zilpay",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/zilpay-wallet",
+    "twitter": "https://twitter.com/pay_zil",
+    "facebook": "https://www.facebook.com/groups/zilpay",
+    "medium": "https://medium.com/@lich666black",
+    "linkedin": "https://www.linkedin.com/company/zilpay-wallet",
+    "discord": "https://discordapp.com/channels/370992535725932544/636917110089580544"
   },
-  "whitepaper": "https://zilpay.xyz/whitePaper.pdf",
+  "whitepaper": "https://drive.google.com/file/d/1X-z5AHBp2cOwyXo4ZuVCCBuk7MIX-r6k/view",
   "product": true,
   "gen": {
     "logo": "logo.svg",
-    "score": 52
+    "score": 100
   }
 }
