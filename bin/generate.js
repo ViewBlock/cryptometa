@@ -139,9 +139,19 @@ const main = async () => {
     full._chains[chain] = meta.symbol
     full._symbols[meta.symbol] = chain
 
+    const allKeys = Object.keys(full)
+
     if (files.includes('assets')) {
       const assets = await readdir(join(path, 'assets'))
       const assetsLength = assets.length
+      const assetKeys = assets.reduce((acc, hash) => ((acc[`${chain}.${hash}`] = true), acc), {})
+      const currentAssets = allKeys.filter(k => k.startsWith(`${chain}.`))
+
+      currentAssets.forEach(k => {
+        if (!assetKeys[k]) {
+          delete full[k]
+        }
+      })
 
       for (let i = 0; i < assetsLength; ++i) {
         const hash = assets[i]
