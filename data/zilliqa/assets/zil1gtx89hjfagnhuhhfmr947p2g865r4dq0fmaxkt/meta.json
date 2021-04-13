@@ -1,5 +1,8 @@
 {
     "name": "GodZilliqa DeFi",
+    "symbol": "GDFI",
+    "supply": "210000000",
+    "email": "GodZilliqaDeFi@gmail.com",
     "links": {
         "github": "https://github.com/GODZILLIQA",
         "telegram": "https://t.me/GodZilliqaDeFi",
