@@ -1,0 +1,15 @@
+{
+    "name": "GodZilliqa",
+    "symbol": "GODZ",
+    "supply": "2100",
+    "email": "GodZilliqaDeFi@gmail.com",
+    "links": {
+        "github": "GODZILLIQA",
+        "telegram": "https://t.me/GodZilliqaDeFi",
+        "medium": "godzilliqadefi",
+        "twitter": "GodzilliqaD"
+    },
+    "gen": {
+        "logo": "logo.png"
+    }
+}
