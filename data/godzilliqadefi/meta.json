@@ -1,0 +1,16 @@
+{
+    "name": "GodZilliqa DeFi",
+    "symbol": "GDFI",
+    "email": "GodZilliqaDeFi@gmail.com",
+    "publicTeam": true,
+    "holders": true,
+    "links": {
+        "github": "GODZILLIQA",
+        "telegram": "https://t.me/GodZilliqaDeFi",
+        "medium": "godzilliqadefi",
+        "twitter": "GodzilliqaD"
+    },
+    "gen": {
+        "logo": "logo.png"
+    }
+}
