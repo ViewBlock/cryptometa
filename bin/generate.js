@@ -148,7 +148,7 @@ const main = async () => {
       const currentAssets = allKeys.filter(k => k.startsWith(`${chain}.`))
 
       currentAssets.forEach(k => {
-        if (!assetKeys[k]) {
+        if (!assetKeys[k] && !full[k]._target) {
           delete full[k]
         }
       })
