@@ -8,5 +8,9 @@
   "links": {
     "twitter": "token_elon",
     "telegram": "elonstoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
   }
 }
