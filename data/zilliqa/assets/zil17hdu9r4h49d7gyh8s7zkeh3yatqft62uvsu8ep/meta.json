@@ -3,6 +3,7 @@
   "symbol": "DogZilliqa",
   "supply": "210",
   "gen": {
-    "logo": "logo.png"
+    "logo": "logo.png",
+    "score": 0
   }
 }
