@@ -1,0 +1,9 @@
+{
+  "name": "ThunderCore HUSD Coin",
+  "symbol": "TT-HUSD",
+  "trusted": true,
+  "gen": {
+    "logo": "logo.png",
+    "score": 100
+  }
+}
