@@ -1,23 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg enable-background="new 0 0 100 100" version="1.1" viewBox="0 0 100 100" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
 <style type="text/css">
-	.st0{fill-rule:evenodd;clip-rule:evenodd;}
-	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#394141;}
-	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#1F66B1;}
-	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
-	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:url(#b);}
-	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:url(#a);}
-	.st6{fill-rule:evenodd;clip-rule:evenodd;fill:#B4B3B9;}
-	.st7{fill-rule:evenodd;clip-rule:evenodd;fill:#CFD1D5;}
-	.st8{fill-rule:evenodd;clip-rule:evenodd;fill:#091413;}
-	.st9{fill-rule:evenodd;clip-rule:evenodd;fill:#343B3B;}
-	.st10{fill-rule:evenodd;clip-rule:evenodd;fill:#7F8284;}
-	.st11{fill-rule:evenodd;clip-rule:evenodd;fill:#7C8081;}
-	.st12{fill-rule:evenodd;clip-rule:evenodd;fill:#353C3C;}
-	.st13{fill-rule:evenodd;clip-rule:evenodd;fill:#0B1515;}
-	.st14{fill-rule:evenodd;clip-rule:evenodd;fill:#7C7E7F;}
-	.st15{fill-rule:evenodd;clip-rule:evenodd;fill:#52595A;}
-	.st16{fill-rule:evenodd;clip-rule:evenodd;fill:#C6C7CE;}
+  .st0,.st1,.st2,.st3,.st4,.st5,.st6,.st7,.st8,.st9,.st10,.st11,.st12,.st13,.st14,.st15,.st16{fill-rule:evenodd;clip-rule:evenodd;}
+	.st1{fill:#394141;}.st2{fill:#1F66B1;}.st3{fill:#FFFFFF;}.st4{fill:url(#b);}.st5{fill:url(#a);}.st6{fill:#B4B3B9;}.st7{fill:#CFD1D5;}.st8{fill:#091413;}.st9{fill:#343B3B;}.st10{fill:#7F8284;}.st11{fill:#7C8081;}.st12{fill:#353C3C;}.st13{fill:#0B1515;}.st14{fill:#7C7E7F;}.st15{fill:#52595A;}.st16{fill:#C6C7CE;}
 </style>
 	<path class="st0" d="m79.2 77.9c-15.6 15.5-40.8 15.5-56.4 0s-15.6-40.8 0-56.3c15.6-15.6 40.8-15.6 56.4 0 15.6 15.5 15.6 40.7 0 56.3z"/>
 	<path class="st1" d="m78.3 77c15.1-15 15.1-39.5 0-54.5s-39.5-15-54.6 0-15.1 39.5 0 54.5 39.5 15 54.6 0z"/>
