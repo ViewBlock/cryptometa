@@ -1,0 +1,13 @@
+{
+  "name": "NftCat Token",
+  "symbol": "NFTCAT",
+  "web": "https://nftcat.info/",
+  "supply": "1200000",
+  "links": {
+    "telegram": "https://t.me/nftcatgroup"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}
