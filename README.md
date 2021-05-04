@@ -57,6 +57,7 @@ If the image has a dark alternative, that's what you will get otherwise it will 
 | links.reddit        | `String` | `false`    |         |                                                           |
 | links.youtube       | `String` | `false`    |         |                                                           |
 | links.instagram     | `String` | `false`    |         |                                                           |
+| donations.`network`   | `String` | `false`    |         | `network` indicates the network(s) the wallet address is located. Ex: donations.`zilliqa` or donations.`ethereum` along with a wallet address |
 
 - No need to calculate and specify the score yourself, as it will be automatically
   generated based on the provided properties
