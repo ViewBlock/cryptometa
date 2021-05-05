@@ -57,6 +57,7 @@ If the image has a dark alternative, that's what you will get otherwise it will 
 | links.reddit        | `String` | `false`    |         |                                                           |
 | links.youtube       | `String` | `false`    |         |                                                           |
 | links.instagram     | `String` | `false`    |         |                                                           |
+| donations           | `Object` | `false`    |         | `{ "ethereum": "0x...", "zilliqa": "zil1..."}`            |
 
 - No need to calculate and specify the score yourself, as it will be automatically
   generated based on the provided properties
