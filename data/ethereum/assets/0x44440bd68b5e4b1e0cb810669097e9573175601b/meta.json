@@ -5,7 +5,10 @@
   "description": "The Day, a limited edition collection by Arc for Unicly.",
   "gen": {
     "logo": "logo.svg",
-    "hasDark": true,
+    "hasDark": false,
     "score": 0
+  },
+  "config": {
+    "dark": false
   }
 }
