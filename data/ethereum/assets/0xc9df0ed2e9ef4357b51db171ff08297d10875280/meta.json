@@ -1,0 +1,10 @@
+{
+  "symbol": "uGONE",
+  "name": "Gone Studio",
+  "decimals": 18,
+  "description": "www.gone.studio",
+  "gen": {
+    "logo": "logo.svg",
+    "score": 0
+  }
+}

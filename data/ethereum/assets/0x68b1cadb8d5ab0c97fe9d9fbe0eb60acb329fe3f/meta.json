@@ -1,0 +1,10 @@
+{
+  "symbol": "uAXIE",
+  "name": "Mystic Axies",
+  "decimals": 18,
+  "description": "Collection of 24 mystic Axies — 18 single mystics (6 plants, 6 aquas and 6 beasts), 2 single mystic rare classes (bug and reptile) and 4 double mystics",
+  "gen": {
+    "logo": "logo.png",
+    "score": 0
+  }
+}

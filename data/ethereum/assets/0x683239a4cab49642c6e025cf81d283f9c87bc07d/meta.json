@@ -1,0 +1,10 @@
+{
+  "symbol": "uMOON",
+  "name": "MoonCats",
+  "decimals": 18,
+  "description": "Rarest Collection of MoonCats including some rare cats and even 4 genesis mooncats!",
+  "gen": {
+    "logo": "logo.png",
+    "score": 0
+  }
+}

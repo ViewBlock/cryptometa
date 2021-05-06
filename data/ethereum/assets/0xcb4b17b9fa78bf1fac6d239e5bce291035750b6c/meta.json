@@ -1,0 +1,10 @@
+{
+  "symbol": "uBEEPLE",
+  "name": "The Beeple Collection",
+  "decimals": 18,
+  "description": "The original Beeple collection on Unicly. More Beeples will be added over time.",
+  "gen": {
+    "logo": "logo.svg",
+    "score": 0
+  }
+}

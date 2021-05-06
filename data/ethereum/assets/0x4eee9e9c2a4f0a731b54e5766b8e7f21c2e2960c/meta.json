@@ -1,0 +1,11 @@
+{
+  "symbol": "uLEIA",
+  "name": "Leia Unic",
+  "decimals": 18,
+  "description": "Special genesis collection celebrating 0xLeia. This is the first NTF launch collection dedicated to the creator of Unicly.",
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "score": 0
+  }
+}
