@@ -88,7 +88,7 @@ const main = async () => {
   )
 
   const payload = Object.keys(contracts)
-    .filter((key, i) => contractDatas[i])
+    // .filter((key, i) => contractDatas[i] || contracts[key].data)
     .map((key, i) => ({
       key,
       ...contracts[key],
