@@ -8,5 +8,9 @@
   "whitepaper": "https://rammer.finance/#/rules",
   "links": {
     "telegram": "https://t.me/rammerfinance"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 14
   }
 }
