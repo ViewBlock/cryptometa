@@ -1,0 +1,12 @@
+{
+  "name": "Ram",
+  "symbol": "RAM",
+  "web": "https://rammer.finance/",
+  "decimals": 18,
+  "supply": 100000000,
+  "email": "laflashboys@gmail.com",
+  "whitepaper": "https://rammer.finance/#/rules",
+  "links": {
+    "telegram": "https://t.me/rammerfinance"
+  }
+}
