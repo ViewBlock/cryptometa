@@ -5,8 +5,6 @@
   "supply": 100,
   "decimals": 4,
   "email": "thegarytoken@gmail.com",
-  "publicTeam": true,
-  "links.github": "https://github.com/darthgus",
   "links.twitter": "https://twitter.com/GusSnail",
   "gen": {
     "logo": "logo.svg",
