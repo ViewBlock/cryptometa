@@ -2,7 +2,12 @@
   "name": "Gary",
   "symbol": "GARY",
   "web": "http://thegarytoken.com",
-  "supply": "100",
+  "supply": 100,
+  "decimals": 4,
+  "email": "thegarytoken@gmail.com",
+  "publicTeam": true,
+  "links.github": "https://github.com/darthgus",
+  "links.twitter": "https://twitter.com/GusSnail",
   "gen": {
     "logo": "logo.svg",
     "score": 5
