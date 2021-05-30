@@ -1,0 +1,17 @@
+  
+{
+  "name": "Flat lazy ass token",
+  "symbol": "FLAT",
+  "supply": "1000000",
+  "web": "https://flatzrc.medium.com/flat-community-token-a7a5598cce3a",
+  "explorer": "https://https://viewblock.io/zilliqa/address/zil133vrh59edllqz7guq7htfthjmj7gct5jxqqtl7",
+  "email": "Flatzrc@gmail.com",
+  "links": {
+    "telegram": "https://t.me/joinchat/a-QtZlY4y_lhY2Rk",
+    "twitter": "https://https://twitter.com/FlatZrc",
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+  }
+}
