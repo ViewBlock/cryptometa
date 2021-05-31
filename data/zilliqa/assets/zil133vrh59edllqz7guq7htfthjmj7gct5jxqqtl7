@@ -1,0 +1,14 @@
+{
+  "name": "Flat Lazy Ass Token",
+  "symbol": "FLAT",
+  "web": "https://flatzrc.medium.com/flat-community-token-a7a5598cce3a",
+  "supply": "1000000",
+  "email": "Flatzrc@gmail.com",
+  "links": {
+    "telegram": "https://t.me/Flattoken",
+    "twitter": "https://twitter.com/FlatZrc",
+  },
+  "gen": {
+    "logo": "logo.png",
+  }
+}
