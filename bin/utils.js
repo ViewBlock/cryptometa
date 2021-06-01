@@ -5,6 +5,7 @@ const { promisify } = require('util')
 const svg2img = require('svg2img')
 
 const toImg = promisify(svg2img)
+
 const [readdir, writeFile, readFile] = ['readdir', 'writeFile', 'readFile'].map(name =>
   promisify(fs[name]),
 )

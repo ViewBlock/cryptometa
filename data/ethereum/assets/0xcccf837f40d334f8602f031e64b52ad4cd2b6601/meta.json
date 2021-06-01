@@ -3,5 +3,9 @@
   "name": "The Fewocious Collection",
   "decimals": 18,
   "description": "This collection consists of some of the rarest Fewocious pieces in existence.",
-  "links": {}
+  "links": {},
+  "gen": {
+    "logo": "logo.svg",
+    "score": 0
+  }
 }

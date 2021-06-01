@@ -5,5 +5,9 @@
   "description": "The first collection of beautiful, unique images & videos of space, our sun, moon, and planets captured by an amateur astronomer with his telescope",
   "links": {
     "telegram": "t.me/uspacetoken"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 0
   }
 }
