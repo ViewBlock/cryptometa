@@ -3,9 +3,10 @@ const cp = require('child_process')
 const path = require('path')
 const axios = require('axios')
 const pickBy = require('lodash/pickBy')
+const merge = require('lodash/merge')
 const { ethers, InfuraProvider } = require('ethers')
 
-const { exec, readdir, writeFile, promisify } = require('./utils')
+const { exec, readdir, readJSON, writeFile, promisify } = require('./utils')
 
 const repoPath = '0xLeia/unicly-utoken-info'
 const treeURL = `https://api.github.com/repos/${repoPath}/git/trees/main?recursive=1`
@@ -96,10 +97,17 @@ const main = async () => {
     }))
 
   for (const contract of payload) {
+    if (Object.keys(contract.data).length === 0) {
+      continue
+    }
+
     const dir = path.join(__dirname, `../data/ethereum/assets/${contract.key}`)
     await exec(`mkdir -p ${dir}`)
 
-    await writeFile(path.join(dir, 'meta.json'), JSON.stringify(contract.data, null, 2))
+    const metaPath = path.join(dir, 'meta.json')
+    const old = await readJSON(metaPath)
+
+    await writeFile(metaPath, JSON.stringify(merge(old, contract.data), null, 2))
 
     const files = await readdir(dir)
     if (!files.includes('logo.png')) {

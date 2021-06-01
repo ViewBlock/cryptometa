@@ -11,17 +11,20 @@ const [readdir, writeFile, readFile] = ['readdir', 'writeFile', 'readFile'].map(
 
 const exec = promisify(cp.exec)
 
-const loadFull = async () => {
+const readJSON = async p => {
   try {
-    const data = JSON.parse(await readFile(join(__dirname, '../src/full.json')))
+    const data = JSON.parse(await readFile(p))
     return data
   } catch {
     return {}
   }
 }
 
+const loadFull = () => readJSON(join(__dirname, '../src/full.json'))
+
 module.exports = {
   toImg,
+  readJSON,
   loadFull,
 
   exec,
