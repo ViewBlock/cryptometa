@@ -1,0 +1,12 @@
+{
+    "name": "One Piece",
+    "symbol": "OP",
+    "decimals": 6,
+    "supply": 1999,
+    "links": {
+      "telegram": "https://t.me/OPtoken"
+    },
+    "gen": {
+      "logo": "logo.png"
+    }
+  }
