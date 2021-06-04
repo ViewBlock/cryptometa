@@ -2,5 +2,9 @@
   "name": "Corgi",
   "symbol": "Corg",
   "decimals": "6",
-  "explorer": "https://viewblock.io/zilliqa/address/zil1x5qv9rsqznkd8fyhc2e9jxwkxztlnhhlkzm0ee"
+  "explorer": "https://viewblock.io/zilliqa/address/zil1x5qv9rsqznkd8fyhc2e9jxwkxztlnhhlkzm0ee",
+  "gen": {
+    "logo": "logo.png",
+    "score": 0
+  }
 }
