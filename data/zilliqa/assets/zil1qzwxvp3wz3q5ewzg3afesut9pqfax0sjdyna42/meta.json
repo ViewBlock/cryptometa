@@ -1,0 +1,14 @@
+{
+  "name": "MESSI TOKEN",
+  "symbol": "MESSI",
+  "web": "",
+  "supply": "100000",
+  "email": "",
+  "publicTeam": true,
+  "links": {
+    "twitter": "https://twitter.com/MessiToken",
+  },
+  "gen": {
+    "logo": "logo.png"
+  }
+}
