@@ -6,7 +6,7 @@
 - [ ] An SVG should use svgminify.com to remove useless props and be the same width/height ratio
 - [ ] Maximum file size is 40kb but < 20kb is prefered
 - [ ] Add information of your project in `meta.json`, use jsonlint.com to check validity
-- [ ] 
+
 ### Updating a token
 
 - [ ] PR doesn't have any merge conflict
