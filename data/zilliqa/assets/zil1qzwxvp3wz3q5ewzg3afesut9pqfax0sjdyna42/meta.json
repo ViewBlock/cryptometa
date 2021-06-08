@@ -1,0 +1,9 @@
+  
+{
+  "name": "Messi Fan Token",
+  "symbol": "MESSI",
+  "supply": "100000",
+  "gen": {
+    "logo": "logo.png"
+  }
+}
