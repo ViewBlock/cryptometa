@@ -1,0 +1,9 @@
+{
+  "name": "REWARD",
+  "symbol": "RWD",
+  "supply": "1000",
+  "gen": {
+    "logo": "logo.png",
+    "score": 0
+  }
+}
