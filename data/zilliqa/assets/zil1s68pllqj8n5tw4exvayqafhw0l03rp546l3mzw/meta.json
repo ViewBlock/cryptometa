@@ -1,0 +1,18 @@
+@@ -0,0 +1,15 @@	
+	{
+	"name": "ZiLBOX ",
+	"symbol": "ZBOX",
+	"supply": "1900621",
+	"email": "zilbox@protonmail.com",
+	"links": {
+	"telegram": "https://t.me/ZiLBOX",
+	"twitter": "https://twitter.com/ZilliqaBOX"
+	"github": "https://github.com/Zilbox190"
+	"linkedin": "https://www.linkedin.com/in/rishabh-shukla-37896684"
+	"medium":"https://medium.com/@zilbox",
+	
+	},
+	"gen": {
+	"logo": "logo.png"
+	}
+	}
