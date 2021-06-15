@@ -4,9 +4,8 @@
 	"web": "https://teslatoken.company/",
 	"decimals": "4",
 	"supply": "10000",
-	"whitepaper": "https://teslatoken.company/whitepaper/wp.pdf",
 	"links": {
-		"github": "https://github.com/TeslaTokenZil/TeslaToken",
+		"github": "https://github.com/TeslaTokenZil/",
 		"twitter": "https://twitter.com/TeslaZil",
 		"linkedin": "https://www.linkedin.com/in/tesla-token"
 	},
