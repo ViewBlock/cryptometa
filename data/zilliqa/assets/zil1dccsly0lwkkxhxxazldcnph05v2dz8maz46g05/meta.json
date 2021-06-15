@@ -1,9 +1,16 @@
 {
   "name": "REWARD",
   "symbol": "RWD",
+   "web": "http://messitokens.me",
   "supply": "1000",
+  "email": "info@messitokens.me",
+  "publicTeam": true,
   "config": {
     "dark": false
+  },
+   "links": {
+    "twitter": "https://twitter.com/RewardZilliqa",
+    "linkedin": "https://www.linkedin.com/company/messi-tokens"
   },
   "gen": {
     "logo": "logo.png",
