@@ -33,23 +33,26 @@ If the image has a dark alternative, that's what you will get otherwise it will 
 
 | Param               | Type     | Required   | Points  | Notes                                                     |
 | ------------------- | -------- | ---------- | ------- | --------------------------------------------------------- |
-| name                | `String` | `true`     |         |                                                           |
-| symbol              | `String` | `true`     |         |                                                           |
-| web                 | `String` | `false`    | 5       |                                                           |
-| decimals            | `Number` | `false`    |         |                                                           |
-| supply              | `Number` | `false`    |         |                                                           |
-| email               | `String` | `false`    |         | Email of the team                                         |
-| whitepaper          | `String` | `false`    | 10      | Link to the WP                                            |
-| holders             | `Bool`   | `false`    | 10      | Only specify if more than 1000 holders without airdrops   |
-| publicTeam          | `Bool`   | `false`    | 20      | Teams members with public profiles, non-anon              |
+| name      “SHARK”   | `String` | `true`     |         |                                                           |
+| symbol    “$SHRK”   | `String` | `true`     |         |                                                           |
+| web                 | `String` | `false`    | 5       | https://viewblock.io/zilliqa/address/zil17tsmlqgnzlfxsq4evm6n26txm2xlp5hele0kew                                                          |
+| decimals   “6”      | `Number` | `false`    |         |                                                           |
+| supply     “420m”   | `Number` | `false`    |         |                                                           |
+| email               | `String` | `false`    |         | shrkfinancial@gmail.com                                   |
+| whitepaper          | `String` | `false`    | 10      | https://github.com/FintechLabZ/SHRK-RoadMap               |
+| holders             | `Bool`   | `false`    | 10      | “zil1vtjutgxcgn75g7279ncflxk6gh9j8gshcav0hd”    |
+                                                          “zil109vuy7hj9epl4zxse09vy6wrt04ytkcmw438zy”
+                                                          “zil1yeh7jpv20savtd3katuj9zk2hu57um75jdsysz
+                                                          “zil1eadtael94ezfqesgzngfprk7lt4x5a7cslan0t
+| publicTeam          | `Bool`   | `false`    | 20      |  https://twitter.com/3fintony1                            |
 | product             | `Bool`   | `false`    | 30      | Usable product on mainnet with decent activity and users giving token utility |
 | links.research      | `String` | `false`    | 10      | Either binance research, TokenData or the like            |
-| links.github        | `String` | `false`    | 10      | Org or account with repos related to the project          |
+| links.github        | `String` | `false`    | 10      | https://github.com/3FinTony                               |
 | links.linkedin      | `String` | `false`    | 10      |                                                           |
-| links.twitter       | `String` | `false`    | 5       |                                                           |
+| links.twitter       | `String` | `false`    | 5       | https://twitter.com/sharkfinancial                        |
 | links.coinmarketcap | `String` | `false`    |         |                                                           |
 | links.coingecko     | `String` | `false`    |         |                                                           |
-| links.medium        | `String` | `false`    |         |                                                           |
+| links.medium        | `String` | `false`    |         | https://sharkfinprotocol.medium.com/sharkfinprotocol      |
 | links.blog          | `String` | `false`    |         |                                                           |
 | links.telegram      | `String` | `false`    |         |                                                           |
 | links.discord       | `String` | `false`    |         |                                                           |

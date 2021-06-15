@@ -1,0 +1,14 @@
+{
+  "name": "SHARK",
+  "symbol": "SHRK",
+  "web": "https://bafybeihjzjcpghxq3aa6kupzzq3jcxjslsfxq43k2qkump6q2bu75cd5wy.ipfs.infura-ipfs.io/",
+  "explorer": "zil17tsmlqgnzlfxsq4evm6n26txm2xlp5hele0kew",
+  "links": {
+    "github": "FintechLabZ",
+    "medium": "@sharkfinprotocol",
+    "twitter": "sharkfinancial",
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}
