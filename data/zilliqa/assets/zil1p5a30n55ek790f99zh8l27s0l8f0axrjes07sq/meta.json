@@ -1,0 +1,10 @@
+{
+  "name": "WOJAK Token",
+  "symbol": "WOJAK",
+  "supply": "1000000",
+  "explorer": "https://viewblock.io/zilliqa/address/zil1p5a30n55ek790f99zh8l27s0l8f0axrjes07sq",
+  "gen": {
+    "logo": "logo.png",
+    "score": 0
+  }
+}
