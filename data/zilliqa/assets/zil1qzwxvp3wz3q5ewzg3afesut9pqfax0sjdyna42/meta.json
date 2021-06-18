@@ -1,5 +1,5 @@
 {
-  "name": "Messi Fan Token",
+  "name": "Messi Tokens",
   "symbol": "MESSI",
   "web": "http://messitokens.me",
   "supply": "100000",
@@ -7,7 +7,8 @@
   "publicTeam": true,
   "links": {
     "twitter": "https://twitter.com/MessiToken",
-    "linkedin": "https://www.linkedin.com/company/messi-tokens"
+    "linkedin": "https://www.linkedin.com/company/messi-tokens",
+    "telegram": "https://t.me/RewardMessiTokens
   },
   "gen": {
     "logo": "logo.png",
