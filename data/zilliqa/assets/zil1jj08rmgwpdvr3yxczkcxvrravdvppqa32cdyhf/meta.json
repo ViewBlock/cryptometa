@@ -1,0 +1,11 @@
+{
+  "name": "Blue Whale",
+  "symbol": "Whale",
+  "web": "https://bluewhalezil.digital",
+  "decimals": "8",
+  "supply": "1000000",
+  "gen": {
+    "logo": "logo.svg",
+    "score": 5
+  }
+}
