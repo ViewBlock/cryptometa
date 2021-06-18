@@ -1,0 +1,17 @@
+{
+  "name": "Love Token",
+  "symbol": "LOVE",
+  "web": "https://giliw.com/lovetoken/",
+  "decimals": "2",
+  "supply": "300000000000000000000000",
+  "links": {
+    "telegram": "https://t.me/lovetokencoin/",
+    "github": "https://github.com/lovetokencoin/",
+    "twitter": https://twitter.com/lovetokencoin/",
+    "youtube": "https://www.youtube.com/channel/UCBNDiIFBx3QrJuh4s_F3mtg/"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 20
+  }
+}
