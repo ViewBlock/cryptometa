@@ -1,0 +1,13 @@
+{
+	"name": "pizza",
+	"symbol": "pz",
+	"explorer": "https://explorer.solana.com/address/E7WqtfRHcY8YW8z65u9WmD7CfMmvtrm2qPVicSzDxLaT",
+	"links": {
+		"twitter": "pizzapugcoin",
+		"web": "www.pizzapugcoin.com"
+	},
+	"gen": {
+		"logo": "logo.png",
+		"score": 19
+	}
+}
