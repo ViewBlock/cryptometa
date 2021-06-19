@@ -1,0 +1,9 @@
+{
+    "name": "Freepik",
+    "symbol": "FREEPIK",
+    "supply": "3000000",
+    "gen": {
+      "logo": "logo.png",
+      "score": 5
+    }
+  }
