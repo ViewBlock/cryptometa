@@ -1,0 +1,13 @@
+{
+	"name": "zia zilliqa",
+	"symbol": "zia",
+	"explorer": "https://explorer.solana.com/address/78kKxYt1c8exXFRhc8gZ2uUySeEBM3DyMhxcf61UmkvZ",
+	"links": {
+		"twitter": "ziazilliqa",
+		"telegram": "ziazilliqa"
+	},
+	"gen": {
+		"logo": "logo.png",
+		"score": 0
+	}
+}
