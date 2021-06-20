@@ -1,7 +1,7 @@
 {
   "name": "DELTA",
   "symbol": "DE",
-  "web": "https://delta-token.company/",
+  "web": "https://delta-token.company",
   "supply": "100000",
   "links": {
     "telegram": "https://t.me/DeltaToken",
@@ -10,6 +10,6 @@
   },
   "gen": {
     "logo": "logo.png",
-    "score": 20
+    "score": 19
   }
 }
