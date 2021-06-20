@@ -1,0 +1,9 @@
+{
+    "name": "Free Token",
+    "symbol": "Free",
+    "supply": "1000000",
+    "gen": {
+      "logo": "logo.png",
+      "score": 5
+    }
+  }
