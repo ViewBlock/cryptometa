@@ -1,10 +1,10 @@
 {
   "name": "Duck Modifier - Party",
   "symbol": "DUCKMOD1",
+  "product": true,
   "whitepaper": "https://home.duck.community/docs/duck-nfd-pondpaper.pdf",
-  "web": "https://home.duck.community",
-  "supply": "22",
-  "email": "duckduckzil@protonmail.com",
+  "web": "https://app.duck.community/index",
+  "email": "duck@duck.community",
   "links": {
     "twitter": "https://twitter.com/zilduck",
     "medium": "https://duckduckzil.medium.com",
