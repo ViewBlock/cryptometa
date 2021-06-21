@@ -1,0 +1,10 @@
+{
+	"name": "Father Day Token",
+	"symbol": "Father",
+	"decimals": "8",
+	"supply": "1500",
+	"gen": {
+		"logo": "logo.svg",
+		"score": 0
+	}
+}
