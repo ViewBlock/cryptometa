@@ -10,6 +10,9 @@
     "telegram": "solanaio",
     "reddit": "r/solana"
   },
+  "config": {
+    "dark": false
+  },
   "gen": {
     "logo": "logo.svg"
   }
