@@ -1,11 +1,11 @@
 {
   "name": "DuckDuck",
   "symbol": "Duck",
-  "product": false,
+  "product": true,
   "whitepaper": "https://home.duck.community/docs/duck-nfd-pondpaper.pdf",
-  "web": "https://home.duck.community",
+  "web": "https://app.duck.community/index",
   "supply": "420.69",
-  "email": "duckduckzil@protonmail.com",
+  "email": "duck@duck.community",
   "links": {
     "twitter": "https://twitter.com/zilduck",
     "medium": "https://duckduckzil.medium.com",
