@@ -1,7 +1,7 @@
 {
   "name": "Duck Modifier - Party",
   "symbol": "DUCKMOD1",
-  "product": true,
+  "product": false,
   "whitepaper": "https://home.duck.community/docs/duck-nfd-pondpaper.pdf",
   "web": "https://app.duck.community/index",
   "email": "duck@duck.community",

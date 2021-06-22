@@ -1,7 +1,7 @@
 {
   "name": "DuckDuck",
   "symbol": "Duck",
-  "product": true,
+  "product": false,
   "whitepaper": "https://home.duck.community/docs/duck-nfd-pondpaper.pdf",
   "web": "https://app.duck.community/index",
   "supply": "420.69",
