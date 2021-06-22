@@ -1,0 +1,15 @@
+{
+	"name": "zia zilliqa",
+	"symbol": "zia",
+	"supply": "962,021",
+	"links": {
+		"telegram": "https://t.me/ziazilliqa",
+		"twitter": "https://twitter.com/ziaziliqa"
+
+	},
+	"product": true,
+	"gen": {
+		"logo": "logo.png",
+		"score": 0
+	}
+}
