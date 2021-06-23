@@ -1,0 +1,11 @@
+{
+	"name": "Ninja",
+	"symbol": "Ninja",
+	"web": "https://ninjatoken.ninja/",
+	"decimals": "1",
+	"supply": "1000",
+	"gen": {
+		"logo": "logo.svg",
+		"score": 0
+	}
+}
