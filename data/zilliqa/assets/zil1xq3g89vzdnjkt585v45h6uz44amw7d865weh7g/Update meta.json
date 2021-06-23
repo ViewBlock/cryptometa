@@ -1,0 +1,16 @@
+{
+  "name": "Dragonworld",
+  "symbol": "Dragon",
+  "email": "dragonworldzil@gmail.com"
+  "links": {
+    "twitter": "https://twitter.com/Dragonworld",
+    "github": "https://github.com/Dragonzil",
+    "linkedin": "https://www.linkedin.com/company/dragonworld",
+    "Discord": "https://t.me/Dragonworld#3552"
+  },
+  "publicTeam": true,
+  "gen": {
+    "logo": "logo.svg",
+    "score": 45
+  }
+}
