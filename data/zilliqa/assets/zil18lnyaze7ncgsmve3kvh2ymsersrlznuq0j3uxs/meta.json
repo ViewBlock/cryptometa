@@ -1,0 +1,17 @@
+{
+  "name": "The Official ZilStars NFT Marketplace",
+  "symbol": "ZILSTARS-NFT",
+  "web": "https://football.zilstars.com/",
+  "email": "enquiry@zilstars.com",
+  "publicTeam": true,
+  "product": true,
+  "links": {
+    "twitter": "zilliqa",
+    "telegram": "zilliqachat",
+    "reddit": "r/zilliqa"
+  },
+  "description": "The Official ZilStars NFT Marketplace",
+  "gen": {
+    "logo": "logo.svg"
+  }
+}
