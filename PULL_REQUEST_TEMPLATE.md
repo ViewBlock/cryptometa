@@ -1,4 +1,3 @@
-
 **PLEASE READ AND DELETE THE CAPITALIZED TEXT, THE TITLE SECTION
 AND THE SECTION THAT DOESN'T APPLY BEFORE SUBMITTING.**
 
@@ -31,4 +30,3 @@ For example: `[zilliqa] Add Zilstream (STREAM)`.
 - [ ] Make sure to rebase or clean your history
 - [ ] PR doesn't have any merge conflict
 - [ ] In case you are migrating a token, delete the old folder in the same PR
-
