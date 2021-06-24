@@ -4,6 +4,11 @@
   "supply": "200000",
   "email": "zilliqaplanetarize@gmail.com",
   
+  "links": {
+    "telegram": "https://t.me/ZilliqaPlanetarize",
+    "twitter": "https://twitter.com/PlanetarizeZ",
+  },
+  
   "gen": {
     "logo": "logo.png",
     "score": 0
