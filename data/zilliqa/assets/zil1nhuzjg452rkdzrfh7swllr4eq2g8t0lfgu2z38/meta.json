@@ -1,0 +1,15 @@
+{
+  "name": "Planetarize",
+  "symbol": "PLANET",
+  "supply": "200000",
+  "email": "zilliqaplanetarize@gmail.com",
+  "links": {
+    "telegram": "https://t.me/ZilliqaPlanetarize",
+    "twitter": "https://twitter.com/PlanetarizeZ",
+    "github": "https://github.com/PlanetarizeZilliqa"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 0
+  }
+}
