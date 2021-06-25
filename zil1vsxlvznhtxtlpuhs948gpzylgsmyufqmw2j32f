@@ -1,0 +1,9 @@
+{
+    "name": "ApeZilliqa",
+    "symbol": "ApeZilliqa",
+    "supply": "210",
+    "gen" {
+      "logo": "logo.png",
+      "score": 0
+    }
+ }
