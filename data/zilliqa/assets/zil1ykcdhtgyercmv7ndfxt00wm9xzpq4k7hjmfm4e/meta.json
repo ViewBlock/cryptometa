@@ -6,11 +6,10 @@
   "supply": "44000000",
   "links": {
     "telegram": "https://t.me/Mambo_Li",
-    "github": "https://github.com/Mambo-Token",
-    "youtube": "https://www.youtube.com/channel/UCMyUi6s550wtK7sNVvNmQbQ/"
+    "youtube": "https://www.youtube.com/channel/UCMyUi6s550wtK7sNVvNmQbQ"
   },
   "gen": {
     "logo": "logo.svg",
-    "score": 14
+    "score": 5
   }
 }
