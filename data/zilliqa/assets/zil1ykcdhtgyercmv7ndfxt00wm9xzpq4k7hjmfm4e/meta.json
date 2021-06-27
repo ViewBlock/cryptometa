@@ -1,11 +1,9 @@
-
 {
   "name": "Mambo",
   "symbol": "MAMBO",
   "web": "https://mambo.li",
-   "decimals": "12",
-   "supply": "44000000",
-   "whitepaper": "https://mambo.li/mambo-token/",
+  "decimals": "12",
+  "supply": "44000000",
   "links": {
     "telegram": "https://t.me/Mambo_Li",
     "github": "https://github.com/Mambo-Token",
@@ -13,6 +11,6 @@
   },
   "gen": {
     "logo": "logo.svg",
-    "score": 0
+    "score": 14
   }
 }

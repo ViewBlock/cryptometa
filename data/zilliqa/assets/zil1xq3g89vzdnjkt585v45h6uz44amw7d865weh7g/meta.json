@@ -1,0 +1,13 @@
+{
+  "name": "Dragonworld",
+  "symbol": "Dragon",
+  "email": "dragonworldzil@gmail.com",
+  "links": {
+    "github": "https://github.com/Dragonzil",
+    "discord": "https://t.me/Dragonworld#3552"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}
