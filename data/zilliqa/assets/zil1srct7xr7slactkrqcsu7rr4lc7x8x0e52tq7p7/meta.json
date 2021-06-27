@@ -1,0 +1,17 @@
+{        
+       
+	"name": "zia zilliqa",
+	"symbol": "zia",
+	"supply": "962,021",
+        "explorer":"https://viewblock.io/zilliqa/address/zil1srct7xr7slactkrqcsu7rr4lc7x8x0e52tq7p7",
+	"links": {
+		"telegram": "https://t.me/ziazilliqa",
+		"twitter": "https://twitter.com/ziaziliqa"
+
+	},
+	"product": true,
+	"gen": {
+		"logo": "logo.png",
+		"score": 0
+	}
+}
