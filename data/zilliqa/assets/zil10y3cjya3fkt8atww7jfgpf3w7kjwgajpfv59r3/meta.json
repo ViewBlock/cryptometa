@@ -1,0 +1,10 @@
+{
+  "name": "GILIW Token",
+  "symbol": "GILIW",
+  "decimals": "4",
+  "supply": "210000000000",
+  "gen": {
+    "logo": "logo.png",
+    "score": 0
+  }
+}
