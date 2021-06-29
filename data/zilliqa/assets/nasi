@@ -1,0 +1,11 @@
+{
+  "chain":"1",
+  "name": "nasi_bungkus",
+  "symbol": "nasi_bungkus",
+  "supply": "1,000,000",
+  "explorer": "https://viewblock.io/zilliqa/address/zil13hp5327pnpmt2mvpy2h4eza3y22jlzwf2m2dtr",
+  "gen": {
+    "logo": "logo.png",
+    "score": 0
+  }
+}
