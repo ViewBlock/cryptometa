@@ -1,0 +1,10 @@
+{
+  "name": "The One",
+  "symbol": "ONE",
+  "decimals": "1",
+  "supply": "1000000",
+  "gen": {
+    "logo": "logo.svg",
+    "score": 0
+  }
+}
