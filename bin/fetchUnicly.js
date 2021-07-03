@@ -1,5 +1,3 @@
-const fs = require('fs')
-const cp = require('child_process')
 const path = require('path')
 const axios = require('axios')
 const pickBy = require('lodash/pickBy')

@@ -1,0 +1,23 @@
+{
+  "name": "Kylin Network",
+  "symbol": "KYL",
+  "decimals": 18,
+  "explorer": "https://etherscan.io/token/0x67B6D479C7BB412C54E03DCA8E1BC6740CE6B99C",
+  "web": "https://kylin.network",
+  "email": "contact@kylin.network",
+  "publicTeam": true,
+  "product": true,
+  "links": {
+    "github": "https://github.com/Kylin-Network",
+    "linkedin": "https://www.linkedin.com/company/kylinnetwork",
+    "twitter": "https://twitter.com/Kylin_Network",
+    "discord": "https://discord.com/invite/PwYCssr",
+    "telegram": "https://t.me/KylinOfficial",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/kylin",
+    "coingecko": "https://www.coingecko.com/en/coins/kylin-network"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 71
+  }
+}
