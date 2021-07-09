@@ -1,14 +1,14 @@
 {
-	"name": "Shards",
-	"symbol": "SHARDS",
-	"web": "https://shards.robounicats.com/",
-	"whitepaper": "https://shards.robounicats.com/data/shards_whitepaper_0.1.pdf",
-	"links": {
-		"telegram": "https://t.me/ruc_shards",
-		"github": "https://github.com/Arenbo/RoboUniCats/blob/main/Shards.scilla"
-	},
-	"gen": {
-		"logo": "logo.svg",
-		"score": 0
-	}
+  "name": "Shards",
+  "symbol": "SHARDS",
+  "web": "https://shards.robounicats.com",
+  "whitepaper": "https://shards.robounicats.com/data/shards_whitepaper_0.1.pdf",
+  "links": {
+    "telegram": "https://t.me/ruc_shards",
+    "github": "https://github.com/Arenbo/RoboUniCats"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 24
+  }
 }
