@@ -3,6 +3,7 @@
   "symbol": "SHARDS",
   "web": "https://shards.robounicats.com",
   "whitepaper": "https://shards.robounicats.com/data/shards_whitepaper_0.1.pdf",
+  "publicTeam": true,
   "links": {
     "telegram": "https://t.me/ruc_shards",
     "github": "https://github.com/Arenbo/RoboUniCats"
