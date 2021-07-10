@@ -2,6 +2,7 @@
 	"name": "Shards",
 	"symbol": "SHARDS",
 	"web": "https://shards.robounicats.com/",
+	"publicTeam": true,
 	"whitepaper": "https://shards.robounicats.com/data/shards_whitepaper_0.1.pdf",
 	"links": {
 		"telegram": "https://t.me/ruc_shards",
