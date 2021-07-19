@@ -108,7 +108,7 @@ const getFilters = async () => {
   const arg = process.argv[2]
 
   if (!arg) {
-    const res = await exec('git diff --name-only HEAD HEAD~1 ')
+    const res = await exec('git diff --name-only HEAD HEAD~1')
 
     return res.stdout
       .split('\n')
@@ -190,7 +190,10 @@ const main = async () => {
 
       for (let i = 0; i < assetsLength; ++i) {
         const hash = assets[i]
-        if (full._remap[`${chain}.${hash}`] || !get(filters, `${chain}.${hash}`)) {
+        if (
+          full._remap[`${chain}.${hash}`] ||
+          (!get(filters, `${chain}.${hash}`) && !get(filters, `${chain}.undefined`))
+        ) {
           continue
         }
 
