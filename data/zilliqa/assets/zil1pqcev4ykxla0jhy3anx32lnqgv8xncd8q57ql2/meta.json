@@ -9,8 +9,21 @@
     "telegram": "https://t.me/SpardaWalletOfficial",
     "twitter": "https://twitter.com/spardaproject"
   },
+  
+  "publicTeam": true,
+  
+  "team_links":{
+      
+      "facebook_lead": "https://www.facebook.com/Ca.reeder89",
+      "facebook_admin": "https://www.facebook.com/chase.freyman",
+      "linkedin_lead": "https://www.linkedin.com/in/christopher-reeder-7658231a2/",
+      "linkedin_admin": "https://www.linkedin.com/in/chase-freyman",
+      "twitter_lead": "https://twitter.com/careeder89",
+      "twitter_admin": "https://twitter.com/dzilliqa?s=21"
+  },
   "gen": {
     "logo": "logo.png",
-    "score": 19
+    "score": ""
   }
+
 }
