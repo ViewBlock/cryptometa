@@ -9,8 +9,12 @@
     "telegram": "https://t.me/SpardaWalletOfficial",
     "twitter": "https://twitter.com/spardaproject"
   },
+  
+  "publicTeam": true,
+  
   "gen": {
     "logo": "logo.png",
-    "score": 19
+    "score": ""
   }
+
 }
