@@ -1,0 +1,10 @@
+{
+  "name": "ZilCharity",
+  "symbol": "ZCR",
+  "supply": "1000",
+  "decimals": 6,
+  "gen": {
+    "logo": "logo.png",
+    "score": 0
+  }
+}

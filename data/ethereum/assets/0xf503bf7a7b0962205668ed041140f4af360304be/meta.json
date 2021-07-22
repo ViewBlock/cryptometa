@@ -1,0 +1,10 @@
+{
+  "symbol": "uGLYPH",
+  "name": "Autoglyph",
+  "decimals": 18,
+  "description": "Autoglyphs are the first \"on-chain\" generative art on the Ethereum blockchain. They are a completely self-contained mechanism for the creation and ownership of an artwork.",
+  "gen": {
+    "logo": "logo.svg",
+    "score": 0
+  }
+}

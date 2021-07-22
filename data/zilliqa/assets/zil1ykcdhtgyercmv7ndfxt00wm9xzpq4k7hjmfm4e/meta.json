@@ -1,0 +1,15 @@
+{
+  "name": "Mambo",
+  "symbol": "MAMBO",
+  "web": "https://mambo.li",
+  "decimals": "12",
+  "supply": "44000000",
+  "links": {
+    "telegram": "https://t.me/Mambo_Li",
+    "youtube": "https://www.youtube.com/channel/UCMyUi6s550wtK7sNVvNmQbQ"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 5
+  }
+}

@@ -1,2 +1,4 @@
-bin/fetch*.js
+bin/fetchC*.js
+bin/fetchB*.js
+bin/fetchE*.js
 fallback.png

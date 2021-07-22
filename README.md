@@ -24,12 +24,7 @@ we have some icons specially made for this case. You simply need to add the `?t=
 
 If the image has a dark alternative, that's what you will get otherwise it will fallback to the default one.
 
-### How to add/update your token
-
-- Fork the repo
-- Create a folder in the appropriate chain folder named after your contract address
-- Your image must be either SVG or PNG 100x100 to 500x500 (max 40kb) and named `logo.<extension>` (do not base64 encode your PNG in a SVG)
-- Add information of your project using the following spec:
+### Specification
 
 | Param               | Type     | Required   | Points  | Notes                                                     |
 | ------------------- | -------- | ---------- | ------- | --------------------------------------------------------- |
@@ -57,10 +52,7 @@ If the image has a dark alternative, that's what you will get otherwise it will 
 | links.reddit        | `String` | `false`    |         |                                                           |
 | links.youtube       | `String` | `false`    |         |                                                           |
 | links.instagram     | `String` | `false`    |         |                                                           |
-
-- No need to calculate and specify the score yourself, as it will be automatically
-  generated based on the provided properties
-- Create and submit a PR
+| donations           | `Object` | `false`    |         | `{ "ethereum": "0x...", "zilliqa": "zil1..."}`            |
 
 Upon disagreements as to which property a token has/deserves, remember that we
 ultimately have the final say in order to protect people as much as we can.

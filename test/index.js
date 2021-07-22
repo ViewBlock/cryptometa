@@ -103,6 +103,11 @@ test('Aliases', async t => {
   )
 })
 
+test('Unicly', async t => {
+  const token = await getMeta('ethereum.0xaffdb768e5f909b9a6ed110ad724b5e454670c08')
+  t.is(token.symbol, 'uJORDAN')
+})
+
 test.serial('Custom image base', async t => {
   setConfig({
     base: 'https://google.com',

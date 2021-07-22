@@ -1,0 +1,10 @@
+{
+  "symbol": "uAPE",
+  "name": "Bored Ape Yacht Club",
+  "decimals": 18,
+  "description": "This collection contains over 100 Bored Ape Yacht Club and Bored Ape Kennel Club NFTs.",
+  "gen": {
+    "logo": "logo.svg",
+    "score": 0
+  }
+}

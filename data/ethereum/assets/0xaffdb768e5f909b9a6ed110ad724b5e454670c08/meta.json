@@ -1,0 +1,18 @@
+{
+  "symbol": "uJORDAN",
+  "name": "Air Jordan 1st Drop Collection",
+  "decimals": 18,
+  "description": "First drop of the Air Jordan collection on Unicly. Flu Game, Dream Team, Bred 1, Game 6, WhiteSox, SpaceJam, and many more iconic moments in NBA history!",
+  "links": {
+    "medium": "https://medium.com/@uJORDAN_23",
+    "twitter": "https://twitter.com/uJORDAN_23"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": false,
+    "score": 5
+  },
+  "config": {
+    "dark": false
+  }
+}

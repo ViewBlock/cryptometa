@@ -1,0 +1,18 @@
+{
+  "symbol": "uUNICLY",
+  "name": "Unicly Genesis Collection",
+  "decimals": 18,
+  "description": "Genesis Unicly Collection by 0xLeia. More Unicly branded NFTs to be added later. This is NOT the UNIC token.",
+  "website": "https://unic.ly",
+  "links": {
+    "discord": "discord.com/invite/uniclyNFT",
+    "medium": "https://medium.com/@0xleia",
+    "twitter": "twitter.com/0xLeia",
+    "telegram": "t.me/LeiaFisherOne"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "score": 5
+  }
+}

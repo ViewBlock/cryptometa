@@ -1,0 +1,10 @@
+{
+  "symbol": "uGMC",
+  "name": "Genesis MoonCats",
+  "decimals": 18,
+  "description": "$uGMC is a bundle of 24 Genesis MoonCats which includes 12 black and 12 white cats overall. This bundle represents 25% of all Genesis MoonCats in existence.",
+  "gen": {
+    "logo": "logo.svg",
+    "score": 0
+  }
+}

@@ -5,15 +5,16 @@
   "supply": "10000000",
   "email": "contact@carbontoken.info",
   "whitepaper": "https://github.com/GenesysLabs/whitepapers",
-  "holders": true,
+  "publicTeam": true,
   "links": {
     "telegram": "https://t.me/carbontoken",
     "github": "https://github.com/GenesysLabs",
-    "twitter": "https://twitter.com/contact_carbon"
+    "twitter": "https://twitter.com/contact_carbon",
+    "linkedin": "https://www.linkedin.com/in/adamjamesmartin/"
   },
   "gen": {
     "logo": "logo.png",
     "hasDark": true,
-    "score": 38
+    "score": 52
   }
 }

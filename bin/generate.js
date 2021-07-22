@@ -104,10 +104,45 @@ const updateMeta = async (path, { skipScore } = {}) => {
   return out
 }
 
+const getFilters = async () => {
+  const arg = process.argv[2]
+
+  if (!arg) {
+    const res = await exec('git diff --name-only HEAD HEAD~1')
+
+    return res.stdout
+      .split('\n')
+      .filter(f => f && f.startsWith('data') && f.endsWith('.json'))
+      .reduce((acc, d) => {
+        const splits = d.split('/')
+
+        if (!acc[splits[1]]) {
+          acc[splits[1]] = {}
+        }
+
+        acc[splits[1]][splits[3]] = 1
+
+        return acc
+      }, {})
+  }
+
+  if (arg === 'all') {
+    return {}
+  }
+
+  const splits = arg.split('/')
+
+  return {
+    [splits[0]]: {
+      [splits[1]]: 1,
+    },
+  }
+}
+
 const main = async () => {
   const chains = (await readdir(ROOT)).filter(d => !d.includes('.'))
 
-  const filters = process.argv[2] && process.argv[2].split('/')
+  const filters = await getFilters()
 
   const full = merge(await loadFull(), {
     _symbols: {},
@@ -126,7 +161,7 @@ const main = async () => {
   })
 
   for (const chain of chains) {
-    if (full._remap[chain] || (filters && filters[0] !== chain)) {
+    if (full._remap[chain] || !filters[chain]) {
       continue
     }
 
@@ -139,15 +174,25 @@ const main = async () => {
     full._chains[chain] = meta.symbol
     full._symbols[meta.symbol] = chain
 
+    const allKeys = Object.keys(full)
+
     if (files.includes('assets')) {
       const assets = await readdir(join(path, 'assets'))
       const assetsLength = assets.length
+      const assetKeys = assets.reduce((acc, hash) => ((acc[`${chain}.${hash}`] = true), acc), {})
+      const currentAssets = allKeys.filter(k => k.startsWith(`${chain}.`))
+
+      currentAssets.forEach(k => {
+        if (!assetKeys[k] && !full[k]._target) {
+          delete full[k]
+        }
+      })
 
       for (let i = 0; i < assetsLength; ++i) {
         const hash = assets[i]
         if (
           full._remap[`${chain}.${hash}`] ||
-          (filters && filters[1] && !hash.includes(filters[1]))
+          (!get(filters, `${chain}.${hash}`) && !get(filters, `${chain}.undefined`))
         ) {
           continue
         }

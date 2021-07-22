@@ -1,10 +1,10 @@
 {
   "name": "DuckDuck",
   "symbol": "Duck",
-  "product": false,
-  "web": "https://home.duck.community",
+  "whitepaper": "https://duck.community/papers/DUCK%20-%20Widepaper.pdf",
+  "web": "https://app.duck.community/index",
   "supply": "420.69",
-  "email": "duckduckzil@protonmail.com",
+  "email": "duck@duck.community",
   "links": {
     "twitter": "https://twitter.com/zilduck",
     "medium": "https://duckduckzil.medium.com",
@@ -14,6 +14,6 @@
   },
   "gen": {
     "logo": "logo.png",
-    "score": 19
+    "score": 29
   }
 }

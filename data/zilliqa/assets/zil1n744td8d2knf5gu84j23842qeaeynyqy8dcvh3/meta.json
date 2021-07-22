@@ -1,0 +1,15 @@
+{
+  "name": "DELTA",
+  "symbol": "DE",
+  "web": "https://delta-token.company",
+  "supply": "100000",
+  "links": {
+    "telegram": "https://t.me/DeltaToken",
+    "twitter": "https://twitter.com/DeltaTokenZil",
+    "github": "https://github.com/DeltaToken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

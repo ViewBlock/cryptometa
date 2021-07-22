@@ -1,0 +1,16 @@
+{
+  "name": "Zilliqa",
+  "symbol": "ZIL",
+  "web": "https://elons.io/",
+  "description": "Connect the power of Defi and NFTs on the Zilliqa blockchain",
+  "email": "blockchainandy@hotmail.com",
+  "explorer": "https://viewblock.io/zilliqa/address/zil1lq3ghn3yaqk0w7fqtszv53hejunpyfyh3rx9gc",
+  "links": {
+    "twitter": "token_elon",
+    "telegram": "elonstoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "symbol": "uARC",
+  "name": "The Day by ARC",
+  "decimals": 18,
+  "description": "The Day, a limited edition collection by Arc for Unicly.",
+  "gen": {
+    "logo": "logo.svg",
+    "score": 0
+  },
+  "config": {
+    "dark": false
+  }
+}
