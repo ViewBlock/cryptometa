@@ -12,6 +12,8 @@
     "facebook": "https://www.facebook.com/packageportal"
   },
   "product": true,
+  "publicTeam": true,
+  "holders": true,
   "gen": {
     "logo": "logo.png",
     "score": 52
