@@ -4,12 +4,14 @@
   "web": "https://mambo.li",
   "decimals": "12",
   "supply": "44000000",
+   "whitepaper": "https://mambo.li/downloads/mambo-token-whitepaper.pdf",
   "links": {
     "telegram": "https://t.me/Mambo_Li",
-    "youtube": "https://www.youtube.com/channel/UCMyUi6s550wtK7sNVvNmQbQ"
+    "github": "https://github.com/Mambo-Token",
+    "youtube": "https://www.youtube.com/channel/UCMyUi6s550wtK7sNVvNmQbQ/"
   },
   "gen": {
     "logo": "logo.svg",
-    "score": 5
+    "score": 25
   }
 }
