@@ -6,11 +6,12 @@
   "supply": "1000000",
   "whitepaper": "https://mambo.li/downloads/francchocolatestabelcoinwhitepaper.pdf",
   "links": {
-    "telegram": "https://t.me/stablecoinfactory",
-    "youtube": "https://www.youtube.com/channel/UCMyUi6s550wtK7sNVvNmQbQ"
+   "telegram": "https://t.me/stablecoinfactory",
+   "github": "https://github.com/Mambo-Token",
+   "youtube": "https://www.youtube.com/channel/UCMyUi6s550wtK7sNVvNmQbQ"
   },
   "gen": {
     "logo": "logo.svg",
-    "score": 14
+    "score": 0
   }
 }
