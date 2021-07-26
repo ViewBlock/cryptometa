@@ -4,7 +4,7 @@
   "web": "https://mambo.li",
   "decimals": "12",
   "supply": "44000000",
-   "whitepaper": "https://mambo.li/downloads/mambo-token-whitepaper.pdf",
+  "whitepaper": "https://mambo.li/downloads/mambo-token-whitepaper.pdf",
   "links": {
     "telegram": "https://t.me/Mambo_Li",
     "github": "https://github.com/Mambo-Token",
@@ -12,6 +12,6 @@
   },
   "gen": {
     "logo": "logo.svg",
-    "score": 25
+    "score": 24
   }
 }
