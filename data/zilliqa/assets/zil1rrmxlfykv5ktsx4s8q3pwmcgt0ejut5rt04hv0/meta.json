@@ -1,0 +1,10 @@
+{
+  "name": "19.75 Karat Gold Coin",
+  "symbol": "GOLD",
+  "decimals": "8",
+  "supply": "700000000000000",
+  "gen": {
+    "logo": "logo.png",
+    "score": 0
+  }
+}
