@@ -1,0 +1,15 @@
+{
+    "name": "IdaMurni",
+    "symbol": "IDA",
+    "decimals": 18,
+    "supply": 7900000000000000000000000000,
+    "web": "https://idamurni.de",
+    "explorer": "https://scan.thundercore.com/",
+    "links": {
+      "github": "https://github.com/idamurni",
+      "discord": "https://discord.gg/UJTJPjvG"
+    },
+    "gen": {
+      "logo": "logo.png"
+    }
+  }
