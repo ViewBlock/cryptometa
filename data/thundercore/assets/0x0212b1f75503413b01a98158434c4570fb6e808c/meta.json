@@ -1,5 +1,10 @@
 {
   "name": "ThunderCore Huobi Token",
   "symbol": "TT-HT",
-  "web": "https://bridge.thundercore.com/heco/"
+  "web": "https://bridge.thundercore.com/heco",
+  "trusted": true,
+  "gen": {
+    "logo": "logo.png",
+    "score": 100
+  }
 }
