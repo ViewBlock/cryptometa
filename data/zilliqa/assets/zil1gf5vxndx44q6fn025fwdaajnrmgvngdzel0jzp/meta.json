@@ -1,0 +1,17 @@
+{
+  "name": "BLOX",
+  "symbol": "BLOX",
+  "web": "https://zilliqaroyale.com/",
+  "supply": "5000000",
+  "email": "contact@undefinedcompany.com",
+  "links": {
+    "twitter": "https://twitter.com/zilflip",
+    "telegram": "https://t.me/zilliqaroyale",
+    "linkedin": "https://www.linkedin.com/in/arthur-hoeke-170691103/"
+  },
+  "publicTeam": true,
+  "gen": {
+    "logo": "logo.png",
+    "score": 33
+  }
+}

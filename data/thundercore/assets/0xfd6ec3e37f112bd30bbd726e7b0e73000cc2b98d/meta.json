@@ -1,0 +1,10 @@
+{
+  "name": "ThunderCore HUSD Token",
+  "symbol": "TT-HUSD",
+  "web": "https://bridge.thundercore.com/heco",
+  "trusted": true,
+  "gen": {
+    "logo": "logo.png",
+    "score": 100
+  }
+}
