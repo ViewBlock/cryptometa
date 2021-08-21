@@ -1,0 +1,11 @@
+{
+	"name": "Silly anf Foolish Person",
+	"symbol": "ZCR",
+	"web": "https://zilsimp.medium.com",
+	"supply": "10000",
+	"decimals": 4,
+	"gen": {
+		"logo": "logo.png",
+		"score": 0
+	}
+}
