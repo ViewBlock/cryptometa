@@ -1,6 +1,18 @@
 {
   "name": "YODA",
   "symbol": "YODA",
+  "web": "http://jody.tilda.ws",
+  "whitepaper": "http://jody.tilda.ws/whitepaper",
+  "supply": 10000,
+  "decimals": 5,
+  "email": "anzellkennard35@gmail.com",
+  "publicTeam": true,
+  "links": {
+    "twitter": "https://twitter.com/Jody96718451",
+    "telegram": "https://t.me/Yodaco",
+    "linkedin": "https://www.linkedin.com/in/anzell-kennard-87817021b",
+    "facebook": "https://www.facebook.com/anzell.kennard"
+  },
   "gen": {
     "logo": "logo.png",
     "score": 0
