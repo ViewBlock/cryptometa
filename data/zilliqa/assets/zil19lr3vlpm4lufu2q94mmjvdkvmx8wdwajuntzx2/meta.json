@@ -1,0 +1,15 @@
+{
+    "name": "DeMons",
+    "symbol": "DMZ",
+    "web": "https://demons.world",
+    "explorer": "https://viewblock.io/zilliqa/address/zil19lr3vlpm4lufu2q94mmjvdkvmx8wdwajuntzx2",
+    "links": {
+      "github": "https://github.com/Decentralised-Monsters/demons-scilla",
+       "twitter": "de_monsters",
+       "telegram": "de_monsters",
+       "discord": "https://discord.gg/QW3YgJmcFA",
+       "instagram": "https://www.instagram.com/decentralised_monsters"
+  
+    },
+    "description": "Decentralised Monsters"
+  }
