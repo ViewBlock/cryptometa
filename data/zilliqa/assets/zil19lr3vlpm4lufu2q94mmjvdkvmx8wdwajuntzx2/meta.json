@@ -7,6 +7,7 @@
   "whitepaper":"docs.demons.world",
   "publicTeam": true,
   "product": true,
+  "description": "Decentralised Monsters",
   "links": {
     "github": "https://github.com/Decentralised-Monsters/demons-scilla",
     "twitter": "de_monsters",
@@ -16,6 +17,7 @@
     "linkedin":   "https://www.linkedin.com/company/demons/"
   },
   "gen": {
-    "logo": "logo.svg"
+    "logo": "logo.svg",
+    "score": 19
   }
 }
