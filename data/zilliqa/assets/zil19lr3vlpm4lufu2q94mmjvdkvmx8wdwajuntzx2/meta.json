@@ -5,6 +5,7 @@
   "supply": "16666660",
   "decimals": 18,
   "whitepaper":"https://docs.demons.world",
+  "publicTeam": true,
   "description": "Decentralised Monsters",
   "links": {
     "github": "https://github.com/Decentralised-Monsters/demons-scilla",
