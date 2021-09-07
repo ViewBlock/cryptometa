@@ -4,9 +4,7 @@
   "web": "https://demons.world",
   "supply": "16666660",
   "decimals": 18,
-  "whitepaper":"docs.demons.world",
-  "publicTeam": true,
-  "product": true,
+  "whitepaper":"https://docs.demons.world",
   "links": {
     "github": "https://github.com/Decentralised-Monsters/demons-scilla",
     "twitter": "de_monsters",
