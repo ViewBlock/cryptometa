@@ -1,0 +1,16 @@
+{
+  "name": "PELE Network",
+  "symbol": "PELE",
+  "web": "https://pele.network/",
+  "supply": "420000069",
+  "email": "hello@pele.network",
+  "whitepaper": "https://drive.google.com/file/d/1rhFKWFTKEXp81YGSrUTGAA3EAqxwIYm4/view",
+   "links": {
+    "telegram": "https://t.me/PELENetwork",
+    "twitter": "https://twitter.com/PELENetwork",
+    "github": "https://github.com/PELENetwork",
+  },
+  "gen": {
+    "logo": "Plogo.svg",
+  }
+}
