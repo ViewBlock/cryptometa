@@ -3,9 +3,10 @@
   "symbol": "SPARTAN",
   "web": "projectspartancoin.medium.com",
   "explorer": "https://viewblock.io/thundercore/address/0x4972127abc8ec37348b3ed785f93714f1774d612",
-  "supply" : "99999999",
-  "address" : "0x4972127abc8Ec37348B3eD785F93714f1774d612",
+  "supply": "99999999",
+  "address": "0x4972127abc8Ec37348B3eD785F93714f1774d612",
   "gen": {
-    "logo": "logo.png"
+    "logo": "logo.png",
+    "score": 5
   }
 }
