@@ -7,11 +7,8 @@
  "telegram": "https://t.me/unifees", 
  "linkedin": "https://www.linkedin.com/company/unifees", 
  "twitter": "https://twitter.com/UnifeesToken", 
- "github": "https://github.com/Unifees/Unifees-Token", 
- "instagram": "https://www.instagram.com/unifeestoken", 
- "facebook": "https://www.facebook.com/unifeestoken" 
- }, 
- "product": true, 
+ "github": "https://github.com/Unifees/Unifees-Token"
+ },
  "gen": 
  { "logo": "logo.png", 
  "score": 52
