@@ -7,11 +7,11 @@
     "github": "https://github.com/Trustmecoin",
     "medium": "trustmecoin.medium.com",
     "twitter": "https://twitter.com/TrustmeCoin",
-    "telegram": "https://t.me/trustmeofficial",
-    
+    "telegram": "https://t.me/trustmeofficial"
   },
   "description": "TrustMeCoin (TMC) is the Community Token decentralized trading protocol",
   "gen": {
-    "logo": "logo.png"
+    "logo": "logo.png",
+    "score": 19
   }
 }
