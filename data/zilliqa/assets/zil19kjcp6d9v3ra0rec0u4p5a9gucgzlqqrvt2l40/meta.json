@@ -10,9 +10,7 @@
     "telegram": "https://t.me/trustmeofficial",
     
   },
-  "description": "TrustMeCoin (TMC) is the Community Token decentralized trading protocol base on ZilliqaChain
-(ZRC2), empowering traders, liquidity providers & developers to participate in an open
-financial marketplace with no barriers to entry",
+  "description": "TrustMeCoin (TMC) is the Community Token decentralized trading protocol",
   "gen": {
     "logo": "logo.png"
   }
