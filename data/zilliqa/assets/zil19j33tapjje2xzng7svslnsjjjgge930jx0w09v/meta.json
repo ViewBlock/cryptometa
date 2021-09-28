@@ -13,6 +13,7 @@
   "trusted": true,
   "gen": {
     "logo": "logo.svg",
-    "hasDark": true
+    "hasDark": true,
+    "score": 100
   }
 }
