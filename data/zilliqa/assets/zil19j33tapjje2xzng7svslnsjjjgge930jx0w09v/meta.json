@@ -12,6 +12,7 @@
   "publicTeam": true,
   "trusted": true,
   "gen": {
-    "logo": "logo.svg"
+    "logo": "logo.svg",
+    "hasDark": true
   }
 }
