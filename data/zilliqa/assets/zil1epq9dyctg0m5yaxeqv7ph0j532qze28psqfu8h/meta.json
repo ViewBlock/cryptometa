@@ -4,5 +4,9 @@
   "web": "https://button.claims",
   "links": {
     "twitter": "https://twitter.com/bridge_button"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
   }
 }
