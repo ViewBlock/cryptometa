@@ -1,0 +1,15 @@
+{
+  "name": "Zilmorphs",
+  "symbol": "MORPH",
+  "description": "Zilmorphs is a collection of 8,000 machine learning generated creatures on the Zilliqa blockchain, that can be obtained only with Zilliqa bridge assets.",
+  "web": "https://zilmorphs.com/",
+  "supply": "8000",
+  "links": {
+    "twitter": "https://twitter.com/zilmorphs",
+    "telegram": "https://t.me/joinchat/CYOfsbPWrIo2YTQ8"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}
