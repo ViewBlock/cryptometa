@@ -1,0 +1,18 @@
+{
+  "name": "MamboDollar",
+  "symbol": "mUSD",
+  "web": "https://mambo.li/stablecoins/mambodollar",
+  "decimals": "6",
+  "supply": "303000",
+  "whitepaper": "https://mambo.li/downloads/mambodollarwhitepaper.pdf",
+  "links": {
+    "telegram": "https://t.me/MamboToken",
+    "twitter": "https://twitter.com/MrCryptoMambo",
+    "github": "https://github.com/Mambo-Token",
+    "youtube": "https://www.youtube.com/channel/UCMyUi6s550wtK7sNVvNmQbQ"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 30
+  }
+}
