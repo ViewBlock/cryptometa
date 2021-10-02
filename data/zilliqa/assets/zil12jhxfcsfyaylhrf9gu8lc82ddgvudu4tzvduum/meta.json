@@ -1,0 +1,18 @@
+{
+  "name": "Okipad",
+  "symbol": "Oki",
+  "web": "https://okimoto.io",
+  "decimals": "5",
+  "supply": "10000000",
+  "whitepaper": "https://okimoto.io/okipad-pitch-deck.pdf",
+  "links": {
+    "telegram": "https://t.me/Okipad",
+    "youtube": "https://www.youtube.com/channel/UCCgP-mSOXha_c1xGEn13p6A"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg",
+    "score": 14
+  }
+}

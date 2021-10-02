@@ -1,0 +1,17 @@
+{
+  "name": "TRUSTMECOIN",
+  "symbol": "TMC",
+  "web": "https://trustmecoin.tech",
+  "explorer": "https://viewblock.io/zilliqa/address/zil19kjcp6d9v3ra0rec0u4p5a9gucgzlqqrvt2l40",
+  "links": {
+    "github": "https://github.com/Trustmecoin",
+    "medium": "trustmecoin.medium.com",
+    "twitter": "https://twitter.com/TrustmeCoin",
+    "telegram": "https://t.me/trustmeofficial"
+  },
+  "description": "TrustMeCoin (TMC) is the Community Token decentralized trading protocol",
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

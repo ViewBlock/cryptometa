@@ -1,0 +1,22 @@
+{
+  "name": "DeMons",
+  "symbol": "DMZ",
+  "web": "https://demons.world",
+  "supply": "16666660",
+  "decimals": 18,
+  "whitepaper": "https://docs.demons.world",
+  "publicTeam": true,
+  "description": "Decentralised Monsters",
+  "links": {
+    "github": "https://github.com/Decentralised-Monsters/demons-scilla",
+    "twitter": "de_monsters",
+    "telegram": "de_monsters",
+    "discord": "https://discord.gg/QW3YgJmcFA",
+    "instagram": "https://www.instagram.com/decentralised_monsters",
+    "linkedin": "https://www.linkedin.com/company/demons/"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 52
+  }
+}

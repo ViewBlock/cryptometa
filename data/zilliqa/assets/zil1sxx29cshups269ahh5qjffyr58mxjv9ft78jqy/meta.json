@@ -1,0 +1,16 @@
+{
+  "name": "Zilliqa-bridged USDT",
+  "symbol": "zUSDT",
+  "web": "https://tether.to",
+  "links": {
+    "coingecko": "https://coingecko.com/en/coins/tether",
+    "twitter": "https://twitter.com/Tether_to",
+    "facebook": "https://facebook.com/tether.to"
+  },
+  "publicTeam": true,
+  "trusted": true,
+  "gen": {
+    "logo": "logo.svg",
+    "score": 100
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "TRUSTME",
+  "symbol": "TRUSTME",
+  "web": "https://trustmetoken.medium.com/",
+  "supply": "30000000",
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}
