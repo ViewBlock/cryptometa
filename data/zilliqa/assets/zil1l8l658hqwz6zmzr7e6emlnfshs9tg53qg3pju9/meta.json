@@ -13,6 +13,7 @@
   },
   "gen": {
     "logo": "logo.svg",
-    "score": 30
+    "hasDark": true,
+    "score": 29
   }
 }
