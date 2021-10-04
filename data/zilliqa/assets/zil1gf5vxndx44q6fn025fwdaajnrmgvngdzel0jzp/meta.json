@@ -4,6 +4,7 @@
   "web": "https://blox-sdk.com/",
   "supply": "5000000",
   "holders": true,
+  config.dark: false
   "whitepaper": "https://blox-sdk.com/blox_lightpaper.pdf",
   "email": "contact@undefinedcompany.com",
   "links": {
@@ -14,7 +15,7 @@
   "publicTeam": true,
   "gen": {
     "logo": "logo.png",
-    "hasDark": true,
+    "hasDark": false,
     "score": 52
   }
 }
