@@ -12,9 +12,11 @@
     "linkedin": "https://www.linkedin.com/in/arthur-hoeke-170691103/"
   },
   "publicTeam": true,
+  "config": {
+    "dark": false
+  },
   "gen": {
     "logo": "logo.png",
-    "hasDark": true,
     "score": 52
   }
 }
