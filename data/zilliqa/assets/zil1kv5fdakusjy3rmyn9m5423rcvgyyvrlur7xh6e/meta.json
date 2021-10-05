@@ -1,0 +1,19 @@
+{
+  "name": "JAZ TOKEN",
+  "symbol": "JAZT",
+  "supply": "1000000000000",
+  "holders": true,
+  "whitepapper": "https://github.com/Jaztoken/jaztoken.github.io/commit/b2fffca1f47b30c10f0f9a3bf10b0bb202b0f360"
+  "explorer": "https://viewblock.io/zilliqa/address/zil1kv5fdakusjy3rmyn9m5423rcvgyyvrlur7xh6e",
+  "links": {
+    "github": "https://github.com/Jaztoken",
+    "twitter": "https://twitter.com/Jaztoken",
+    "linkedin": "https://www.linkedin.com/in/jaz-token-936821222",
+    "telegram": "https://t.me/JazTokenChannel",
+
+  },
+  "description": "JAZ TOKEN (JAZT) is the Community Token decentralized trading protocol",
+  "gen": {
+    "logo": "logo.png"
+  }
+}
