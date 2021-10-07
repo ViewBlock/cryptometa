@@ -2,6 +2,7 @@
   "name": "The Button",
   "symbol": "BUTTON",
   "web": "https://button.claims",
+  "whitepaper": "https://button.claims/whitepaper.pdf",
   "links": {
     "twitter": "https://twitter.com/bridge_button"
   },
