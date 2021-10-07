@@ -4,7 +4,8 @@
   "web": "https://button.claims",
   "whitepaper": "https://button.claims/whitepaper.pdf",
   "links": {
-    "twitter": "https://twitter.com/bridge_button"
+    "twitter": "https://twitter.com/bridge_button",
+    "telegram": "https://t.me/bridge_button"
   },
   "gen": {
     "logo": "logo.png",
