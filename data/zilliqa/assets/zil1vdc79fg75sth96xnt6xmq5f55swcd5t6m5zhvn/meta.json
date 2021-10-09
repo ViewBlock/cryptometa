@@ -2,7 +2,6 @@
   "name": "YODA",
   "symbol": "YODA",
   "web": "http://jody.tilda.ws",
-  "whitepaper": "http://jody.tilda.ws/whitepaper",
   "supply": 10000,
   "decimals": 5,
   "email": "anzellkennard35@gmail.com",
@@ -15,6 +14,6 @@
   },
   "gen": {
     "logo": "logo.png",
-    "score": 43
+    "score": 33
   }
 }
