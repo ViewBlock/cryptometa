@@ -10,8 +10,13 @@
     "twitter": "https://twitter.com/robounicats",
     "github": "https://github.com/Arenbo/RoboUniCats"
   },
+  "config": {
+    "scoreSkip": [
+      "whitepaper"
+    ]
+  },
   "gen": {
     "logo": "logo.svg",
-    "score": 48
+    "score": 38
   }
 }
