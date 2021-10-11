@@ -7,11 +7,11 @@
     "github": "https://github.com/tokenonecoin",
     "medium": "https://tokenonecoin.medium.com/",
     "twitter": "https://twitter.com/onecointoken",
-    "telegram": "https://t.me/onecoinofficial",
-    
+    "telegram": "https://t.me/onecoinofficial"
   },
   "description": "ONECOIN is Onelife community project to build new decentralize payment and asset",
   "gen": {
-    "logo": "logo.png"
+    "logo": "logo.png",
+    "score": 19
   }
 }

@@ -41,7 +41,7 @@ const getScore = data => {
     return 100
   }
 
-  const skipsByKey = get(data, 'config.scoreSkip', []).reduce(
+  const skipsByKey = (get(data, 'config.scoreSkip') || []).reduce(
     (acc, k) => ((acc[k] = true), acc),
     {},
   )
