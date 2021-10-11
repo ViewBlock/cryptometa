@@ -1,17 +1,17 @@
 {
   "name": "Gaymer",
   "symbol": "GAYMER",
-  "decimals": "0",  
+  "decimals": "0",
   "supply": "400000000",
   "explorer": "https://viewblock.io/zilliqa/address/zil1g42zl93x8cc9numpkxc0g0vyde485rt8k3shkd",
   "links": {
     "telegram": "https://t.me/GaymerChannel",
-     "twitter": "https://twitter.com/GaymerToken",  
-     "instagram": "https://www.instagram.com/gaymer_token",
+    "twitter": "https://twitter.com/GaymerToken",
+    "instagram": "https://www.instagram.com/gaymer_token"
   },
   "description": "Gaymer (GAYMER) is the Community Token decentralized trading protocol",
   "gen": {
     "logo": "logo.png",
-    "score": 0
+    "score": 5
   }
 }
