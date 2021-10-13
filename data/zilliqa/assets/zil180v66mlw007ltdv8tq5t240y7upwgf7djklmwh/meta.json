@@ -1,12 +1,20 @@
 {
-  "name": "XSGD",
-  "trusted": true,
-  "aliases": [
-    "zilliqa.zil1zu72vac254htqpg3mtywdcfm84l3dfd9qzww8t",
-    "ZIL.zil1zu72vac254htqpg3mtywdcfm84l3dfd9qzww8t"
-  ],
-  "gen": {
-    "logo": "logo.png",
-    "score": 100
-  }
+	"name": "XSGD",
+	"trusted": true,
+  "web": "https://www.straitsx.com/",
+	"aliases": [
+		"zilliqa.zil1zu72vac254htqpg3mtywdcfm84l3dfd9qzww8t",
+		"ZIL.zil1zu72vac254htqpg3mtywdcfm84l3dfd9qzww8t"
+	],
+
+
+	"gen": {
+		"logo": "logo.png",
+		"score": 100
+	},
+	"links": {
+		"twitter": "https://twitter.com/StraitsX",
+		"facebook": "https://www.facebook.com/straitsx/",
+		"linkedin": "https://www.linkedin.com/showcase/straitsx"
+	}
 }
