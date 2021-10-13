@@ -3,19 +3,18 @@
   "symbol": "COC",
   "supply": "23000000",
   "decimal": "6",
-  "web": "https://cocnet.co/",
+  "web": "https://cocnet.co",
   "explorer": "https://viewblock.io/zilliqa/address/zil1en9plr27smma0wsjx5msscs46eljqct5q50flt",
-  "social media links": {
+  "links": {
     "github": "https://github.com/Cavallocoin",
-    "medium": "https://cavallocoin.medium.com/",
+    "medium": "https://cavallocoin.medium.com",
     "twitter": "https://twitter.com/CavalloDev",
     "telegram": "https://t.me/officialcoc",
-    "instagram": "https://www.instagram.com/cavallocoinofficial/",
-    "facebook": "https://www.facebook.com/cavallocoinofficial/",
-    
+    "instagram": "https://www.instagram.com/cavallocoinofficial",
+    "facebook": "https://www.facebook.com/cavallocoinofficial"
   },
-  "description": "We are Build something big breakthrough digital solution related to money transaction",
   "gen": {
-    "logo": "logo.png"
+    "logo": "logo.png",
+    "score": 19
   }
 }

@@ -6,6 +6,7 @@
   "email": "contact@xcadnetwork.com",
   "whitepaper": "https://xcadnetwork.com/wp-content/uploads/Xcad_Deck_Summary-2.pdf",
   "publicTeam": true,
+  "trusted": true,
   "links": {
     "twitter": "XcademyOfficial",
     "telegram": "xcademy",
@@ -14,6 +15,6 @@
   },
   "gen": {
     "logo": "logo.svg",
-    "score": 43
+    "score": 100
   }
 }

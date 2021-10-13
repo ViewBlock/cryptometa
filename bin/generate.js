@@ -15,7 +15,7 @@ const readMeta = async path => {
     const contents = await readFile(path, 'utf-8')
     return JSON.parse(contents)
   } catch {
-    throw new Error(`Invalid meta at ${relativePath(path)}`)
+    throw new Error(`Invalid meta at data/${relativePath(path)}`)
   }
 }
 
