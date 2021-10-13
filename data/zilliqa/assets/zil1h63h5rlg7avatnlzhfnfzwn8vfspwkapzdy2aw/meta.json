@@ -4,11 +4,12 @@
   "web": "https://xcademytoken.com",
   "supply": "1500000",
   "email": "contact@xcadnetwork.com",
-  "whitepaper": "https://drive.google.com/file/d/1BhXs5_6NG3ACdFRd4nf-yjLmnnV8rcy6/view",
+  "whitepaper": "https://xcadnetwork.com/wp-content/uploads/Xcad_Deck_Summary-2.pdf",
   "publicTeam": true,
   "links": {
-    "telegram": "https://t.me/xcademy",
-    "twitter": "https://twitter.com/XcademyOfficial",
+    "twitter": "XcademyOfficial",
+    "telegram": "xcademy",
+    "github": "https://github.com/xcademy-dev",
     "linkedin": "https://www.linkedin.com/company/xcademyltd/"
   },
   "gen": {
