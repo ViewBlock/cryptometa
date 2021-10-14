@@ -11,6 +11,8 @@
     },
     "gen": {
         "logo": "logo.svg",
+        "hasDark": true,
+        "darkExt": "svg",
         "score": 100
     }
 }
