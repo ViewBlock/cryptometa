@@ -1,8 +1,8 @@
 {
   "name": "Caprabull",
   "symbol": "CBC",
-  "Supply": "300000000000000000000",
-  "Decimal": "9",
+  "supply": "300000000000",
+  "decimal": "9",
   "web": "https://caprabullcoin.space",
   "explorer": "https://viewblock.io/zilliqa/address/zil173frqvmlw6uuwq6399yuwanly5zyzz2lktrrrl",
   "links": {
