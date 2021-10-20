@@ -9,7 +9,10 @@
     "twitter": "https://twitter.com/lunrtoken",
     "discord": "https://discord.gg/CaNEDzhg"
   },
-  "product": true,
+  "trusted": true,
   "publicTeam": true,
-  "holders": true
+  "gen": {
+    "logo": "logo.png",
+    "score": 100
+  }
 }
