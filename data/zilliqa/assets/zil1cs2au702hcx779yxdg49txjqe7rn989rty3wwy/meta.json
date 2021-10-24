@@ -6,7 +6,6 @@
   "supply": "10000000",
   "email": "zilliqaads@gmail.com",
   "whitepaper": "https://github.com/ZilAds/resources/raw/main/whitepaper.pdf",
-  "publicTeam": true,
   "links": {
     "telegram": "https://t.me/ziladssupport",
     "twitter": "https://twitter.com/ZilAds",
@@ -14,6 +13,6 @@
   },
   "gen": {
     "logo": "logo.svg",
-    "score": 49
+    "score": 29
   }
 }
