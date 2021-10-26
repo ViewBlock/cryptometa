@@ -9,9 +9,12 @@
     "telegram": "https://t.me/PELENetwork",
     "twitter": "https://twitter.com/PELENetwork",
     "github": "https://github.com/PELENetwork"
+    "linkedin": "https://www.linkedin.com/company/pelenetwork/"
   },
+  "product": true,
+  "publicTeam": true,
   "gen": {
     "logo": "logo.svg",
-    "score": 29
+    "score": 39
   }
 }
