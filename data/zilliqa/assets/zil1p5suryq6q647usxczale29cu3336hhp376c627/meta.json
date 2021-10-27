@@ -10,11 +10,11 @@
     "telegram": "https://t.me/switcheo",
     "facebook": "https://www.facebook.com/SwitcheoExchange"
   },
+  "holders": true,
   "product": true,
   "publicTeam": true,
-  "trusted": true,
   "gen": {
     "logo": "logo.svg",
-    "score": 100
+    "score": 81
   }
 }
