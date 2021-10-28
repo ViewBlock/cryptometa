@@ -1,0 +1,11 @@
+{
+  "name": "The PELECANs",
+  "symbol": "PELECAN",
+  "web": "https://pele.network/",
+  "links": {
+    "telegram": "https://t.me/getyousomePELE"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}
