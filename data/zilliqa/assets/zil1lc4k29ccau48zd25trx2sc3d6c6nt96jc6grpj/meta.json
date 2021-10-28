@@ -6,6 +6,7 @@
     "telegram": "https://t.me/getyousomePELE"
   },
   "gen": {
-    "logo": "logo.svg"
+    "logo": "logo.svg",
+    "score": 5
   }
 }
