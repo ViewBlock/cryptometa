@@ -1,0 +1,16 @@
+{
+	"name": "Markhors & More",
+	"symbol": "MNM",
+	"web": "markhors.io",
+	"explorer": "markhors.io",
+	"links": {
+		"github": "nabzillion",
+		"twitter": "nabzilion87"
+	},
+	"config": {
+		"dark": false
+	},
+	"gen": {
+		"logo": "logo.png"
+	}
+}
