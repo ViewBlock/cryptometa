@@ -1,10 +1,10 @@
 {
-	"name": "ORIGIN",
-	"symbol": "ORG",
+	"name": "origin",
+	"symbol": "org",
 
 	"links": {
-		"Github": "tuttisibor",
-		"Twitter": "tuttisibor"
+		"github": "tuttisibor",
+		"twitter": "tuttisibor"
 	},
 	"config": {
 		"dark": false
