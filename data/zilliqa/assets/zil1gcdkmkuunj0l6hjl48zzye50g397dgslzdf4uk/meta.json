@@ -2,6 +2,9 @@
 	"name": "Oasis of Amazing Creatures",
 	"symbol": "OAC",
 	"web": "https://sites.google.com/view/oasis-of-amazing-creatures/home",
+	"links": {
+		"Github": "oasisofamazing",
+		"Twitter": "oasisofamazing",
 	"config": {
 		"dark": false
 	},
