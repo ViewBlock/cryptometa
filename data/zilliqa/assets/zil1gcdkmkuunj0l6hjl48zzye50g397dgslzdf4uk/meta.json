@@ -4,7 +4,8 @@
 	"web": "https://sites.google.com/view/oasis-of-amazing-creatures/home",
 	"links": {
 		"Github": "oasisofamazing",
-		"Twitter": "oasisofamazing",
+		"Twitter": "oasisofamazing"
+	},
 	"config": {
 		"dark": false
 	},
