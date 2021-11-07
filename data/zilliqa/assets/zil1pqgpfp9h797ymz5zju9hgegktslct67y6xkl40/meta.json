@@ -2,7 +2,6 @@
   "name": "ORIGIN",
   "symbol": "ORG",
   "links": {
-    "github": "tuttisibor",
     "twitter": "tuttisibor"
   },
   "config": {
@@ -10,6 +9,6 @@
   },
   "gen": {
     "logo": "logo.png",
-    "score": 14
+    "score": 5
   }
 }
