@@ -1,0 +1,15 @@
+{
+	"name": "Dr.Death's Redemption",
+	"symbol": "The Tighe-Mearns-Smith Original Comic Book Series",
+	"web": "tighe-mearns-smith.co.uk",
+	"links": {
+		"Twitter": "drdeathcultclub",
+		"Web": "http://www.tighe-mearns-smith.co.uk/"
+	},
+	"config": {
+		"dark": false
+	},
+	"gen": {
+		"logo": "logo.svg"
+	}
+}
