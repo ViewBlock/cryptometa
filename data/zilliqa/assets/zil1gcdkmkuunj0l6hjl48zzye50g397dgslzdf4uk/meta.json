@@ -3,8 +3,7 @@
 	"symbol": "OAC",
 	"web": "https://sites.google.com/view/oasis-of-amazing-creatures/home",
 	"links": {
-		"Github": "oasisofamazing",
-		"Twitter": "oasisofamazing"
+		"twitter": "oasisofamazing"
 	},
 	"config": {
 		"dark": false
