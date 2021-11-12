@@ -1,0 +1,14 @@
+{
+	"name": "DopeCrewFriends NFT",
+	"symbol": "DCF",
+	"links": {
+		"Github": "dopecrewfriends",
+		"Twitter": "dopecrewfriends"
+	},
+	"config": {
+		"dark": false
+	},
+	"gen": {
+		"logo": "logo.png"
+	}
+}
