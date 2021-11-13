@@ -1,0 +1,16 @@
+{
+  "name": "ScarPunk NFT",
+  "symbol": "scar",
+  "web": "crazysoulart.com",
+  "links": {
+    "github": "crazysoulart",
+    "twitter": "crazysoulart",
+    "web": "http://www.crazysoulart.com/"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png"
+  }
+}
