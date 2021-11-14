@@ -1,0 +1,14 @@
+{
+	"name": "Space Monsters",
+	"symbol": "MONSTERS",
+	"links": {
+		"Github": "SimonPdv",
+		"Twitter": "SimonPdv"
+	},
+	"config": {
+		"dark": false
+	},
+	"gen": {
+		"logo": "logo.svg"
+	}
+}
