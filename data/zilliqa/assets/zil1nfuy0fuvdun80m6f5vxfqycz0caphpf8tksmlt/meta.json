@@ -5,9 +5,6 @@
 		"github": "dopecrewfriends",
 		"twitter": "dopecrewfriends"
 	},
-	"config": {
-		"dark": false
-	},
 	"gen": {
 		"logo": "logo.png"
 	}
