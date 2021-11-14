@@ -1,0 +1,15 @@
+{
+  "name": "Magusz Art",
+  "symbol": "MGZART",
+  "web": "https://maguszart.com/",
+  "links": {
+    "twitter": "magusz_art",
+    "web": "https://maguszart.com/"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png"
+  }
+}
