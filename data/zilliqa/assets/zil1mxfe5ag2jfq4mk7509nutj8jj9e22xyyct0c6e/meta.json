@@ -1,0 +1,13 @@
+{
+	"name": "Cryptyotes",
+	"symbol": "Cryptyotes",
+	"links": {
+		"Twitter": "cryptoverlordx"
+	},
+	"config": {
+		"dark": false
+	},
+	"gen": {
+		"logo": "logo.svg"
+	}
+}
