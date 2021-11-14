@@ -1,9 +1,9 @@
 {
-	"name": "DopeCrewFriends NFT",
+	"name": "Dope Crew Friends",
 	"symbol": "DCF",
 	"links": {
-		"Github": "dopecrewfriends",
-		"Twitter": "dopecrewfriends"
+		"github": "dopecrewfriends",
+		"twitter": "dopecrewfriends"
 	},
 	"config": {
 		"dark": false
