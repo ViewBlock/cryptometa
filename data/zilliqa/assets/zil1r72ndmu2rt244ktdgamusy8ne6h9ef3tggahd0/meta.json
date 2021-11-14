@@ -1,11 +1,11 @@
 {
-	"name": "Dr.Death's Redemption",
-	"symbol": "The Tighe-Mearns-Smith Original Comic Book Series",
-	"web": "https://www.tighe-mearns-smith.co.uk/",
-	"config": {
-		"dark": false
-	},
-	"gen": {
-		"logo": "logo.png"
-	}
+  "name": "Dr.Death's Redemption",
+  "symbol": "The Tighe-Mearns-Smith Original Comic Book Series",
+  "web": "https://www.tighe-mearns-smith.co.uk/",
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "score": 5
+  }
 }
