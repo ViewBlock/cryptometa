@@ -1,13 +1,11 @@
 {
-	"name": "Space Monsters",
-	"symbol": "MONSTERS",
-	"links": {
-		"twitter": "simonpdv"
-	},
-	"config": {
-		"dark": false
-	},
-	"gen": {
-		"logo": "logo.png"
-	}
+  "name": "Space Monsters",
+  "symbol": "MONSTERS",
+  "links": {
+    "twitter": "simonpdv"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
 }
