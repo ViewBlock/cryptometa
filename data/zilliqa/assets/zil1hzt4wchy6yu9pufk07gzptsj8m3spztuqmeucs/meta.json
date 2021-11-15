@@ -6,11 +6,6 @@
     "decimals": 8,
     "whitepaper": "https://docs.envizion.world",
     "publicTeam": true,
-    "links": {
-      "github": "https://github.com/ConstOrganization",
-      "twitter": "EnviZionWorld",
-      "discord": "https://discord.gg/w5Jyd26Mz3"
-    },
     "gen": {
       "logo": "logo.png",
       "score": 50
