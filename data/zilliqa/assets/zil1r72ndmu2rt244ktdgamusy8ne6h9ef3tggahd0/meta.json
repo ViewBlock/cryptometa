@@ -6,6 +6,7 @@
     "dark": false
   },
   "gen": {
+    "logo": "logo.png",
     "score": 5
   }
 }
