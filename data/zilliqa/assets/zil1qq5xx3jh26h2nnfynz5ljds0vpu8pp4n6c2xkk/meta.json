@@ -2,8 +2,8 @@
 	"name": "Space Monsters",
 	"symbol": "MONSTERS",
 	"links": {
-		"Github": "simonpdv",
-		"Twitter": "simonpdv"
+		"github": "simonpdv",
+		"twitter": "simonpdv"
 	},
 	"config": {
 		"dark": false
