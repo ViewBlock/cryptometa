@@ -1,13 +1,14 @@
 {
-	"name": "ZIL Shrooms",
+  "name": "ZIL Shrooms",
   "symbol": "Shroom",
-	"links": {
-		"twitter": "kaelin_12"
-	},
-	"config": {
-		"dark": false
-	},
-	"gen": {
-		"logo": "logo.png"
-	}
+  "links": {
+    "twitter": "kaelin_12"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
 }
