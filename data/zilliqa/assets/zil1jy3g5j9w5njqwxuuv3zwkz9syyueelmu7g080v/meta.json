@@ -6,11 +6,14 @@
   "links": {
     "telegram": "https://t.me/unifees",
     "linkedin": "https://www.linkedin.com/company/unifees",
+    "whitepaper": "https://unifees.io/Unifees-Whitepaper.pdf"
+    "PublicTeam": true,
+    "holders": true,
     "twitter": "https://twitter.com/UnifeesToken",
     "github": "https://github.com/Unifees/Unifees-Token"
   },
   "gen": {
     "logo": "logo.png",
-    "score": 24
+    "score": 70
   }
 }
