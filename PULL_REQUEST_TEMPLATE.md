@@ -30,3 +30,6 @@ For example: `[zilliqa] Add Zilstream (STREAM)`.
 - [ ] Make sure to rebase or clean your history
 - [ ] PR doesn't have any merge conflict
 - [ ] In case you are migrating a token, delete the old folder in the same PR
+
+Make sure your meta [JSON is valid](https://jsonlint.com) at all times before submitting a PR and conforms to the spec.
+PRs will be closed without notice if failing to follow these simple instructions.
