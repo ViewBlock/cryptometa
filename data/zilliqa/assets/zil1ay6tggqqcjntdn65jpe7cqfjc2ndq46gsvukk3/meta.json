@@ -4,9 +4,8 @@
   "web": "FknApes.club",
   "links": {
     "Github": "HeyGoAudio",
-    "Twitter": "https://twitter.com/FknApesClub",
-    "Instagram": "https://instagram.com/fknapesclub",
-    "Web": "https://fknapes.club/"
+    "twitter": "https://twitter.com/FknApesClub",
+    "instagram": "https://instagram.com/fknapesclub",
   },
   "gen": {
     "logo": "logo.png",
