@@ -3,11 +3,16 @@
   "symbol": "FEES",
   "web": "https://unifees.io",
   "supply": "1000000000",
+  "decimal": "4",
+  "publicTeam": true,
+  "holders": true,
   "links": {
     "telegram": "https://t.me/unifees",
     "linkedin": "https://www.linkedin.com/company/unifees",
     "twitter": "https://twitter.com/UnifeesToken",
     "github": "https://github.com/Unifees/Unifees-Token"
+    "whitepaper": https://unifees.io/Unifees-Whitepaper.pdf
+    "
   },
   "gen": {
     "logo": "logo.png",
