@@ -1,0 +1,15 @@
+{
+  "name": "Fkn Apes Club",
+  "symbol": "FAC3",
+  "web": "FknApes.club",
+  "links": {
+    "Github": "HeyGoAudio",
+    "Twitter": "https://twitter.com/FknApesClub",
+    "Instagram": "https://instagram.com/fknapesclub",
+    "Web": "https://fknapes.club/"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}
