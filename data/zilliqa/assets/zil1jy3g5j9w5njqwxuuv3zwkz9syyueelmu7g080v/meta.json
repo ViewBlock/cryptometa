@@ -11,11 +11,11 @@
     "linkedin": "https://www.linkedin.com/company/unifees",
     "twitter": "https://twitter.com/UnifeesToken",
     "github": "https://github.com/Unifees/Unifees-Token"
-    "whitepaper": https://unifees.io/Unifees-Whitepaper.pdf
+    "whitepaper": "https://unifees.io/Unifees-Whitepaper.pdf"
     "
   },
   "gen": {
     "logo": "logo.png",
-    "score": 24
+    "score": 70
   }
 }
