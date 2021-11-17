@@ -1,0 +1,13 @@
+{
+  "name": "Zillicones",
+  "symbol": "Zillicones Batch 2",
+  "links": {
+    "twitter": "zillicones"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png"
+  }
+}
