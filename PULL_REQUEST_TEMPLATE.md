@@ -22,7 +22,7 @@ For example: `[zilliqa] Add Zilstream (STREAM)`.
 - [ ] Use your best judgement to see if you need to add padding or background transparency depending on your design
 - [ ] A PNG should **always** use tinypng.com to compress it
 - [ ] An SVG should use svgminify.com to remove useless props and be the same width/height ratio. Do not embed PNG data in them, use a PNG instead.
-- [ ] Maximum file size is 30kb but < 15kb is prefered
+- [ ] Logo should be < 20kb
 - [ ] Add information of your project in `meta.json`, **USE** jsonlint.com to check validity following the spec from the README.
 
 ### Updating a token
