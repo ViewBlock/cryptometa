@@ -1,13 +1,14 @@
 {
-	"name": "Cryptojis and Friends",
-	"symbol": "Explorers, Adventurers and Ninjas",
-	"links": {
-		"twitter": "https://twitter.com/Zillingino"
-	},
- 	"config": {
+  "name": "Cryptojis and Friends",
+  "symbol": "Explorers, Adventurers and Ninjas",
+  "links": {
+    "twitter": "https://twitter.com/Zillingino"
+  },
+  "config": {
     "dark": false
   },
-	"gen": {
-		"logo": "logo.png"
-	}
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
 }
