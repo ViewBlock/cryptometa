@@ -1,0 +1,17 @@
+{
+   "name":"Space Exploration",
+   "symbol":"SEX",
+   "web":"",
+   "links":{
+      "Github":"Monten77",
+      "Twitter":"Saint_Bartend",
+      "Web":""
+   },
+   "config":{
+      "dark":false
+   },
+   "gen":{
+      "logo":"logo.svg",
+      "score":5
+   }
+}
