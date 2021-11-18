@@ -1,13 +1,14 @@
 {
-	"name": "Imagination",
-	"symbol": "IGN",
-	"links": {
-		"twitter": "adiwiboow"
-	},
-	"config": {
-		"dark": false
-	},
-	"gen": {
-		"logo": "logo.png"
-	}
+  "name": "Imagination",
+  "symbol": "IGN",
+  "links": {
+    "twitter": "adiwiboow"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
 }
