@@ -1,0 +1,13 @@
+{
+	"name": "The Dirty Mind",
+	"symbol": "DIRTY",
+	"links": {
+		"twitter": "https://twitter.com/LFevin"
+	},
+	"config": {
+		"dark": false
+	},
+	"gen": {
+		"logo": "logo.png"
+	}
+}
