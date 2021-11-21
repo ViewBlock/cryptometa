@@ -1,0 +1,18 @@
+{
+  "name": "XIDR",
+  "trusted": true,
+  "web": "https://www.straitsx.com/id",
+  "aliases": [
+    "zilliqa.zil1n02sfv2ytldc7jnyx3f7c9zehwdzlxy2ykrhf9",
+    "ZIL.zil1n02sfv2ytldc7jnyx3f7c9zehwdzlxy2ykrhf9"
+  ],
+  "gen": {
+    "logo": "logo.png",
+    "score": 100
+  },
+  "links": {
+    "twitter": "https://twitter.com/StraitsX",
+    "facebook": "https://www.facebook.com/straitsx/",
+    "linkedin": "https://www.linkedin.com/showcase/straitsx"
+  }
+}
