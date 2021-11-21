@@ -1,0 +1,13 @@
+{
+	"name": "ZILPIRATES",
+	"symbol": "ZILPIR",
+	"links": {
+		"twitter": "balamedco"
+	},
+	"config": {
+		"dark": false
+	},
+	"gen": {
+		"logo": "logo.png"
+	}
+}
