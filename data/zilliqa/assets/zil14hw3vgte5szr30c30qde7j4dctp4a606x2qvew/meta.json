@@ -1,37 +1,14 @@
 {
-
-
- "name": "The ZilKrows",
-
-
- "symbol": "ZKR",
-
-
- "links": {
-
-
-  "twitter": "eblkronos"
-
-
- },
-
-
- "config": {
-
-
-  "dark": false
-
-
- },
-
-
- "gen": {
-
-
-  "logo": "logo.png"
-
-
- }
-
-
+  "name": "The ZilKrows",
+  "symbol": "ZKR",
+  "links": {
+    "twitter": "eblkronos"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
 }
