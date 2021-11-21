@@ -1,13 +1,14 @@
 {
-	"name": "Llama Collection",
-	"symbol": "LLAMA",
-	"links": {
-		"twitter": "https://twitter.com/JohnAzerty"
-	},
-	"config": {
-		"dark": false
-	},
-	"gen": {
-		"logo": "logo.png"
-	}
+  "name": "Llama Collection",
+  "symbol": "LLAMA",
+  "links": {
+    "twitter": "https://twitter.com/JohnAzerty"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
 }
