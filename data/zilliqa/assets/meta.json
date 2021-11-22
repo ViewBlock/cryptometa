@@ -1,0 +1,15 @@
+{
+  "name": "Earthworm Jimmy",
+  "symbol": "WORM",
+  "supply": "50",
+  "links": {
+    "Twitter": "EWJNFT",
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}
