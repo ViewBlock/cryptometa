@@ -1,0 +1,13 @@
+{
+	"name": "Soul Ape",
+	"symbol": "SAC (Soul Ape Club)",
+	"links": {
+		"twitter": "https://twitter.com/SoulApeOfficial"
+	},
+	"config": {
+		"dark": false
+	},
+	"gen": {
+		"logo": "logo.png"
+	}
+}
