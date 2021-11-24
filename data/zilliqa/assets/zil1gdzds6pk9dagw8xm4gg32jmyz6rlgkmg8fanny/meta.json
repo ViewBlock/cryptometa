@@ -1,0 +1,13 @@
+{
+	"name": "catzil vecto",
+	"symbol": "cvzil",
+	"links": {
+		"twitter": "richardwibi"
+	},
+	"config": {
+		"dark": false
+	},
+	"gen": {
+		"logo": "logo.png"
+	}
+}
