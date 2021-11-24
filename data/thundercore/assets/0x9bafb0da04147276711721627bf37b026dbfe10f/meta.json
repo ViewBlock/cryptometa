@@ -17,5 +17,11 @@
     "reddit": "https://www.reddit.com/r/NumbersProtocolIO",
     "youtube": "https://www.youtube.com/channel/UC9aIubRdrhLoSVb9xALFpUg"
   },
-  "publicTeam": true
+  "trusted": true,
+  "product": true,
+  "publicTeam": true,
+  "gen": {
+    "logo": "logo.png",
+    "score": 100
+  }
 }
