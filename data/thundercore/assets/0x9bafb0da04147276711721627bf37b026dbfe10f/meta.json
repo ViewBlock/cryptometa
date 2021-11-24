@@ -1,6 +1,7 @@
 {
   "name": "NUM Token",
   "symbol": "NUM",
+  "description": "A decentralised photo network, for creating community, value and trust in digital media.",
   "web": "https://www.numbersprotocol.io",
   "decimals": "18",
   "email": "hi@numbersprotocol.io",
@@ -20,8 +21,13 @@
   "trusted": true,
   "product": true,
   "publicTeam": true,
+  "config": {
+    "manualDark": true
+  },
   "gen": {
-    "logo": "logo.png",
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg",
     "score": 100
   }
 }
