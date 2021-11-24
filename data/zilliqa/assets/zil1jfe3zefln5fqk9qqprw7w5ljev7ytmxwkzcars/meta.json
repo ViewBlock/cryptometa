@@ -1,0 +1,14 @@
+{
+  "name": "Dope Crew",
+  "symbol": "DC",
+  "links": {
+    "twitter": "https://twitter.com/daehandope"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

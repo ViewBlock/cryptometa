@@ -1,0 +1,14 @@
+{
+  "name": "Squid Life",
+  "symbol": "SQL",
+  "links": {
+    "twitter": "https://twitter.com/sure_i_am"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

@@ -29,6 +29,7 @@ If the image has a dark alternative, that's what you will get otherwise it will 
 | Param               | Type     | Required   | Points  | Notes                                                     |
 | ------------------- | -------- | ---------- | ------- | --------------------------------------------------------- |
 | name                | `String` | `true`     |         |                                                           |
+| description         | `String` | `false`    |         | A brief description of the project                        |
 | symbol              | `String` | `true`     |         |                                                           |
 | web                 | `String` | `false`    | 5       | Websites should use https                                 |
 | decimals            | `Number` | `false`    |         |                                                           |
