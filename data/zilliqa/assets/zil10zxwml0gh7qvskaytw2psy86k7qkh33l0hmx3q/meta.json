@@ -4,9 +4,6 @@
 	"links": {
 		"twitter": "https://twitter.com/ewjnft"
 	},
-	"config": {
-		"dark": false
-	},
 	"gen": {
 		"logo": "logo.png"
 	}
