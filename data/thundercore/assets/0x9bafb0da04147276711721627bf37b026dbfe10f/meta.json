@@ -22,12 +22,11 @@
   "product": true,
   "publicTeam": true,
   "config": {
-    "manualDark": true
+    "dark": false
   },
   "gen": {
     "logo": "logo.svg",
-    "hasDark": true,
-    "darkExt": "svg",
+    "hasDark": false,
     "score": 100
   }
 }
