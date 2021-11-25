@@ -4,10 +4,11 @@
   "links": {
     "twitter": "https://twitter.com/eblkronos"
   },
-    "config": {
-      "dark": false
+  "config": {
+    "dark": false
   },
-    "gen": {
-      "logo": "logo.png"
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
   }
 }
