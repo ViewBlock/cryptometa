@@ -1,0 +1,13 @@
+{
+	"name": "Daetama",
+	"symbol": "DTM",
+	"links": {
+		"twitter": "https://twitter.com/Tamabiqisa"
+	},
+	"config": {
+		"dark": false
+	},
+	"gen": {
+		"logo": "logo.png"
+	}
+}
