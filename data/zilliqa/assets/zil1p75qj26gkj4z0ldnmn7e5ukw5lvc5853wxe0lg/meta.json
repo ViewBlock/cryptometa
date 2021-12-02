@@ -1,0 +1,14 @@
+{
+  "name": "Zillicones",
+  "symbol": "ICED",
+  "links": {
+    "twitter": "zillicones"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

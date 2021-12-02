@@ -1,0 +1,9 @@
+{
+  "name": "Wrapped ZIL",
+  "symbol": "wZIL",
+  "trusted": true,
+  "gen": {
+    "logo": "logo.svg",
+    "score": 100
+  }
+}

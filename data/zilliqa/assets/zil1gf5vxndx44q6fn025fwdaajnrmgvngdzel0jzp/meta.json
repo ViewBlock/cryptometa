@@ -1,0 +1,22 @@
+{
+  "name": "BLOX",
+  "symbol": "BLOX",
+  "web": "https://blox-sdk.com/",
+  "supply": "5000000",
+  "holders": true,
+  "whitepaper": "https://blox-sdk.com/blox_lightpaper.pdf",
+  "email": "contact@undefinedcompany.com",
+  "links": {
+    "twitter": "https://twitter.com/blox_sdk",
+    "telegram": "https://t.me/zilliqaroyale",
+    "linkedin": "https://www.linkedin.com/in/arthur-hoeke-170691103/"
+  },
+  "publicTeam": true,
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 52
+  }
+}

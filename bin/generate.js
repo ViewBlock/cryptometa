@@ -15,7 +15,7 @@ const readMeta = async path => {
     const contents = await readFile(path, 'utf-8')
     return JSON.parse(contents)
   } catch {
-    throw new Error(`Invalid meta at ${relativePath(path)}`)
+    throw new Error(`Invalid meta at data/${relativePath(path)}`)
   }
 }
 
@@ -41,8 +41,13 @@ const getScore = data => {
     return 100
   }
 
+  const skipsByKey = (get(data, 'config.scoreSkip') || []).reduce(
+    (acc, k) => ((acc[k] = true), acc),
+    {},
+  )
+
   const score = Object.keys(scoreItems).reduce(
-    (acc, key) => acc + (get(data, key) ? scoreItems[key] : 0),
+    (acc, key) => acc + (get(data, key) && !skipsByKey[key] ? scoreItems[key] : 0),
     0,
   )
 

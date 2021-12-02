@@ -1,0 +1,25 @@
+{
+  "name": "YODA",
+  "symbol": "YODA",
+  "web": "http://jody.tilda.ws",
+  "supply": 10000,
+  "decimals": 5,
+  "email": "anzellkennard35@gmail.com",
+  "whitepaper": "http://jody.tilda.ws/whitepaper",
+  "publicTeam": true,
+  "links": {
+    "twitter": "https://twitter.com/Jody96718451",
+    "telegram": "https://t.me/Yodaco",
+    "linkedin": "https://www.linkedin.com/in/anzell-kennard-87817021b",
+    "facebook": "https://www.facebook.com/anzell.kennard"
+  },
+  "config": {
+    "scoreSkip": [
+      "whitepaper"
+    ]
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 33
+  }
+}

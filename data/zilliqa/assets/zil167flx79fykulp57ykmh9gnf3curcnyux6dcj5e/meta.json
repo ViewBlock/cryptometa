@@ -1,0 +1,20 @@
+{
+  "name": "The Bear Market",
+  "symbol": "TBM",
+  "web": "https://thebear.market",
+  "links": {
+    "twitter": "https://twitter.com/bearmarketnft",
+    "discord": "https://discord.com/invite/ESVqQ3qtvk",
+    "github": "https://github.com/switcheo/zilswap",
+    "linkedin": "https://www.linkedin.com/company/switcheonetwork",
+    "telegram": "https://t.me/switcheo",
+    "facebook": "https://www.facebook.com/SwitcheoExchange"
+  },
+  "product": true,
+  "publicTeam": true,
+  "trusted": true,
+  "gen": {
+    "logo": "logo.png",
+    "score": 100
+  }
+}

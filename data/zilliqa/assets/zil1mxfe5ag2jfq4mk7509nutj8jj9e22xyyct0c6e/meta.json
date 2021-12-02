@@ -1,0 +1,14 @@
+{
+  "name": "Cryptyotes",
+  "symbol": "Cryptyotes",
+  "links": {
+    "twitter": "https://twitter.com/cryptoverlordx"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

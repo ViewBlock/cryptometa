@@ -21,8 +21,8 @@ For example: `[zilliqa] Add Zilstream (STREAM)`.
 - [ ] Your logo should be a square (same width and height)
 - [ ] Use your best judgement to see if you need to add padding or background transparency depending on your design
 - [ ] A PNG should **always** use tinypng.com to compress it
-- [ ] An SVG should use svgminify.com to remove useless props and be the same width/height ratio
-- [ ] Maximum file size is 30kb but < 15kb is prefered
+- [ ] An SVG should use svgminify.com to remove useless props and be the same width/height ratio. Do not embed PNG data in them, use a PNG instead.
+- [ ] Logo should be < 20kb
 - [ ] Add information of your project in `meta.json`, **USE** jsonlint.com to check validity following the spec from the README.
 
 ### Updating a token
@@ -30,3 +30,6 @@ For example: `[zilliqa] Add Zilstream (STREAM)`.
 - [ ] Make sure to rebase or clean your history
 - [ ] PR doesn't have any merge conflict
 - [ ] In case you are migrating a token, delete the old folder in the same PR
+
+Make sure your meta [JSON is valid](https://jsonlint.com) at all times before submitting a PR and conforms to the spec.
+PRs will be closed without notice if failing to follow these simple instructions.

@@ -1,0 +1,23 @@
+{
+  "name": "Verto Beta Testers' Edition",
+  "symbol": "VBTE",
+  "web": "https://www.verto.exchange/space/8X7JO-F6sumwynRXbi5YhXHuqKbGlMLPE6zMOR_rWXc",
+  "publicTeam": true,
+  "trusted": true,
+  "links": {
+    "github": "https://github.com/useverto/website-contracts/tree/main/src/invite",
+    "twitter": "https://twitter.com/vertoexchange",
+    "blog": "https://blog.th8ta.org",
+    "discord": "https://verto.exchange/chat",
+    "linkedin": "https://www.linkedin.com/company/th8ta"
+  },
+  "config": {
+    "manualDark": true
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg",
+    "score": 100
+  }
+}

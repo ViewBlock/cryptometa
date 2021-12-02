@@ -1,0 +1,14 @@
+{
+  "name": "fianpanic",
+  "symbol": "FP",
+  "links": {
+    "twitter": "https://twitter.com/fiancahyo"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

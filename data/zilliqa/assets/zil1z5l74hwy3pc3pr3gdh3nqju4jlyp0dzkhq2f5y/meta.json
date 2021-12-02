@@ -1,0 +1,20 @@
+{
+  "name": "XCAD Network Token",
+  "symbol": "XCAD",
+  "web": "https://xcadnetwork.com",
+  "email": "contact@xcadnetwork.com",
+  "supply": "199105531",
+  "whitepaper": "https://xcadnetwork.com/wp-content/uploads/Xcad_Deck_Summary-2.pdf",
+  "publicTeam": true,
+  "trusted": true,
+  "links": {
+    "twitter": "XcademyOfficial",
+    "telegram": "xcademy",
+    "github": "https://github.com/xcademy-dev",
+    "linkedin": "https://www.linkedin.com/company/xcademyltd/"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 100
+  }
+}

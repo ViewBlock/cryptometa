@@ -1,0 +1,14 @@
+{
+  "name": "Hachiroku",
+  "symbol": "HC",
+  "links": {
+    "twitter": "https://twitter.com/merindaART"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

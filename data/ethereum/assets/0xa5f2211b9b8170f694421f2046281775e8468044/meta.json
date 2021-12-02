@@ -1,0 +1,22 @@
+{
+  "name": "THORSwap",
+  "symbol": "THOR",
+  "decimals": 18,
+  "web": "https://thorswap.finance",
+  "whitepaper": "https://docs.thorswap.finance/",
+  "email": "admin@thorswap.finance",
+  "links": {
+    "twitter": "https://twitter.com/thorswap",
+    "github": "https://github.com/thorswap",
+    "discord": "https://discord.gg/thorswap",
+    "telegram": "https://t.me/thorswap_ann",
+    "coingecko": "https://www.coingecko.com/en/coins/thorswap",
+    "medium": "https://thorswap.medium.com",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/thorswap"
+  },
+  "trusted": true,
+  "gen": {
+    "logo": "logo.png",
+    "score": 100
+  }
+}

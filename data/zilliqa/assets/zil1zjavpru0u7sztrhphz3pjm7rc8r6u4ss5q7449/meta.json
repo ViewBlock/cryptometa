@@ -1,0 +1,14 @@
+{
+  "name": "SPARDAHALLOWEEN",
+  "symbol": "SPAHA",
+  "links": {
+    "twitter": "balamedco"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

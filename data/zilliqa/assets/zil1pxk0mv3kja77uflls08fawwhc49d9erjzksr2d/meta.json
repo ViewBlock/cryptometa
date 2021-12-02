@@ -1,0 +1,14 @@
+{
+  "name": "Wanted NFT",
+  "symbol": "WNFT",
+  "links": {
+    "twitter": "https://twitter.com/z_zilliqa"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

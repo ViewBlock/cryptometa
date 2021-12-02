@@ -1,0 +1,17 @@
+{
+  "name": "EnviZion",
+  "symbol": "EVZ",
+  "web": "https://envizion.world",
+  "supply": "10000000000",
+  "decimals": 8,
+  "whitepaper": "https://docs.envizion.world",
+  "links": {
+    "github": "https://github.com/ConstOrganization",
+    "twitter": "EnviZionWorld",
+    "discord": "https://discord.gg/w5Jyd26Mz3"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 29
+  }
+}

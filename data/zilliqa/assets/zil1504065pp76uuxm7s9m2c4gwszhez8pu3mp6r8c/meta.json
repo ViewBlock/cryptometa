@@ -9,8 +9,9 @@
     "telegram": "https://t.me/zilstream"
   },
   "publicTeam": true,
+  "trusted": true,
   "gen": {
     "logo": "logo.svg",
-    "score": 43
+    "score": 100
   }
 }

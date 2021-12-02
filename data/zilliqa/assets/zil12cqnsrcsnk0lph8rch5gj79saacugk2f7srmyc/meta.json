@@ -1,0 +1,14 @@
+{
+  "name": "ZERROMUZIQUE",
+  "symbol": "ZRO",
+  "links": {
+    "twitter": "https://twitter.com/jaronchris"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

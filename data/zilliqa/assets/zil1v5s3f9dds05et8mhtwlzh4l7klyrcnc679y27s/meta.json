@@ -1,0 +1,14 @@
+{
+  "name": "Pillar Token",
+  "symbol": "PIL",
+  "web": "https://pillarprotocol.com/",
+  "decimals": 6,
+  "links": {
+    "telegram": "https://t.me/PillarProtocol",
+    "website": "https://app.pillarprotocol.com/"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "ZilAds",
+  "symbol": "ADS",
+  "web": "https://zilads.github.io",
+  "decimals": "6",
+  "supply": "10000000",
+  "email": "zilliqaads@gmail.com",
+  "whitepaper": "https://github.com/ZilAds/resources/raw/main/whitepaper.pdf",
+  "links": {
+    "telegram": "https://t.me/ziladssupport",
+    "twitter": "https://twitter.com/ZilAds",
+    "github": "https://github.com/ZilAds",
+    "linkedin": "https://www.linkedin.com/company/zilliqa-ad-network"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 33
+  }
+}
