@@ -5,11 +5,9 @@
   "supply": "1725000",
   "email": "info@thezame.app",
   "whitepaper": "https://thezame.app/wp-content/uploads/2021/12/ZAME-Coin-Whitepaper.pdf",
-  "publicTeam": true,
   "links": {
     "telegram": "https://t.me/zametoken",
     "twitter": "https://twitter.com/thezameapp",
-    "linkedin": "https://www.linkedin.com/in/saayanchoudhury/",
     "github": "https://github.com/saayan/zame"
   },
   "gen": {
