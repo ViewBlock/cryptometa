@@ -11,6 +11,7 @@
     "github": "https://github.com/saayan/zame"
   },
   "gen": {
-    "logo": "logo.png"
+    "logo": "logo.png",
+    "score": 29
   }
 }
