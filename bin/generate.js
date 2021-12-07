@@ -109,9 +109,9 @@ const updateMeta = async (path, { skipScore } = {}) => {
   return out
 }
 
-const getFilters = async () => {
-  const arg = process.argv[2]
+const arg = process.argv[2]
 
+const getFilters = async () => {
   if (!arg) {
     const res = await exec('git diff --name-only HEAD HEAD~1')
 
@@ -203,11 +203,13 @@ const main = async () => {
         }
 
         const meta = await updateMeta(join(path, `assets/${hash}`))
+
+        const progress = arg
+          ? ` ${i}/${assetsLength} (${((i / assetsLength) * 100).toFixed(2)}%)`
+          : ''
+
         console.log(
-          `[${chain}:${meta.symbol || meta.name || hash}] ${i}/${assetsLength} (${(
-            (i / assetsLength) *
-            100
-          ).toFixed(2)}%)`,
+          `[${chain}:${meta.symbol || meta.name || hash}]${progress} [${meta.gen.score}/100 ⭐]`,
         )
 
         if (meta.aliases && meta.aliases.length) {
