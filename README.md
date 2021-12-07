@@ -38,7 +38,7 @@ If the image has a dark alternative, that's what you will get otherwise it will 
 | whitepaper          | `String` | `false`    | 10      | Whitepaper. Not 3 paragraphs you put in a PDF just for that purpose |
 | holders             | `Bool`   | `false`    | 10      | Only specify if more than 1000 holders without airdrops   |
 | publicTeam          | `Bool`   | `false`    | 20      | Teams members with public verifiable profiles with history (preferably more than 1 one Linkedin) |
-| product             | `Bool`   | `false`    | 30      | Usable product on mainnet with decent activity and users + clear token utility |
+| product             | `Bool`   | `false`    | 30      | Usable product on mainnet with decent activity/users + clear token utility + token activity |
 | links.research      | `String` | `false`    | 10      | Either binance research, TokenData or the like            |
 | links.github        | `String` | `false`    | 10      | Org or account **with repos related to the project**, not an empty one with just the cryptometa fork for example |
 | links.linkedin      | `String` | `false`    | 10      | Should have 1 or 2 members public on the page             |
