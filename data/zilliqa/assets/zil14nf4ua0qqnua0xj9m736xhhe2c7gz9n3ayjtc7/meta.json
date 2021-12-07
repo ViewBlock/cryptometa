@@ -12,6 +12,12 @@
   "publicTeam": true,
   "product": true,
   "gen": {
-    "logo": "logo.png"
+    "logo": "logo.png",
+    "score": 52
+  },
+  "config": {
+    "scoreSkip": [
+      "product"
+    ]
   }
 }
