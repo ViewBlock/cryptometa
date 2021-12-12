@@ -1,0 +1,10 @@
+{
+  "name": "Dauntless",
+  "symbol": "DAUNT",
+  "links": {
+    "twitter": "https://twitter.com/thedauntedone"
+  },
+  "gen": {
+    "logo": "logo.png"
+  }
+}
