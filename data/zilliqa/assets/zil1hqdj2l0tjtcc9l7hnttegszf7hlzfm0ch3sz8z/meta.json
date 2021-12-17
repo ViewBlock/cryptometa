@@ -8,6 +8,7 @@
     "dark": false
   },
   "gen": {
-    "logo": "logo.png"
+    "logo": "logo.png",
+    "score": 5
   }
 }
