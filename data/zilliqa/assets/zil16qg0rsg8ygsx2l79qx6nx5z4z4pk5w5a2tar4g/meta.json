@@ -4,7 +4,12 @@
   "links": {
     "twitter": "https://twitter.com/crazysoulart"
   },
+  "config": {
+    "dark": true
+  },
   "gen": {
-    "logo": "logo.png"
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 5
   }
 }
