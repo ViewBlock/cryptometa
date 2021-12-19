@@ -7,5 +7,9 @@
     "github": "aavegotchi",
     "coingecko": "matic-aave-usdc",
     "twitter": "aavegotchi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
   }
 }

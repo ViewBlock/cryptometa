@@ -132,7 +132,7 @@ const getFilters = async () => {
   }
 
   if (arg === 'all') {
-    return {}
+    return null
   }
 
   const splits = arg.split('/')
@@ -152,21 +152,22 @@ const main = async () => {
   const full = merge(await loadFull(), {
     _symbols: {},
     _chains: {},
-    _remap: {
-      bsc: 'binance',
-      huobi: 'ethereum.0x6f259637dcd74c767781e37bc6133cd6a68aa161',
-      chiliz: 'ethereum.0x3506424f91fd33084466f402d5d97f05f8e3b4af',
-      polygon: 'ethereum.0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0',
-      waves: 'ethereum.0x1cf4592ebffd730c7dc92c1bdffdfc3b9efcf29a',
-
-      RUNE: 'thorchain',
-      'THOR.RUNE': 'thorchain',
-      // 'binance.ETH-1C9': 'ethereum',
-    },
   })
 
+  full._remap = {
+    bsc: 'binance',
+    huobi: 'ethereum.0x6f259637dcd74c767781e37bc6133cd6a68aa161',
+    chiliz: 'ethereum.0x3506424f91fd33084466f402d5d97f05f8e3b4af',
+    // polygon: 'ethereum.0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0',
+    waves: 'ethereum.0x1cf4592ebffd730c7dc92c1bdffdfc3b9efcf29a',
+
+    RUNE: 'thorchain',
+    'THOR.RUNE': 'thorchain',
+    // 'binance.ETH-1C9': 'ethereum',
+  }
+
   for (const chain of chains) {
-    if (full._remap[chain] || !filters[chain]) {
+    if (filters !== null && (full._remap[chain] || !filters[chain])) {
       continue
     }
 
