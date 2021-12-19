@@ -1,0 +1,13 @@
+{
+  "name": "Everyday Art",
+  "symbol": "EA",
+  "links": {
+    "twitter": "https://twitter.com/EverydayArt23"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png"
+  }
+}
