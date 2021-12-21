@@ -1,0 +1,13 @@
+{
+  "name": "Ad infinitum",
+  "symbol": "DrBbuzz",
+  "links": {
+    "twitter": "https://twitter.com/Drbbuzz"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png"
+  }
+}
