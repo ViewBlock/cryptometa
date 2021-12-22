@@ -7,8 +7,6 @@
     "telegram": "https://t.me/heroesoflowhelm"
   },
   "gen": {
-    "logo": "logo.png",
-    "hasDark": true,
-    "darkExt": "png"
+    "logo": "logo.png"
   }
 }
