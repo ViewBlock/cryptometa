@@ -1,0 +1,16 @@
+{
+  "name": "Candle",
+  "symbol": "CNDL",
+  "web": "https://www.candlelabs.org",
+  "explorer": "https://explorer.candlelabs.org",
+  "links": {
+    "github": "candleplatforms",
+    "coingecko": "candle",
+    "twitter": "candle_labs",
+    "reddit": "r/cndl"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true
+  }
+}
