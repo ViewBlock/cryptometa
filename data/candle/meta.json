@@ -2,11 +2,14 @@
   "name": "Candle",
   "symbol": "CNDL",
   "web": "https://www.candlelabs.org",
+  "email": "contact@xcadnetwork.com",
+  "supply": "100000000000",
   "explorer": "https://explorer.candlelabs.org",
+  "publicTeam": true,
+  "trusted": true,
   "links": {
     "github": "candleplatforms",
-    "coingecko": "candle",
-    "twitter": "candle_labs",
+    "twitter": "Candle_Labs",
     "reddit": "r/cndl"
   },
   "gen": {
