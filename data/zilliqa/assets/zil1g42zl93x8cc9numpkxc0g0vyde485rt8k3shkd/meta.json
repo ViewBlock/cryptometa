@@ -7,13 +7,13 @@
   "links": {
     "telegram": "https://t.me/GaymerChannel",
     "twitter": "https://twitter.com/GaymerToken",
-     "github": "https://github.com/Gaymerchain",
+    "github": "https://github.com/Gaymerchain",
     "instagram": "https://www.instagram.com/gaymer_token",
     "blog": "https://gaymerchain.medium.com"
   },
   "description": "Gaymer (GAYMER) is the Community Token decentralized trading protocol",
   "gen": {
     "logo": "logo.png",
-    "score": 5
+    "score": 14
   }
 }
