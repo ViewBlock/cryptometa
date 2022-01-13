@@ -12,5 +12,9 @@
     "discord": "http://discord.gg/QKU2jFdht8",
     "coinmarketcap": "https://coinmarketcap.com/currencies/brokoli-network/",
     "coingecko": "https://www.coingecko.com/en/coins/brokoli"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 43
   }
 }
