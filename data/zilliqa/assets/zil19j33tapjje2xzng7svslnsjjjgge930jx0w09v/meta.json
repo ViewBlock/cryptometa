@@ -1,5 +1,5 @@
 {
-  "name": "Zilliqa-bridged ETH",
+  "name": "zETH",
   "symbol": "zETH",
   "web": "https://ethereum.org",
   "links": {
@@ -14,6 +14,7 @@
   "gen": {
     "logo": "logo.svg",
     "hasDark": true,
+    "darkExt": "svg",
     "score": 100
   }
 }

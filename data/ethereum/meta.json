@@ -3,6 +3,7 @@
   "symbol": "ETH",
   "web": "https://ethereum.org",
   "explorer": "https://etherscan.io",
+  "trusted": true,
   "links": {
     "github": "ethereum",
     "coingecko": "ethereum",
@@ -12,6 +13,7 @@
   },
   "gen": {
     "logo": "logo.svg",
+    "darkExt": "svg",
     "hasDark": true
   }
 }
