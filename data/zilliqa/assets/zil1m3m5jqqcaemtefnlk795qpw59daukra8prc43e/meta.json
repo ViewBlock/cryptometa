@@ -1,0 +1,20 @@
+{
+    "name": "Huny Token",
+    "symbol": "HUNY",
+    "web": "https://thebear.market/",
+    "description": "",
+    "decimals": 12,
+    "links": {
+      "twitter": "https://twitter.com/bearmarketnft",
+      "discord": "https://discord.gg/zilswap",
+      "github": "https://github.com/switcheo",
+      "linkedin": "https://www.linkedin.com/company/switcheonetwork",
+    },
+    "holders": true,
+    "product": true,
+    "publicTeam": true,
+    "gen": {
+      "logo": "logo.svg",
+      "score": 10
+    }
+}
