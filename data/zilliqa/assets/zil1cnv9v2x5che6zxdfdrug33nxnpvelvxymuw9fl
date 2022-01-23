@@ -1,0 +1,17 @@
+{
+  "name": "Daymaxchain",
+  "symbol": "DYX",
+  "decimals": "4",
+  "supply": "780000000",
+  "email": "Daymaxchain@gmail.com",
+  "explorer": "https://viewblock.io/zilliqa/address/zil1cnv9v2x5che6zxdfdrug33nxnpvelvxymuw9fl",
+  "links": {
+    "telegram": "https://t.me/DAYMAXCHANNEL",
+    "twitter": "https://twitter.com/DAYMAXCHAIN"
+  },
+  "description": "Daymaxchain (DYX) is a connected Blockchain community for merchants sellers and buyers",
+  "gen": {
+    "logo": "logo.png",
+    "score":
+  }
+}
