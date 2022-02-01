@@ -1,16 +1,15 @@
 {
-  "name": "Daymaxchain",
-  "symbol": "DYX",
-  "whitepaper": "https://drive.google.com/file/d/1y0KsqRNsw648zEPT9uPgGllO6k_Z3btn/view?usp=sharing",
-  "explorer": "https://viewblock.io/zilliqa/address/zil1cnv9v2x5che6zxdfdrug33nxnpvelvxymuw9fl",
-  "links": {
-    "telegram": "https://t.me/DAYMAXCHANNEL",
-    "github": "https://github.com/Daymaxchain",
-    "medium": "https://daymaxchain.medium.com",
-    "twitter": "https://twitter.com/DAYMAXCHAIN"
-  },
-   "gen": {
-    "logo": "logo.png",
-    "score":
-  }
+	"name": "Daymaxchain",
+	"symbol": "DYX",
+	"whitepaper": "https://drive.google.com/file/d/1y0KsqRNsw648zEPT9uPgGllO6k_Z3btn/view?usp=sharing",
+	"explorer": "https://viewblock.io/zilliqa/address/zil1cnv9v2x5che6zxdfdrug33nxnpvelvxymuw9fl",
+	"links": {
+		"telegram": "https://t.me/DAYMAXCHANNEL",
+		"github": "https://github.com/Daymaxchain",
+		"medium": "https://daymaxchain.medium.com",
+		"twitter": "https://twitter.com/DAYMAXCHAIN"
+	},
+	"gen": {
+		"logo": "logo.png"
+	}
 }
