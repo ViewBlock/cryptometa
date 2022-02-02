@@ -1,0 +1,19 @@
+{
+  "name": "ViewBlock",
+  "description": "Blockchain agnostic explorer",
+  "web": "https://viewblock.io",
+  "categories": [
+    "tools"
+  ],
+  "addresses": [],
+  "links": {
+    "github": "Ashlar",
+    "twitter": "view_block"
+  },
+  "developers": [],
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg"
+  }
+}

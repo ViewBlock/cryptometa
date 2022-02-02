@@ -1,0 +1,15 @@
+{
+  "name": "Ledger",
+  "description": "A hardware crypto wallet that supports the storing of ZIL.",
+  "web": "https://www.ledger.com",
+  "links": {
+    "twitter": "https://twitter.com/Ledger"
+  },
+  "categories": [
+    "wallet",
+    "staking"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

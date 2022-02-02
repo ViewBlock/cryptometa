@@ -1,0 +1,14 @@
+{
+  "name": "Color Craze",
+  "description": "How fast can you match the color to its name? Take up the challenge and see your capability.",
+  "web": "https://esports.win4.fun/g/color-craze",
+  "addresses": [
+    "0x529f61d5f87546bd6c597c17e85c23f52c9c87cc"
+  ],
+  "categories": [
+    "game"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  }
+}

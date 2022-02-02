@@ -1,0 +1,14 @@
+{
+  "name": "Jelly Squish",
+  "description": "You will love our colorful jellies and connect them as much as possible - whether they are three in a row or diagonally. Have fun with them!",
+  "web": "https://esports.win4.fun/g/jelly-squish",
+  "addresses": [
+    "0x867c18ba3b7019fd052a0d8a7a8d9407b7610a8b"
+  ],
+  "categories": [
+    "game"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  }
+}

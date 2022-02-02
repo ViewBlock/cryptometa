@@ -1,0 +1,14 @@
+{
+  "name": "TT-Baccarat",
+  "description": "Classic online Punto Banco dealt from 8 deck shoe which is reshuffled on each draw.",
+  "web": "https://scgames.io/baccarat",
+  "addresses": [
+    "0xDa3ca5Ea8F5eAA7c9D8e89819Fb19602F20d0F95"
+  ],
+  "categories": [
+    "gambling"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  }
+}

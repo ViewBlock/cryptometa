@@ -175,6 +175,16 @@ const main = async () => {
     const files = await readdir(path)
 
     const meta = await updateMeta(path, { skipScore: true })
+
+    if (files.includes('labels.json')) {
+      meta.labels = require(join(path, 'labels.json'))
+    }
+
+    if (files.includes('ecosystem')) {
+      const projs = await readdir(join(path, 'ecosystem'))
+      meta.ecosystem = projs.map(proj => require(join(path, 'ecosystem', proj, 'meta.json')))
+    }
+
     full[chain] = { ...meta, config: undefined }
 
     full._chains[chain] = meta.symbol

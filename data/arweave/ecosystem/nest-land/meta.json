@@ -1,0 +1,22 @@
+{
+  "name": "Nest.land",
+  "description": "A module registry for Deno, on the blockweave",
+  "web": "http://nest.land",
+  "categories": [
+    "tools"
+  ],
+  "addresses": [],
+  "links": {
+    "github": "nestdotland"
+  },
+  "developers": [
+    {
+      "name": "Tate Berenbaum",
+      "github": "t8",
+      "twitter": "TateBerenbaum"
+    }
+  ],
+  "gen": {
+    "logo": "logo.jpeg"
+  }
+}

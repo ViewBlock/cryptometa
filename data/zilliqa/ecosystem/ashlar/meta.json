@@ -1,0 +1,13 @@
+{
+  "name": "Ashlar",
+  "description": "Builders of Viewblock, which powers Zilliqa's blockchain explorer.",
+  "web": "https://ashlar.io",
+  "links": {},
+  "categories": [
+    "tools",
+    "api"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  }
+}

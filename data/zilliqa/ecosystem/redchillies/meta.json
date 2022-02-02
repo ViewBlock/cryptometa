@@ -1,0 +1,15 @@
+{
+  "name": "RedChillies",
+  "description": "Fuels the gaming platform on Zilliqa's blockchain. It is used for smart contracts on web based games and hosting real game events for betting.",
+  "web": "https://redchillieszil.com",
+  "links": {
+    "twitter": "https://twitter.com/_redchillies?lang=en",
+    "telegram": "https://t.me/redchilliesRedC"
+  },
+  "categories": [
+    "gaming",
+    "prediction",
+    "dapp"
+  ],
+  "gen": {}
+}

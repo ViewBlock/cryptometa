@@ -1,0 +1,14 @@
+{
+  "name": "Valkyrie",
+  "description": "A specialized alternative asset management firm at the intersection of traditional finance and the emerging cryptocurrency sector.",
+  "web": "https://valkyrieinvest.com",
+  "links": {
+    "twitter": "https://twitter.com/ValkyrieFunds"
+  },
+  "categories": [
+    "fund"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  }
+}

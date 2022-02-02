@@ -1,0 +1,18 @@
+{
+  "name": "Serious Dice",
+  "description": "Dice Game with 0.75% House Edge and an Opportunity to invest on the bankroll Chat, Play, Win Jackpot, Repeat!",
+  "web": "https://playdice.xyz/dice",
+  "addresses": [
+    "0xb7d82e5B73e01bB4c1cFB1448f1215bf165929a2",
+    "0xb8a7abe896bceede8f8be2866767202d307febfd",
+    "0x62839205805a96F8b4122d4eCD028999E79FBd27",
+    "0x6E8ea5Ef82A3B44C3a0997Dd548f0646042174A9",
+    "0x137222ff76855e3804d7c2b345b2fb1d9d7591ef"
+  ],
+  "categories": [
+    "gambling"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  }
+}

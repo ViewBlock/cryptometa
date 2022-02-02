@@ -1,0 +1,15 @@
+{
+  "name": "ThunderPunks",
+  "description": "The Cryptopunks NFT of Thundercore",
+  "web": "https://thunderpunks.com",
+  "addresses": [
+    "0x8E75D5c19cE337996A960Fb8F3b8506c831C2502",
+    "0x20fa950ee39c62fe18d2e1b865522548a1e029a8"
+  ],
+  "categories": [
+    "nft"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  }
+}

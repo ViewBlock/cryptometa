@@ -1,0 +1,31 @@
+{
+  "name": "ArWiki",
+  "description": "The decentralized wiki for Arweave documentation",
+  "web": "https://arwiki.wiki",
+  "categories": [
+    "education"
+  ],
+  "addresses": [],
+  "links": {
+    "github": "luckyr13/arwiki"
+  },
+  "developers": [
+    {
+      "name": "luckyr13",
+      "github": "luckyr13"
+    },
+    {
+      "name": "Jean-François",
+      "github": "jfbeats",
+      "twitter": "JF_Beats"
+    },
+    {
+      "name": "Sam Williams",
+      "github": "samcamwilliams",
+      "twitter": "samecwilliams"
+    }
+  ],
+  "gen": {
+    "logo": "logo.png"
+  }
+}

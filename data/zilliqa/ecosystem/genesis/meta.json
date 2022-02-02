@@ -1,0 +1,12 @@
+{
+  "name": "Genesis",
+  "description": false,
+  "web": "https://genesis.vision",
+  "links": {},
+  "categories": [
+    "tools"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

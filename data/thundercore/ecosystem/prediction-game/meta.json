@@ -1,0 +1,14 @@
+{
+  "name": "Prediction Game",
+  "description": "Let's predict the price of BTC together.",
+  "web": "https://prediction.diceplanet.xyz",
+  "addresses": [
+    "0x145519E824dB58F63D9DB2490F8e3C524996Eec0"
+  ],
+  "categories": [
+    "defi"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  }
+}

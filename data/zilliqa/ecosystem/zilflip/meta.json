@@ -1,0 +1,12 @@
+{
+  "name": "zilFlip",
+  "description": "Fantasy themed dividend games running on the Zilliqa blockchain.",
+  "web": "https://zilflip.com",
+  "links": {
+    "twitter": "https://twitter.com/ZilFlip"
+  },
+  "categories": [
+    "gaming"
+  ],
+  "gen": {}
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Oolong Finance",
+  "description": "Oolong is the best \"Dual Investment\" decentralized financial protocols on Thundercore.",
+  "web": "https://oolong.fi",
+  "addresses": [
+    "0x5E074fde1452F68FB30b314E10a0690BCDbB70DB",
+    "0x59dc7410f3895e9de0b6960b1f02dd345c2be742",
+    "0xaa3a154afe1d2e4265104d7fee2ed043c5a4dca8",
+    "0x47fe33d321EEF4719FdFf38EA72B1dFC7f0cdf10"
+  ],
+  "categories": [
+    "defi"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  }
+}

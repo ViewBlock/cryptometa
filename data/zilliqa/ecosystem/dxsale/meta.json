@@ -1,0 +1,14 @@
+{
+  "name": "DxSALE",
+  "description": "A tool which helps users with no coding experience mint and launch their tokens in minutes.",
+  "web": "https://dxsale.network",
+  "links": {
+    "twitter": "https://twitter.com/dxsale"
+  },
+  "categories": [
+    "tools"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

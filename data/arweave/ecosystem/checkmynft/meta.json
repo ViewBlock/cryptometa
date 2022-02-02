@@ -1,0 +1,27 @@
+{
+  "name": "CheckMyNFT",
+  "description": "NFT asset permanence checker",
+  "web": "https://checkmynft.com",
+  "categories": [
+    "nft"
+  ],
+  "addresses": [],
+  "links": {
+    "github": "theweaver19/checkmynft"
+  },
+  "developers": [
+    {
+      "name": "theweaver19",
+      "github": "theweaver19",
+      "twitter": "theweaver19"
+    },
+    {
+      "name": "Tim Coleman",
+      "github": "timhc22",
+      "twitter": "unegma"
+    }
+  ],
+  "gen": {
+    "logo": "logo.png"
+  }
+}

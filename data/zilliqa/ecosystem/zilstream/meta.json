@@ -1,0 +1,15 @@
+{
+  "name": "ZILStream",
+  "description": "ZILStream provides data for ZRC-2 ecosystem tokens and your ZRC-2 portfolio.",
+  "web": "https://zilstream.com",
+  "links": {
+    "twitter": "https://twitter.com/zilstream"
+  },
+  "categories": [
+    "dapp",
+    "tools"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  }
+}

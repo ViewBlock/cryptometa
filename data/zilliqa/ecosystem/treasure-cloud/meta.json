@@ -1,0 +1,14 @@
+{
+  "name": "Treasure Cloud",
+  "description": "A cloud storage provider offering privacy and security-based solutions.",
+  "web": "https://treasure.cloud",
+  "links": {
+    "twitter": "https://twitter.com/treasurestorage"
+  },
+  "categories": [
+    "custody"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

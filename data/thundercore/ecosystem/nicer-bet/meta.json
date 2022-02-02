@@ -1,0 +1,17 @@
+{
+  "name": "NICER.BET",
+  "description": "The best casino on ThunderCore network with exciting games, progressive mining, daily dividends and an inbuilt token exchange.",
+  "web": "https://nicer.bet",
+  "addresses": [
+    "0x67b134d2711703e89f56f367e9d39263bec0047f",
+    "0x0c486ff2d9c3032fa3fd63ae9ca7124d932e34a1",
+    "0x1f489e0282cfa883a4224c91309bc4d4c062ed93"
+  ],
+  "categories": [
+    "defi",
+    "gambling"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Argora",
+  "description": "On-chain social network.",
+  "web": "https://argora.xyz",
+  "categories": [
+    "social"
+  ],
+  "addresses": [],
+  "links": {
+    "github": "ArgoraTeam"
+  },
+  "developers": [
+    {
+      "name": "Axel",
+      "github": "bidetaggle",
+      "twitter": "bidetaggle"
+    }
+  ],
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true
+  }
+}

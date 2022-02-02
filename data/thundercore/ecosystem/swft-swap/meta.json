@@ -1,0 +1,14 @@
+{
+  "name": "SWFT SWAP",
+  "description": "Simple and safe cross-chain exchange",
+  "web": "https://swap.swft.pro/view/widget-client/index.html#",
+  "addresses": [
+    "0x0bb217E40F8a5Cb79Adf04E1aAb60E5abd0dfC1e"
+  ],
+  "categories": [
+    "others"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  }
+}

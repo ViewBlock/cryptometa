@@ -1,0 +1,42 @@
+{
+  "name": "KYVE",
+  "description": "Enabling limitless scalability for Web3.",
+  "web": "https://www.kyve.network",
+  "categories": [
+    "data"
+  ],
+  "addresses": [
+    "XccGSbNtxx4TZcQjyon4C6BlVV3sa9a4y5NToLdLthg",
+    "gRq5pU5YMFRCqa0cfbZCRn3RyI9PvXzTYkAlXeK4Fx4",
+    "3dX8Cnz3N64nKt2EKmWpKL1EbErFP3RFjxSDyQHQrkI",
+    "EdWyxXgUiPVZCtTWpxZ8qeWjVCd2t4stVcNS7wR38z8",
+    "lSHZN9pJ4beo5PWkkzNQzLvwOAqKfhou3QpDMvW9wnc",
+    "25FrqEFWhO19W3vAFJIMEtMQ46XaEfoJMxPCwxzjwCw",
+    "PQzaWEgPvLEolYRmGnWY3CQ319ZSjGVcppLqIkNamhs"
+  ],
+  "links": {
+    "twitter": "kyvenetwork",
+    "discord": "invite/kyve",
+    "telegram": "kyvenet"
+  },
+  "developers": [
+    {
+      "name": "John Letey",
+      "github": "johnletey",
+      "twitter": "johnletey"
+    },
+    {
+      "name": "Fabian Riewe",
+      "github": "fabianriewe",
+      "twitter": "RieweFabian"
+    },
+    {
+      "name": "Emanuel Ferm",
+      "github": "eferm",
+      "twitter": "eeferm"
+    }
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Upbit",
+  "description": "A South Korean cryptocurrency exchange that allows for trading of various altcoins and Bitcoin.",
+  "web": "upbit.com/home",
+  "links": {
+    "twitter": "https://twitter.com/upbitglobal"
+  },
+  "categories": [
+    "exchange"
+  ],
+  "gen": {}
+}

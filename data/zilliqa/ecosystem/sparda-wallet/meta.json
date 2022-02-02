@@ -1,0 +1,14 @@
+{
+  "name": "Sparda Wallet",
+  "description": "An all-in-one NFT wallet and marketplace on the Zilliqa blockchain.",
+  "web": "https://spardawallet.com",
+  "links": {
+    "twitter": "https://twitter.com/SpardaWallet"
+  },
+  "categories": [
+    "nft",
+    "wallet",
+    "dapp"
+  ],
+  "gen": {}
+}

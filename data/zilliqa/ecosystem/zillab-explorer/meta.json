@@ -1,0 +1,10 @@
+{
+  "name": "ZilLab Explorer",
+  "description": "ZilLab Explorer is a Blockchain Explorer and Analytics Platform for Zilliqa.",
+  "web": "https://zillab.com",
+  "links": {},
+  "categories": [
+    "explorer"
+  ],
+  "gen": {}
+}

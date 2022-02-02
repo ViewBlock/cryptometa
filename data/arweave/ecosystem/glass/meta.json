@@ -1,0 +1,19 @@
+{
+  "name": "Glass Protocol",
+  "description": "Video owned by the people, not the platform",
+  "web": "https://glass.xyz",
+  "categories": [
+    "entertainment"
+  ],
+  "addresses": [],
+  "links": {},
+  "developers": [
+    {
+      "name": "Sam Sends",
+      "twitter": "sam_sends"
+    }
+  ],
+  "gen": {
+    "logo": "logo.png"
+  }
+}

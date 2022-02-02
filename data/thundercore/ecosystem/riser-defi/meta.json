@@ -1,0 +1,18 @@
+{
+  "name": "RISER DeFi",
+  "description": "RISER is a DeFi token aimed to power a multifaceted ThunderCore dapp ecosystem. Stake your TT and start mining RISER tokens now.",
+  "web": "https://riserdefi.com",
+  "addresses": [
+    "0x18c9b524966ad8b2c999f79ce8ca3a7549f9da5a",
+    "0x830bccf8c939b124c569615cc82e32a3beeeda74",
+    "0xc1e7000f379f2247ae930ba98d5568cd9d0b924b",
+    "0xb9eefb0de0f8b5e2060206f31481d1821f58d22a",
+    "0xf148546b36a26d4201fede8187133c345d531801"
+  ],
+  "categories": [
+    "defi"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  }
+}

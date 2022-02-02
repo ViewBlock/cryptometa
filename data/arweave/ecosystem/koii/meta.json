@@ -1,0 +1,22 @@
+{
+  "name": "Koii",
+  "description": "Koii uses Atomic NFTs to build an internet you can truly own",
+  "web": "https://koii.network",
+  "categories": [
+    "nft"
+  ],
+  "addresses": [],
+  "links": {
+    "github": "koii-network"
+  },
+  "developers": [
+    {
+      "name": "Al Morris",
+      "github": "alexander-morris",
+      "twitter": "al_koii"
+    }
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

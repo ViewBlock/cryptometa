@@ -1,0 +1,17 @@
+{
+  "name": "Pele Network",
+  "description": "A decentralised media ecosystem aimed at taking the power back for creators.",
+  "web": "https://pele.network",
+  "links": {
+    "twitter": "https://twitter.com/PELENetwork",
+    "telegram": "https://t.me/PELENetwork"
+  },
+  "categories": [
+    "nft",
+    "metaverse",
+    "dapp"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  }
+}

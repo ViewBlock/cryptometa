@@ -1,0 +1,14 @@
+{
+  "name": "Brain Warp",
+  "description": "Even or odd? Consonant or vowel? Keep your cool and win.",
+  "web": "https://esports.win4.fun/g/brain-warp",
+  "addresses": [
+    "0x3f64ef43c1f22604df88a71852bd0ec12dc752c2"
+  ],
+  "categories": [
+    "game"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  }
+}

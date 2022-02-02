@@ -1,0 +1,14 @@
+{
+  "name": "Galaxy Blocks",
+  "description": "In a galaxy far, far away, there are blocks waiting for you to break.",
+  "web": "https://esports.win4.fun/g/space-tetris",
+  "addresses": [
+    "0x18262e8187839d40fa3970697b69fc8dfc99855f"
+  ],
+  "categories": [
+    "game"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  }
+}

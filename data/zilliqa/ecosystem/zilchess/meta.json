@@ -1,0 +1,12 @@
+{
+  "name": "ZilChess",
+  "description": "A decentralised chess platform running on the Zilliqa blockchain.",
+  "web": "https://www.zilchess.com",
+  "links": {
+    "twitter": "https://twitter.com/zilchess"
+  },
+  "categories": [
+    "gaming"
+  ],
+  "gen": {}
+}

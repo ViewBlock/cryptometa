@@ -1,0 +1,19 @@
+{
+  "name": "Punchline X",
+  "description": "Take Over, Hold, Score, Win. Grab the top prize every Sunday.",
+  "web": "https://game.punchlinex.com",
+  "addresses": [
+    "0x84ab5e9d0cb2072de1fcb8d8dba78f8d5ab3305a",
+    "0xebb5f1e0a556789599974ea734ee9cd006c03f1a",
+    "0x80d73f0b64338c7a8c92d2bd47bb1f02bf1f1f48",
+    "0x6b90b4076a5b77b83a33b9f30729eea74c36c6f8",
+    "0x138cbfecf443a0d217f1e09c87fa9df466e354fb",
+    "0x26cbc5fcebaf0d7541be579a36063b6b44d38c6c"
+  ],
+  "categories": [
+    "game"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  }
+}

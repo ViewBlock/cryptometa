@@ -1,0 +1,14 @@
+{
+  "name": "TT Flip",
+  "description": "Fully decentralized classic coin flip game.",
+  "web": "https://ttflip.com",
+  "addresses": [
+    "0x614AB48AAec07029d83A769539a40A3a0eDd25c1"
+  ],
+  "categories": [
+    "gambling"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  }
+}

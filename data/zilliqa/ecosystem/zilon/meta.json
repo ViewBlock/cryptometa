@@ -1,0 +1,12 @@
+{
+  "name": "Zilon",
+  "description": "A payment service that allows merchants and users to accept ZIL as a payment.",
+  "web": "https://www.zilon.io",
+  "links": {
+    "twitter": "https://twitter.com/Zilonofficial"
+  },
+  "categories": [
+    "payment"
+  ],
+  "gen": {}
+}

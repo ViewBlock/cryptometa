@@ -1,0 +1,27 @@
+{
+  "name": "Sarcophagus",
+  "description": "A decentralized dead man's switch application built on Ethereum and Arweave",
+  "web": "http://sarcophagus.io",
+  "categories": [
+    "storage",
+    "security"
+  ],
+  "addresses": [],
+  "links": {
+    "github": "sarcophagus-org"
+  },
+  "developers": [
+    {
+      "name": "Jonny Ringo",
+      "twitter": "JonnyRingo711"
+    },
+    {
+      "name": "Adam Gall",
+      "github": "adamgall",
+      "twitter": "trainface"
+    }
+  ],
+  "gen": {
+    "logo": "logo.png"
+  }
+}

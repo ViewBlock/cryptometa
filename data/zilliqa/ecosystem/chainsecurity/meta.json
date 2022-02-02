@@ -1,0 +1,14 @@
+{
+  "name": "ChainSecurity",
+  "description": "A blockchain security and audit expert that helps its clients secure their complex systems.",
+  "web": "https://chainsecurity.com",
+  "links": {
+    "twitter": "https://twitter.com/chain_security?lang=en"
+  },
+  "categories": [
+    "tools"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  }
+}
