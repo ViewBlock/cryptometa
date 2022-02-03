@@ -5,12 +5,10 @@
   "categories": [
     "tools"
   ],
-  "addresses": [],
   "links": {
     "github": "Ashlar",
     "twitter": "view_block"
   },
-  "developers": [],
   "gen": {
     "logo": "logo.svg",
     "hasDark": true,

@@ -125,21 +125,35 @@ const getFilters = async () => {
           acc[splits[1]] = {}
         }
 
-        acc[splits[1]][splits[3]] = 1
+        if (splits[2] === 'ecosystem') {
+          acc[splits[1]].ecosystem = true
+          return acc
+        }
+
+        if (splits[2] === 'labels.json') {
+          acc[splits[1]].labels = true
+          return acc
+        }
+
+        if (!splits[3]) {
+          acc[splits[1]].main = true
+        } else {
+          acc[splits[1]][splits[3]] = 1
+          acc[splits[1]].assets = true
+        }
 
         return acc
       }, {})
   }
 
-  if (arg === 'all') {
-    return null
-  }
+  if (arg === 'all') return null
 
-  const splits = arg.split('/')
+  const [chain, target] = arg.split('/')
 
   return {
-    [splits[0]]: {
-      [splits[1]]: 1,
+    [chain]: {
+      ...(target ? { [target]: true } : { main: true }),
+      ...(target && !['ecosystem', 'labels'].includes(target) ? { assets: true } : {}),
     },
   }
 }
@@ -148,6 +162,8 @@ const main = async () => {
   const chains = (await readdir(ROOT)).filter(d => !d.includes('.'))
 
   const filters = await getFilters()
+
+  const fullGen = !filters
 
   const full = merge(await loadFull(), {
     _symbols: {},
@@ -167,7 +183,7 @@ const main = async () => {
   }
 
   for (const chain of chains) {
-    if (filters !== null && (full._remap[chain] || !filters[chain])) {
+    if (!fullGen && (full._remap[chain] || !filters[chain])) {
       continue
     }
 
@@ -176,13 +192,22 @@ const main = async () => {
 
     const meta = await updateMeta(path, { skipScore: true })
 
-    if (files.includes('labels.json')) {
+    if (
+      (fullGen || filters[chain].main || filters[chain].labels) &&
+      files.includes('labels.json')
+    ) {
       meta.labels = require(join(path, 'labels.json'))
     }
 
-    if (files.includes('ecosystem')) {
+    if (
+      (fullGen || filters[chain].main || filters[chain].ecosystem) &&
+      files.includes('ecosystem')
+    ) {
       const projs = await readdir(join(path, 'ecosystem'))
-      meta.ecosystem = projs.map(proj => require(join(path, 'ecosystem', proj, 'meta.json')))
+      meta.ecosystem = projs.reduce((acc, key) => {
+        acc[key] = require(join(path, 'ecosystem', key, 'meta.json'))
+        return acc
+      }, {})
     }
 
     full[chain] = { ...meta, config: undefined }
@@ -192,7 +217,7 @@ const main = async () => {
 
     const allKeys = Object.keys(full)
 
-    if (files.includes('assets')) {
+    if ((fullGen || filters[chain].main || filters[chain].assets) && files.includes('assets')) {
       const assets = await readdir(join(path, 'assets'))
       const assetsLength = assets.length
       const assetKeys = assets.reduce((acc, hash) => ((acc[`${chain}.${hash}`] = true), acc), {})
