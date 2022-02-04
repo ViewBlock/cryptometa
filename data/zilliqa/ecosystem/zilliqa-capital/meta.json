@@ -9,6 +9,9 @@
     "fund"
   ],
   "gen": {
-    "logo": "logo.svg"
-  }
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg"
+  },
+  "key": "zilliqa-capital"
 }

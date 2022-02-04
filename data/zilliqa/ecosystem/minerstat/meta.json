@@ -9,5 +9,8 @@
   "categories": [
     "mining"
   ],
-  "gen": {}
+  "gen": {
+    "logo": "logo.jpg"
+  },
+  "key": "minerstat"
 }

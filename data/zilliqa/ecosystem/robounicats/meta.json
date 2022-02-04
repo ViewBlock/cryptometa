@@ -10,5 +10,8 @@
     "gaming",
     "nft"
   ],
-  "gen": {}
+  "gen": {
+    "logo": "logo.jpg"
+  },
+  "key": "robounicats"
 }

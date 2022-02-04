@@ -204,11 +204,30 @@ const main = async () => {
       files.includes('ecosystem')
     ) {
       const projs = await readdir(join(path, 'ecosystem'))
-      meta.ecosystem = projs.reduce((acc, key) => {
-        acc[key] = require(join(path, 'ecosystem', key, 'meta.json'))
-        acc[key].key = key
-        return acc
-      }, {})
+
+      meta.ecosystem = {}
+
+      for (const key of projs) {
+        const files = await readdir(join(path, `ecosystem/${key}`))
+        const mainLogo = files.find(f => f.startsWith('logo.'))
+        const white = files.find(f => f.startsWith('logo-white'))
+
+        const metaPath = join(path, 'ecosystem', key, 'meta.json')
+
+        const payload = {
+          ...require(metaPath),
+          key,
+          gen: {
+            logo: mainLogo,
+            ...(white ? { hasDark: true } : {}),
+            ...(white && !white.endsWith('png') ? { darkExt: white.split('.')[1] } : {}),
+          },
+        }
+
+        await writeFile(metaPath, JSON.stringify(payload, null, 2))
+
+        meta.ecosystem[key] = payload
+      }
     }
 
     full[chain] = { ...meta, config: undefined }

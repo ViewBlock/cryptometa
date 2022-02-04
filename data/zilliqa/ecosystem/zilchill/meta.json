@@ -2,9 +2,14 @@
   "name": "ZilChill",
   "description": "Decentralizing the Gaming Industry on Zilliqa",
   "web": "https://zilchill.com",
-  "links": {},
+  "links": {
+    "telegram": "redchilliesRedC"
+  },
   "categories": [
     "gaming"
   ],
-  "gen": {}
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "zilchill"
 }

@@ -10,6 +10,7 @@
     "api"
   ],
   "gen": {
-    "logo": "logo.png"
-  }
+    "logo": "logo.svg"
+  },
+  "key": "crypto-apis"
 }

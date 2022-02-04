@@ -10,5 +10,6 @@
     "wallet",
     "dapp"
   ],
-  "gen": {}
+  "gen": {},
+  "key": "sparda-wallet"
 }

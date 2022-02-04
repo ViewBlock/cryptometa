@@ -9,5 +9,6 @@
   ],
   "gen": {
     "logo": "logo.svg"
-  }
+  },
+  "key": "viewbase"
 }

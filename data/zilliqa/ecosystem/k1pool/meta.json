@@ -1,0 +1,15 @@
+{
+  "name": "CloPool",
+  "description": "A mining pool which enables users to mine both CLO and ZIL tokens.",
+  "web": "https://k1pool.com/pool/clo",
+  "links": {
+    "twitter": "K1Pool"
+  },
+  "categories": [
+    "mining"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "k1pool"
+}
