@@ -10,7 +10,7 @@
     "mining"
   ],
   "gen": {
-    "logo": "logo.jpg"
+    "logo": "logo.svg"
   },
   "key": "minerstat"
 }
