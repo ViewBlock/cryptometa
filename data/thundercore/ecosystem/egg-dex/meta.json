@@ -24,5 +24,6 @@
   ],
   "gen": {
     "logo": "logo.png"
-  }
+  },
+  "key": "egg-dex"
 }

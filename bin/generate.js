@@ -190,7 +190,7 @@ const main = async () => {
     const path = join(ROOT, chain)
     const files = await readdir(path)
 
-    const meta = await updateMeta(path, { skipScore: true })
+    const meta = merge(full[chain], await updateMeta(path, { skipScore: true }))
 
     if (
       (fullGen || filters[chain].main || filters[chain].labels) &&
