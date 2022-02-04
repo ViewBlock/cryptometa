@@ -18,5 +18,6 @@
   ],
   "gen": {
     "logo": "logo.svg"
-  }
+  },
+  "key": "ardrive"
 }

@@ -38,5 +38,6 @@
   ],
   "gen": {
     "logo": "logo.svg"
-  }
+  },
+  "key": "kyve"
 }
