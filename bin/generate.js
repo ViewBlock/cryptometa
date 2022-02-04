@@ -206,6 +206,7 @@ const main = async () => {
       const projs = await readdir(join(path, 'ecosystem'))
       meta.ecosystem = projs.reduce((acc, key) => {
         acc[key] = require(join(path, 'ecosystem', key, 'meta.json'))
+        acc[key].key = key
         return acc
       }, {})
     }
