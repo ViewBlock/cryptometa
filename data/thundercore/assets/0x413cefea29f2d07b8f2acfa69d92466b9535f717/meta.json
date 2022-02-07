@@ -4,7 +4,12 @@
   "symbol": "WTT",
   "web": "https://wtt.thundercore.com/",
   "decimals": 18,
+  "trusted": true,
   "links": {
     "github": "https://github.com/thundercore/wtt"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 100
   }
 }
