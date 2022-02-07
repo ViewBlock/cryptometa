@@ -1,0 +1,10 @@
+{
+  "name": "Wrapped Thunder Token",
+  "description": "TT20 wrapped Thunder Token",
+  "symbol": "WTT",
+  "web": "https://wtt.thundercore.com/",
+  "decimals": 18,
+  "links": {
+    "github": "https://github.com/thundercore/wtt"
+  }
+}
