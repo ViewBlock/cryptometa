@@ -30,5 +30,6 @@
   ],
   "gen": {
     "logo": "logo.svg"
-  }
+  },
+  "key": "redstone"
 }

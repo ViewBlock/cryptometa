@@ -10,5 +10,10 @@
   "categories": [
     "staking"
   ],
-  "gen": {}
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg"
+  },
+  "key": "staking-rewards"
 }

@@ -10,6 +10,9 @@
     "staking"
   ],
   "gen": {
-    "logo": "logo.svg"
-  }
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg"
+  },
+  "key": "ledger"
 }

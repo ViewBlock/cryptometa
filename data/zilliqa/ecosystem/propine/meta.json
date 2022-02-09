@@ -8,6 +8,8 @@
     "custody"
   ],
   "gen": {
-    "logo": "logo.png"
-  }
+    "logo": "logo.png",
+    "hasDark": true
+  },
+  "key": "propine"
 }

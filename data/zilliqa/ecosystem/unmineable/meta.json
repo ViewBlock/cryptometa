@@ -8,5 +8,8 @@
   "categories": [
     "mining"
   ],
-  "gen": {}
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "unmineable"
 }

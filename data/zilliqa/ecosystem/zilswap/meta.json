@@ -11,8 +11,12 @@
     "twitter": "ZilSwap",
     "discord": "SMzzQ2sUMN"
   },
-  "categories": [ "dex", "defi" ],
+  "categories": [
+    "dex",
+    "defi"
+  ],
   "gen": {
     "logo": "logo.svg"
-  }
+  },
+  "key": "zilswap"
 }

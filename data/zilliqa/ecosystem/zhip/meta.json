@@ -8,6 +8,9 @@
     "web3"
   ],
   "gen": {
-    "logo": "logo.svg"
-  }
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg"
+  },
+  "key": "zhip"
 }

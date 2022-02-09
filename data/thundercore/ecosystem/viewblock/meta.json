@@ -15,5 +15,6 @@
     "logo": "logo.svg",
     "hasDark": true,
     "darkExt": "svg"
-  }
+  },
+  "key": "viewblock"
 }

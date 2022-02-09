@@ -13,5 +13,6 @@
   ],
   "gen": {
     "logo": "logo.png"
-  }
+  },
+  "key": "duck"
 }

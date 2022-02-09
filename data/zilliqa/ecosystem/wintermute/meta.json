@@ -8,5 +8,8 @@
   "categories": [
     "custody"
   ],
-  "gen": {}
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "wintermute"
 }

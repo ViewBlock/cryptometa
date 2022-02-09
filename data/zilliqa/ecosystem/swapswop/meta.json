@@ -9,5 +9,8 @@
   "categories": [
     "exchange"
   ],
-  "gen": {}
+  "gen": {
+    "logo": "logo.jpg"
+  },
+  "key": "swapswop"
 }

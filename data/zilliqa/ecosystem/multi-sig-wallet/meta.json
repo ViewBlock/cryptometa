@@ -8,5 +8,6 @@
   ],
   "gen": {
     "logo": "logo.png"
-  }
+  },
+  "key": "multi-sig-wallet"
 }

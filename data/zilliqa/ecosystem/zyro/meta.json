@@ -5,9 +5,14 @@
   "links": {
     "twitter": "https://twitter.com/zyro_finance"
   },
-  "addresses": ["zil1ucvrn22x8366vzpw5t7su6eyml2auczu6wnqqg"],
-  "categories": ["defi"],
+  "addresses": [
+    "zil1ucvrn22x8366vzpw5t7su6eyml2auczu6wnqqg"
+  ],
+  "categories": [
+    "defi"
+  ],
   "gen": {
     "logo": "logo.png"
-  }
+  },
+  "key": "zyro"
 }

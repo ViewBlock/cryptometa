@@ -25,5 +25,6 @@
   ],
   "gen": {
     "logo": "logo.png"
-  }
+  },
+  "key": "ram-protocol"
 }

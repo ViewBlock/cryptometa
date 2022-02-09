@@ -1,13 +1,16 @@
 {
   "name": "Unicutes",
   "description": "A verifiable random number generated digital art collection with a limited supply of 9999.",
-  "web": null,
+  "web": "",
   "links": {
-    "twitter": "https://twitter.com/unicutes?lang=en"
+    "twitter": "https://twitter.com/unicutes"
   },
   "categories": [
     "nft",
     "dapp"
   ],
-  "gen": {}
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "unicutes"
 }

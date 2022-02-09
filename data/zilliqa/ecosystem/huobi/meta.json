@@ -7,11 +7,15 @@
     "telegram": "huobiglobalofficial",
     "youtube": "HuobiGlobal"
   },
-  "addresses": ["zil1kag6m40qj8r8zrdzv0ct0f87jcdzkggkplgzj9"],
+  "addresses": [
+    "zil1kag6m40qj8r8zrdzv0ct0f87jcdzkggkplgzj9"
+  ],
   "categories": [
     "exchange"
   ],
   "gen": {
-    "logo": "logo.png"
-  }
+    "logo": "logo.png",
+    "hasDark": true
+  },
+  "key": "huobi"
 }

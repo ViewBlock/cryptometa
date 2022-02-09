@@ -12,5 +12,6 @@
   ],
   "gen": {
     "logo": "logo.svg"
-  }
+  },
+  "key": "trust-wallet"
 }

@@ -8,5 +8,8 @@
   "categories": [
     "tools"
   ],
-  "gen": {}
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "boost-zil"
 }

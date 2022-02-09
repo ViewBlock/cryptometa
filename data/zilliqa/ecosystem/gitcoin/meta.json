@@ -10,6 +10,9 @@
     "tools"
   ],
   "gen": {
-    "logo": "logo.svg"
-  }
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg"
+  },
+  "key": "gitcoin"
 }

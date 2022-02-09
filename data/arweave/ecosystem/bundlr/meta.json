@@ -17,5 +17,6 @@
   "developers": [],
   "gen": {
     "logo": "logo.svg"
-  }
+  },
+  "key": "bundlr"
 }

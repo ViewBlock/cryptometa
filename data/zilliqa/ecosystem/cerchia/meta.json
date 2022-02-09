@@ -9,6 +9,9 @@
     "prediction"
   ],
   "gen": {
-    "logo": "logo.svg"
-  }
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg"
+  },
+  "key": "cerchia"
 }

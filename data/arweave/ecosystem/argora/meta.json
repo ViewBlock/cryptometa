@@ -17,7 +17,9 @@
     }
   ],
   "gen": {
-    "logo": "logo.png",
-    "hasDark": true
-  }
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg"
+  },
+  "key": "argora"
 }

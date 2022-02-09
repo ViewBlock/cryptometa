@@ -17,5 +17,6 @@
   ],
   "gen": {
     "logo": "logo.svg"
-  }
+  },
+  "key": "kucoin"
 }

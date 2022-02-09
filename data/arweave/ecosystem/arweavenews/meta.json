@@ -25,6 +25,7 @@
     }
   ],
   "gen": {
-    "logo": "logo.jpeg"
-  }
+    "logo": "logo.jpg"
+  },
+  "key": "arweavenews"
 }
