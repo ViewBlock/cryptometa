@@ -1,0 +1,26 @@
+{
+  "name": "Beanterra",
+  "description": "Beanels of Beanterra - Diverse and lovable creatures that roam the realm filled with lush landscapes, snow-capped mountains, and deep blue oceans.",
+  "symbol": "BEANEL",
+  "web": "https://beanterra.io",
+  "email": "hello@greenbeanz.io",
+  "whitepaper": "https://litepaper.greenbeanz.io/",
+  "product": true,
+  "publicTeam": true,
+  "links": {
+    "twitter": "https://twitter.com/BeanterraGame",
+    "discord": "https://discord.gg/beanterra",
+    "youtube": "https://www.youtube.com/channel/UCKp9341ULD3QIwn_-Ns3MyQ",
+    "medium": "https://medium.com/@beanterragame",
+    "instagram": "https://instagram.com/greenbeanzofficial"
+  },
+  "categories": [
+    "nft",
+    "gaming",
+    "dapp"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "beanterra"
+}
