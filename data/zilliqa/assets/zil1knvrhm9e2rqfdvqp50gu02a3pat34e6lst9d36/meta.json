@@ -4,11 +4,12 @@
   "web": "https://dragonzil.xyz",
   "product": true,
   "links": {
-    "twitter": "https://twitter.com/dragons_eth",
-    "facebook": "https://www.facebook.com/ethdragons",
+    "instagram": "https://instagram.com/dragonzil.xyz",
+    "twitter": "https://twitter.com/ZilDragons",
     "medium": "https://medium.com/@dragons_eth",
     "telegram": "https://t.me/Deep_Dragons",
-    "github": "https://github.com/DeepDragons"
+    "github": "https://github.com/DeepDragons",
+    "discord": "https://discord.gg/PYneQwQB64"
   },
   "gen": {
     "logo": "logo.png",
