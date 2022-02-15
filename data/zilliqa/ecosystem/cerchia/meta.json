@@ -1,0 +1,17 @@
+{
+  "name": "Cerchia",
+  "description": "A platform that allows for automated parametric event risk payouts with smart contracts, facilitated by oracles bridged to specific trigger indices.",
+  "web": "http://cerchia.io",
+  "links": {},
+  "categories": [
+    "defi",
+    "opfi",
+    "prediction"
+  ],
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg"
+  },
+  "key": "cerchia"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "minerstat",
+  "description": "Shows estimated statistics and earnings on mining for different cryptocurrencies.",
+  "web": "https://minerstat.com/coin/ZIL",
+  "links": {
+    "twitter": "https://twitter.com/minerstatcom",
+    "discord": "https://discordapp.com/invite/d679vuP"
+  },
+  "categories": [
+    "mining"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "minerstat"
+}

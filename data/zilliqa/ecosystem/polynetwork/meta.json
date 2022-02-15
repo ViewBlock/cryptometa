@@ -1,0 +1,17 @@
+{
+  "name": "PolyNetwork",
+  "description": "Creators of the middleware used to bridge Zilliqa to other blockchains such as Ethereum and NEO.",
+  "web": "https://www.poly.network",
+  "links": {
+    "twitter": "https://twitter.com/PolyNetwork2",
+    "telegram": "https://t.me/joinchat/Hjv5NBrfO1C2LyODQfxVDw",
+    "discord": "https://discord.gg/y6MuEnq"
+  },
+  "categories": [
+    "dapp"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "polynetwork"
+}

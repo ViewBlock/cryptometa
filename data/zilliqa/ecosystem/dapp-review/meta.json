@@ -1,0 +1,15 @@
+{
+  "name": "Dapp Review",
+  "description": "Dapp review is a leading dApp analytics platform",
+  "web": "https://dapp.review/explore/zilliqa",
+  "links": {
+    "twitter": "https://twitter.com/dapp_review?lang=en"
+  },
+  "categories": [
+    "tools"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "dapp-review"
+}

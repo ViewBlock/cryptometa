@@ -1,0 +1,15 @@
+{
+  "name": "Republic Polytechnic Singapore",
+  "description": "Signed a Memorandum of Understanding with Republic Polytechnic to design the new curriculum for the Financial Technology - Diploma course",
+  "web": "https://www.rp.edu.sg",
+  "links": {
+    "twitter": "http://twitter.com/republicpoly"
+  },
+  "categories": [
+    "education"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "republic-polytechnic-singapore"
+}

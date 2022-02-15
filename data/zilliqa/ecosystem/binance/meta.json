@@ -1,0 +1,31 @@
+{
+  "name": "Binance",
+  "description": "The world's leading cryptocurrency exchange.",
+  "web": "https://www.binance.com/en",
+  "links": {
+    "twitter": "binance",
+    "telegram": "BinanceExchange",
+    "facebook": "binance",
+    "linkedin": "binance"
+  },
+  "addresses": [
+    "zil18klj4uy57vu7vuz22qzxhuqnj627wml8h5cqdz",
+    "zil19nmxkh020jnequql9kvqkf3pkwm0j0spqtd26e",
+    "zil1e9k0rdjgh0khx06veut6ghwkggue6snmrlyg4w",
+    "zil1m040277v38wzqavpf953tnsp9vu6kd7c887vrk",
+    "zil1melkmjzv6v784dlk30rhx2ck4zccqpprsdd3jt",
+    "zil1rwmc98edzm9cks8ntslq0uhexmf30w54a34l6a",
+    "zil1xq6mh35lgr646hux0ys96q0f0hqv3hex80trpf",
+    "zil1yrpt7tjddw7gp7s33fa8g7rfp22z2qw4v3d9ev",
+    "zil1z3zky3kv20f37z3wkq86qfy00t4a875fxxw7sw",
+    "zil1lzuppw7rhm2ku9qaqr4sa58zxapsy7j2je6xqq",
+    "zil1usg6kugevext4etlvasps50dczx9dxs0y38y05"
+  ],
+  "categories": [
+    "exchange"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "binance"
+}

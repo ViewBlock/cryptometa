@@ -1,0 +1,16 @@
+{
+  "name": "Indodax",
+  "description": "Indonesia's largest crypto asset marketplace.",
+  "web": "https://indodax.com/en",
+  "links": {
+    "twitter": "https://www.twitter.com/indodax",
+    "telegram": "https://t.me/indodax"
+  },
+  "categories": [
+    "exchange"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "indodax"
+}

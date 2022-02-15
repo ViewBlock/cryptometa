@@ -1,0 +1,21 @@
+{
+  "name": "DragonZIL",
+  "description": "A game that allows you to buy digital collectible \"dragons\" with ZIL, which mate, fight and mutate.",
+  "web": "https://dragonzil.xyz",
+  "links": {
+    "twitter": "https://twitter.com/ZilDragons",
+    "telegram": "https://t.me/Deep_Dragons",
+    "discord": "https://discord.com/invite/kHMxad4"
+  },
+  "addresses": [
+    "zil1apmtzy4x9729fp8du8euehttptr08yuzamfy9f"
+  ],
+  "categories": [
+    "gaming",
+    "dapp"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "dragonzil"
+}

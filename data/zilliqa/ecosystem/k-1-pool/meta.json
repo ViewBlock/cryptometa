@@ -1,0 +1,16 @@
+{
+  "name": "K1Pool",
+  "description": "A multicoin mining pool with PPLNS and SOLO mode.",
+  "web": "https://k1pool.com/pool/zil",
+  "links": {
+    "twitter": "https://twitter.com/K1Pool",
+    "discord": "https://discord.gg/gSdJXFk"
+  },
+  "categories": [
+    "mining"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "k-1-pool"
+}

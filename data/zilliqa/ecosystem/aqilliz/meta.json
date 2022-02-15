@@ -1,0 +1,15 @@
+{
+  "name": "Aqilliz",
+  "description": "Powered by Zilliqa, Aqilliz offers blockchain-based solutions for campaign optimisation for the MarTech industry.",
+  "web": "https://aqilliz.com",
+  "links": {
+    "twitter": "https://twitter.com/AqillizOfficial"
+  },
+  "categories": [
+    "web3"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "aqilliz"
+}

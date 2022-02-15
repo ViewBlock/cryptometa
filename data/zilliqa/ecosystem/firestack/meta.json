@@ -1,0 +1,14 @@
+{
+  "name": "Firestack",
+  "description": "Built a collection of web3 libraries for Zilliqa",
+  "web": "https://github.com/FireStack-Lab/webz.js",
+  "links": {},
+  "categories": [
+    "api",
+    "sdk"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "firestack"
+}

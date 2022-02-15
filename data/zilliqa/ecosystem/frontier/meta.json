@@ -1,0 +1,19 @@
+{
+  "name": "Frontier",
+  "description": "A chain-agnostic DeFi aggregation layer that integrated Zilliqa into its wallet.",
+  "web": "https://www.frontier.xyz",
+  "links": {
+    "twitter": "https://twitter.com/FrontierDotXYZ",
+    "telegram": "https://t.me/FrontierDotXYZ"
+  },
+  "categories": [
+    "staking",
+    "wallet"
+  ],
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg"
+  },
+  "key": "frontier"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Rustpool",
+  "description": "An official Zilliqa mining pool that allows for merge mining.",
+  "web": "https://zil.rustpool.xyz",
+  "links": {
+    "twitter": "https://twitter.com/rustpool_sup"
+  },
+  "categories": [
+    "mining"
+  ],
+  "gen": {
+    "logo": "logo.jpg"
+  },
+  "key": "rustpool"
+}

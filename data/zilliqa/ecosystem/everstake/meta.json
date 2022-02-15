@@ -1,0 +1,18 @@
+{
+  "name": "Everstake",
+  "description": "A staking service platform that allows you to stake ZIL.",
+  "web": "https://everstake.one",
+  "links": {
+    "twitter": "https://twitter.com/everstake_pool",
+    "telegram": "https://t.me/everstake_chat"
+  },
+  "categories": [
+    "staking"
+  ],
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg"
+  },
+  "key": "everstake"
+}

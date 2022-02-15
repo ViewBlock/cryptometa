@@ -1,0 +1,13 @@
+{
+  "name": "SeaCabbie",
+  "description": false,
+  "web": "https://seacabbie.com",
+  "links": {},
+  "categories": [
+    "dapp"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "seacabbie"
+}

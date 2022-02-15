@@ -1,0 +1,20 @@
+{
+  "name": "XCAD Network",
+  "description": "A platform harnessing the value of content consumers via tokenisation, via which viewers earn rewards used for fan governance.",
+  "web": "https://xcadnetwork.com",
+  "links": {
+    "twitter": "https://twitter.com/xcademyofficial",
+    "telegram": "https://t.me/xcademy"
+  },
+  "categories": [
+    "dapp",
+    "app",
+    "nft",
+    "dex",
+    "metaverse"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "xcad-network"
+}

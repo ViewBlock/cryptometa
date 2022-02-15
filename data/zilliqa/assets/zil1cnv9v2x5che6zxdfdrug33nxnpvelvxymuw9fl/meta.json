@@ -1,0 +1,17 @@
+{
+  "name": "Daymaxchain",
+  "symbol": "DYX",
+  "web": "https://daymaxchain.com/",
+  "whitepaper": "https://drive.google.com/file/d/1N29Ev256NxW4LABg2JoMEC8eV82z3f0k/view?usp=sharing",
+  "explorer": "https://viewblock.io/zilliqa/address/zil1cnv9v2x5che6zxdfdrug33nxnpvelvxymuw9fl",
+  "links": {
+    "telegram": "https://t.me/DAYMAXCHANNEL",
+    "medium": "https://daymaxchain.medium.com",
+    "twitter": "https://twitter.com/DAYMAXCHAIN"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 14
+  }
+}

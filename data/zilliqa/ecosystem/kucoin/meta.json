@@ -1,0 +1,22 @@
+{
+  "name": "KuCoin",
+  "description": "Cryptocurrency exchange based in Hong Kong",
+  "web": "https://www.kucoin.com",
+  "links": {
+    "twitter": "KuCoinCom",
+    "telegram": "Kucoin_Exchange",
+    "linkedin": "kucoin",
+    "github": "Kucoin"
+  },
+  "addresses": [
+    "zil1cv4t8k0kz5fnet8lxz40wcd83v8e8r2n6jtp0t",
+    "zil1sykay5wnaumt499vcnegq08qjquxelu3qx0e9u"
+  ],
+  "categories": [
+    "exchange"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "kucoin"
+}

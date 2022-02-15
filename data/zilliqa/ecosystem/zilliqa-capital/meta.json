@@ -1,0 +1,17 @@
+{
+  "name": "Zilliqa Capital",
+  "description": "An investment vehicle that invests in next-generation blockchain solutions built on Zilliqa.",
+  "web": "https://zilliqacapital.com",
+  "links": {
+    "twitter": "https://twitter.com/zilliqacapital"
+  },
+  "categories": [
+    "fund"
+  ],
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg"
+  },
+  "key": "zilliqa-capital"
+}

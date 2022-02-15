@@ -3,6 +3,7 @@ const { join } = require('path')
 const cp = require('child_process')
 const { promisify } = require('util')
 const svg2img = require('svg2img')
+const axios = require('axios')
 
 const toImg = promisify(svg2img)
 
@@ -23,6 +24,14 @@ const readJSON = async p => {
 
 const loadFull = () => readJSON(join(__dirname, '../src/full.json'))
 
+const dlImage = (url, path) =>
+  axios({ url, responseType: 'stream' }).then(
+    response =>
+      new Promise((resolve, reject) =>
+        response.data.pipe(fs.createWriteStream(path)).on('finish', resolve).on('error', reject),
+      ),
+  )
+
 module.exports = {
   toImg,
   readJSON,
@@ -33,4 +42,6 @@ module.exports = {
   readdir,
   writeFile,
   readFile,
+
+  dlImage,
 }

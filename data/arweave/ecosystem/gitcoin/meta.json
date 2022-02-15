@@ -1,0 +1,29 @@
+{
+  "name": "Gitcoin",
+  "description": "Connect with the community developing digital public goods, creating financial freedom, and defining the future of the open web",
+  "web": "https://gitcoin.co",
+  "categories": [
+    "tools"
+  ],
+  "addresses": [],
+  "links": {
+    "github": "gitcoinco"
+  },
+  "developers": [
+    {
+      "name": "Kevin Owocki",
+      "github": "owocki",
+      "twitter": "owocki"
+    },
+    {
+      "name": "Scott Moore",
+      "twitter": "notscottmoore"
+    }
+  ],
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg"
+  },
+  "key": "gitcoin"
+}

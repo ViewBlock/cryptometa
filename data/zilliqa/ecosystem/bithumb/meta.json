@@ -1,0 +1,15 @@
+{
+  "name": "Bithumb",
+  "description": "A Korean digital asset trading platform for buying, selling, exchanging and trading cryptocurrency.",
+  "web": "https://en.bithumb.com",
+  "links": {
+    "twitter": "https://twitter.com/BithumbOfficial"
+  },
+  "categories": [
+    "exchange"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "bithumb"
+}

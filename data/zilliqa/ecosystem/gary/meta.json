@@ -1,0 +1,16 @@
+{
+  "name": "Gary",
+  "description": "A ZRC-2 community token that gives to charities and runs weekly lotteries for its holders.",
+  "web": "https://blog.thegarytoken.com",
+  "links": {
+    "twitter": "https://twitter.com/TheGARYToken"
+  },
+  "categories": [
+    "meme",
+    "token"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "gary"
+}

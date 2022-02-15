@@ -1,0 +1,17 @@
+{
+  "name": "Guarda Wallet",
+  "description": "A custody-free crypto wallet that can store over hundreds of assets.",
+  "web": "https://guarda.com",
+  "links": {
+    "twitter": "https://twitter.com/GuardaWallet",
+    "telegram": "https://t.me/guarda_community"
+  },
+  "categories": [
+    "wallet",
+    "staking"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "guarda-wallet"
+}

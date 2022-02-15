@@ -1,0 +1,14 @@
+{
+  "name": "Chocolate Stablecoin",
+  "description": false,
+  "web": "https://mambo.li/stablecoins/franc",
+  "links": {},
+  "categories": [
+    "stablecoin",
+    "defi"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "chocolate-stablecoin"
+}

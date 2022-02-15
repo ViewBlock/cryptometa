@@ -1,0 +1,16 @@
+{
+  "name": "Zeeves",
+  "description": "Zeeves is Zilliqa's peer-to-peer reward and engagement bot made for users on Telegram.",
+  "web": "https://zeeves.io",
+  "links": {
+    "twitter": "https://twitter.com/ZeevesBot",
+    "telegram": "https://t.me/zilliqawalletbot"
+  },
+  "categories": [
+    "wallet"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "zeeves"
+}

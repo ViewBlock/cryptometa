@@ -1,0 +1,15 @@
+{
+  "name": "ZenGo",
+  "description": "A crypto wallet that allows its users to send crypto freely with no maximum or minimum amounts and no extra fees. ZenGo is a keyless crypto wallet, using facial biometrics to secure the wallet.",
+  "web": "https://zengo.com",
+  "links": {
+    "twitter": "https://twitter.com/zengo"
+  },
+  "categories": [
+    "wallet"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "zengo"
+}

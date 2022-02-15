@@ -1,0 +1,19 @@
+{
+  "name": "RedChillies Labs",
+  "description": "Making Gaming DApps for a decentralized, open, permissionless world.",
+  "web": "https://redchillies.org",
+  "links": {
+    "twitter": "RedChilliesLabs",
+    "telegram": "redchilliesRedC",
+    "github": "RedChillies-Core"
+  },
+  "categories": [
+    "gaming",
+    "prediction",
+    "dapp"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "redchillies"
+}

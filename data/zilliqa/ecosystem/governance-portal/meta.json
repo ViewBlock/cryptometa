@@ -1,0 +1,13 @@
+{
+  "name": "Governance Portal",
+  "description": "The Zilliqa Governance Portal is where all Zilliqa Improvement Proposals (ZIPs) go for voting by the community of gZIL token holders. Operated by Zilliqa.",
+  "web": "https://gov.zilliqa.com",
+  "links": {},
+  "categories": [
+    "governance"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "governance-portal"
+}

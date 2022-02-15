@@ -1,0 +1,25 @@
+{
+  "name": "Zillion",
+  "description": "A simplified, user-friendly staking portal where users can earn APY for staking their ZIL via various supporting seed nodes.",
+  "web": "https://stake.zilliqa.com",
+  "links": {
+    "twitter": "zilliqa",
+    "telegram": "zilliqa",
+    "linkedin": "company/zilliqa"
+  },
+  "addresses": [
+    "zil1k7qwsz2m3w595u29je0dvv4nka62c5wwrp8r8p",
+    "zil1g029nmzsf36r99vupp4s43lhs40fsscx3jjpuy",
+    "zil1d36l2vd46k6j3hw4dv0dslgrt85qhauk0vzppy",
+    "zil1r6rh87r2ef9sw3e4mr0vhavwl5l5r0e4tzq9xh"
+  ],
+  "categories": [
+    "staking"
+  ],
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg"
+  },
+  "key": "zillion"
+}
