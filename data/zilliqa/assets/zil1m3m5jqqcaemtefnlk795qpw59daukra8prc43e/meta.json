@@ -1,7 +1,7 @@
 {
     "name": "Huny Token",
     "symbol": "HUNY",
-    "web": "https://thebear.market/",
+    "web": "https://zolar.io/",
     "description": "",
     "decimals": 12,
     "links": {
@@ -14,7 +14,7 @@
     "product": true,
     "publicTeam": true,
     "gen": {
-      "logo": "logo.svg",
+      "logo": "logo.png",
       "score": 10
     }
 }
