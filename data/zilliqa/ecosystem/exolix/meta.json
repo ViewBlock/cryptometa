@@ -1,0 +1,20 @@
+{
+  "name": "Exolix",
+  "description": "Exolix is an exchange from Estonia that launched in 2018",
+  "web": "https://exolix.com",
+  "links": {
+    "twitter": "Exolix_com",
+    "telegram": "exolixcom",
+    "facebook": "www.exolix"
+  },
+  "addresses": [
+    "zil18wgy7tkgk36fn7rflfjmw6m7nk622lyxn9dge8"
+  ],
+  "categories": [
+    "exchange"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "exolix"
+}

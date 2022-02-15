@@ -1,0 +1,18 @@
+{
+  "name": "Moonlet",
+  "description": "A non-custodial crypto wallet that allows users to manage, stake and spend crypto assets.",
+  "web": "https://moonlet.io",
+  "links": {
+    "twitter": "https://twitter.com/moonlet_wallet"
+  },
+  "categories": [
+    "wallet",
+    "staking",
+    "app",
+    "defi"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "moonlet"
+}

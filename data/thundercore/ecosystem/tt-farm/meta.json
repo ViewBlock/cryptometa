@@ -1,0 +1,19 @@
+{
+  "name": "TT Farm",
+  "description": "Want to earn more? Become a Farmer on TT Farm! Buy animals and collect rewards. TT Farm brings you extremely high returns! Join now!",
+  "web": "https://ttfarm.xyz",
+  "addresses": [
+    "0xa83D10060A79295E2005D3509b70EaF436dB82A2",
+    "0x1c9dcB1D1d181797e97908E116505271Da473123",
+    "0x5F68318880718F1f569bf0F8E6f09Cc6BAeF9685",
+    "0xeDb5188a6C37948E36a1FA329648F5e40AcE311D"
+  ],
+  "categories": [
+    "defi",
+    "featured"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "tt-farm"
+}

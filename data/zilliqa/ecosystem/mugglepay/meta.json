@@ -1,0 +1,16 @@
+{
+  "name": "MugglePay",
+  "description": "An SDK that allows for merchants to accept crypto payments.",
+  "web": "https://mugglepay.com",
+  "links": {
+    "twitter": "https://twitter.com/paymuggle"
+  },
+  "categories": [
+    "sdk",
+    "payment"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "mugglepay"
+}

@@ -125,21 +125,35 @@ const getFilters = async () => {
           acc[splits[1]] = {}
         }
 
-        acc[splits[1]][splits[3]] = 1
+        if (splits[2] === 'ecosystem') {
+          acc[splits[1]].ecosystem = true
+          return acc
+        }
+
+        if (splits[2] === 'labels.json') {
+          acc[splits[1]].labels = true
+          return acc
+        }
+
+        if (!splits[3]) {
+          acc[splits[1]].main = true
+        } else {
+          acc[splits[1]][splits[3]] = 1
+          acc[splits[1]].assets = true
+        }
 
         return acc
       }, {})
   }
 
-  if (arg === 'all') {
-    return null
-  }
+  if (arg === 'all') return null
 
-  const splits = arg.split('/')
+  const [chain, target] = arg.split('/')
 
   return {
-    [splits[0]]: {
-      [splits[1]]: 1,
+    [chain]: {
+      ...(target ? { [target]: true } : { main: true }),
+      ...(target && !['ecosystem', 'labels'].includes(target) ? { assets: true } : {}),
     },
   }
 }
@@ -148,6 +162,8 @@ const main = async () => {
   const chains = (await readdir(ROOT)).filter(d => !d.includes('.'))
 
   const filters = await getFilters()
+
+  const fullGen = !filters
 
   const full = merge(await loadFull(), {
     _symbols: {},
@@ -167,14 +183,53 @@ const main = async () => {
   }
 
   for (const chain of chains) {
-    if (filters !== null && (full._remap[chain] || !filters[chain])) {
+    if (!fullGen && (full._remap[chain] || !filters[chain])) {
       continue
     }
 
     const path = join(ROOT, chain)
     const files = await readdir(path)
 
-    const meta = await updateMeta(path, { skipScore: true })
+    const meta = merge(full[chain], await updateMeta(path, { skipScore: true }))
+
+    if (
+      (fullGen || filters[chain].main || filters[chain].labels) &&
+      files.includes('labels.json')
+    ) {
+      meta.labels = require(join(path, 'labels.json'))
+    }
+
+    if (
+      (fullGen || filters[chain].main || filters[chain].ecosystem) &&
+      files.includes('ecosystem')
+    ) {
+      const projs = await readdir(join(path, 'ecosystem'))
+
+      meta.ecosystem = {}
+
+      for (const key of projs) {
+        const files = await readdir(join(path, `ecosystem/${key}`))
+        const mainLogo = files.find(f => f.startsWith('logo.'))
+        const white = files.find(f => f.startsWith('logo-white'))
+
+        const metaPath = join(path, 'ecosystem', key, 'meta.json')
+
+        const payload = {
+          ...require(metaPath),
+          key,
+          gen: {
+            logo: mainLogo,
+            ...(white ? { hasDark: true } : {}),
+            ...(white && !white.endsWith('png') ? { darkExt: white.split('.')[1] } : {}),
+          },
+        }
+
+        await writeFile(metaPath, JSON.stringify(payload, null, 2))
+
+        meta.ecosystem[key] = payload
+      }
+    }
+
     full[chain] = { ...meta, config: undefined }
 
     full._chains[chain] = meta.symbol
@@ -182,7 +237,7 @@ const main = async () => {
 
     const allKeys = Object.keys(full)
 
-    if (files.includes('assets')) {
+    if ((fullGen || filters[chain].main || filters[chain].assets) && files.includes('assets')) {
       const assets = await readdir(join(path, 'assets'))
       const assetsLength = assets.length
       const assetKeys = assets.reduce((acc, hash) => ((acc[`${chain}.${hash}`] = true), acc), {})

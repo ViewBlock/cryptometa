@@ -1,0 +1,16 @@
+{
+  "name": "Consult Crypto",
+  "description": "Consult Crypto is a one-stop service that provides Blockchain and Crypto consulting (DeFi projects, Token Launch, NFT projects, Security Tokenization, Tokenomics, Cross-Chain Swap – to name a few).",
+  "web": "https://www.consultcrypto.net",
+  "links": {
+    "twitter": "https://twitter.com/ConsultCoin"
+  },
+  "categories": [
+    "app",
+    "dapp"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "consult-crypto"
+}

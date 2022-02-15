@@ -1,0 +1,29 @@
+{
+  "name": "Egg Dex",
+  "description": "Swap, Stake, Earn Egg Token.",
+  "web": "https://eggdex.com",
+  "addresses": [
+    "0xee8858a248732453Cb5058438574a27b7ac43091",
+    "0x8eD8Ae1703ACb33031cBD464400b57978Fe501aB",
+    "0x9744F1746BbF6A5A68470A50Dd3391cFC3e0061c",
+    "0xF5cDF7f965Fb1Ae4E27fbA16AaDbA32195359138",
+    "0xf406D475ABDAc65D45D9bCDbB356993D8D89b8Bf",
+    "0x4381E8cdEd53a6182A37C85DFcCC9D252245e1C8",
+    "0x14aa2F18D0160ea76BFf76c141A8dFca328FE676",
+    "0x16AB55c96596Cc926932AD3D71290D08ad932c09",
+    "0x2e6b163d5ba678515a6a0d27e063ea794d79d975",
+    "0xb162cfbbc4821fb33fa83e3050240dd920dda230",
+    "0x64d8723ffa3b145badd7a6896c966fd11cd8c7f1",
+    "0x7da201ec21e2cd2b79b36c16c0cbac131504c1fc",
+    "0x8a8a8568c27b29550ff5f877016662efd47828c8",
+    "0x0d246f3a3adf106ee8e204f28f2d340d86bf4db0",
+    "0xaeacf8c931b45987506ade0d19d41ea822e19a76"
+  ],
+  "categories": [
+    "defi"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "egg-dex"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Boost ZIL",
+  "description": "Create a production ready app using typescript sdk to interact with zilliqa contracts",
+  "web": "https://github.com/MszBednarski/boost-zil",
+  "links": {
+    "twitter": "https://twitter.com/MszBednarski"
+  },
+  "categories": [
+    "tools"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "boost-zil"
+}

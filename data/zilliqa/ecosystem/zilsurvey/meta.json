@@ -1,0 +1,13 @@
+{
+  "name": "Zilsurvey",
+  "description": "Help researchers by sharing your opinion. Getting solid feedback is critical for building a good product, help developers by filling in surveys.",
+  "web": "https://www.zilsurvey.com",
+  "links": {},
+  "categories": [
+    ""
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "zilsurvey"
+}

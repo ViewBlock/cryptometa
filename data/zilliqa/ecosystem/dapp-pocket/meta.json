@@ -1,0 +1,17 @@
+{
+  "name": "Dapp Pocket",
+  "description": "A wallet that integrates with DeFi protocols which enables the use of over 2000+ dApps, helping users manage their DeFi portfolio with ease.",
+  "web": "https://www.dapppocket.io",
+  "links": {
+    "twitter": "https://twitter.com/DappPocket",
+    "telegram": "https://t.me/DappPocket"
+  },
+  "categories": [
+    "wallet",
+    "app"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "dapp-pocket"
+}

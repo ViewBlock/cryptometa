@@ -1,0 +1,13 @@
+{
+  "name": "Singapore Blockchain Association",
+  "description": "A leading trade association that seeks to empower its members to leverage blockchain and scalable technologies for growth.",
+  "web": "https://singaporeblockchain.org",
+  "links": {},
+  "categories": [
+    "education"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "singapore-blockchain-association"
+}

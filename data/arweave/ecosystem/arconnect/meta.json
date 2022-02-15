@@ -1,0 +1,28 @@
+{
+  "name": "ArConnect",
+  "description": "Secure wallet management for Arweave",
+  "web": "https://arconnect.io",
+  "categories": [
+    "identity"
+  ],
+  "addresses": [],
+  "links": {
+    "github": "th8ta/ArConnect"
+  },
+  "developers": [
+    {
+      "name": "Tate Berenbaum",
+      "github": "t8",
+      "twitter": "TateBerenbaum"
+    },
+    {
+      "name": "Marton Lederer",
+      "github": "martonlederer",
+      "twitter": "martonlederer"
+    }
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "arconnect"
+}

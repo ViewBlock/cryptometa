@@ -1,0 +1,31 @@
+{
+  "name": "Arweave News",
+  "description": "A community driven news platform",
+  "web": "https://arweave.news",
+  "categories": [
+    "publishing"
+  ],
+  "addresses": [],
+  "links": {
+    "github": "Arweave-News"
+  },
+  "developers": [
+    {
+      "name": "pepe007",
+      "github": "charmful0x"
+    },
+    {
+      "name": "xylophonez",
+      "github": "xylophonez",
+      "twitter": "xylophonezy"
+    },
+    {
+      "name": "Abdalah",
+      "twitter": "Abdalahghrayeb"
+    }
+  ],
+  "gen": {
+    "logo": "logo.jpg"
+  },
+  "key": "arweavenews"
+}

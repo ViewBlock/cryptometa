@@ -1,0 +1,16 @@
+{
+  "name": "Crypto APIs",
+  "description": "An infrastructure layer that radically simplifies the development of any blockchain and crypto-related applications.",
+  "web": "https://cryptoapis.io",
+  "links": {
+    "twitter": "https://twitter.com/CryptoApis",
+    "telegram": "https://t.me/CryptoAPIs"
+  },
+  "categories": [
+    "api"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "crypto-apis"
+}

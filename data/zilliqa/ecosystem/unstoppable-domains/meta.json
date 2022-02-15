@@ -1,0 +1,23 @@
+{
+  "name": "Unstoppable Domains",
+  "desc": "Replace your crypto addresses with blockchain domain names",
+  "web": "https://unstoppabledomains.com",
+  "links": {
+    "twitter": "https://twitter.com/unstoppableweb",
+    "linkedin": "unstoppable-domains",
+    "facebook": "https://www.facebook.com/unstoppableweb",
+    "medium": "unstoppabledomains"
+  },
+  "addresses": [
+    "zil1fzrlk6fq4zh9pzr9g0hg4fgymfkflqalzyx0pa",
+    "zil15yw7wej02h6mm7z5f2dvwytfr5qn0z6vlwqug6"
+  ],
+  "categories": [
+    "dapp",
+    "names"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "unstoppable-domains"
+}

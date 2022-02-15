@@ -1,0 +1,18 @@
+{
+  "name": "Zillet",
+  "description": "An open-source, client-side wallet for interacting with the Zilliqa blockchain.",
+  "web": "https://zillet.io",
+  "links": {
+    "twitter": "https://twitter.com/zilletio"
+  },
+  "categories": [
+    "wallet",
+    "web3",
+    "defi",
+    "staking"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "zillet"
+}

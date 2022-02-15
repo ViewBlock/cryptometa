@@ -1,0 +1,16 @@
+{
+  "name": "LetsExchange",
+  "description": "Instant KYC-free crypto exchange that supports ZIL and 350+ more coins",
+  "web": "https://letsexchange.io",
+  "links": {
+    "twitter": "https://twitter.com/letsexchange_io",
+    "telegram": "https://t.me/letsexchange_io"
+  },
+  "categories": [
+    "exchange"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "letsexchange"
+}

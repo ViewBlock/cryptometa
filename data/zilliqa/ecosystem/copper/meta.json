@@ -1,0 +1,15 @@
+{
+  "name": "Copper",
+  "description": "The institutional gateway to digital asset investing.",
+  "web": "https://copper.co",
+  "links": {
+    "twitter": "https://twitter.com/CopperHQ"
+  },
+  "categories": [
+    "custody"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "copper"
+}

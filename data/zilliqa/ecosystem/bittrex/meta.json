@@ -1,0 +1,19 @@
+{
+  "name": "Bittrex",
+  "description": "Seattle based cryptocurrency exchange",
+  "web": "https://bittrex.com",
+  "links": {
+    "twitter": "BittrexExchange",
+    "facebook": "bittrex"
+  },
+  "addresses": [
+    "zil14kxmnlqqjuavwywatskfv6dlt0lh4p9xl5aa49"
+  ],
+  "categories": [
+    "exchange"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "bittrex"
+}

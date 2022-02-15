@@ -1,0 +1,17 @@
+{
+  "name": "Notabene",
+  "description": "Helping companies manage regulatory and counterparty risk in crypto transactions. Member of the 2020-2021 ZILHive accelerator cohort.",
+  "web": "https://notabene.id",
+  "links": {
+    "twitter": "https://twitter.com/notabene_id"
+  },
+  "categories": [
+    "opfi",
+    "custody"
+  ],
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true
+  },
+  "key": "notabene"
+}

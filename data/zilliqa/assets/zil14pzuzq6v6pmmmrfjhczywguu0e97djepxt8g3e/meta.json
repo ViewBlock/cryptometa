@@ -2,6 +2,11 @@
   "name": "Governance ZIL",
   "symbol": "gZIL",
   "trusted": true,
+  "web": "https://stake.zilliqa.com",
+  "links": {
+    "medium": "https://blog.zilliqa.com",
+    "twitter": "zilliqa"
+  },
   "config": {
     "dark": true
   },

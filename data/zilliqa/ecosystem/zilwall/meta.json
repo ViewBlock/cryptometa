@@ -1,0 +1,16 @@
+{
+  "name": "ZILWall",
+  "description": "A creative collaboration pixel art project where communities can collaborate on canvases to create their own art.",
+  "web": "https://zilwall.com",
+  "links": {
+    "twitter": "https://twitter.com/zwall_zpaint?lang=en"
+  },
+  "categories": [
+    "nft",
+    "dapp"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "zilwall"
+}

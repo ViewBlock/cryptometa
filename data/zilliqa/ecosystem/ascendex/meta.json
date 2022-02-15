@@ -1,0 +1,23 @@
+{
+  "name": "AscendDEX",
+  "description": "A global digital asset trading platform",
+  "web": "https://ascendex.com",
+  "links": {
+    "twitter": "AscendEX_Global",
+    "telegram": "AscendEXEnglish",
+    "facebook": "AscendEXOfficial",
+    "medium": "ascendex"
+  },
+  "addresses": [
+    "zil14dzm27r68jpdjdnjrnw98ezs8unlp5mrhwal7x"
+  ],
+  "categories": [
+    "exchange"
+  ],
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg"
+  },
+  "key": "ascendex"
+}

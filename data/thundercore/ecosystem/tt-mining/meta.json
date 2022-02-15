@@ -1,0 +1,13 @@
+{
+  "name": "TT Mining",
+  "description": "Come join TT Mining right now ! Hold your TT & USDT on ThunderCore Hub, and you can claim holding rewards up to 15% APR at any time. Referring to your friends can get 10% APR of their holding rewards as your referral bonus. There is no limitation for referring! Download ThunderCore Hub and join TT Mining NOW!",
+  "web": "https://mining.thundercore.com/?utm_source=hub&utm_medium=dapp_list&utm_campaign=hub_promotion",
+  "addresses": [],
+  "categories": [
+    "defi"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "tt-mining"
+}

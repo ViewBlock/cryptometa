@@ -1,0 +1,16 @@
+{
+  "name": "Xanpool",
+  "description": "An internationally compliant fiat-gateway software solution for exchanges, wallets, and other cryptocurrency businesses.",
+  "web": "https://xanpool.com",
+  "links": {
+    "twitter": "https://twitter.com/XanpoolOfficial",
+    "telegram": "https://t.me/joinchat/FF2GFRQMgdtBxq67hc3UZw"
+  },
+  "categories": [
+    "exchange"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "xanpool"
+}

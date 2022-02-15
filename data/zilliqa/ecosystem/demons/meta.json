@@ -1,0 +1,18 @@
+{
+  "name": "Demons",
+  "description": "DeMons is an exclusive, gamified, collectibles series that allows its holders to earn yields while holding their NFTs.",
+  "web": "https://demons.world",
+  "links": {
+    "twitter": "https://twitter.com/de_monsters"
+  },
+  "categories": [
+    "nft",
+    "gaming",
+    "dapp",
+    "metaverse"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "demons"
+}

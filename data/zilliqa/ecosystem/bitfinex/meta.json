@@ -1,0 +1,16 @@
+{
+  "name": "Bitfinex",
+  "description": "The longest running and most liquid major cryptocurrency exchange.",
+  "web": "https://www.bitfinex.com",
+  "links": {
+    "twitter": "https://twitter.com/bitfinex",
+    "telegram": "https://t.me/bitfinex"
+  },
+  "categories": [
+    "exchange"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "bitfinex"
+}

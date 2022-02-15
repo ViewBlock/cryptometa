@@ -1,0 +1,15 @@
+{
+  "name": "Ten31",
+  "description": "Connecting the dots between DeFi and banking.",
+  "web": "https://www.ten31.com",
+  "links": {
+    "twitter": "https://twitter.com/TEN31Bank"
+  },
+  "categories": [
+    "defi"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "ten-31"
+}

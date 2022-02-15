@@ -1,0 +1,23 @@
+{
+  "name": "DecentLand",
+  "description": "A social network protocol built on the Arweave's Permaweb",
+  "web": "http://decent.land",
+  "categories": [
+    "social"
+  ],
+  "addresses": [],
+  "links": {
+    "github": "decentland"
+  },
+  "developers": [
+    {
+      "name": "Darwin",
+      "github": "charmful0x",
+      "twitter": "decentland_"
+    }
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "decentland"
+}

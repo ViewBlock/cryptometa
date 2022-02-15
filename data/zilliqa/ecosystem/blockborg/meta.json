@@ -1,0 +1,16 @@
+{
+  "name": "BlockBorg",
+  "description": "Community members want to visualize the growth of Zilliqa. DApps need to measure and track their progress. BlockBorg helps by providing accessible on-chain analytics.",
+  "web": "https://www.blockborg.io",
+  "links": {
+    "twitter": "https://twitter.com/BlockchainBorg"
+  },
+  "categories": [
+    "tools",
+    "app"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "blockborg"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "FXCH",
+  "description": "A forex clearing house that utilises blockchain technology to do spot FX clearing.",
+  "web": "https://fxclr.com",
+  "links": {},
+  "categories": [
+    "custody"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "fxch"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Zippy Dice",
+  "description": "Zippy dice is a gambling Dapp built on top of the ThunderCore blockchain. Zippy dice utilizes the fast transactions and near-zero fees of the ThunderCore blockchain to support a high volume of bets in real-time.",
+  "web": "https://dice.zippydapps.com",
+  "addresses": [
+    "0xf2ad67b4686546704ae63ffa38c4ac9b570ee250",
+    "0x90a67daef6cfa525d401f4c5458777ca905cea62",
+    "0xfcdea9f405bc6bd85c2e90c1debb9f3ca7a59d8f"
+  ],
+  "categories": [
+    "gambling",
+    "featured"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "zippy-dice"
+}

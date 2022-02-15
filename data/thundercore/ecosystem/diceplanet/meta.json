@@ -1,0 +1,16 @@
+{
+  "name": "DicePlanet",
+  "description": "DicePlanet is a on-chain dice game on ThunderCore. The first game is SicBo, a gambling game played with dice that is widely popular in Asia.",
+  "web": "https://www.diceplanet.xyz/#",
+  "addresses": [
+    "0x228c54a45d5423c56e983db168eb9f102be99d4b",
+    "0x46c14d5075e84521274598a1d3fa6ccb5af73009"
+  ],
+  "categories": [
+    "gambling"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "diceplanet"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Zhip",
+  "description": "Zhip is the world's first iOS wallet for the Zilliqa blockchain",
+  "web": "https://zhip.app",
+  "links": {},
+  "categories": [
+    "wallet",
+    "web3"
+  ],
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg"
+  },
+  "key": "zhip"
+}

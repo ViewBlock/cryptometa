@@ -1,0 +1,22 @@
+{
+  "name": "Carbon",
+  "description": "Carbon has a basket of dApps built in the Zilliqa ecosystem including Privacy solutions and wallets",
+  "web": "https://www.carbontoken.info",
+  "links": {
+    "twitter": "https://twitter.com/contact_carbon",
+    "discord": "discord.gg/9kFXUUxbwA"
+  },
+  "categories": [
+    "wallet",
+    "dapp",
+    "defi",
+    "tools",
+    "staking"
+  ],
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg"
+  },
+  "key": "carbon"
+}

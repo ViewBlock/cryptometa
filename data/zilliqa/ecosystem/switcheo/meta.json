@@ -1,0 +1,17 @@
+{
+  "name": "Switcheo",
+  "description": "A a decentralised exchange based in Singapore. ZilSwap was built in collaboration with Switcheo.",
+  "web": "https://switcheo.network",
+  "links": {
+    "twitter": "https://twitter.com/SwitcheoLabs",
+    "telegram": "https://t.me/switcheo",
+    "discord": "https://discord.com/invite/SPh62Hf"
+  },
+  "categories": [
+    "defi"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "switcheo"
+}

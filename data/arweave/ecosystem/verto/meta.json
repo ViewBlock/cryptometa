@@ -1,0 +1,39 @@
+{
+  "name": "Verto",
+  "description": "Token exchange app for Arweave Profit Sharing Tokens",
+  "web": "https://www.verto.exchange",
+  "categories": [
+    "dex",
+    "defi"
+  ],
+  "addresses": [
+    "aLemOhg9OGovn-0o4cOCbueiHT9VgdYnpJpq7NgMA1A"
+  ],
+  "links": {
+    "discord": "invite/sNgJkMg",
+    "github": "useverto"
+  },
+  "developers": [
+    {
+      "name": "Tate Berenbaum",
+      "github": "t8",
+      "twitter": "TateBerenbaum"
+    },
+    {
+      "name": "Marton Lederer",
+      "github": "martonlederer",
+      "twitter": "martonlederer"
+    },
+    {
+      "name": "John Letey",
+      "github": "johnletey",
+      "twitter": "johnletey"
+    }
+  ],
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg"
+  },
+  "key": "verto"
+}

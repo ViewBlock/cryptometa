@@ -1,0 +1,16 @@
+{
+  "name": "Flashygotchi",
+  "description": "Play to Earn! Become Flashygotchi to find the final treasure with ACORNs!",
+  "web": "https://gotchi.rammer.finance",
+  "addresses": [
+    "0x13304f8376DfFa5d82e0f15c2284fb33fDDCC96e"
+  ],
+  "categories": [
+    "game",
+    "featured"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "flashygotchi"
+}

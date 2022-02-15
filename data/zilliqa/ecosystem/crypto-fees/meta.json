@@ -1,0 +1,13 @@
+{
+  "name": "Crypto Fees",
+  "description": "A platform which lists the fees spent on transactions on the Zilliqa blockchain.",
+  "web": "https://cryptofees.info",
+  "links": {},
+  "categories": [
+    "tools"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "crypto-fees"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Bolt",
+  "description": "A decentralised content platform that aims to democratise the chain between content producers and users.",
+  "web": "https://bolt.global",
+  "links": {
+    "twitter": "https://twitter.com/bolt_global",
+    "telegram": "https://t.me/BoltGlobal"
+  },
+  "categories": [
+    "wallet",
+    "dapp"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "bolt"
+}

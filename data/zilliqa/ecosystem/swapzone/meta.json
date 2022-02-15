@@ -1,0 +1,16 @@
+{
+  "name": "SwapZone",
+  "description": "A crypto exchange aggregator that allows users to swap cryptocurrencies including Zilliqa at the best rates.",
+  "web": "https://swapzone.io",
+  "links": {
+    "twitter": "https://twitter.com/swapzoneio",
+    "telegram": "https://t.me/swapzone"
+  },
+  "categories": [
+    "exchange"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "swapzone"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Transak",
+  "description": "A crypto onboarding platform for users to transact between fiat and crypto assets easily with just a bank transfer.",
+  "web": "https://global.transak.com/?apiKey=3473f5aa-951f-41f4-81a7-ca8880c97f2c",
+  "links": {
+    "twitter": "https://twitter.com/transak_finance",
+    "telegram": "https://t.me/transakfinance",
+    "discord": "https://discord.gg/KeT6QZV"
+  },
+  "categories": [
+    "on_ramp"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "transak"
+}

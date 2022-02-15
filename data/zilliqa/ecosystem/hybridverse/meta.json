@@ -1,0 +1,15 @@
+{
+  "name": "Hybridverse",
+  "description": "A multi-chain, distributed and shared infrastructure composed of dApps.",
+  "web": "https://hybridverse.com",
+  "links": {},
+  "categories": [
+    "web3"
+  ],
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg"
+  },
+  "key": "hybridverse"
+}
