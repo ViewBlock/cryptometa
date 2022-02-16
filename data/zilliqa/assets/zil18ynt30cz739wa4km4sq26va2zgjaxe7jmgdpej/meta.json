@@ -1,0 +1,14 @@
+{
+  "name": "Zillipedes",
+  "symbol": "ZLPE",
+  "links": {
+    "twitter": "https://twitter.com/Zillipedes"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

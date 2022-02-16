@@ -1,0 +1,14 @@
+{
+  "name": "United DEX Index V2",
+  "symbol": "UNIDEX-V2",
+  "web": "https://zilall.com",
+  "publicTeam": true,
+  "links": {
+    "twitter": "https://twitter.com/zil_all",
+    "telegram": "https://t.me/zilall_community"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 29
+  }
+}

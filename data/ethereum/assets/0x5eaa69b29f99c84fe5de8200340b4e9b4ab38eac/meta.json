@@ -1,0 +1,22 @@
+{
+  "name": "Raze Network",
+  "symbol": "RAZE",
+  "decimals": "18",
+  "explorer": "https://etherscan.io/token/0x5EAA69B29F99C84FE5DE8200340B4E9B4AB38EAC",
+  "web": "https://raze.network/",
+  "email": "contact@raze.network",
+  "whitepaper": "https://docsend.com/view/nea4rj23f28z5b98",
+  "links": {
+    "blog": "https://raze-net.medium.com/",
+    "twitter": "https://twitter.com/R4ZE_Network",
+    "github": "https://github.com/Raze-Net",
+    "discord": null,
+    "telegram": "https://t.me/Raze_Net",
+    "coingecko": "https://www.coingecko.com/en/coins/raze-network/",
+    "coinmarketcap": null
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 29
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "ArGo",
+  "description": "Deploy your websites and applications on the blockchain in minutes",
+  "web": "https://argoapp.live",
+  "categories": [
+    "tools"
+  ],
+  "addresses": [],
+  "links": {
+    "github": "argoapp-live"
+  },
+  "developers": [
+    {
+      "name": "Prashant Maurya",
+      "github": "izrake",
+      "twitter": "prashant_xyz"
+    },
+    {
+      "name": "Mitrasish Mukherjee",
+      "github": "rekpero",
+      "twitter": "rekpero"
+    }
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "argo"
+}

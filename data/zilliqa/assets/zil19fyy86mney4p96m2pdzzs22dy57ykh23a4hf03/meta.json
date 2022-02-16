@@ -1,0 +1,17 @@
+{
+  "name": "PADICOIN",
+  "symbol": "PADI",
+  "web": "https://padicoin.tech/",
+  "supply": "99000000",
+  "email": "teamproject@padicoin.tech",
+  "links": {
+    "telegram": "https://t.me/padicoin",
+    "medium": "https://padicoinofficial.medium.com/",
+    "twitter": "https://twitter.com/padicoin",
+    "github": "https://github.com/padicoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

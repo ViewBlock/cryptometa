@@ -1,0 +1,15 @@
+{
+  "name": "HydraX",
+  "description": "End-to-end marketplace solutions forr exchanges, OTC venues, brokers, dealers, bullion and trading companies.",
+  "web": "https://www.hydrax.io",
+  "links": {},
+  "categories": [
+    "custody"
+  ],
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg"
+  },
+  "key": "hydrax"
+}

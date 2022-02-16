@@ -1,0 +1,13 @@
+{
+  "name": "Learn Blockchain",
+  "description": "A community run educational portal to learn about all things Zilliqa and blockchain.",
+  "web": "https://learnblockchain.org",
+  "links": {},
+  "categories": [
+    "education"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "learn-blockchain"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "dXCAD Token",
+  "symbol": "dXCAD",
+  "web": "https://swap.xcadnetwork.com",
+  "email": "contact@xcadnetwork.com",
+  "supply": "40000",
+  "whitepaper": "https://medium.com/xcademy/introducing-dex-changes-dxcad-token-airdrop-and-further-deflation-of-the-xcad-token-a01eca25ebe1",
+  "publicTeam": true,
+  "trusted": true,
+  "links": {
+    "twitter": "XcademyOfficial",
+    "telegram": "xcademy",
+    "github": "https://github.com/xcademy-dev",
+    "linkedin": "https://www.linkedin.com/company/xcademyltd"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 100
+  }
+}

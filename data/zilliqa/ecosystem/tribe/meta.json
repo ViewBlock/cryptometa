@@ -1,0 +1,13 @@
+{
+  "name": "Tribe",
+  "description": "A product-focused accelerator aimed at finding great companies with innovative blockchain use cases.",
+  "web": "https://tribex.co",
+  "links": {},
+  "categories": [
+    "education"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "tribe"
+}

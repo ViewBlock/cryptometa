@@ -1,0 +1,14 @@
+{
+  "name": "Dope Crew Friends",
+  "symbol": "DCF",
+  "web": "https://dopecrewfriends.com/",
+  "links": {
+    "instagram": "daehandope",
+    "telegram": "https://t.me/DopeCrewFriends",
+    "twitter": "dopecrewfriends"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

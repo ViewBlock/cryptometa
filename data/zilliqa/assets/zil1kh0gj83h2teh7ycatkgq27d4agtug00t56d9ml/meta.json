@@ -1,0 +1,14 @@
+{
+  "name": "The ZilOwls",
+  "symbol": "ZILO",
+  "links": {
+    "twitter": "https://twitter.com/eblkronos"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

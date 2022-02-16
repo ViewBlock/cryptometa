@@ -1,0 +1,13 @@
+{
+  "name": "Learn Scilla",
+  "description": "LearnScilla is a website dedicated to teaching developers the basics of Scilla, Zilliqa's safe-by-design, peer reviewed, and mathematically secure contract language.",
+  "web": "https://learnscilla.com",
+  "links": {},
+  "categories": [
+    "education"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "learn-scilla"
+}

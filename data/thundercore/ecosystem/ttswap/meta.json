@@ -1,0 +1,34 @@
+{
+  "name": "TTSwap",
+  "description": "TTSwap is a DEX, decentralized exchange, on the ThunderCore blockchain based on the model: Automated Market-Making (AMM) inspired by Uniswap.",
+  "web": "https://ttswap.space",
+  "addresses": [
+    "0x3e9ada9f40cd4b5a803cf764ece1b4dae6486204",
+    "0x3fd0d6e5461c535fc3d4c996561763a15334aecd",
+    "0x4d5cade82907d04f89063a27079e026f42aa16fc",
+    "0xd8d020934f008fbd10bd2b47263eb4e751acf1a2",
+    "0xa91f09a91ea6c5fcb2f4953fd0383b55506e8d52",
+    "0x1d1018C8B2BF965F0077CA25B5D7decb7F70615D",
+    "0x0646ccb4983a65b1ad6b7c34d62fe2fcfbbd8b1b",
+    "0x2fdc081adba636458965927c66e124f7bf0b7c9f",
+    "0xbf1754ba478267e88b40a488acf78e56a7deba6e",
+    "0x28CC382df937cF3e2aA0f41686329Bb61CF10A11",
+    "0x5179Cdc003f5d993E91b5C1989bE24b993721068",
+    "0x71783060cE590992ba0652dd3CDb610B93260C6C",
+    "0x1355cabc77854e123113b02964a0c39d2ea5f0c8",
+    "0xEfF4108645593329235eDaD644eC2eC1a63cF764",
+    "0x1356D3BBF34451b624d5Ae10A498bB01DEbBc8B8",
+    "0x20c198e0ade7695d70953dac32a2904151cba0ee",
+    "0x77fa7040447745bc8ff4d519afeecfffcb0cdd57",
+    "0xC54D9feCa39b8c9c65062f7732045E0aACF653D4",
+    "0x3617791699a6520ef0e09d696a1dd9357fbff245",
+    "0x152FeA8177a31F4FE1cDe7AdaB12C744F1860166"
+  ],
+  "categories": [
+    "defi"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "ttswap"
+}

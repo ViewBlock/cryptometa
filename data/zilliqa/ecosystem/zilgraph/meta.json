@@ -1,0 +1,15 @@
+{
+  "name": "Zilgraph",
+  "description": "An open source dashboard for visualising ZilSwap activity on the Zilliqa blockchain.",
+  "web": "https://zilgraph.io/zilswap",
+  "links": {
+    "twitter": "https://twitter.com/zilgraph"
+  },
+  "categories": [
+    "tools"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "zilgraph"
+}

@@ -7,5 +7,9 @@
     "coingecko": "darkbuild-v2",
     "twitter": "DarkBuild1",
     "telegram": "darkbuildANN"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
   }
 }

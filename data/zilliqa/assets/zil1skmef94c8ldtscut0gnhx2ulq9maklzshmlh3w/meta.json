@@ -1,0 +1,17 @@
+{
+  "name": "ONECOIN",
+  "symbol": "ONE",
+  "web": "https://onecointoken.io",
+  "explorer": "https://viewblock.io/zilliqa/address/zil1skmef94c8ldtscut0gnhx2ulq9maklzshmlh3w",
+  "links": {
+    "github": "https://github.com/tokenonecoin",
+    "medium": "https://tokenonecoin.medium.com/",
+    "twitter": "https://twitter.com/onecointoken",
+    "telegram": "https://t.me/onecoinofficial"
+  },
+  "description": "ONECOIN is Onelife community project to build new decentralize payment and asset",
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

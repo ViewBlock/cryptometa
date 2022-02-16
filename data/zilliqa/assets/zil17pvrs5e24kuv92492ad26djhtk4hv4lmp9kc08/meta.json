@@ -1,0 +1,14 @@
+{
+  "name": "SimonPdv Various Art",
+  "symbol": "SimonPdv",
+  "links": {
+    "twitter": "https://twitter.com/JohnAzerty"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

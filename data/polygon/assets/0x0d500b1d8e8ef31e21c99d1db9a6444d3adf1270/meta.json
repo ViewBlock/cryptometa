@@ -4,5 +4,9 @@
   "web": "https://matic.network",
   "links": {
     "coingecko": "wmatic"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
   }
 }

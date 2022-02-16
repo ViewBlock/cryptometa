@@ -1,0 +1,12 @@
+{
+  "name": "PELEverse Character Collection",
+  "symbol": "PLVRS",
+  "web": "https://pele.network/",
+  "links": {
+    "telegram": "https://t.me/getyousomePELE"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 5
+  }
+}

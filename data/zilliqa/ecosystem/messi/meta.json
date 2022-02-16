@@ -1,0 +1,15 @@
+{
+  "name": "Messi",
+  "description": "Brings together artists to contribute and showcase their creative works, designs and ideas.",
+  "web": "https://messitokens.me",
+  "links": {
+    "twitter": "https://twitter.com/messitoken"
+  },
+  "categories": [
+    "nft"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "messi"
+}

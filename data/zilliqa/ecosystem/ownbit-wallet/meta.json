@@ -1,0 +1,16 @@
+{
+  "name": "Ownbit Wallet",
+  "description": "A multi-sig and cold wallet that supports ZIL.",
+  "web": "https://ownbit.io/en",
+  "links": {
+    "twitter": "https://twitter.com/OwnbitWallet",
+    "telegram": "https://t.me/ownbit"
+  },
+  "categories": [
+    "wallet"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "ownbit-wallet"
+}

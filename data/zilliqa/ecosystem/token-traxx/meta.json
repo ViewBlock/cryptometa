@@ -1,0 +1,20 @@
+{
+  "name": "Token Traxx",
+  "description": "NFT platform, built by musicians for the music community. It provides you with a whole new way to create, curate and collect music.",
+  "web": "https://tokentraxx.com",
+  "links": {
+    "twitter": "https://twitter.com/Token_Traxx",
+    "telegram": "https://t.me/tokentraxx",
+    "discord": "https://discord.com/invite/JyA7H4DyjG"
+  },
+  "categories": [
+    "dapp",
+    "app",
+    "nft",
+    "metaverse"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "token-traxx"
+}

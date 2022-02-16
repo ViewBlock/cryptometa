@@ -1,0 +1,17 @@
+{
+  "name": "Chainlink",
+  "description": "The most widely-used open-source oracle network that powers universally connected smart contracts.",
+  "web": "https://chain.link",
+  "links": {
+    "twitter": "https://twitter.com/chainlink",
+    "telegram": "https://t.me/chainlinkofficial",
+    "discord": "https://discord.gg/aSK4zew"
+  },
+  "categories": [
+    "oracle"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "chainlink"
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "uSPACE",
+  "name": "CryptoSpace",
+  "decimals": 18,
+  "description": "The first collection of beautiful, unique images & videos of space, our sun, moon, and planets captured by an amateur astronomer with his telescope",
+  "links": {
+    "telegram": "t.me/uspacetoken",
+    "twitter": "https://twitter.com/daviddayag"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 5
+  },
+  "website": "https://deddydayag.com"
+}

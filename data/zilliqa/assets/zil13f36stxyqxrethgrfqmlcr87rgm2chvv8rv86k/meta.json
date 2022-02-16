@@ -1,0 +1,13 @@
+{
+  "name": "A-SOUL Diana",
+  "symbol": "Diana",
+  "decimals": 5,
+  "supply": 20030307,
+  "links": {
+    "medium": "https://zil-diana.medium.com/"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 0
+  }
+}

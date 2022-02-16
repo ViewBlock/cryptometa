@@ -1,0 +1,16 @@
+{
+  "name": "Flat Lazy Ass Token",
+  "description": false,
+  "web": "https://zilstream.com/tokens/flat",
+  "links": {
+    "telegram": "https://t.me/Flattoken"
+  },
+  "categories": [
+    "meme",
+    "token"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "flat-lazy-ass-token"
+}

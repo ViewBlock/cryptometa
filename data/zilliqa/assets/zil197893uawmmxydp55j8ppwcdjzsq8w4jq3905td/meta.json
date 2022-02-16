@@ -1,0 +1,14 @@
+{
+  "name": "ThroneDiscs",
+  "symbol": "KING29",
+  "links": {
+    "instagram": "https://www.instagram.com/thronediscs"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 0
+  }
+}

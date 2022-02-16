@@ -1,0 +1,14 @@
+{
+  "name": "OCEANA",
+  "symbol": "OCN",
+  "links": {
+    "twitter": "https://twitter.com/balamedco"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

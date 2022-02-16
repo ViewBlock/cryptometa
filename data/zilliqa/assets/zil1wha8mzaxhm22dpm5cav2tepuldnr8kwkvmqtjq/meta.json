@@ -1,0 +1,17 @@
+{
+  "name": "Zilliqa-bridged WBTC",
+  "symbol": "zWBTC",
+  "web": "https://www.wbtc.network",
+  "links": {
+    "github": "https://github.com/WrappedBTC",
+    "coingecko": "https://coingecko.com/en/coins/wrapped-bitcoin",
+    "twitter": "https://twitter.com/WrappedBTC"
+  },
+  "publicTeam": true,
+  "trusted": true,
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "score": 100
+  }
+}

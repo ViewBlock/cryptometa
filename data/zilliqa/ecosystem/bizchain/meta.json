@@ -1,0 +1,15 @@
+{
+  "name": "Bizchain",
+  "description": "A blockchain-based customer relationship management (CRM) platform which streamlines workflows such as managing leads and tracking of sales pipelines.",
+  "web": "https://www.bizchain.io",
+  "links": {
+    "twitter": "https://twitter.com/BizchainI"
+  },
+  "categories": [
+    "dapp"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "bizchain"
+}

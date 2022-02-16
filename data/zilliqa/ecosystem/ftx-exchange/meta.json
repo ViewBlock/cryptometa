@@ -1,0 +1,16 @@
+{
+  "name": "FTX Exchange",
+  "description": "A centralised cryptocurrency exchange specialising in derivatives and leveraged products.",
+  "web": "https://ftx.com/en",
+  "links": {
+    "twitter": "https://twitter.com/FTX_official",
+    "telegram": "https://t.me/FTX_Official"
+  },
+  "categories": [
+    "exchange"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "ftx-exchange"
+}

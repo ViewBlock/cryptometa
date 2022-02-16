@@ -1,0 +1,15 @@
+{
+  "name": "Crypto Merch",
+  "description": "A crypto-focused merchandise e-store that also carries a huge collection of Zilliqa's latest branded merch.",
+  "web": "https://thecryptomerch.com",
+  "links": {
+    "twitter": "https://twitter.com/The_CryptoMerch?ref_src=twsrc%5Etfw"
+  },
+  "categories": [
+    "app"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "crypto-merch"
+}

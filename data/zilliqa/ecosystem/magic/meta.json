@@ -1,0 +1,16 @@
+{
+  "name": "Magic",
+  "description": "A secure, extensible passwordless authentication that’s built to scale. Developers can integrate with the Zilliqa blockchain through Magic's extension NPM package.",
+  "web": "https://magic.link",
+  "links": {
+    "twitter": "https://twitter.com/magic_labs"
+  },
+  "categories": [
+    "api",
+    "sdk"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "magic"
+}

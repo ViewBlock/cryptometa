@@ -1,0 +1,14 @@
+{
+  "name": "punkrexx",
+  "symbol": "pr",
+  "links": {
+    "twitter": "https://twitter.com/ito_gabans"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "ETHEREAL WORLD",
+  "symbol": "ETHW",
+  "links": {
+    "twitter": "balamedco"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

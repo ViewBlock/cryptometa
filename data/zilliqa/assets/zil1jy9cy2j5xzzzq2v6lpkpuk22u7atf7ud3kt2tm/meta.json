@@ -1,0 +1,13 @@
+{
+  "name": "Library Skynetwork",
+  "symbol": "BOOK",
+  "decimals": "8",
+  "supply": "256000",
+  "links": {
+    "telegram": "https://t.me/libraryskynetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 0
+  }
+}

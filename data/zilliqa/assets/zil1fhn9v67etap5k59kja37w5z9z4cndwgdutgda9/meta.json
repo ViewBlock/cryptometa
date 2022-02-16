@@ -1,0 +1,14 @@
+{
+  "name": "Coffee Art",
+  "symbol": "CA",
+  "links": {
+    "twitter": "https://twitter.com/coffeeartnft"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Ninjas in Pyjamas",
+  "description": "From local heroes to global athletes. Legendary in name, legendary in-game. 40x Champions across multiple esports titles.",
+  "web": "https://nip.gl",
+  "links": {
+    "twitter": "https://twitter.com/nip"
+  },
+  "categories": [
+    "esport",
+    "gaming",
+    "nft",
+    "metaverse"
+  ],
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg"
+  },
+  "key": "ninjas-in-pyjamas"
+}

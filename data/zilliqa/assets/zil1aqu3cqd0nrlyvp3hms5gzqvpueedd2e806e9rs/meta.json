@@ -1,0 +1,17 @@
+{
+  "name": "Silly and Foolish Person",
+  "symbol": "SIMP",
+  "web": "https://zilsimp.medium.com",
+  "supply": "10000",
+  "decimals": 4,
+  "links": {
+    "medium": "https://zilsimp.medium.com",
+    "twitter": "https://twitter.com/ZilSIMP",
+    "telegram": "https://t.me/ZilSIMP",
+    "linkedin": "https://www.linkedin.com/in/suhaibashraf"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

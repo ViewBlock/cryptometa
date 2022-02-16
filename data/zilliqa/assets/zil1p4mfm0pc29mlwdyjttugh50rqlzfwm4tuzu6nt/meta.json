@@ -1,0 +1,14 @@
+{
+  "name": "DraCones",
+  "symbol": "DRC",
+  "links": {
+    "twitter": "https://twitter.com/zildragons"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

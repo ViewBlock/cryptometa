@@ -1,0 +1,15 @@
+{
+  "name": "SuperNode Staking",
+  "description": "To reward Thunder Token holders for their contribution to the security of our state of the art Proof of Stake blockchain. Participants could deposit TT to earn staking rewards up to 24% APR. Inviting friends to join allows one to earn additional referral rewards up to 10% APR from each referee.",
+  "web": "https://supernode.thundercore.com",
+  "addresses": [
+    "0xC1381cdeC632FC47701C4B1354AD6E665EF37C32"
+  ],
+  "categories": [
+    "defi"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "supernode-staking"
+}

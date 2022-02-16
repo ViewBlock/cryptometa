@@ -1,0 +1,23 @@
+{
+  "name": "Play",
+  "symbol": "PLAY",
+  "web": "https://redchillies.org",
+  "links": {
+    "twitter": "https://twitter.com/_redchillies",
+    "telegram": "https://t.me/redchilliesRedC",
+    "github": "https://github.com/RedChillies-Core",
+    "linkedin": "https://www.linkedin.com/company/redchillies-redc"
+  },
+  "whitepaper": "https://github.com/RedChillies-Core/RedChillies-IP/blob/main/PLAY_Whitepaper.md",
+  "publicTeam": true,
+  "product": true,
+  "gen": {
+    "logo": "logo.png",
+    "score": 52
+  },
+  "config": {
+    "scoreSkip": [
+      "product"
+    ]
+  }
+}

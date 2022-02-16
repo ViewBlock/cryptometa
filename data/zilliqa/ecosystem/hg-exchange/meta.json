@@ -1,0 +1,15 @@
+{
+  "name": "Hg Exchange",
+  "description": "Zilliqa's smart contracts helps to power digital asset transactions on HG Exchange, a private equity exchange for instititional investors.",
+  "web": null,
+  "links": {},
+  "categories": [
+    "opfi"
+  ],
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg"
+  },
+  "key": "hg-exchange"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "SWTH Token",
+  "symbol": "SWTH",
+  "web": "https://carbon.network/",
+  "links": {
+    "twitter": "https://twitter.com/0xcarbon",
+    "discord": "https://discord.com/invite/SPh62Hf",
+    "github": "https://github.com/switcheo",
+    "linkedin": "https://www.linkedin.com/company/switcheonetwork",
+    "telegram": "https://t.me/switcheo",
+    "facebook": "https://www.facebook.com/SwitcheoExchange"
+  },
+  "holders": true,
+  "product": true,
+  "publicTeam": true,
+  "gen": {
+    "logo": "logo.svg",
+    "score": 81
+  }
+}

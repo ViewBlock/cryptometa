@@ -1,0 +1,14 @@
+{
+  "name": "8 Bit Richards",
+  "symbol": "8BR",
+  "links": {
+    "twitter": "8bitrichards"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

@@ -24,28 +24,24 @@ we have some icons specially made for this case. You simply need to add the `?t=
 
 If the image has a dark alternative, that's what you will get otherwise it will fallback to the default one.
 
-### How to add/update your token
-
-- Fork the repo
-- Create a folder in the appropriate chain folder named after your contract address
-- Your image must be either SVG or PNG 100x100 to 500x500 (max 40kb) and named `logo.<extension>` (do not base64 encode your PNG in a SVG)
-- Add information of your project using the following spec:
+### Specification
 
 | Param               | Type     | Required   | Points  | Notes                                                     |
 | ------------------- | -------- | ---------- | ------- | --------------------------------------------------------- |
 | name                | `String` | `true`     |         |                                                           |
+| description         | `String` | `false`    |         | A brief description of the project                        |
 | symbol              | `String` | `true`     |         |                                                           |
-| web                 | `String` | `false`    | 5       |                                                           |
+| web                 | `String` | `false`    | 5       | Websites should use https                                 |
 | decimals            | `Number` | `false`    |         |                                                           |
 | supply              | `Number` | `false`    |         |                                                           |
 | email               | `String` | `false`    |         | Email of the team                                         |
-| whitepaper          | `String` | `false`    | 10      | Link to the WP                                            |
+| whitepaper          | `String` | `false`    | 10      | Whitepaper. Not 3 paragraphs you put in a PDF just for that purpose |
 | holders             | `Bool`   | `false`    | 10      | Only specify if more than 1000 holders without airdrops   |
-| publicTeam          | `Bool`   | `false`    | 20      | Teams members with public profiles, non-anon              |
-| product             | `Bool`   | `false`    | 30      | Usable product on mainnet with decent activity and users giving token utility |
+| publicTeam          | `Bool`   | `false`    | 20      | Teams members with public verifiable profiles with history (preferably more than 1 one Linkedin) |
+| product             | `Bool`   | `false`    | 30      | Usable product on mainnet with decent activity/users + clear token utility + token activity |
 | links.research      | `String` | `false`    | 10      | Either binance research, TokenData or the like            |
-| links.github        | `String` | `false`    | 10      | Org or account with repos related to the project          |
-| links.linkedin      | `String` | `false`    | 10      |                                                           |
+| links.github        | `String` | `false`    | 10      | Org or account **with repos related to the project**, not an empty one with just the cryptometa fork for example |
+| links.linkedin      | `String` | `false`    | 10      | Should have 1 or 2 members public on the page             |
 | links.twitter       | `String` | `false`    | 5       |                                                           |
 | links.coinmarketcap | `String` | `false`    |         |                                                           |
 | links.coingecko     | `String` | `false`    |         |                                                           |
@@ -58,10 +54,6 @@ If the image has a dark alternative, that's what you will get otherwise it will 
 | links.youtube       | `String` | `false`    |         |                                                           |
 | links.instagram     | `String` | `false`    |         |                                                           |
 | donations           | `Object` | `false`    |         | `{ "ethereum": "0x...", "zilliqa": "zil1..."}`            |
-
-- No need to calculate and specify the score yourself, as it will be automatically
-  generated based on the provided properties
-- Create and submit a PR
 
 Upon disagreements as to which property a token has/deserves, remember that we
 ultimately have the final say in order to protect people as much as we can.

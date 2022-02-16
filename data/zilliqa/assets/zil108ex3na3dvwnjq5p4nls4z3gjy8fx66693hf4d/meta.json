@@ -1,0 +1,19 @@
+{
+  "name": "Consult Coin",
+  "symbol": "CONSULT",
+  "web": "https://www.consultcrypto.net",
+  "supply": "21600000",
+  "email": "info@consultcrypto.net",
+  "whitepaper": "https://www.consultcrypto.net/wp-content/uploads/2021/08/CONSULT-Token-Whitepaper-2108_1.pdf",
+  "publicTeam": true,
+  "links": {
+    "telegram": "https://t.me/stokenlaunch",
+    "twitter": "https://twitter.com/ConsultCoin",
+    "linkedin": "https://www.linkedin.com/in/saayanchoudhury/",
+    "github": "https://github.com/saayan/consultcrypto"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 52
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "MoonPay",
+  "description": "A secure and fast way to buy ZIL.",
+  "web": "https://www.moonpay.com",
+  "links": {
+    "twitter": "https://twitter.com/MoonPayHQ"
+  },
+  "categories": [
+    "exchange"
+  ],
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true
+  },
+  "key": "moonpay"
+}

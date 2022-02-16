@@ -1,0 +1,14 @@
+{
+  "name": "Zillixels",
+  "symbol": "Lixels",
+  "links": {
+    "twitter": "https://twitter.com/meresse_didier"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

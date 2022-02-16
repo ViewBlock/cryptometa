@@ -1,0 +1,15 @@
+{
+  "name": "Tora ",
+  "description": false,
+  "web": null,
+  "links": {
+    "twitter": "https://twitter.com/teexio?lang=en"
+  },
+  "categories": [
+    "tools"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "tora"
+}

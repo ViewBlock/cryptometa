@@ -1,0 +1,13 @@
+{
+  "name": "Brightree",
+  "description": "Used for O&G, Brightree extracts data from refueling to prevent bunker oil pilferage using IoT and Blockchain technology.",
+  "web": "https://www.brightree.com.sg",
+  "links": {},
+  "categories": [
+    "dapp"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "brightree"
+}

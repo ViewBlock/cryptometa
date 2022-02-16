@@ -1,0 +1,17 @@
+{
+  "name": "Blox",
+  "description": "Next-gen bridge between blockchain and gaming",
+  "web": "https://blox-sdk.com",
+  "links": {
+    "telegram": "https://t.me/zilliqaroyale_discussion"
+  },
+  "categories": [
+    "sdk",
+    "nft",
+    "gaming"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "blox"
+}

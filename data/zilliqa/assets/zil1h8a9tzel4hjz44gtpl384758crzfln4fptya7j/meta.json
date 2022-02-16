@@ -1,0 +1,14 @@
+{
+  "name": "ZIL SNEKS",
+  "symbol": "SNEKS",
+  "links": {
+    "twitter": "diabolixx2"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

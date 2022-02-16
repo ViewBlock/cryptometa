@@ -15,7 +15,7 @@ const readMeta = async path => {
     const contents = await readFile(path, 'utf-8')
     return JSON.parse(contents)
   } catch {
-    throw new Error(`Invalid meta at ${relativePath(path)}`)
+    throw new Error(`Invalid meta at data/${relativePath(path)}`)
   }
 }
 
@@ -41,8 +41,13 @@ const getScore = data => {
     return 100
   }
 
+  const skipsByKey = (get(data, 'config.scoreSkip') || []).reduce(
+    (acc, k) => ((acc[k] = true), acc),
+    {},
+  )
+
   const score = Object.keys(scoreItems).reduce(
-    (acc, key) => acc + (get(data, key) ? scoreItems[key] : 0),
+    (acc, key) => acc + (get(data, key) && !skipsByKey[key] ? scoreItems[key] : 0),
     0,
   )
 
@@ -104,11 +109,11 @@ const updateMeta = async (path, { skipScore } = {}) => {
   return out
 }
 
-const getFilters = async () => {
-  const arg = process.argv[2]
+const arg = process.argv[2]
 
+const getFilters = async () => {
   if (!arg) {
-    const res = await exec('git diff --name-only HEAD HEAD~1 ')
+    const res = await exec('git diff --name-only HEAD HEAD~1')
 
     return res.stdout
       .split('\n')
@@ -120,21 +125,35 @@ const getFilters = async () => {
           acc[splits[1]] = {}
         }
 
-        acc[splits[1]][splits[3]] = 1
+        if (splits[2] === 'ecosystem') {
+          acc[splits[1]].ecosystem = true
+          return acc
+        }
+
+        if (splits[2] === 'labels.json') {
+          acc[splits[1]].labels = true
+          return acc
+        }
+
+        if (!splits[3]) {
+          acc[splits[1]].main = true
+        } else {
+          acc[splits[1]][splits[3]] = 1
+          acc[splits[1]].assets = true
+        }
 
         return acc
       }, {})
   }
 
-  if (arg === 'all') {
-    return {}
-  }
+  if (arg === 'all') return null
 
-  const splits = arg.split('/')
+  const [chain, target] = arg.split('/')
 
   return {
-    [splits[0]]: {
-      [splits[1]]: 1,
+    [chain]: {
+      ...(target ? { [target]: true } : { main: true }),
+      ...(target && !['ecosystem', 'labels'].includes(target) ? { assets: true } : {}),
     },
   }
 }
@@ -144,31 +163,73 @@ const main = async () => {
 
   const filters = await getFilters()
 
+  const fullGen = !filters
+
   const full = merge(await loadFull(), {
     _symbols: {},
     _chains: {},
-    _remap: {
-      bsc: 'binance',
-      huobi: 'ethereum.0x6f259637dcd74c767781e37bc6133cd6a68aa161',
-      chiliz: 'ethereum.0x3506424f91fd33084466f402d5d97f05f8e3b4af',
-      polygon: 'ethereum.0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0',
-      waves: 'ethereum.0x1cf4592ebffd730c7dc92c1bdffdfc3b9efcf29a',
-
-      RUNE: 'thorchain',
-      'THOR.RUNE': 'thorchain',
-      // 'binance.ETH-1C9': 'ethereum',
-    },
   })
 
+  full._remap = {
+    bsc: 'binance',
+    huobi: 'ethereum.0x6f259637dcd74c767781e37bc6133cd6a68aa161',
+    chiliz: 'ethereum.0x3506424f91fd33084466f402d5d97f05f8e3b4af',
+    // polygon: 'ethereum.0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0',
+    waves: 'ethereum.0x1cf4592ebffd730c7dc92c1bdffdfc3b9efcf29a',
+
+    RUNE: 'thorchain',
+    'THOR.RUNE': 'thorchain',
+    // 'binance.ETH-1C9': 'ethereum',
+  }
+
   for (const chain of chains) {
-    if (full._remap[chain] || !filters[chain]) {
+    if (!fullGen && (full._remap[chain] || !filters[chain])) {
       continue
     }
 
     const path = join(ROOT, chain)
     const files = await readdir(path)
 
-    const meta = await updateMeta(path, { skipScore: true })
+    const meta = merge(full[chain], await updateMeta(path, { skipScore: true }))
+
+    if (
+      (fullGen || filters[chain].main || filters[chain].labels) &&
+      files.includes('labels.json')
+    ) {
+      meta.labels = require(join(path, 'labels.json'))
+    }
+
+    if (
+      (fullGen || filters[chain].main || filters[chain].ecosystem) &&
+      files.includes('ecosystem')
+    ) {
+      const projs = await readdir(join(path, 'ecosystem'))
+
+      meta.ecosystem = {}
+
+      for (const key of projs) {
+        const files = await readdir(join(path, `ecosystem/${key}`))
+        const mainLogo = files.find(f => f.startsWith('logo.'))
+        const white = files.find(f => f.startsWith('logo-white'))
+
+        const metaPath = join(path, 'ecosystem', key, 'meta.json')
+
+        const payload = {
+          ...require(metaPath),
+          key,
+          gen: {
+            logo: mainLogo,
+            ...(white ? { hasDark: true } : {}),
+            ...(white && !white.endsWith('png') ? { darkExt: white.split('.')[1] } : {}),
+          },
+        }
+
+        await writeFile(metaPath, JSON.stringify(payload, null, 2))
+
+        meta.ecosystem[key] = payload
+      }
+    }
+
     full[chain] = { ...meta, config: undefined }
 
     full._chains[chain] = meta.symbol
@@ -176,7 +237,7 @@ const main = async () => {
 
     const allKeys = Object.keys(full)
 
-    if (files.includes('assets')) {
+    if ((fullGen || filters[chain].main || filters[chain].assets) && files.includes('assets')) {
       const assets = await readdir(join(path, 'assets'))
       const assetsLength = assets.length
       const assetKeys = assets.reduce((acc, hash) => ((acc[`${chain}.${hash}`] = true), acc), {})
@@ -190,16 +251,21 @@ const main = async () => {
 
       for (let i = 0; i < assetsLength; ++i) {
         const hash = assets[i]
-        if (full._remap[`${chain}.${hash}`] || !get(filters, `${chain}.${hash}`)) {
+        if (
+          full._remap[`${chain}.${hash}`] ||
+          (!get(filters, `${chain}.${hash}`) && !get(filters, `${chain}.undefined`))
+        ) {
           continue
         }
 
         const meta = await updateMeta(join(path, `assets/${hash}`))
+
+        const progress = arg
+          ? ` ${i}/${assetsLength} (${((i / assetsLength) * 100).toFixed(2)}%)`
+          : ''
+
         console.log(
-          `[${chain}:${meta.symbol || meta.name || hash}] ${i}/${assetsLength} (${(
-            (i / assetsLength) *
-            100
-          ).toFixed(2)}%)`,
+          `[${chain}:${meta.symbol || meta.name || hash}]${progress} [${meta.gen.score}/100 ⭐]`,
         )
 
         if (meta.aliases && meta.aliases.length) {

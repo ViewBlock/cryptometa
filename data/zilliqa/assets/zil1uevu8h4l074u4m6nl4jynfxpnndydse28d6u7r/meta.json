@@ -1,0 +1,14 @@
+{
+  "name": "Denis Digital",
+  "symbol": "DD",
+  "links": {
+    "twitter": "https://twitter.com/denisdigitalnft"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

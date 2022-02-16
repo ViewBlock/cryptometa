@@ -1,0 +1,9 @@
+{
+  "name": "Eggzilla",
+  "symbol": "EGGZ",
+  "supply": "21000",
+  "gen": {
+    "logo": "logo.png",
+    "score": 0
+  }
+}

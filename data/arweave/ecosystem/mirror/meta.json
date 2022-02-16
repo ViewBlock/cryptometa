@@ -1,0 +1,23 @@
+{
+  "name": "Mirror",
+  "description": "Publishing platform revolutionizing the way we express, share and monetize our thoughts",
+  "web": "https://mirror.xyz",
+  "categories": [
+    "publishing"
+  ],
+  "addresses": [],
+  "links": {
+    "github": "mirror-xyz"
+  },
+  "developers": [
+    {
+      "name": "Tom Meagher",
+      "github": "tmm",
+      "twitter": "awkweb"
+    }
+  ],
+  "gen": {
+    "logo": "logo.jpeg"
+  },
+  "key": "mirror"
+}

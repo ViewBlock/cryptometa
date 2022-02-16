@@ -8,9 +8,10 @@
   },
   "email": null,
   "decimals": 18,
-  "supply": 9001,
+  "supply": 13201,
+  "trusted": true,
   "gen": {
-    "logo": "logo.png",
-    "score": 0
+    "logo": "logo.svg",
+    "score": 100
   }
 }

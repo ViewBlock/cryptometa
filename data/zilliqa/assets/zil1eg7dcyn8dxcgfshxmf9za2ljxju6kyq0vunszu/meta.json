@@ -1,0 +1,21 @@
+{
+  "name": "GEMZ",
+  "symbol": "GEMZ",
+  "web": "https://battlemechs.co/",
+  "supply": "5000000",
+  "holders": false,
+  "email": "contact@undefinedcompany.com",
+  "links": {
+    "twitter": "https://twitter.com/battle_mechs",
+    "telegram": "https://t.me/joinchat/SSK4lkEB_VQ4Zjg8",
+    "linkedin": "https://www.linkedin.com/in/arthur-hoeke-170691103/"
+  },
+  "publicTeam": true,
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 33
+  }
+}

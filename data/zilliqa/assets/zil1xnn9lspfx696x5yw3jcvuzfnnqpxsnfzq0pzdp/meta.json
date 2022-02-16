@@ -1,0 +1,14 @@
+{
+  "name": "Zillicones Batch 2",
+  "symbol": "ICED",
+  "links": {
+    "twitter": "zillicones"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "DV Trading",
+  "description": false,
+  "web": "https://www.dvtrading.co",
+  "links": {},
+  "categories": [
+    "tools"
+  ],
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true
+  },
+  "key": "dv-trading"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Unblock Analysis",
+  "description": "Unblock uses real time KYC to enable easy compliance and deep insights into every transaction, helping users make more-informed decisions.",
+  "web": "https://www.unblock-analysis.com",
+  "links": {},
+  "categories": [
+    "api"
+  ],
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true
+  },
+  "key": "unblock-analysis"
+}

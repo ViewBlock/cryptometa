@@ -1,0 +1,17 @@
+{
+  "name": "Torus",
+  "description": "An open-source key management system that is simple, secure and non-custodial.",
+  "web": "https://tor.us",
+  "links": {
+    "twitter": "https://twitter.com/TorusLabs",
+    "telegram": "https://t.me/TorusLabs",
+    "discord": "https://github.com/torusresearch/"
+  },
+  "categories": [
+    "api"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "torus"
+}

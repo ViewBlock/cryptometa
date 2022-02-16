@@ -1,0 +1,16 @@
+{
+  "name": "Access",
+  "description": "A decentralised app that provides NFT-based solutions for events and ticketing.",
+  "web": "https://www.access.org.sg",
+  "links": {
+    "twitter": "https://twitter.com/AccessSg"
+  },
+  "categories": [
+    "education",
+    "nft"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "access"
+}

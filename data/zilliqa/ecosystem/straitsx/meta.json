@@ -1,0 +1,14 @@
+{
+  "name": "StraitsX",
+  "description": "The payment infrastructure provider for Digital Assets like XSGD.",
+  "web": "https://www.xfers.com/sg/straitsx",
+  "links": {},
+  "categories": [
+    "payment",
+    "opfi"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "straitsx"
+}

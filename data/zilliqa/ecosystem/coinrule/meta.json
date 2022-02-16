@@ -1,0 +1,16 @@
+{
+  "name": "Coinrule",
+  "description": "A smart assistant for crypto currency trading, allowing users to take full control of their trading.",
+  "web": "https://coinrule.com",
+  "links": {
+    "twitter": "https://twitter.com/CoinRuleHQ"
+  },
+  "categories": [
+    "app",
+    "tools"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "coinrule"
+}

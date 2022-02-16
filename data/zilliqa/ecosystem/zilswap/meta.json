@@ -1,0 +1,22 @@
+{
+  "name": "ZilSwap",
+  "description": "A DEX on the Zilliqa blockchain.",
+  "web": "https://zilswap.io",
+  "addresses": [
+    "zil1efkn743p324gnnfqgpk0y2hwy6ag7cyfephyjt",
+    "zil1p5suryq6q647usxczale29cu3336hhp376c627",
+    "zil1hgg7k77vpgpwj3av7q7vv5dl4uvunmqqjzpv2w"
+  ],
+  "links": {
+    "twitter": "ZilSwap",
+    "discord": "SMzzQ2sUMN"
+  },
+  "categories": [
+    "dex",
+    "defi"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "zilswap"
+}

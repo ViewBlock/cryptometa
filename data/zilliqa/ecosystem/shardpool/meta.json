@@ -1,0 +1,19 @@
+{
+  "name": "ShardPool",
+  "description": "Shardpool built a Zilliqa mining pool with dual mining features and staking services",
+  "web": "https://shardpool.io",
+  "links": {
+    "twitter": "https://twitter.com/Shardpoolio",
+    "telegram": "https://t.me/kidkid1"
+  },
+  "addresses": [
+    "zil1jrpjd8pjuv50cfkfr7eu6yrm3rn5u8rulqhqpz"
+  ],
+  "categories": [
+    "mining"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "shardpool"
+}

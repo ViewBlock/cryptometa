@@ -1,0 +1,23 @@
+{
+  "name": "Wisdom Wizards",
+  "description": "Decentralized Learning Management System on Arweave",
+  "web": "https://wisdomwizards.school",
+  "categories": [
+    "education"
+  ],
+  "addresses": [],
+  "links": {
+    "github": "luckyr13/wisdom-wizards"
+  },
+  "developers": [
+    {
+      "name": "Luckyr13",
+      "github": "luckyr13",
+      "twitter": "criptoalfa"
+    }
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "wisdomwizards"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Jones Scribbles",
+  "symbol": "DJS",
+  "links": {
+    "twitter": "https://twitter.com/shilldianajones"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

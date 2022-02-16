@@ -1,0 +1,14 @@
+{
+  "name": "NFTalie",
+  "symbol": "NFTa",
+  "links": {
+    "twitter": "nft_alie"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

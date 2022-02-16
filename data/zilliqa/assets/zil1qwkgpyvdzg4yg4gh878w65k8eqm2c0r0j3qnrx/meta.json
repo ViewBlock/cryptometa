@@ -1,0 +1,14 @@
+{
+  "name": "The Perfect NFT",
+  "symbol": "TPN",
+  "links": {
+    "twitter": "theperfectnft"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}
