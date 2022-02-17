@@ -10,11 +10,7 @@
       "github": "https://github.com/switcheo",
       "linkedin": "https://www.linkedin.com/company/switcheonetwork"
     },
-    "holders": true,
-    "product": true,
-    "publicTeam": true,
     "gen": {
-      "logo": "logo.png",
-      "score": 10
+      "logo": "logo.png"
     }
 }
