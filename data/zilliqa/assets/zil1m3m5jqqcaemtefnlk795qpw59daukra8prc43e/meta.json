@@ -1,0 +1,17 @@
+{
+  "name": "Huny Token",
+  "symbol": "HUNY",
+  "web": "https://zolar.io",
+  "description": "",
+  "decimals": 12,
+  "links": {
+    "twitter": "https://twitter.com/bearmarketnft",
+    "discord": "https://discord.gg/zilswap",
+    "github": "https://github.com/switcheo",
+    "linkedin": "https://www.linkedin.com/company/switcheonetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 24
+  }
+}
