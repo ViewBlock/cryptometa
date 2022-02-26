@@ -7,8 +7,8 @@ const axios = require('axios')
 
 const toImg = promisify(svg2img)
 
-const [readdir, writeFile, readFile] = ['readdir', 'writeFile', 'readFile'].map(name =>
-  promisify(fs[name]),
+const [readdir, writeFile, readFile, exists] = ['readdir', 'writeFile', 'readFile', 'exists'].map(
+  name => promisify(fs[name]),
 )
 
 const exec = promisify(cp.exec)
@@ -42,6 +42,7 @@ module.exports = {
   readdir,
   writeFile,
   readFile,
+  exists,
 
   dlImage,
 }

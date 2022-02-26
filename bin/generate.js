@@ -4,7 +4,7 @@ const merge = require('lodash/merge')
 const { BASE, DEFAULT_IMG } = require('../src/config')
 const { get } = require('../src/utils')
 const { checkDark } = require('./colors')
-const { toImg, loadFull, exec, readdir, readFile, writeFile } = require('./utils')
+const { toImg, loadFull, exec, readdir, readFile, writeFile, exists } = require('./utils')
 
 const ROOT = join(__dirname, '../data')
 
@@ -12,9 +12,10 @@ const relativePath = path => path.replace(`${ROOT}/`, '')
 
 const readMeta = async path => {
   try {
+    if (!(await exists(path))) return null
     const contents = await readFile(path, 'utf-8')
     return JSON.parse(contents)
-  } catch {
+  } catch (err) {
     throw new Error(`Invalid meta at data/${relativePath(path)}`)
   }
 }
@@ -58,6 +59,8 @@ const updateMeta = async (path, { skipScore } = {}) => {
   const files = await readdir(path)
   const metaPath = join(path, 'meta.json')
   const meta = await readMeta(metaPath)
+
+  if (!meta) return null
 
   const logoName = files.find(file => file.startsWith('logo.'))
   const logoDark = files.find(f => f.startsWith('logo-white.'))
@@ -258,11 +261,17 @@ const main = async () => {
           continue
         }
 
-        const meta = await updateMeta(join(path, `assets/${hash}`))
-
         const progress = arg
           ? ` ${i}/${assetsLength} (${((i / assetsLength) * 100).toFixed(2)}%)`
           : ''
+
+        const meta = await updateMeta(join(path, `assets/${hash}`))
+
+        if (!meta) {
+          delete full[`${chain}.${hash}`]
+          console.log(`[${chain}:${hash}]${progress} [REMOVED]`)
+          continue
+        }
 
         console.log(
           `[${chain}:${meta.symbol || meta.name || hash}]${progress} [${meta.gen.score}/100 ⭐]`,
