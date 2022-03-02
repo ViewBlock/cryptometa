@@ -1,0 +1,5 @@
+bin/fetchC*.js
+bin/fetchB*.js
+bin/fetchE*.js
+fallback.png
+/.vs/slnx.sqlite
