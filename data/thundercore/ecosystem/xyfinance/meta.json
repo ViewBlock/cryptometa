@@ -1,0 +1,24 @@
+{
+  "name": "XY Finance",
+  "description": "One Stop Cross-Chain Aggregator for DeFi & Metaverse.",
+  "web": "https://xy.finance",
+  "categories": [
+    "defi"
+  ],
+  "addresses": [
+    "0x50a64d05bb8618d8d96a83cbbb12b3044ec3489a",
+    "0x73ce60416035b8d7019f6399778c14ccf5c9c7a1",
+    "0x74a0eea77e342323aa463098e959612d3fe6e686"
+  ],
+  "links": {
+    "twitter": "xyfinance",
+    "telegram": "xyfinance",
+    "discord": "xyfinance",
+    "medium": "https://medium.com/@xyfinance",
+    "blog": "https://docs.xy.finance"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "xyfinance"
+}
