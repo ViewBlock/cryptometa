@@ -13,7 +13,7 @@
   },
   "gen": {
     "logo": "logo.svg",
-    "darkExt": "svg",
-    "hasDark": true
+    "hasDark": true,
+    "darkExt": "svg"
   }
 }
