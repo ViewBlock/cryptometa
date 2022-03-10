@@ -4,9 +4,9 @@
   "web": "https://another.money",
   "supply": 320000000,
   "email": "another.money@hns.is",
-  "product": true,
+  "product": false,
   "publicTeam": true,
-  "trusted": true,
+  "trusted": false,
   "links": {
     "github": "https://github.com/cybrlabs/",
     "twitter": "https://twitter.com/cybrlabs/",
