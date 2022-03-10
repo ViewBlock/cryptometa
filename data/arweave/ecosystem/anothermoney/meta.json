@@ -1,0 +1,28 @@
+{
+  "name": "Another Money",
+  "description": "Another Coin is the first serious non-PST token based on arweave blockchain. Made specially for usage in SmartWeave Contracts.",
+  "web": "https://another.money",
+  "categories": [
+    "coins"
+  ],
+  "addresses": [
+    
+  ],
+  "links": {
+    "discord": "invite/pEVy4VD882",
+    "github": "another-money"
+  },
+  "developers": [
+    {
+      "name": "Nikita Rykov",
+      "github": "angrymouse",
+      "twitter": "angrymouse_hns"
+    }
+  ],
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "darkExt": "png"
+  },
+  "key": "anothermoney"
+}
