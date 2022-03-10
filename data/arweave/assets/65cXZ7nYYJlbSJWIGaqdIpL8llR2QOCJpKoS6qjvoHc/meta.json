@@ -6,6 +6,7 @@
   "email": "another.money@hns.is",
   "product": false,
   "publicTeam": true,
+  "decimals":12,
   "trusted": false,
   "links": {
     "github": "https://github.com/cybrlabs/",
