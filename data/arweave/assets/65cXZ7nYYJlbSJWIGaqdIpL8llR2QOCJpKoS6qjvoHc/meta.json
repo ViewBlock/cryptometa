@@ -1,0 +1,25 @@
+{
+  "name": "Another Money",
+  "symbol": "ANO",
+  "web": "https://another.money",
+  "supply": 320000000,
+  "email": "another.money@hns.is",
+  "product": false,
+  "publicTeam": true,
+  "decimals":12,
+  "trusted": false,
+  "links": {
+    "github": "https://github.com/cybrlabs/",
+    "twitter": "https://twitter.com/cybrlabs/",
+    "discord": "https://discord.plus/nl"
+  },
+  "config": {
+    "manualDark": true
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "darkExt": "png",
+    "score": 100
+  }
+}
