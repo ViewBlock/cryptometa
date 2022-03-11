@@ -3,9 +3,7 @@
   "description": "Decentralized financial service for everyone, everywhere",
   "web": "https://ever.finance",
   "categories": [
-    "defi",
-    "dex",
-    "financial"
+    "defi"
   ],
   "addresses": [],
   "links": {

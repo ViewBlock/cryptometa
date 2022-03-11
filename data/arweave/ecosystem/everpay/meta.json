@@ -3,10 +3,7 @@
   "description": "Read-time payment protocol for the blockchain",
   "web": "https://everpay.io",
   "categories": [
-    "defi",
-    "dex",
-    "layer2",
-    "payment"
+    "defi"
   ],
   "addresses": [
     "dH-_dwLlN86fitrFZzi86IVEEQFyYpTzWcqnFh460ys",
