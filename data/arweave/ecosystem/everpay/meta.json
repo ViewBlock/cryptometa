@@ -24,13 +24,14 @@
     },
     {
       "name": "sandy",
-      "github":"zyjblockchain",
+      "github": "zyjblockchain",
       "twitter": "SandyA911"
     }
   ],
   "gen": {
-    "logo": "logo.png",
-    "hasDark": true
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg"
   },
   "key": "everpay"
 }
