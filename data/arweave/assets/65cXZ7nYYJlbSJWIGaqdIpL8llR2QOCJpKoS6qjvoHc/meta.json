@@ -4,22 +4,15 @@
   "web": "https://another.money",
   "supply": 320000000,
   "email": "another.money@hns.is",
-  "product": false,
   "publicTeam": true,
-  "decimals":12,
-  "trusted": false,
+  "decimals": 12,
   "links": {
-    "github": "https://github.com/cybrlabs/",
-    "twitter": "https://twitter.com/cybrlabs/",
+    "github": "cybrlabs",
+    "twitter": "cybrlabs",
     "discord": "https://discord.plus/nl"
-  },
-  "config": {
-    "manualDark": true
   },
   "gen": {
     "logo": "logo.png",
-    "hasDark": true,
-    "darkExt": "png",
-    "score": 100
+    "score": 38
   }
 }
