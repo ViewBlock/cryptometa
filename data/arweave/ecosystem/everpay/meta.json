@@ -1,0 +1,36 @@
+{
+  "name": "everPay",
+  "description": "Read-time payment protocol for the blockchain",
+  "web": "https://everpay.io",
+  "categories": [
+    "defi"
+  ],
+  "addresses": [
+    "dH-_dwLlN86fitrFZzi86IVEEQFyYpTzWcqnFh460ys",
+    "uGx-QfBXSwABKxjha-00dI7vvfyqIYblY6Z5L6cyTFM"
+  ],
+  "links": {
+    "github": "everFinance",
+    "twitter": "FinanceEver",
+    "medium": "https://medium.com/everfinance",
+    "telegram": "https://t.me/FinanceEver",
+    "discord": "https://discord.com/invite/WM5MQZGVPF"
+  },
+  "developers": [
+    {
+      "name": "outprog",
+      "github": "outprog",
+      "twitter": "outprog_eth"
+    },
+    {
+      "name": "sandy",
+      "github":"zyjblockchain",
+      "twitter": "SandyA911"
+    }
+  ],
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true
+  },
+  "key": "everpay"
+}
