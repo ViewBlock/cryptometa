@@ -5,15 +5,26 @@
   "categories": [
     "storage"
   ],
-  "addresses": [],
+  "addresses": [
+    "-8A6RexFkpfWwuyVO98wzSFZh0d6VJuI-buTJvlwOJQ"
+  ],
   "links": {
-    "github": "ardriveapp"
+    "github": "ardriveapp",
+    "linkedin": "ardrive",
+    "twitter": "ardriveapp",
+    "blog": "https://ardrive.io/blog",
+    "discord": "https://discord.gg/ya4hf2H"
   },
   "developers": [
     {
       "name": "Phil Mataras",
       "github": "vilenarios",
       "twitter": "vilenarios"
+    },
+    {
+      "name": "Ariel Melendez",
+      "github": "arielmelendez",
+      "twitter": "amelendeztweets"
     }
   ],
   "gen": {
