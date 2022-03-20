@@ -1,21 +1,22 @@
 {
   "name": "DecentLand",
-  "description": "A social network protocol built on the Arweave's Permaweb",
+  "description": "The web3 social layer",
   "web": "http://decent.land",
   "categories": [
     "social"
   ],
   "addresses": [
-    "sew_MAXZIgmyEPzzOTkdAca7SQCL9XTCMfxY3KOE5-M"
+    "HrPi8hFc7M5dbrtlELfTKwPr53RRrDBgXGdDkp0h-j4"
   ],
   "links": {
-    "github": "decentland"
+    "github": "decentldotland",
+    "twitter": "decentdotland",
+    "telegram": "decentland"
   },
   "developers": [
     {
       "name": "Darwin",
-      "github": "charmful0x",
-      "twitter": "decentland_"
+      "github": "charmful0x"
     }
   ],
   "gen": {
