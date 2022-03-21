@@ -1,17 +1,16 @@
 {
   "name": "Metazoa",
   "symbol": "ZOA",
-  "web": "https://zolar.io/",
-  "whitepaper": "https://docs.zolar.io/",
+  "web": "https://zolar.io",
+  "whitepaper": "https://docs.zolar.io",
   "links": {
     "twitter": "https://twitter.com/bearmarketnft",
     "discord": "https://discord.gg/zilswap",
     "instagram": "https://instagram.com/thebearmarketnft"
   },
-  "holders": true,
-  "product": true,
   "publicTeam": true,
   "gen": {
-    "logo": "logo.png"
+    "logo": "logo.png",
+    "score": 38
   }
 }
