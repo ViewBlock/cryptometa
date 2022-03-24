@@ -1,11 +1,12 @@
+{
 "name": "Chat Thunder",
-  "symbol": "Chat TT",
-  "description": "Chat Thunder is a news forum and social community, and Chat Thunder token (Chat TT) is it's official token",
-  "web": "https://ChatThunder.site/",
-  "decimals": 18,
-  "whitepaper": "https://io.chatthunder.site/wp-content/uploads/2022/03/Chat-Thunder-white-paper.pdf",
-  "email": "admin@chatthunder.site",
-  "links": {
-    "telegram": "https://t.me/chat_thunder"
+"symbol": "Chat TT",
+"description": "Chat Thunder is a news forum and social community, and Chat Thunder token (Chat TT) is it's official token",
+"web": "https://ChatThunder.site/",
+"decimals": 18,
+"whitepaper": "https://io.chatthunder.site/wp-content/uploads/2022/03/Chat-Thunder-white-paper.pdf",
+"email": "admin@chatthunder.site",
+"links": {
+"telegram": "https://t.me/chat_thunder"
   }
 } 
