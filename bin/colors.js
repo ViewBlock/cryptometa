@@ -141,23 +141,27 @@ const getDominantColors = async colors => {
 }
 
 const checkDark = async path => {
-  const colors = await getAllColors(path)
+  try {
+    const colors = await getAllColors(path)
 
-  if (!colors.transparent) {
+    if (!colors.transparent) {
+      return false
+    }
+
+    if (Object.keys(colors).length > 5) {
+      return false
+    }
+
+    const dominant = await getDominantColors(colors)
+
+    if (!dominant.length) {
+      return false
+    }
+
+    return DARKS[dominant[0]] && (!dominant[1] || DARKS[dominant[1]])
+  } catch (err) {
     return false
   }
-
-  if (Object.keys(colors).length > 5) {
-    return false
-  }
-
-  const dominant = await getDominantColors(colors)
-
-  if (!dominant.length) {
-    return false
-  }
-
-  return DARKS[dominant[0]] && (!dominant[1] || DARKS[dominant[1]])
 }
 
 module.exports = {
