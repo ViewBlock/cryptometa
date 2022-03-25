@@ -12,5 +12,9 @@
     "discord": "http://discord.gg/soullesscitadel",
     "youtube": "https://www.youtube.com/channel/UCERqlDDPR22C7fwC9bpQWJA",
     "instagram": "https://www.instagram.com/soullesscitadel/"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 62
   }
 }
