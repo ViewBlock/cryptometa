@@ -1,6 +1,6 @@
 {
-  "name": "TT-ETH",
-  "symbol": "TT-ETH",
+  "name": "Ethereum",
+  "symbol": "ETH",
   "trusted": true,
   "gen": {
     "logo": "logo.png",
