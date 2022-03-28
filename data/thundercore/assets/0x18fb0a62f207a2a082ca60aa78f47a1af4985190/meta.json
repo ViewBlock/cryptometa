@@ -4,6 +4,7 @@
   "trusted": true,
   "gen": {
     "logo": "logo.png",
+    "hasDark": true,
     "score": 100
   }
 }
