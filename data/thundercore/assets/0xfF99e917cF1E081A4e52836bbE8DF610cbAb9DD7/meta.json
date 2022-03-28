@@ -1,0 +1,9 @@
+{
+    "name": "Planet Master Token",
+    "symbol": "PMT",
+    "description": "Collect Planet Master Token to unbox the treasure chest!",
+    "web": "https://master.diceplanet.xyz/",
+    "decimals": 18,
+    "email": "diceplanet@gmail.com",
+    "product": true
+}
