@@ -1,6 +1,6 @@
 {
-  "name": "TT-USDT",
-  "symbol": "TT-USDT",
+  "name": "Tether",
+  "symbol": "USDT",
   "trusted": true,
   "gen": {
     "logo": "logo.png",
