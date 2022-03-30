@@ -1,0 +1,14 @@
+{
+"name": "Lovecoin",
+"symbol": "Lovecoin",
+"description": "Lovecoin is a phone mineable cryptocurrency token designed to help spread Love, Peace, Happiness & Economic Freedom Worldwide.",
+"web": "https://www.lovecointoken.com/",
+"decimals": 18,
+"whitepaper": "https://lovecointoken.com/Whitepaper.pdf",
+"email": "member@lovecointoken.com",
+"links": {
+"twitter": "https://twitter.com/lovecoinproject"
+"facebook": "https://facebook.com/LovecoinProject/"
+"youtube": "https://www.youtube.com/channel/UC5GZsBBLn1XUm1G3JfgUXPQ"
+  }
+}
