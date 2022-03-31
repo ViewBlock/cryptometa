@@ -1,6 +1,6 @@
 {
-  "name": "ThunderCore Binance Coin",
-  "symbol": "TT-BNB",
+  "name": "Binance Coin",
+  "symbol": "BNB",
   "trusted": true,
   "gen": {
     "logo": "logo.png",

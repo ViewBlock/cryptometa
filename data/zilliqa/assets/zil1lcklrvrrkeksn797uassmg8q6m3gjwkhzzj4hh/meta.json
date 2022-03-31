@@ -1,0 +1,15 @@
+{
+  "name": "Zilbay-SOS NFT",
+  "description": "The proceeds of the Ukraine Zilbot NFT will go directly from the Zilbay contract to a reputable charity.",
+  "symbol": "SOS",
+  "web": "https://www.zilbay.io",
+  "email": "info@zilbay.io",
+  "links": {
+    "twitter": "https://twitter.com/zilbayio",
+    "discord": " https://discord.gg/x2d32VuT"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}
