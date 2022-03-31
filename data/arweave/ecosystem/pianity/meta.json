@@ -6,8 +6,18 @@
     "nft",
     "entertainment"
   ],
-  "addresses": [],
-  "links": {},
+  "addresses": [
+    "SJ3l7474UHh3Dw6dWVT1bzsJ-8JvOewtGoDdOecWIZo",
+    "n05LTiuWcAYjizXAu-ghegaWjL89anZ6VdvuHcU6dno"
+  ],
+  "links": {
+    "discord": "https://discord.com/invite/pianity",
+    "twitter": "pianitynft",
+    "facebook": "pianityofficial",
+    "instagram": "pianity",
+    "telegram": "https://t.me/joinchat/KQrVv1c_WLcwZWU0",
+    "medium": "https://blog.pianity.com"
+  },
   "developers": [
     {
       "name": "Lancelot Owczarczak",

@@ -6,6 +6,7 @@
   "email": "info@ardrive.io",
   "product": true,
   "publicTeam": true,
+  "trusted": true,
   "links": {
     "github": "https://github.com/ardriveapp",
     "linkedin": "https://www.linkedin.com/company/ardrive",
@@ -15,6 +16,6 @@
   },
   "gen": {
     "logo": "logo.png",
-    "score": 71
+    "score": 100
   }
 }
