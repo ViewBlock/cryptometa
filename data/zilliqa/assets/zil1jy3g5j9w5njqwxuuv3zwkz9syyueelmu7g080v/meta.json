@@ -13,6 +13,7 @@
   },
   "publicTeam": true,
   "holders": true,
+  "product": true,
   "whitepaper": "https://unifees.io/Unifees-Whitepaper.pdf",
   "gen": {
     "logo": "logo.png",
