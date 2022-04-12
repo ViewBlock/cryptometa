@@ -5,8 +5,8 @@
   "supply": "10000000",
   "email": "tyron@ssiprotocol.com",
   "whitepaper": "https://ssiprotocol.notion.site/TYRON-Whitepaper-5ca16fc254b343fb90cfeb725cbfa2c3",
-  "links": {  
-    "github" : ["https://github.com/pungtas", "https://github.com/tyroncoop"], 
+  "links": {
+    "github": "https://github.com/tyroncoop",
     "twitter": "https://twitter.com/ssiprotocol",
     "telegram": "https://t.me/ssiprotocol",
     "discord": "https://discord.com/invite/NPbd92HJ7e",
@@ -14,6 +14,7 @@
     "instagram": "https://www.instagram.com/ssiprotocol"
   },
   "gen": {
-    "logo": "logo.png"
+    "logo": "logo.png",
+    "score": 29
   }
 }
