@@ -5,8 +5,8 @@
   "supply": "10000000",
   "email": "tyron@ssiprotocol.com",
   "whitepaper": "https://ssiprotocol.notion.site/TYRON-Whitepaper-5ca16fc254b343fb90cfeb725cbfa2c3",
-  "publicTeam": "https://github.com/tralkan",
-  "product": "TYRON is a fungible token to be used in exchange for joining the TYRON Governing & Profit-Sharing Community. It is also possible to transmute TYRON into Self-Sovereign Identity Dollars ($SI), a stablecoin utilized to buy NFT Usernames and access DeFi applications on the TYRON Network. Web app: https://www.ssibrowser.com",
+  "publicTeam": ["https://github.com/tralkan", "https://github.com/tyroncoop"],
+  "product": "TYRON is a fungible token for joining the Governing & Profit-Sharing Community of the TYRON Network (the TYRON Community DApp). You can also use $TYRON to buy NFT Usernames and transmute this token into SSI Dollars ($SI), a p2p stablecoin to access DeFi applications on the Zilliqa blockchain platform. Web app: https://www.ssibrowser.com",
   "links": {  
     "github" : ["https://github.com/pungtas", "https://github.com/tyroncoop"], 
     "telegram": "https://t.me/ssiprotocol",
