@@ -2,12 +2,12 @@
   "name": "Arweave News",
   "description": "A community driven news platform",
   "web": "https://arweave.news",
-  "categories": [
-    "publishing"
-  ],
+  "categories": ["publishing"],
   "addresses": [],
   "links": {
-    "github": "Arweave-News"
+    "github": "Parallel-news",
+    "twitter": "ArweaveNews",
+    "discord": "https://discord.gg/YHXNNS5Upk"
   },
   "developers": [
     {
