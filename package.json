@@ -1,7 +1,8 @@
 {
   "name": "cryptometa",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "main": "src",
+  "files": ["src"],
   "scripts": {
     "gen": "node bin/generate",
     "test": "ava",
