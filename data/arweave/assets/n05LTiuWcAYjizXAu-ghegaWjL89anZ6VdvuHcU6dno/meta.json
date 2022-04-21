@@ -1,0 +1,20 @@
+{
+  "name": "Pianity",
+  "symbol": "PIA",
+  "web": "https://pianity.com",
+  "product": true,
+  "publicTeam": true,
+  "trusted": true,
+  "links": {
+    "discord": "https://discord.com/invite/pianity",
+    "twitter": "pianitynft",
+    "facebook": "pianityofficial",
+    "instagram": "pianity",
+    "telegram": "https://t.me/joinchat/KQrVv1c_WLcwZWU0",
+    "medium": "https://blog.pianity.com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 100
+  }
+}
