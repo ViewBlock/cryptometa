@@ -5,7 +5,7 @@
   "web": "https://projectcentauri.com",
   "email": "contact@undefinedcompany.com",
   "publicTeam": true,
-  "product": true,
+  "product": false,
   "links": {
     "linkedin": "https://www.linkedin.com/in/arthur-hoeke-170691103/",
     "twitter": "https://twitter.com/centauri_nft",
