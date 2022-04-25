@@ -2,7 +2,9 @@
   "name": "CaptureClub",
   "description": "CaptureClub is a digital media platform for Captures, digital assets that adheres to CAI standards and leverages the latest blockchain technology to preserve the authenticity of digital assets.",
   "web": "https://captureclub.cc/?tthub=True",
-  "addresses": [],
+  "addresses": [
+    "0x59d6fe14e7bfaf7c89c297be301195b96335df0e"
+  ],
   "categories": [
     "nft"
   ],
