@@ -1,15 +1,19 @@
 {
   "name": "Carbon",
+  "description": "",
   "symbol": "CARB",
   "web": "https://www.carbontoken.info",
+  "decimals": "8",
   "supply": "10000000",
   "email": "contact@carbontoken.info",
-  "whitepaper": "https://github.com/GenesysLabs/whitepapers",
+  "whitepaper": "https://github.com/Carbon-Labs/whitepapers",
+  "holders": true,
   "publicTeam": true,
+  "product": true,
   "links": {
     "telegram": "https://t.me/carbontoken",
-    "github": "https://github.com/GenesysLabs",
-    "twitter": "https://twitter.com/contact_carbon",
+    "github": "https://github.com/Carbon-Labs",
+    "twitter": "https://twitter.com/carblabs",
     "linkedin": "https://www.linkedin.com/in/adamjamesmartin/"
   },
   "gen": {
