@@ -1,25 +1,24 @@
 {
-  "name": "Argora",
-  "description": "On-chain social network.",
-  "web": "https://argora.xyz",
+  "name": "Metaweave",
+  "description": "The public place for arweavers (🐘 , 🕊)",
+  "web": "https://metaweave.xyz",
   "categories": [
     "social"
   ],
   "addresses": [],
   "links": {
-    "github": "ArgoraTeam"
+    "github": "MetaweaveTeam",
+    "twitter": "MetaweaveTeam"
   },
   "developers": [
     {
       "name": "Axel",
-      "github": "bidetaggle",
-      "twitter": "bidetaggle"
+      "github": "cromatikap",
+      "twitter": "cromatikap"
     }
   ],
   "gen": {
-    "logo": "logo.svg",
-    "hasDark": true,
-    "darkExt": "svg"
+    "logo": "logo.png"
   },
   "key": "argora"
 }
