@@ -3,7 +3,9 @@
   "symbol": "ETH",
   "trusted": true,
   "gen": {
-    "logo": "logo.png",
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg",
     "score": 100
   }
 }
