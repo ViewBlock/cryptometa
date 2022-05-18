@@ -1,0 +1,13 @@
+{
+	"name": "ROOMZ",
+	"symbol": "RMZ",
+	"links": {
+		"twitter": "https://twitter.com/zil_roomz"
+	},
+	"config": {
+		"dark": false
+	},
+	"gen": {
+		"logo": "logo.png"
+	}
+}
