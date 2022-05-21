@@ -1,16 +1,16 @@
 {
   "name": "Chat Thunder",
   "symbol": "Chat TT",
-  "description": "A news forum and social community",
+  "description": "Chat Thunder is a news forum and social community.",
   "web": "https://chatthunder.site",
   "decimals": 18,
+  "holders": "true",
+  "product": "true",
   "whitepaper": "https://io.chatthunder.site/wp-content/uploads/2022/03/Chat-Thunder-white-paper.pdf",
-  "email": "admin@chatthunder.site",
+  "email": "contact@chatthunder.site",
   "links": {
-    "telegram": "chat_thunder"
-  },
-  "gen": {
-    "logo": "logo.png",
-    "score": 14
+    "telegram": "https://t.me/chat_thunder",
+    "twitter": "https://twitter.com/Chat_thunder_",
+    "gitHub": "https://github.com/Auto-correct-bot"
   }
 }
