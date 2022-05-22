@@ -5,12 +5,11 @@
   "web": "https://chatthunder.site",
   "decimals": 18,
   "holders": "true",
-  "product": "true",
-  "whitepaper": "https://io.chatthunder.site/wp-content/uploads/2022/03/Chat-Thunder-white-paper.pdf",
-  "email": "contact@chatthunder.site",
   "links": {
     "telegram": "https://t.me/chat_thunder",
     "twitter": "https://twitter.com/Chat_thunder_",
-    "gitHub": "https://github.com/Auto-correct-bot"
+    "gitHub": "https://github.com/Auto-correct-bot",
+  "whitepaper": "https://io.chatthunder.site/wp-content/uploads/2022/03/Chat-Thunder-white-paper.pdf",
+  "email": "contact@chatthunder.site"
   }
 }
