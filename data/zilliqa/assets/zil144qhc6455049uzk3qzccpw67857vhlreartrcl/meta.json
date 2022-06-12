@@ -13,6 +13,7 @@
   },
   "whitepaper": "https://unifees.io/Unifees-Whitepaper.pdf",
   "gen": {
-    "logo": "logo.png"
+    "logo": "logo.png",
+    "score": 33
   }
 }
