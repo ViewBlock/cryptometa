@@ -2,8 +2,12 @@
   "name": "permacast",
   "description": "Pay once, store forever podcast hosting on Arweave",
   "web": "https://permacast.dev",
-  "categories": ["entertainment"],
-  "addresses": ["eBYuvy8mlxUsm8JZNTpV6fisNaJt0cEbg-znvPeQ4A0"],
+  "categories": [
+    "entertainment"
+  ],
+  "addresses": [
+    "eBYuvy8mlxUsm8JZNTpV6fisNaJt0cEbg-znvPeQ4A0"
+  ],
   "links": {
     "github": "Parallel-news/permacast"
   },
