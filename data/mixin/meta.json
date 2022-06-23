@@ -1,0 +1,14 @@
+{
+  "name": "Mixin Network",
+  "symbol": "XIN",
+  "web": "https://mixin.one",
+  "links": {
+    "github": "MixinNetwork",
+    "coingecko": "mixin",
+    "twitter": "Mixin_Network"
+  },
+  "description": "A lightning fast & decentralized network for transferring digital assets.",
+  "gen": {
+    "logo": "logo.svg"
+  }
+}
