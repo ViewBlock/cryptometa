@@ -7,7 +7,7 @@
 Thanks to our auto-updated CDN, you can add any chain and token icons in your app seamlessly
 using the following url:
 
-    https://meta.viewblock.io/{key}/logo
+    https://meta.viewblock.io/zil1h8xtgsmt83af58h3g6tygnxe5jt66c876uac03/logo
 
 The key accepts different formats `chainSymbol`, `chainName`, `chainSymbol.tokenHash`, for example:
 
