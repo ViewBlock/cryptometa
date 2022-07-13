@@ -1,0 +1,24 @@
+{
+  "name": "TYRON Network",
+  "description": "A network of decentralized identities that centres the control of information around you, the user. Your decentralized identity has a Web3 wallet to give you complete control over your identity data and finance, powered by the online security of Zilliqa and W3C Decentralized Identifiers (DIDs).",
+  "web": "https://www.tyron.network/",
+  "links": {
+    "twitter": "https://twitter.com/ssiprotocol",
+    "instagram": "https://www.instagram.com/ssiprotocol/",
+    "discord": "https://discord.gg/7HSvNDJEWm",
+    "telegram": "https://t.me/ssiprotocol",
+    "linkedin": "https://www.linkedin.com/company/tyron-coop/"
+  },
+  "categories": [
+    "wallet",
+    "defi",
+    "stablecoin",
+    "tolken",
+    "dao",
+    "governance"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "tyron"
+}
