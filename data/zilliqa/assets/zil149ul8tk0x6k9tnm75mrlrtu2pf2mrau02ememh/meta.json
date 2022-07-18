@@ -1,16 +1,16 @@
 {
-    "name": "ZILBINGO",
-    "symbol": "ZBNGO",
-    "web": "https://zilbingo.com",
-    "email": "contact@nftgameco.com",
-    "links": {
-        "twitter": "https://twitter.com/zilbingo",
-        "medium": "https://medium.com/@zilbingo/",
-        "discord": "https://discord.com/invite/qJVCg9daZS",
-        "github": "https://github.com/NFTGameCo"
-    },
-    "gen": {
-        "logo": "logo.svg",
-        "score": 100
-    }
+  "name": "ZILBINGO",
+  "symbol": "ZBNGO",
+  "web": "https://zilbingo.com",
+  "email": "contact@nftgameco.com",
+  "links": {
+    "twitter": "https://twitter.com/zilbingo",
+    "medium": "https://medium.com/@zilbingo/",
+    "discord": "https://discord.com/invite/qJVCg9daZS",
+    "github": "https://github.com/NFTGameCo"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
 }
