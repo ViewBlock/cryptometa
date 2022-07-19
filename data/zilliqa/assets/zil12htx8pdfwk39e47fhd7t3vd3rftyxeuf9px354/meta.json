@@ -1,15 +1,15 @@
 {
-  "name": "PELE Network",
+  "name": "Pelenia",
   "symbol": "PELE",
-  "web": "https://pele.network/",
+  "web": "https://pelenia.online/",
   "supply": "420000069",
-  "email": "hello@pele.network",
+  "email": "hello@pelenia.online",
   "whitepaper": "https://drive.google.com/file/d/1rhFKWFTKEXp81YGSrUTGAA3EAqxwIYm4/view",
   "links": {
     "telegram": "https://t.me/PELENetwork",
-    "twitter": "https://twitter.com/PELENetwork",
-    "github": "https://github.com/PELENetwork",
-    "linkedin": "https://www.linkedin.com/company/pelenetwork/"
+    "twitter": "https://twitter.com/PeleniaDAO",
+    "github": "https://github.com/Pelenia",
+    "linkedin": "https://www.linkedin.com/company/pelenia/"
   },
   "publicTeam": true,
   "gen": {
