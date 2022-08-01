@@ -9,6 +9,8 @@
   "categories": [
     "defi"
   ],
-  "gen": {},
+  "gen": {
+    "logo": "logo.svg"
+  },
   "key": "pandorings"
 }
