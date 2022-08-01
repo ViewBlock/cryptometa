@@ -6,6 +6,9 @@
     "twitter": "pando_im",
     "discord": "https://discord.com/invite/ek45g3Cymd"
   },
+  "extra": {
+    "mixinId": "5278fff7-a084-4019-b963-a7a88559d5c4"
+  },
   "categories": [
     "defi"
   ],
