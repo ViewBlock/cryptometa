@@ -1,0 +1,19 @@
+{
+  "name": "4Swap",
+  "description": "A decentralized protocol implement for automated liquidity provision on Mixin Network.",
+  "web": "https://4swap.org",
+  "links": {
+    "twitter": "4swaporg",
+    "discord": "https://discord.com/invite/ek45g3Cymd"
+  },
+  "extra": {
+    "mixinId": 7000103537
+  },
+  "categories": [
+    "dex"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "4swap"
+}

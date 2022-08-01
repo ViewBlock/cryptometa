@@ -1,0 +1,21 @@
+{
+  "name": "BigOne",
+  "web": "https://big.one",
+  "links": {
+    "twitter": "BigONEexchange",
+    "telegram": "B1_EN",
+    "coingecko": "https://www.coingecko.com/en/exchanges/bigone",
+    "coinmarketcap": "https://coinmarketcap.com/exchanges/bigone",
+    "linkedin": "bigone-exchange",
+    "facebook": "exBigONE",
+    "medium": "https://bigoneexchange.medium.com",
+    "discord": "https://discord.com/invite/k7FqhqKhj2"
+  },
+  "categories": [
+    "exchange"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "bigone"
+}

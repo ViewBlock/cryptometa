@@ -1,0 +1,23 @@
+{
+  "name": "Mixin Messenger",
+  "description": "Mixin is a private messenger with end-to-end encryption built on the Signal protocol and crypto wallet.",
+  "web": "https://mixin.one/messenger",
+  "email": "contact@mixin.one",
+  "links": {
+    "twitter": "Mixin_Network",
+    "telegram": "MixinCommunity",
+    "github": "MixinNetwork",
+    "coinmarketcap": "mixin",
+    "facebook": "MixinNetwork",
+    "reddit": "mixin",
+    "medium": "mixinnetwork",
+    "youtube": "channel/UCLWQ94gw7wRK-S5qy4LAVrA"
+  },
+  "categories": [
+    "wallet"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "messenger"
+}

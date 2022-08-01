@@ -1,0 +1,16 @@
+{
+  "name": "MixSwap",
+  "description": "MixSwap is the MiFi DEX aggregation trading platform powered by Exin.",
+  "web": "https://mixswap.exchange",
+  "links": {},
+  "extra": {
+    "mixinId": 7000103767
+  },
+  "categories": [
+    "dex"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "mixswap"
+}
