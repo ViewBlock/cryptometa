@@ -1,0 +1,15 @@
+{
+  "name": "OceanONE",
+  "description": "Ocean ONE is a decentralized exchange built on Mixin Network",
+  "web": "https://ocean.one",
+  "links": {
+    "github": "https://github.com/MixinNetwork/ocean.one"
+  },
+  "categories": [
+    "dex"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "oceanone"
+}

@@ -10,8 +10,10 @@
     "telegram": "cosmosproject",
     "reddit": "r/cosmosnetwork"
   },
+  "config": {
+    "dark": false
+  },
   "gen": {
-    "logo": "logo.svg",
-    "hasDark": true
+    "logo": "logo.svg"
   }
 }

@@ -1,0 +1,16 @@
+{
+  "name": "Cloaked Network",
+  "symbol": "CLKD",
+  "web": "https://cloaked.network",
+  "email": "contact@starside.io",
+  "links": {
+    "twitter": "https://twitter.com/starside_io",
+    "medium": "https://medium.com/@starside_labs",
+    "discord": "https://discord.gg/Ua83bYGSce",
+    "github": "https://github.com/starside-io"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ExinSwap",
+  "description": "ExinSwap is the automated market making (AMM) trading platform powered by Exin.",
+  "web": "https://app.exinswap.com",
+  "links": {},
+  "extra": {
+    "mixinId": "29f23576-4651-47ff-8c16-6c8a5d76985e"
+  },
+  "categories": [
+    "dex"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "exinswap"
+}

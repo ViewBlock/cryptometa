@@ -1,0 +1,15 @@
+{
+  "name": "StarkNet",
+  "symbol": "X",
+  "web": "https://starkware.co/starknet",
+  "links": {
+    "github": "starkware-libs",
+    "twitter": "StarkWareLtd",
+    "linkedin": "starkware",
+    "medium": "starkware"
+  },
+  "description": "A permissionless decentralized ZK-Rollup operating as an L2 network over Ethereum, enabling any dApp to achieve unlimited scale for its computation – without compromising Ethereum's composability and security.",
+  "gen": {
+    "logo": "logo.png"
+  }
+}
