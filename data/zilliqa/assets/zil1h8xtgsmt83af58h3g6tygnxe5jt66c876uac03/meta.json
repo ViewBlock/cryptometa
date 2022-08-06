@@ -1,0 +1,20 @@
+{
+	"name": "ZilAnsPri",
+    "description": "ZilAnsPri is a utility token.",
+	"symbol": "ZAP",
+    "web": "https://anspri.com/ZilAnsPri",
+    "email": "zil@anspri.com",
+	"whitepaper": "https://anspri.com/ZilAnsPri/files/WhitePaper.pdf",
+    "holders": true,
+    "publicTeam": true,
+	"explorer": "https://viewblock.io/zilliqa/address/zil1h8xtgsmt83af58h3g6tygnxe5jt66c876uac03",
+	"links": {
+		"telegram": "https://t.me/ZilAnsPri",
+		"github": "https://github.com/anspri",
+		"medium": "https://medium.com/@zilanspri",
+		"twitter": "https://twitter.com/ZilAnsPri"
+	},
+	"gen": {
+		"logo": "logo.png"
+	}
+} 
