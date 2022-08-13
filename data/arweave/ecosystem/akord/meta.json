@@ -1,0 +1,34 @@
+{
+    "name": "Akord",
+    "description": "A protocol for permanent storage, privacy and collaboration on Arweave.",
+    "web": "https://akord.com/",
+    "categories": [
+      "storage"
+    ],
+    "links": {
+      "discord": "https://discord.com/invite/g4VXfauK5s",
+      "twitter": "https://twitter.com/AkordTeam",
+      "facebook": "https://www.facebook.com/AkordTeam/",
+      "medium": "https://medium.com/@AkordTeam"
+    },
+    "developers": [
+      {
+        "name": "Richard Caetano",
+        "github": "rcaetano"
+       }, {
+        "name": "Michal Kaliszewski",
+        "github": "jarrvis"
+       }, {
+        "name": "Weronika Kolodziejak",
+        "github": "wkolod"
+       }, {
+        "name": "Alex Katalkin",
+        "github": "Raskovan"
+       }
+    ],
+    "gen": {
+      "logo": "logo.png",
+      "hasDark": true
+    },
+    "key": "akord"
+  }
