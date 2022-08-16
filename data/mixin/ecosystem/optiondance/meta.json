@@ -1,0 +1,13 @@
+{
+  "name": "OptionDance",
+  "description": "Reinvented options trading for retail investors, maximize the efficiency of your assets.",
+  "web": "https://option.dance/",
+  "links": {},
+  "categories": [
+    "platform"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "optiondance"
+}

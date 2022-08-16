@@ -1,0 +1,13 @@
+{
+  "name": "HODL!",
+  "description": "HODL! / LIVE LONG AND PROSPER!",
+  "web": "https://hodl.fox.one/#/",
+  "links": {},
+  "categories": [
+    "tool"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "hodl"
+}
