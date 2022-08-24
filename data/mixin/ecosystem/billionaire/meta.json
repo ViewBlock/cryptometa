@@ -3,6 +3,9 @@
   "description": "Reality simulation, experience the life of being a president, feel the pleasure of earning billions of dollars every minute.",
   "web": "https://citymixin.fanyoy.com/webmixin/h5Index_en.php",
   "links": {},
+  "extra": {
+    "mixinId": "a721fe8a-0ffc-4979-b2d0-72112ad68a29"
+  },
   "categories": [
     "game"
   ],
