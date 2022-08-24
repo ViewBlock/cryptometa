@@ -1,7 +1,7 @@
 {
   "name": "CoWallet",
   "description": "Manage crypto with your friends.",
-  "web": "https://cowallet.fox.one/#/",
+  "web": "https://cowallet.fox.one",
   "links": {},
   "categories": [
     "wallet"

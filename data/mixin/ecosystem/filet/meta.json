@@ -1,11 +1,9 @@
 {
   "name": "Filet",
   "description": "Filet provides FIL staking service by bridging the FIL token holders with Filecoin mining operation. It is essentially a decentralized cloud mining service platform that allows ordinary FIL users to participate in Filecoin mining with zero risk, high returns, and low barrier.",
-  "web": "https://www.filet.finance/",
+  "web": "https://www.filet.finance",
   "links": {},
-  "extra": {
-    "mixinId": "b3aeb378-56a0-44b0-a2f5-797dfdfc0cf7"
-  },
+  "extra": {},
   "categories": [
     "staking"
   ],
