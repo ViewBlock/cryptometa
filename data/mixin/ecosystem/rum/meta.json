@@ -1,0 +1,13 @@
+{
+  "name": "Rum",
+  "description": "an open-source P2P application infrastructure to offer the internet alternatives.",
+  "web": "https://rumsystem.net/",
+  "links": {},
+  "categories": [
+    "platform"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "rum"
+}

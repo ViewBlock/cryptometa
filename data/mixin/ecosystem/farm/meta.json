@@ -1,0 +1,16 @@
+{
+  "name": "ポチッと農園",
+  "description": "今日から君もファーマー！？君だけの農園をじっくりゆっくり経営しよう！操作は簡単！同じ作物同士をポチッと合成するだけ！お客さんの注文に答えて金貨を貯めて、農園をどんどん大きくしていこう！",
+  "web": "https://static.fanyoy.com/games/mixinfarm1/index.html?fy_game_channel=mixinfarmjp#mixinjp",
+  "links": {},
+  "extra": {
+    "mixinId": "e84c9aa2-5b2e-488a-9ab7-0881712cbe63"
+  },
+  "categories": [
+    "game"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "farm"
+}
