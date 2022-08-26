@@ -3,7 +3,9 @@
   "description": "Reinvented options trading for retail investors, maximize the efficiency of your assets.",
   "web": "https://option.dance/",
   "links": {},
-  "extra": {},
+  "extra": {
+    "mixinId": "60ad4cdd-674f-42c5-b286-2e165e86a2ee"
+  },
   "categories": [
     "platform"
   ],

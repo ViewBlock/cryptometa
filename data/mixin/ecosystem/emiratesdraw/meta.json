@@ -3,7 +3,9 @@
   "description": "Emirates Draw is a socially responsible company that promotes the creation, draws, and other products in an entertaining way.",
   "web": "http://www.drawdao.com",
   "links": {},
-  "extra": {},
+  "extra": {
+    "mixinId": "0830b042-b65a-4119-8cff-df6bf52e6229"
+  },
   "categories": [
     "social"
   ],

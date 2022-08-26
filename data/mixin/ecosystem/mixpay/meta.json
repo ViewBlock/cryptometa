@@ -3,7 +3,9 @@
   "description": "MixPay simplifies and improves Web3 Payments with the power of Mixin Network. Accept any crypto with instant exchange. ",
   "web": "",
   "links": {},
-  "extra": {},
+  "extra": {
+    "mixinId": "e836b0e7-96a7-4fc9-a79f-1f795ca4d6fa"
+  },
   "categories": [
     "payment"
   ],

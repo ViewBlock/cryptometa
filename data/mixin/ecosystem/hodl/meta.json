@@ -3,7 +3,9 @@
   "description": "HODL! / LIVE LONG AND PROSPER!",
   "web": "https://hodl.fox.one",
   "links": {},
-  "extra": {},
+  "extra": {
+    "mixinId": "b2c38f75-cf17-4c71-8ca2-ea38cd43dad8"
+  },
   "categories": [
     "tool"
   ],
