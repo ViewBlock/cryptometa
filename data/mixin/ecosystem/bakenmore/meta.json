@@ -1,0 +1,13 @@
+{
+  "name": "Bake N More",
+  "description": "The first cafe in Dubai to accept Cryptocurrency as a mode of payment powered by Mixin.",
+  "web": "https://bakenmore.ae/",
+  "links": {},
+  "categories": [
+    "business"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "bakenmore"
+}

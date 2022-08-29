@@ -1,0 +1,12 @@
+{
+  "name": "Fennec",
+  "description": "Fennec is an opensource browser extension wallet for Mixin Network.",
+  "web": "https://github.com/fox-one/fennec",
+  "categories": [
+    "wallet"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "fennec"
+}

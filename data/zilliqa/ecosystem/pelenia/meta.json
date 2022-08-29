@@ -1,0 +1,19 @@
+{
+  "name": "Pelenia",
+  "description": "Exploring the concept of a decentralized media production studio. Pelenia is a grassroots network of creatives harnessing Defi & NFTs to change the way we tell stories, get content made, and build community.",
+  "web": "https://pelenia.online",
+  "links": {
+    "twitter": "https://twitter.com/PeleniaDAO",
+    "telegram": "https://t.me/PELENetwork"
+  },
+  "categories": [
+    "creator-economy",
+    "nft",
+    "metaverse",
+    "dao"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "pelenia"
+}

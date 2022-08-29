@@ -1,0 +1,16 @@
+{
+  "name": "ZilAnsPri",
+  "symbol": "ZAP",
+  "web": "https://zilanspri.com/",
+  "email": "support@zilanspri.com",
+  "explorer": "https://viewblock.io/zilliqa/address/zil1h8xtgsmt83af58h3g6tygnxe5jt66c876uac03",
+  "links": {
+    "telegram": "https://t.me/ZilAnsPri",
+    "medium": "https://medium.com/@zilanspri",
+    "twitter": "https://twitter.com/ZilAnsPri"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

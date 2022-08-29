@@ -1,0 +1,12 @@
+{
+  "name": "B.Watch",
+  "description": "BOX is an open source formula for digital assets. It includes 7 targets, which are BTC, ETH, EOS, DOT, MOB, XIN, UNI.",
+  "web": "https://b.watch",
+  "categories": [
+    "etf"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "bwatch"
+}

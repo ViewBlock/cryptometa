@@ -1,0 +1,16 @@
+{
+  "name": "ExinPool",
+  "description": "ExinPool is a staking platform powered by Exin.",
+  "web": "https://mixin.exinpool.com",
+  "links": {},
+  "extra": {
+    "mixinId": "791f20db-51ce-4af2-918b-7496864ab833"
+  },
+  "categories": [
+    "staking"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "exinpool"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Pando Rings",
+  "description": "Pando Rings is an algorithmic, autonomous interest rate protocol built with Mixin MTG (Mixin Trusted Group) technology",
+  "web": "https://rings.pando.im",
+  "links": {
+    "twitter": "pando_im",
+    "discord": "https://discord.com/invite/ek45g3Cymd"
+  },
+  "extra": {
+    "mixinId": "86dd4ae2-c078-4bb8-ade9-167ae4809ea0"
+  },
+  "categories": [
+    "defi"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "pandorings"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Pando Leaf",
+  "description": "A decentralized financial network, implement a derivatives liquidity protocol.",
+  "web": "https://leaf.pando.im",
+  "links": {
+    "twitter": "pando_im",
+    "discord": "https://discord.com/invite/ek45g3Cymd"
+  },
+  "extra": {
+    "mixinId": "2056124b-1076-4416-a068-32ac85564568"
+  },
+  "categories": [
+    "defi"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "pandoleaf"
+}
