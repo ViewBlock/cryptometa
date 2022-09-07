@@ -1,0 +1,17 @@
+{
+  "name": "PredictionDEX",
+  "description": "BET is Web3 platform token for predicting & trading future events in Sports, Politics, Crypto, Science & more. Can be 1:1 swapped for REDC token.",
+  "symbol": "BET",
+  "web": "https://predictiondex.com/",
+  "decimals": 9,
+  "supply": 2000000,
+  "links": {
+    "twitter": "https://twitter.com/PredictionDEX",
+    "telegram": "https://t.me/redchilliesRedC",
+    "discord": "https://discord.com/invite/7ksbz2HU"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

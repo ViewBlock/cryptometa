@@ -1,0 +1,13 @@
+{
+  "name": "Links",
+  "description": "Managing virtual currency is inherently very difficult. But with Links, you can manage your cryptocurrencies with just a 6-digit PIN code and your phone number.",
+  "web": "https://getlinks.jp/",
+  "links": {},
+  "categories": [
+    "wallet"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "links"
+}

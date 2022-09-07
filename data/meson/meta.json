@@ -1,0 +1,19 @@
+{
+  "name": "Meson Network",
+  "symbol": "MESON",
+  "web": "https://meson.network",
+  "links": {
+    "github": "daqnext",
+    "twitter": "NetworkMeson",
+    "medium": "https://medium.com/meson-network",
+    "telegram": "mesonnetwork",
+    "discord": "https://discord.gg/z6YfSHDkmS",
+    "linkedin": "meson-network"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

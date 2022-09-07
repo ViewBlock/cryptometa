@@ -1,0 +1,16 @@
+{
+  "name": "Billionaire",
+  "description": "Reality simulation, experience the life of being a president, feel the pleasure of earning billions of dollars every minute.",
+  "web": "https://citymixin.fanyoy.com/webmixin/h5Index_en.php",
+  "links": {},
+  "extra": {
+    "mixinId": "54c2a2c4-90b3-4fb3-b183-188fbb2d7e79"
+  },
+  "categories": [
+    "game"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "billionaire"
+}
