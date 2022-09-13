@@ -2,6 +2,10 @@
   "name": "Meson Network",
   "symbol": "MESON",
   "web": "https://meson.network",
+  "description": "Bandwidth trading platform built on Blockchain",
+  "categories": [
+    "marketplace"
+  ],
   "links": {
     "github": "daqnext",
     "twitter": "NetworkMeson",
