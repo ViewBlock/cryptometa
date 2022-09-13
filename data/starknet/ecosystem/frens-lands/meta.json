@@ -1,0 +1,17 @@
+{
+  "name": "Frens Lands",
+  "description": "On-chain world builder RTS built on StarkNet where you harvest resources and build to create your dream community.",
+  "categories": [
+    "nft",
+    "gamefi"
+  ],
+  "web": "https://frenslands.xyz",
+  "links": {
+    "twitter": "https://twitter.com/FrensLands",
+    "discord": "https://discord.gg/gehYZU9Trf"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "frens-lands"
+}

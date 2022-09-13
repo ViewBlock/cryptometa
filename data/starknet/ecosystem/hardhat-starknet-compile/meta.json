@@ -1,0 +1,15 @@
+{
+  "name": "hardhat-starknet-compile",
+  "description": "Hardhat Plugin for intelligently compiling StarkNet contracts in a Hardhat project.",
+  "categories": [
+    "tools"
+  ],
+  "links": {
+    "github": "https://github.com/playmint/hardhat-starknet-compile",
+    "twitter": "https://twitter.com/playmint"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "hardhat-starknet-compile"
+}

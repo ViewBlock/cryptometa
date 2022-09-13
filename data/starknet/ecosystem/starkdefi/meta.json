@@ -1,0 +1,18 @@
+{
+  "name": "Stark Defi",
+  "description": "StarkDefi is a permissionless and trustless hub of comprehensive Defi solutions built to leverage the Decentralized ZK-Rollup on StarkNet's L2 Network over Ethereum. Starting with a highly intuitive Automated Market Maker (AMM), StarkDefi will strategically release other planned defi solutions to cement its position as the ultimate one-stop platform for all defi solutions on StarkNet.",
+  "categories": [
+    "defi"
+  ],
+  "web": "https://starkdefi.com",
+  "links": {
+    "github": "https://github.com/Starkdefi",
+    "twitter": "https://twitter.com/StarkDefi",
+    "medium": "https://starkdefi.medium.com",
+    "telegram": "https://t.me/starkdefi_ann"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "starkdefi"
+}

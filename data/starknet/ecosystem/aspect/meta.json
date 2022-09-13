@@ -1,0 +1,18 @@
+{
+  "name": "Aspect",
+  "description": "Aspect is an NFT marketplace powered by StarkNet, a ZK rollup L2 on ETH. Buy, Sell, and Create in the meta economy.",
+  "categories": [
+    "nft"
+  ],
+  "web": "https://testnet.aspect.co",
+  "links": {
+    "github": "https://github.com/playoasis",
+    "twitter": "https://twitter.com/aspectdotco",
+    "discord": "https://discord.com/invite/aR2U7KtbgD",
+    "telegram": "https://t.me/aspectco"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "aspect"
+}

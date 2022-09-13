@@ -1,0 +1,21 @@
+{
+  "name": "Dolven Labs",
+  "description": "Dolven Labs is a DAO Based Ecosystem Catalyst for projects built on the StarkNet Network, Dolven Labs aims to be the future of investing, deal flow, and value creation in the StarkNet Ecosystem.",
+  "categories": [
+    "defi",
+    "dao",
+    "governance"
+  ],
+  "web": "https://dolvenlabs.com",
+  "links": {
+    "github": "https://github.com/dolven-labs-catalyst",
+    "twitter": "https://twitter.com/dolvenlabs",
+    "medium": "https://medium.com/@dolvenlabs",
+    "discord": "https://discord.gg/UG5tkPa3xn",
+    "telegram": "https://t.me/dolven_global"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "dolvenlabs"
+}

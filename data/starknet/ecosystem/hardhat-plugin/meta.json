@@ -1,0 +1,13 @@
+{
+  "name": "Hardhat Plugin",
+  "description": "Hardhat Plugin",
+  "categories": [
+    "tools"
+  ],
+  "links": {
+    "github": "https://github.com/Shard-Labs/starknet-hardhat-plugin",
+    "twitter": "https://twitter.com/shard_labs"
+  },
+  "gen": {},
+  "key": "hardhat-plugin"
+}

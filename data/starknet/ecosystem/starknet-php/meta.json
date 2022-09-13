@@ -1,0 +1,12 @@
+{
+  "name": "StarkNet.php",
+  "description": "A PHP package for interacting with StarkNet",
+  "categories": [
+    "tools"
+  ],
+  "links": {
+    "github": "https://github.com/Starknet-php/starknet.php"
+  },
+  "gen": {},
+  "key": "starknet-php"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "starknet-jvm",
+  "description": "StarkNet SDK for java and other JVM languages",
+  "categories": [
+    "tools"
+  ],
+  "web": "https://docs.swmansion.com/starknet-jvm",
+  "links": {
+    "github": "https://github.com/software-mansion/starknet-jvm"
+  },
+  "gen": {},
+  "key": "starknet-jvm"
+}

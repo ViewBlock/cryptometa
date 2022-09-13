@@ -1,0 +1,16 @@
+{
+  "name": "Musicvers",
+  "description": "Musicvers brings the future of music on Starknet.\n",
+  "categories": [
+    "nft"
+  ],
+  "web": "https://www.musicvers.com",
+  "links": {
+    "github": "https://www.github.com/Musicvers",
+    "twitter": "https://twitter.com/Musicvers_"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "musicvers"
+}

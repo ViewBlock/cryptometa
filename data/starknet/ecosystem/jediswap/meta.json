@@ -1,0 +1,15 @@
+{
+  "name": "JediSwap",
+  "description": "JediSwap is a fully permissionless and composable AMM on StarkNet. Users can swap assets instantaneously with 0 gas fees while relying on Ethereum security. Anyone can add a pair on Jediswap, and builders can build more advanced applications using JediSwap open sourced contracts",
+  "categories": [
+    "defi"
+  ],
+  "web": "https://jediswap.xyz",
+  "links": {
+    "twitter": "https://twitter.com/jediswap"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "jediswap"
+}

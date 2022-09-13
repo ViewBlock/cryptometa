@@ -1,0 +1,14 @@
+{
+  "name": "Pathfinder",
+  "description": "Starknet full state node written in Rust",
+  "categories": [
+    "tools",
+    "infra"
+  ],
+  "links": {
+    "github": "https://github.com/eqlabs/pathfinder",
+    "twitter": "https://twitter.com/equilibrium_co"
+  },
+  "gen": {},
+  "key": "pathfinder"
+}

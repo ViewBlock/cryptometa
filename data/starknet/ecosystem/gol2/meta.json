@@ -1,0 +1,11 @@
+{
+  "name": "GoL2",
+  "description": "Conway's Game of Life on StarkNet! Come and progress to a new generation, or create your own life.",
+  "categories": [
+    "gamefi"
+  ],
+  "web": "https://github.com/perama-v/GoL2",
+  "links": {},
+  "gen": {},
+  "key": "gol2"
+}

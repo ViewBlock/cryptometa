@@ -1,0 +1,13 @@
+{
+  "name": "Myswap",
+  "description": "AMM",
+  "categories": [
+    "defi"
+  ],
+  "web": "https://www.myswap.xyz/#",
+  "links": {},
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "myswap"
+}

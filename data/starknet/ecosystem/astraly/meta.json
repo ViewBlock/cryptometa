@@ -1,0 +1,19 @@
+{
+  "name": "Astraly",
+  "description": "Astraly is a fundraising and community building platform. We're building the infrastructure for communities on Starknet.",
+  "categories": [
+    "defi"
+  ],
+  "web": "https://testnet.astraly.xyz",
+  "links": {
+    "github": "https://github.com/Astraly-Labs",
+    "twitter": "https://twitter.com/AstralyXYZ",
+    "medium": "https://astraly.mirror.xyz",
+    "discord": "https://discord.gg/astralyxyz",
+    "telegram": "https://t.me/astralyy"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "astraly"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Argent X",
+  "description": "First StarkNet wallet to interact with tokens and NFTs. Manage your identities with \"Sign in with StarkNet\" (very soon ™️), and enjoy the best of defi. Made with ❤️ by the Argent team.",
+  "categories": [
+    "wallet",
+    "id",
+    "defi",
+    "nft",
+    "gamefi"
+  ],
+  "web": "https://www.argent.xyz/argent-x",
+  "links": {
+    "github": "https://github.com/argentlabs/argent-x",
+    "twitter": "https://twitter.com/argentHQ"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "argent-x"
+}

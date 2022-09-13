@@ -1,0 +1,13 @@
+{
+  "name": "Starknet Devnet",
+  "description": "A Flask wrapper of Starknet state. Similar in purpose to Ganache. Aims to mimic Starknet's Alpha testnet, but with simplified functionality.",
+  "categories": [
+    "tools"
+  ],
+  "links": {
+    "github": "https://github.com/Shard-Labs/starknet-devnet",
+    "twitter": "https://twitter.com/shard_labs"
+  },
+  "gen": {},
+  "key": "starknet-devnet"
+}

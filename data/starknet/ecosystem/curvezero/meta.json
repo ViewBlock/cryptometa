@@ -1,0 +1,12 @@
+{
+  "name": "CurveZero",
+  "description": "CurveZero is a protocol for Fixed rate USD loans. It does this by solving for the USD term structure i.e. what are rates for 6/12/24 months etc.",
+  "categories": [
+    "defi",
+    "payments"
+  ],
+  "web": "https://docs.google.com/document/d/1rrYC32w63FzzV61rJWqqYomEMgfZ3cRR1jOlJmnnxeY/edit",
+  "links": {},
+  "gen": {},
+  "key": "curvezero"
+}

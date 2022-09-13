@@ -1,0 +1,16 @@
+{
+  "name": "FujiDAO",
+  "description": "A cross-chain borrowing aggregator.",
+  "categories": [
+    "defi"
+  ],
+  "web": "https://www.fujidao.org/#",
+  "links": {
+    "github": "https://github.com/Fujicracy/fuji-protocol",
+    "twitter": "https://twitter.com/FujiFinance"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "fujidao"
+}

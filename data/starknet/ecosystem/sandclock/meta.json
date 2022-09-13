@@ -1,0 +1,22 @@
+{
+  "name": "Sandclock",
+  "description": "Unlocking the programmability of principal and yield with automation.",
+  "categories": [
+    "dao",
+    "defi",
+    "id",
+    "payments"
+  ],
+  "web": "https://www.sandclock.org",
+  "links": {
+    "github": "https://github.com/lindy-labs",
+    "twitter": "https://twitter.com/SandclockOrg",
+    "medium": "https://medium.com/sandclock",
+    "discord": "https://discord.gg/TMtbPQvWJV",
+    "telegram": "https://t.me/sandclockorg"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "sandclock"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Braavos",
+  "description": "First and only StarkNet wallet on mobile, Android & iOS. Use all your favorite StarkNet dApps on the go! Also available for chrome, Firefox and Edge. All in one assets management - DeFi and NFTs",
+  "categories": [
+    "wallet",
+    "mobile",
+    "defi",
+    "nft",
+    "gamefi"
+  ],
+  "web": "https://braavos.app",
+  "links": {
+    "github": "https://github.com/myBraavos",
+    "twitter": "https://twitter.com/myBraavos",
+    "discord": "https://discord.gg/ZrtCHK3t",
+    "telegram": "https://t.me/mybraavos"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "braavos"
+}

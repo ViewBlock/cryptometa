@@ -1,0 +1,17 @@
+{
+  "name": "Exothium",
+  "description": "Exothium is a community driven by blockchain technology that collaborates, incubates and produces open-source games.",
+  "categories": [
+    "gamefi"
+  ],
+  "web": "https://exothium.com",
+  "links": {
+    "github": "https://github.com/exothium",
+    "twitter": "https://twitter.com/Exothium",
+    "discord": "https://discord.com/invite/yhNrcBmBgA"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "exothium"
+}

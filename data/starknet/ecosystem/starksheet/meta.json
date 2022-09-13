@@ -1,0 +1,18 @@
+{
+  "name": "Starksheet",
+  "description": "A spreadsheet built on StarkNet: each cell is a dynamic NFT and each sheet is a collection. Cell as a NFT brings granular cell ownership and unlimited data.",
+  "categories": [
+    "nft",
+    "defi",
+    "tools"
+  ],
+  "web": "https://www.starksheet.xyz",
+  "links": {
+    "twitter": "https://twitter.com/starksheet",
+    "discord": "https://discord.gg/Aab6qdWb5k"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "starksheet"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "StarkGuild",
+  "description": "StarkGuild provides you with the best toolbox to build the perfect gaming guild on Starknet. Create your team and manage your assets with your own DAO. \n",
+  "categories": [
+    "dao",
+    "gamefi",
+    "nft",
+    "tools",
+    "governance"
+  ],
+  "links": {
+    "github": "https://github.com/StarkGuild"
+  },
+  "gen": {},
+  "key": "starkguild"
+}

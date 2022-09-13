@@ -1,0 +1,12 @@
+{
+  "name": "Kubri",
+  "description": "L2 -> L1 Bridge for the ERC1155",
+  "categories": [
+    "bridge",
+    "defi"
+  ],
+  "web": "https://kubribridge.vercel.app",
+  "links": {},
+  "gen": {},
+  "key": "kubri"
+}

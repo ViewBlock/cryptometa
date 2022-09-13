@@ -1,0 +1,16 @@
+{
+  "name": "Starcombo",
+  "description": "Starcombo is a tool allowing users to build their DeFi strategy on Starknet simply by drag&drop.",
+  "categories": [
+    "defi"
+  ],
+  "web": "https://testnet.starcombo.xyz",
+  "links": {
+    "twitter": "https://twitter.com/Starcombo_xyz",
+    "discord": "https://discord.com/invite/uVCkRDUV"
+  },
+  "gen": {
+    "logo": "logo.jpg"
+  },
+  "key": "starcombo"
+}
