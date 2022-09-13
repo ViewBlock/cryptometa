@@ -7,13 +7,14 @@
     "twitter": "NetworkMeson",
     "medium": "https://medium.com/meson-network",
     "telegram": "mesonnetwork",
-    "discord": "https://discord.gg/z6YfSHDkmS",
-    "linkedin": "meson-network"
+    "linkedin": "meson-network",
+    "discord": "https://discord.gg/z6YfSHDkmS"
   },
   "config": {
     "dark": false
   },
   "gen": {
     "logo": "logo.svg"
-  }
+  },
+  "key": "meson"
 }
