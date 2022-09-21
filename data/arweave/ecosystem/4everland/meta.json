@@ -15,7 +15,8 @@
   },
   "gen": {
     "logo": "logo.svg",
-    "hasDark": true
+    "hasDark": true,
+    "darkExt": "svg"
   },
   "key": "4everland"
 }
