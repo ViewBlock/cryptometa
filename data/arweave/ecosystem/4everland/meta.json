@@ -8,18 +8,11 @@
   "addresses": [],
   "links": {
     "github": "4everland",
-    "twitter": "4everland_org"
+    "twitter": "4everland_org",
     "medium": "https://medium.com/4everland",
     "telegram": "https://t.me/org_4everland",
     "discord": "https://discord.com/invite/Cun2VpsdjF"
   },
-  "developers": [
-    {
-      "name": "",
-      "github": "",
-      "twitter": ""
-    }
-  ],
   "gen": {
     "logo": "logo.png",
     "hasDark": true
