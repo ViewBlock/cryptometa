@@ -1,0 +1,21 @@
+{
+  "name": "4everland",
+  "description": "A Web3 cloud computing platform with global acceleration, privacy protection, distributed storage, and other technical features.",
+  "web": "https://4everland.org",
+  "categories": [
+    "infrastructure"
+  ],
+  "addresses": [],
+  "links": {
+    "github": "4everland",
+    "twitter": "4everland_org",
+    "medium": "https://medium.com/4everland",
+    "telegram": "https://t.me/org_4everland",
+    "discord": "https://discord.com/invite/Cun2VpsdjF"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true
+  },
+  "key": "4everland"
+}
