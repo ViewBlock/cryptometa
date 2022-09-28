@@ -4,15 +4,19 @@
   "categories": [
     "nft"
   ],
-  "web": "https://testnet.aspect.co",
+  "web": "https://aspect.co",
+  "addresses": [
+    "0x03090623ea32d932ca1236595076b00702e7d860696faf300ca9eb13bfe0a78c"
+  ],
   "links": {
-    "github": "https://github.com/playoasis",
-    "twitter": "https://twitter.com/aspectdotco",
+    "github": "aspectco",
+    "twitter": "aspectdotco",
     "discord": "https://discord.com/invite/aR2U7KtbgD",
-    "telegram": "https://t.me/aspectco"
+    "telegram": "aspectco"
   },
   "gen": {
-    "logo": "logo.png"
+    "logo": "logo.png",
+    "hasDark": true
   },
   "key": "aspect"
 }

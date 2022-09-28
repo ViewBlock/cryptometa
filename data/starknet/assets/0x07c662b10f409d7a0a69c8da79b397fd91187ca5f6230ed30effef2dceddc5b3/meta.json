@@ -1,0 +1,16 @@
+{
+  "name": "MYSWAP DAI/ETH",
+  "symbol": "MYLP",
+  "web": "https://www.myswap.xyz",
+  "links": {
+    "twitter": "mySwapxyz",
+    "discord": "https://discord.com/invite/gbxgWHzqE4",
+    "telegram": "mySwapxyz"
+  },
+  "publicTeam": true,
+  "product": true,
+  "gen": {
+    "logo": "logo.png",
+    "score": 57
+  }
+}

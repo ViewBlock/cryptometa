@@ -1,0 +1,10 @@
+{
+  "name": "Wrapped BTC",
+  "symbol": "WBTC",
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg",
+    "score": 0
+  }
+}
