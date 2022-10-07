@@ -14,7 +14,9 @@
     "twitter": "https://twitter.com/argentHQ"
   },
   "gen": {
-    "logo": "logo.svg"
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg"
   },
   "key": "argent-x"
 }
