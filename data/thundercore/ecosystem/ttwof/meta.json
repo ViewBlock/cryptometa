@@ -1,0 +1,16 @@
+{
+  "name": "TT wof",
+  "description": "TT wof (Thundercore Wheel of Fortune), Fair and Decentralized gambling platform and Faucet available on the ThunderCore blockchain.",
+  "web": "https://ttwof.ddns.net",
+  "addresses": [
+	"0x8621F288Dd0344B753e98778C9F2f3D4bC900d87",
+	"0xF3B8F34FA04543aF791Ed55AD144d335620432Bd"
+  ],
+  "categories": [
+    "gambling"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "ttwof"
+}
