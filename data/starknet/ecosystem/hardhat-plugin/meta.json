@@ -6,8 +6,11 @@
   ],
   "links": {
     "github": "https://github.com/Shard-Labs/starknet-hardhat-plugin",
-    "twitter": "https://twitter.com/shard_labs"
+    "twitter": "https://twitter.com/shard_labs",
+    "discord": "https://discordapp.com/channels/793094838509764618/912735106899275856"
   },
-  "gen": {},
+  "gen": {
+    "logo": "logo.svg"
+  },
   "key": "hardhat-plugin"
 }

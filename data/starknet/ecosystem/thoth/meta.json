@@ -1,0 +1,13 @@
+{
+  "name": "Thoth",
+  "description": "Thoth is a Cairo/Starknet analyzer, disassembler & decompiler written in Python 3.",
+  "categories": [
+    "tools",
+    "security"
+  ],
+  "links": {
+    "github": "https://github.com/FuzzingLabs/thoth"
+  },
+  "gen": {},
+  "key": "thoth"
+}

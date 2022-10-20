@@ -6,8 +6,11 @@
   ],
   "links": {
     "github": "https://github.com/Shard-Labs/starknet-devnet",
-    "twitter": "https://twitter.com/shard_labs"
+    "twitter": "https://twitter.com/shard_labs",
+    "discord": "https://discordapp.com/channels/793094838509764618/985824027950055434"
   },
-  "gen": {},
+  "gen": {
+    "logo": "logo.png"
+  },
   "key": "starknet-devnet"
 }

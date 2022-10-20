@@ -1,0 +1,19 @@
+{
+  "name": "RabbitX",
+  "description": "Perpetuals. Order book liquidity. A full crypto derivatives suite. Built atop Ethereum ZK rollups. No fees. Maximum security. Maximum leverage. DeFi, evolved.",
+  "categories": [
+    "defi"
+  ],
+  "web": "https://rabbitx.io/?utm_source=starknet&utm_medium=organic&utm_campaign=ecosystem",
+  "links": {
+    "github": "https://github.com/rabbitx-docs/apidocs",
+    "twitter": "https://twitter.com/rabbitx_io",
+    "medium": "https://blog.rabbitx.io",
+    "discord": "https://discord.gg/rabbitx",
+    "telegram": "https://t.me/RabbitX_Official"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "rabbitx"
+}
