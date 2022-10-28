@@ -1,0 +1,16 @@
+{
+  "name": "Mint Square",
+  "description": "NFT Platform on Ethereum Layer 2 ZK Rollup",
+  "categories": [
+    "nft"
+  ],
+  "web": "https://mintsquare.io",
+  "links": {
+    "twitter": "https://twitter.com/MintSquareNFT",
+    "discord": "discord.gg/EDm8vm4MgY"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "mint-square"
+}

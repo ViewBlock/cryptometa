@@ -1,0 +1,17 @@
+{
+  "name": "Loot Realms",
+  "description": "open source MMOCCG (Massively Multiplayer On-Chain Composable Game) of economics and Chivalry",
+  "categories": [
+    "gamefi",
+    "nft"
+  ],
+  "web": "https://bibliothecadao.xyz",
+  "links": {
+    "twitter": "https://twitter.com/LootRealms",
+    "discord": "https://discord.com/invite/HvqzqE3Mfu"
+  },
+  "gen": {
+    "logo": "logo.jpeg"
+  },
+  "key": "loot-realms"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Zem",
+  "description": "Deployment system for Hardhat supporting EVM and StarkNet contracts.",
+  "categories": [
+    "tools"
+  ],
+  "links": {
+    "github": "https://github.com/anders-torbjornsen/zem",
+    "twitter": "https://twitter.com/0x80_eth"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "zem"
+}

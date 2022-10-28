@@ -1,0 +1,15 @@
+{
+  "name": "THETHOUSAND",
+  "symbol": "THOU",
+  "links": {
+    "web": "https://thethousand.zil",
+    "supply": "1000"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 0
+  }
+}

@@ -1,6 +1,6 @@
 {
-  "name": "ThunderCore Binance USD",
-  "symbol": "TT-BUSD",
+  "name": "Binance USD",
+  "symbol": "BUSD",
   "trusted": true,
   "gen": {
     "logo": "logo.png",

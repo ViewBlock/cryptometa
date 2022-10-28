@@ -1,0 +1,12 @@
+{
+  "name": "StarkNet Fractals",
+  "description": "Generating the Mandelbrot Set on Starknet and storing the data to required to reconstruct the plot on-chain. Was created as a proof of concept for leveraging L2s to create fully on chain NFTs.",
+  "categories": [
+    "nft"
+  ],
+  "links": {
+    "github": "https://github.com/Orland0x/StarknetFractals"
+  },
+  "gen": {},
+  "key": "starknet-fractals"
+}

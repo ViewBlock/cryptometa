@@ -1,0 +1,15 @@
+{
+  "name": "TerraUSD",
+  "symbol": "UST",
+  "web": "https://terra.money",
+  "links": {
+    "github": "terra-project",
+    "coingecko": "terra-usd",
+    "twitter": "terra_money"
+  },
+  "trusted": true,
+  "gen": {
+    "logo": "logo.svg",
+    "score": 100
+  }
+}

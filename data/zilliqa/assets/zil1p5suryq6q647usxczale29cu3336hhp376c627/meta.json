@@ -3,12 +3,10 @@
   "symbol": "ZWAP",
   "web": "http://zilswap.io",
   "links": {
-    "twitter": "https://twitter.com/SwitcheoNetwork",
-    "discord": "https://discord.com/invite/Cpsxb2d",
+    "twitter": "https://twitter.com/zilswap",
+    "discord": "https://discord.gg/443FG3nP62",
     "github": "https://github.com/switcheo/zilswap",
-    "linkedin": "https://www.linkedin.com/company/switcheonetwork",
-    "telegram": "https://t.me/switcheo",
-    "facebook": "https://www.facebook.com/SwitcheoExchange"
+    "linkedin": "https://www.linkedin.com/company/switcheo"
   },
   "holders": true,
   "product": true,

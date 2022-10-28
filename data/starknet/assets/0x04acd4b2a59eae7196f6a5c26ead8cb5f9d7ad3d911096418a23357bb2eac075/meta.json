@@ -1,0 +1,12 @@
+{
+  "name": "Origin",
+  "symbol": "ORGS",
+  "type": "erc721",
+  "links": {
+    "market": "https://aspect.co/asset/0x04acd4b2a59eae7196f6a5c26ead8cb5f9d7ad3d911096418a23357bb2eac075"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 0
+  }
+}

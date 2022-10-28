@@ -1,0 +1,19 @@
+{
+  "name": "10KSwap",
+  "description": "10KSwap is a Layer 2 AMM protocol building on StarkNet",
+  "categories": [
+    "defi",
+    "infra"
+  ],
+  "web": "https://10kswap.com",
+  "links": {
+    "github": "https://github.com/10k-swap",
+    "twitter": "https://twitter.com/10KSwap",
+    "discord": "https://discord.gg/T77yphUPB6",
+    "telegram": "https://t.me/Elena10KSwap"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "10kswap"
+}

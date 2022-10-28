@@ -1,0 +1,21 @@
+{
+  "name": "Pelenia",
+  "description": "Pelenia is a grassroots network of creativity harnessing Defi & NFTs to change the way we tell stories, get content made, and build community.",
+  "web": "https://pelenia.online",
+  "links": {
+    "twitter": "https://twitter.com/PeleniaDAO",
+    "telegram": "https://t.me/getyousomePELE",
+    "discord": "https://discord.gg/6BywvPNJQa",
+    "github": "https://github.com/Pelenia"
+  },
+  "categories": [
+    "creator-economy",
+    "nft",
+    "metaverse",
+    "dao"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "pelenia"
+}

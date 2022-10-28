@@ -1,0 +1,18 @@
+{
+  "name": "Brine Finance",
+  "description": "The decentralized order-book exchange for traders crafted by traders 🚀 Gasless | Instant | Multi-Chain | Secure | Trustless.",
+  "categories": [
+    "defi",
+    "infra"
+  ],
+  "web": "https://www.brine.finance",
+  "links": {
+    "twitter": "https://twitter.com/BrineFinance",
+    "medium": "https://medium.com/@brine.finance",
+    "discord": "https://discord.gg/wuPHBr9e9y"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "brine"
+}

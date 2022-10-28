@@ -1,0 +1,14 @@
+{
+  "name": "Multisig",
+  "description": "Multi-signature functionality for Starknet",
+  "categories": [
+    "infra",
+    "governance"
+  ],
+  "links": {
+    "github": "https://github.com/eqlabs/starknet-multisig",
+    "twitter": "https://twitter.com/equilibrium_co"
+  },
+  "gen": {},
+  "key": "multisig"
+}

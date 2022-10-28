@@ -1,0 +1,16 @@
+{
+  "name": "ZigZag",
+  "description": "Order-book based exchange",
+  "categories": [
+    "defi"
+  ],
+  "web": "https://trade.zigzag.exchange",
+  "links": {
+    "github": "https://github.com/ZigZagExchange",
+    "twitter": "https://twitter.com/ZigZagExchange"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "zigzag"
+}

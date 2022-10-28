@@ -1,0 +1,13 @@
+{
+  "name": "StarkNet React",
+  "description": "A collection of React hooks for StarkNet",
+  "categories": [
+    "tools"
+  ],
+  "web": "https://github.com/auclantis/starknet-react",
+  "links": {
+    "github": "https://github.com/auclantis/starknet-react"
+  },
+  "gen": {},
+  "key": "starknet-react"
+}

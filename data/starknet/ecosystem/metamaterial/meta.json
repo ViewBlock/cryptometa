@@ -1,0 +1,16 @@
+{
+  "name": "MetaMaterial",
+  "description": "The first protocol for resource sharing across all blockchain games.",
+  "categories": [
+    "nft"
+  ],
+  "web": "https://goerli.metamaterial.app",
+  "links": {
+    "twitter": "https://twitter.com/material_meta",
+    "medium": "https://mirror.xyz/starknet-metamaterial.eth/G8TLixABSyEL_tZ40iS4hAsOy_fxHdDA-Bw6x1aYCbs"
+  },
+  "gen": {
+    "logo": "logo.webp"
+  },
+  "key": "metamaterial"
+}

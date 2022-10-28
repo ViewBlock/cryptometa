@@ -1,19 +1,21 @@
 {
-  "name": "PELE Network",
+  "name": "Pelenia",
   "symbol": "PELE",
-  "web": "https://pele.network/",
+  "web": "https://pelenia.online/",
   "supply": "420000069",
-  "email": "hello@pele.network",
-  "whitepaper": "https://drive.google.com/file/d/1rhFKWFTKEXp81YGSrUTGAA3EAqxwIYm4/view",
+  "email": "hello@pelenia.online",
+  "whitepaper": "https://peledao.app/White-Paper-2-0-ee974ae822734cd2ac22eb11df911d8f",
   "links": {
-    "telegram": "https://t.me/PELENetwork",
-    "twitter": "https://twitter.com/PELENetwork",
-    "github": "https://github.com/PELENetwork",
-    "linkedin": "https://www.linkedin.com/company/pelenetwork/"
+    "telegram": "https://t.me/GetYouSomePELE",
+    "discord": "https://discord.gg/6BywvPNJQa",
+    "twitter": "https://twitter.com/PeleniaDAO",
+    "github": "https://github.com/Pelenia",
+    "linkedin": "https://www.linkedin.com/company/pelenia/",
+    "youtube": "https://www.youtube.com/channel/UCi4PEPhoZ1wsCrTLPHTDYZw"
   },
   "publicTeam": true,
   "gen": {
-    "logo": "logo.svg",
+    "logo": "logo.png",
     "score": 52
   }
 }

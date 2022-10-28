@@ -1,0 +1,20 @@
+{
+  "name": "The Soulless Citadel",
+  "description": "5555 Light Walker Clan cursed to purgatory in The Soulless Citadel. Who can save their souls? We shall see...",
+  "symbol": "TSC",
+  "web": "https://soullesscitadel.com/",
+  "email": "hello@soullesscitadel.com",
+  "publicTeam": true,
+  "product": true,
+  "links": {
+    "linkedin": "https://www.linkedin.com/company/shibui-labs",
+    "twitter": "https://twitter.com/SoullessCitadel",
+    "discord": "http://discord.gg/soullesscitadel",
+    "youtube": "https://www.youtube.com/channel/UCERqlDDPR22C7fwC9bpQWJA",
+    "instagram": "https://www.instagram.com/soullesscitadel/"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 62
+  }
+}

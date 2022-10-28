@@ -1,0 +1,19 @@
+{
+  "name": "Mini BITCOIN",
+  "symbol": "miniBTC",
+  "web": "https://mambo.li/stablecoins/minibitcoin",
+  "decimals": "12",
+  "supply": "100000",
+  "whitepaper": "https://mambo.li/downloads/minibtcwhitepaper.pdf",
+  "links": {
+    "telegram": "https://t.me/MamboToken",
+    "twitter": "https://twitter.com/MrCryptoMambo",
+    "github": "https://github.com/Mambo-Token/Stablecoin-contracts-whitepapers",
+    "youtube": "https://www.youtube.com/channel/UCMyUi6s550wtK7sNVvNmQbQ",
+    "medium": "https://medium.com/@tokenmanufactory"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 29
+  }
+}

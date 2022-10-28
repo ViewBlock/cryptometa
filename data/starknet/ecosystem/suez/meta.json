@@ -1,0 +1,15 @@
+{
+  "name": "Suez",
+  "description": "Bridge and DeFi pooling",
+  "categories": [
+    "defi",
+    "bridge"
+  ],
+  "web": "https://suez.dev",
+  "links": {
+    "github": "https://github.com/agolajko/suez",
+    "twitter": "https://twitter.com/SuezBridge"
+  },
+  "gen": {},
+  "key": "suez"
+}

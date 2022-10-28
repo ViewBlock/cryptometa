@@ -1,0 +1,15 @@
+{
+  "name": "Phi",
+  "description": "Phi（Φ） is a decentralized metaverse on Starknet, with lands generated from ENS and buildings from On-Chain Activity Data.",
+  "categories": [
+    "gamefi"
+  ],
+  "web": "https://phi-xyz.notion.site/phi-xyz/532af6de66e64c7c883d552d301b8020",
+  "links": {
+    "twitter": "https://twitter.com/phi_xyz"
+  },
+  "gen": {
+    "logo": "logo.jpeg"
+  },
+  "key": "phi"
+}

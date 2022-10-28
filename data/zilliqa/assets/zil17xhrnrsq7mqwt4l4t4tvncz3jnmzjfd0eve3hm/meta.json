@@ -1,0 +1,19 @@
+{
+  "name": "project Centauri",
+  "description": "A fully simulated universe, backed by the blockchain.",
+  "symbol": "CTI",
+  "web": "https://projectcentauri.com",
+  "email": "contact@undefinedcompany.com",
+  "publicTeam": true,
+  "product": false,
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/arthur-hoeke-170691103/",
+    "twitter": "https://twitter.com/centauri_nft",
+    "discord": "https://discord.gg/barX2NTwTT",
+    "youtube": "https://www.youtube.com/channel/UChkBM8Dego4V8er1g4UfZNQ"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 33
+  }
+}

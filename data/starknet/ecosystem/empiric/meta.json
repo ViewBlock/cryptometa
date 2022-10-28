@@ -1,0 +1,18 @@
+{
+  "name": "Empiric Network",
+  "description": "Empiric Network is the leading oracle on Starknet, making data decentralized, transparent and composable. Powered by high-quality data from Alameda, Jane Street, Gemini, FTX, and more.",
+  "categories": [
+    "defi",
+    "infra"
+  ],
+  "web": "https://www.empiric.network",
+  "links": {
+    "github": "https://github.com/42labs/Empiric",
+    "twitter": "https://twitter.com/EmpiricNetwork",
+    "medium": "https://medium.com/@EmpiricNetwork"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "empiric"
+}

@@ -10,8 +10,12 @@
     "facebook": "ArweaveTeam",
     "telegram": "arweave"
   },
+  "config": {
+    "manualDark": true
+  },
   "gen": {
     "logo": "logo.svg",
-    "hasDark": true
+    "hasDark": true,
+    "darkExt": "svg"
   }
 }

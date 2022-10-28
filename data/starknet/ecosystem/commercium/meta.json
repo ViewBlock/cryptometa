@@ -1,0 +1,18 @@
+{
+  "name": "The Commercium",
+  "description": "The Commercium enables DEX aggregation algorithms to be exeuted on-chain. Thus creating a truely decentralized and permissionless DEX aggregation protocol.",
+  "categories": [
+    "defi"
+  ],
+  "web": "https://www.commercium.app",
+  "links": {
+    "github": "https://github.com/AdeptusDigitales",
+    "twitter": "https://twitter.com/TheCommercium",
+    "medium": "https://medium.com/@adeptusdigitales",
+    "discord": "https://discord.gg/4nxZrT2R"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "commercium"
+}

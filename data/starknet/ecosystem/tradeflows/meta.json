@@ -1,0 +1,16 @@
+{
+  "name": "TradeFlows",
+  "description": "Focused on decentralised commerce and the tools that power that future. Building on StarkWare.",
+  "categories": [
+    "defi"
+  ],
+  "web": "https://www.tradeflows.io",
+  "links": {
+    "twitter": "https://twitter.com/TradeFlowsDAO",
+    "discord": "https://discord.com/invite/HuaxS95c6g"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "tradeflows"
+}

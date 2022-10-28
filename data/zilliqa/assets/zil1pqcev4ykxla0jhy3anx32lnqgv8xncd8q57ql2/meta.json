@@ -3,15 +3,9 @@
   "symbol": "SPW",
   "web": "https://spardawallet.com",
   "supply": "100000000",
-  "email": "spardawallet@gmail.com",
-  "whitepaper": "https://drive.google.com/file/d/1nuJGF_OeAEtZDtyQzaBSoKQkClkFObRt/view?usp=sharing",
-  "links": {
-    "telegram": "https://t.me/SpardaWalletOfficial",
-    "twitter": "https://twitter.com/spardaproject"
-  },
-  "publicTeam": true,
+  "links": {},
   "gen": {
     "logo": "logo.png",
-    "score": 38
+    "score": 5
   }
 }

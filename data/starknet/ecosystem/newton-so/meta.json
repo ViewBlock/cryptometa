@@ -1,0 +1,19 @@
+{
+  "name": "Newton.so | Ask developers questions about StarkNet and Cairo Lang here",
+  "description": "StarkNet & Cairo Lang place to share knowledge. A tokenized platform to ask and answer questions about blockchain and web3. Put bounties for your questions and improve the speed of software development now",
+  "categories": [
+    "infra",
+    "tools"
+  ],
+  "web": "https://newton.so",
+  "links": {
+    "github": "https://github.com/NewtonDAO",
+    "twitter": "https://twitter.com/TheNewtonHQ",
+    "discord": "https://discord.gg/rmTjw2DQnH",
+    "telegram": "https://t.me/+EUX9cW_LHcgwZTdk"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "newton-so"
+}

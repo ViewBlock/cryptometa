@@ -1,0 +1,9 @@
+{
+  "name": "USD Coin",
+  "symbol": "USDC",
+  "trusted": true,
+  "gen": {
+    "logo": "logo.svg",
+    "score": 100
+  }
+}

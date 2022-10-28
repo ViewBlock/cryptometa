@@ -182,6 +182,8 @@ const main = async () => {
 
     RUNE: 'thorchain',
     'THOR.RUNE': 'thorchain',
+    'GAIA.ATOM': 'cosmos',
+    GAIA: 'cosmos',
     // 'binance.ETH-1C9': 'ethereum',
   }
 
@@ -255,8 +257,8 @@ const main = async () => {
       for (let i = 0; i < assetsLength; ++i) {
         const hash = assets[i]
         if (
-          full._remap[`${chain}.${hash}`] ||
-          (!get(filters, `${chain}.${hash}`) && !get(filters, `${chain}.undefined`))
+          Object.keys(filters[chain]).length !== 1 &&
+          (full._remap[`${chain}.${hash}`] || !get(filters, `${chain}.${hash}`))
         ) {
           continue
         }

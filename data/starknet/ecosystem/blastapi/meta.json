@@ -1,0 +1,19 @@
+{
+  "name": "BlastApi",
+  "description": "BlastApi offers high quality StarkNet mainnet and testnet APIs.",
+  "categories": [
+    "infra"
+  ],
+  "web": "https://blastapi.io",
+  "links": {
+    "github": "https://github.com/bwarelabs",
+    "twitter": "https://twitter.com/BlastAPI",
+    "medium": "https://medium.com/bware-labs",
+    "discord": "https://discord.gg/bwarelabs",
+    "telegram": "https://t.me/bwareLabs"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "blastapi"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Banxa",
+  "description": "Payments",
+  "categories": [
+    "defi",
+    "payments"
+  ],
+  "web": "https://banxa.com",
+  "links": {
+    "twitter": "https://twitter.com/BanxaOfficial"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "banxa"
+}

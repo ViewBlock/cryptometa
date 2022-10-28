@@ -1,0 +1,20 @@
+{
+  "name": "Kyve",
+  "symbol": "KYVE",
+  "web": "https://kyve.network",
+  "links": {
+    "github": "KYVENetwork",
+    "twitter": "KYVENetwork",
+    "medium": "https://blog.kyve.network",
+    "telegram": "kyvenet",
+    "discord": "https://discord.com/invite/kyve",
+    "reddit": "kyve",
+    "linkedin": "kyve"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

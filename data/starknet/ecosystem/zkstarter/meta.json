@@ -1,0 +1,16 @@
+{
+  "name": "ZKStarter",
+  "description": "Decentralized Launchpad shaping the future for projects on StarkNet.",
+  "categories": [
+    "defi"
+  ],
+  "web": "http://www.zkstarter.io",
+  "links": {
+    "twitter": "https://twitter.com/zkstarter",
+    "telegram": "http://t.me/zkstarter"
+  },
+  "gen": {
+    "logo": "logo.jpg"
+  },
+  "key": "zkstarter"
+}

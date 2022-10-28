@@ -1,0 +1,19 @@
+{
+  "name": "Alpha Road",
+  "description": "Pioneer in DeFi L2 solution — Alpha Road aim at maximizing user investment returns by providing next gen DeFi experience and bespoke financial products.\n",
+  "categories": [
+    "defi",
+    "nft"
+  ],
+  "web": "https://testnet.app.alpharoad.fi",
+  "links": {
+    "twitter": "https://twitter.com/alpharoad_fi",
+    "medium": "https://alpharoad.medium.com",
+    "discord": "https://discord.gg/Bhfa3B2Gnq",
+    "telegram": "https://t.me/alpharoad_fi"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "alpha-road"
+}

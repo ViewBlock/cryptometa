@@ -1,0 +1,12 @@
+{
+  "name": "Pxls",
+  "symbol": "PXLS",
+  "type": "erc721",
+  "links": {
+    "market": "https://aspect.co/asset/0x045963ea13d95f22b58a5f0662ed172278e6b420cded736f846ca9bde8ea476a"
+  },
+  "gen": {
+    "logo": "logo.jpg",
+    "score": 0
+  }
+}

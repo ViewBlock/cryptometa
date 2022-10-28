@@ -26,13 +26,8 @@ const refreshData = async () => {
 }
 
 const _getData = async () => {
-  if (cache.fetching) {
-    return sleep(500).then(_getData)
-  }
-
-  if (cache.ts && Date.now() - cache.ts <= config.cacheDuration) {
-    return cache.data
-  }
+  if (cache.fetching) return sleep(500).then(_getData)
+  if (cache.ts && Date.now() - cache.ts <= config.cacheDuration) return cache.data
 
   await refreshData()
 
@@ -40,6 +35,8 @@ const _getData = async () => {
 }
 
 module.exports = {
+  _getData,
+
   setConfig: payload => {
     Object.keys(payload).forEach(key => {
       config[key] = payload[key]
@@ -70,10 +67,7 @@ module.exports = {
       })
     })
 
-    if (!Array.isArray(payload)) {
-      return out[0]
-    }
-
+    if (!Array.isArray(payload)) return out[0]
     return out
   },
 }

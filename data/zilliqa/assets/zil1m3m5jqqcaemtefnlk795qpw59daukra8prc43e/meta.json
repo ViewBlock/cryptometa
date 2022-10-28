@@ -4,14 +4,17 @@
   "web": "https://zolar.io",
   "description": "",
   "decimals": 12,
+  "whitepaper": "http://docs.zolar.io",
+  "publicTeam": true,
+  "product": true,
   "links": {
     "twitter": "https://twitter.com/bearmarketnft",
     "discord": "https://discord.gg/zilswap",
     "github": "https://github.com/switcheo",
-    "linkedin": "https://www.linkedin.com/company/switcheonetwork"
+    "linkedin": "https://www.linkedin.com/company/switcheo"
   },
   "gen": {
     "logo": "logo.png",
-    "score": 24
+    "score": 81
   }
 }

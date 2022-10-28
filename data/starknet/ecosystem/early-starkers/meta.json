@@ -1,0 +1,15 @@
+{
+  "name": "Early Starkers",
+  "description": "Early Starkers project aims to gather the early adaptors and pioneers of StarkNet community.",
+  "categories": [
+    "nft"
+  ],
+  "web": "https://earlystarkers.io",
+  "links": {
+    "twitter": "https://twitter.com/earlystarkers"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "early-starkers"
+}
