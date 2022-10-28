@@ -9,5 +9,9 @@
     "twitter": "https://twitter.com/EnterthePLVRS",
     "youtube": "https://www.youtube.com/channel/UCi4PEPhoZ1wsCrTLPHTDYZw",
     "discord": "https://discord.gg/tT9BSZ5n4Z"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
   }
 }
