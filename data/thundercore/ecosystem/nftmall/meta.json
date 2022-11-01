@@ -39,8 +39,7 @@
     "dark": false
   },
   "gen": {
-    "logo": "logo.svg",
-    "score": 100
+    "logo": "logo.svg"
   },
   "key": "nftmall"
 }
