@@ -1,0 +1,47 @@
+{
+  "name": "NFTmall",
+  "description": "We are building NFTmall as the #1 NFT ecosystem that provides a complete life cycle of NFTs. It starts from Minting, Dropping, Curation, Monetization, Various types of auctions, launching new NFT projects, INO platform, to ordering physical products in the real world from NFTs.",
+  "web": "https://nftmall.io",
+  "categories": [
+    "NFT",
+    "marketplace",
+    "launchpad",
+    "infrastructure",
+    "featured"
+  ],
+  "addresses": [
+    "0x218c3c3d49d0e7b37aff0d8bb079de36ae61a4c0",
+    "0x4f02a80f29e69b3725c4033e432d2a451df39a73",
+    "0x346feafa574d29919be976d8120e5dbe30f624d7",
+    "0x05984535a7230a8e467e37592d8794fbb2b698ec",
+    "0xdc93e11b3a8af43a4940d30ed3704be5a71ad09a",
+    "0x96714e85586250c329b80d6cbd80716b348ffcc9"
+  ],
+  "email": "info@nftmall.io",
+  "whitepaper": "https://nftmall.docsend.com/view/aqitrk9vsfhbahe8",
+  "links": {
+    "github": "https://github.com/NFTmall",
+    "linkedin": "https://www.linkedin.com/company/NFTmall",
+    "twitter": "https://twitter.com/NFTmall",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/NFTmall",
+    "coingecko": "https://www.coingecko.com/en/coins/NFTmall",
+    "medium": "https://medium.com/NFTmall",
+    "telegram": "https://t.me/NFTmallio",
+    "discord": "https://discord.gg/SG4GGYMXvJ",
+    "reddit": "https://www.reddit.com/r/NFTmallOfficial",
+    "youtube": "https://www.youtube.com/channel/UCF563MOQhJYfWgW1L9TDEHQ",
+    "facebook": "https://www.facebook.com/NFTmall-101972288642593",
+    "instagram": "https://instagram.com/nftmall"
+  },
+  "trusted": true,
+  "product": true,
+  "publicTeam": true,
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 100
+  },
+  "key": "nftmall"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "NFTmall GEM Token",
+  "symbol": "GEM",
+  "description": "We are building NFTmall as the #1 NFT ecosystem that provides a complete life cycle of NFTs. It starts from Minting, Dropping, Curation, Monetization, Various types of auctions, launching new NFT projects, INO platform, to ordering physical products in the real world from NFTs.",
+  "web": "https://nftmall.io",
+  "decimals": 18,
+  "supply": 20000000,
+  "email": "info@nftmall.io",
+  "whitepaper": "https://nftmall.docsend.com/view/aqitrk9vsfhbahe8",
+  "links": {
+    "github": "https://github.com/NFTmall",
+    "linkedin": "https://www.linkedin.com/company/NFTmall",
+    "twitter": "https://twitter.com/NFTmall",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/NFTmall",
+    "coingecko": "https://www.coingecko.com/en/coins/NFTmall",
+    "medium": "https://medium.com/NFTmall",
+    "telegram": "https://t.me/NFTmallio",
+    "discord": "https://discord.gg/SG4GGYMXvJ",
+    "reddit": "https://www.reddit.com/r/NFTmallOfficial",
+    "youtube": "https://www.youtube.com/channel/UCF563MOQhJYfWgW1L9TDEHQ",
+    "facebook": "https://www.facebook.com/NFTmall-101972288642593",
+    "instagram": "https://instagram.com/nftmall"
+  },
+  "trusted": true,
+  "product": true,
+  "publicTeam": true,
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 100
+  }
+}
