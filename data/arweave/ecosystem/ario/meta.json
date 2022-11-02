@@ -1,0 +1,35 @@
+{
+  "name": "ar.io",
+  "description": "ar.io is a global network, protocol, and currency that enables the permaweb.",
+  "web": "https://ar.io",
+  "categories": [
+    "storage"
+  ],
+  "addresses": [
+    "yCxjLRyXjzHJ4gMZK8HFYiW146dykI9QgP6CSsVXFwk"
+  ],
+  "links": {
+    "github": "ardriveapp",
+    "linkedin": "ar-io",
+    "twitter": "ar_io_team",
+    "youtube": "https://www.youtube.com/channel/UCL4JlkVcgUjyVz4IlKvbS_g",
+    "instagram": "ardriveapp",
+    "discord": "https://discord.com/channels/908759493943394334/999308325789368370"
+  },
+  "developers": [
+    {
+      "name": "Phil Mataras",
+      "github": "vilenarios",
+      "twitter": "vilenarios"
+    },
+    {
+      "name": "Ariel Melendez",
+      "github": "arielmelendez",
+      "twitter": "amelendeztweets"
+    }
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "ario"
+}
