@@ -8,8 +8,6 @@
     "discord": "https://discord.gg/zilswap",
     "instagram": "https://instagram.com/thebearmarketnft"
   },
-  "holders": true,
-  "product": true,
   "publicTeam": true,
   "gen": {
     "logo": "logo.png"
