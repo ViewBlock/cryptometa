@@ -1,0 +1,12 @@
+{
+  "name": "NFT",
+  "description": "Mixin NFTs",
+  "web": "https://viewblock.io/mixin/asset/1700941284a95f31b25ec8c546008f208f88eee4419ccdcdbe6e3195e60128ca",
+  "categories": [
+    "nft"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "nft"
+}
