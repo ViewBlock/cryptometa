@@ -34,6 +34,7 @@ const apps = [
   'viewblock',
   'weve',
   'wisdomwizards',
+  'glacier'
 ]
 
 const main = async () => {
