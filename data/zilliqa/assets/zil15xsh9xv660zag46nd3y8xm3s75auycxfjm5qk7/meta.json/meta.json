@@ -1,0 +1,15 @@
+{
+  "name": "Zilliqa-bridged MATIC Token",
+  "symbol": "zMATIC",
+  "web": "https://polygon.technology/",
+  "links": {
+      "github": "https://github.com/maticnetwork/",
+      "coingecko": "https://www.coingecko.com/en/coins/polygon",
+      "twitter": "https://twitter.com/0xPolygon",
+      "reddit": "https://www.reddit.com/r/0xPolygon/"
+  },
+  "gen": {
+      "logo": "logo.svg",
+      "score": 100
+  }
+}
