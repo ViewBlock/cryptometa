@@ -3,6 +3,7 @@
   "symbol": "DUDU",
   "web": "https://www.alphagram.app/",
   "gen": {
-    "logo": "logo.svg"
+    "logo": "logo.svg",
+    "score": 5
   }
 }
