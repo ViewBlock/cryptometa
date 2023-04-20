@@ -24,9 +24,7 @@
     }
   ],
   "gen": {
-    "logo": "logo.svg",
-    "hasDark": true,
-    "darkExt": "svg"
+    "logo": "logo.svg"
   },
   "key": "arconnect"
 }
