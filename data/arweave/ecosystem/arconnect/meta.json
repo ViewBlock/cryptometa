@@ -3,6 +3,7 @@
   "description": "Secure wallet management for Arweave",
   "web": "https://arconnect.io",
   "categories": [
+    "wallet",
     "identity"
   ],
   "addresses": [],
@@ -23,7 +24,7 @@
     }
   ],
   "gen": {
-    "logo": "logo.png"
+    "logo": "logo.svg"
   },
   "key": "arconnect"
 }
