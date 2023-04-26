@@ -3,7 +3,8 @@
   "description": "LaserSwap, the first DEX V2 on ThunderCore (TT) delivering great trading experience and earning opportunities.",
   "web": "https://laserswap.finance",
   "addresses": [
-    "0xfa9fE703A882d883c635a949da91405Ce011e526"
+    "0xfa9fE703A882d883c635a949da91405Ce011e526",
+    "0xa0806666831e87224c2a7734d00e65f57f65f90b"
   ],
   "categories": [
     "defi"
