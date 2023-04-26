@@ -1,0 +1,15 @@
+{
+  "name": "Laser Token",
+  "symbol": "LASER",
+  "trusted": true,
+  "web": "https://laserswap.finance/",
+  "decimals": 18,
+  "email": "laserswap.xyz@gmail.com",
+  "links": {
+    "telegram": "https://t.me/Laser_Swap"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 5
+  }
+}
