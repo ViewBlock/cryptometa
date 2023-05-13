@@ -7,7 +7,10 @@
   "supply": 420690420690420,
   "links": {
     "twitter": "https://twitter.com/Zil_Pepe",
-    "telegram": "https://t.me/ZILPEPE"
+    "telegram": "https://t.me/ZILPEPE",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/zilpepe/",
+    "coingecko": "https://www.coingecko.com/en/coins/zilpepe",
+    "discord": "https://discord.gg/sBAjua7WXT"
   },
   "gen": {
     "logo": "logo.png",
