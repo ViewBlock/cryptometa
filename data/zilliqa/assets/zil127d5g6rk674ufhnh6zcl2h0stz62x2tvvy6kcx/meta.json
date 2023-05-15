@@ -1,0 +1,15 @@
+{
+  "name": "Zil Shiba Inu",
+  "description": "Zil Shiba is a cryptocurrency based on the Zilliqa network, as a fun initiative in the world of meme coins.",
+  "symbol": "ZShiba",
+  "web": "https://zilshibainu.github.io/webpage/",
+  "decimals": 18,
+  "supply": 1e+33,
+  "links": {
+    "twitter": "https://twitter.com/ZilShiba"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}
