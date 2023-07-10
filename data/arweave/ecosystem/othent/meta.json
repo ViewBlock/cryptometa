@@ -1,0 +1,29 @@
+{
+  "name": "Othent",
+  "description": "Web3 transactions with existing traditional social logins.",
+  "web": "https://othent.io",
+  "categories": [
+    "authentication"
+  ],
+  "addresses": [
+    "EO54_9d715SEqSXxx-nNsXqMyRgqyrYNIqb_OXSxSXA"
+  ],
+  "links": {
+    "twitter": "KeysArentSimple",
+    "discord": "https://discord.gg/WPPBPtKbbN",
+    "github": "Othent",
+    "blog": "https://blog.othent.io",
+    "linkedin": "othent"
+  },
+  "developers": [
+    {
+      "name": "Lorimer Jenkins",
+      "github": "LorimerJenkins",
+      "twitter": "lorimer_jenkins"
+    }
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "othent"
+}
