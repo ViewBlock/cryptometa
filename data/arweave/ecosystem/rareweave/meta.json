@@ -2,7 +2,11 @@
   "name": "rareweave",
   "description": "Here you can find the most amazing NFTs on the Arweave blockchain and easily trade them with a price of just few gold ounces.",
   "web": "https://rareweave.store",
-  "categories": ["nft", "tools", "infrastructure"],
+  "categories": [
+    "nft",
+    "tools",
+    "infrastructure"
+  ],
   "links": {
     "github": "rareweave",
     "twitter": "rareweave"
