@@ -1,0 +1,10 @@
+{
+  "name": "STAMP Protocol",
+  "symbol": "$STAMP",
+  "web": "https://stamps.live",
+  "product": true,
+  "gen": {
+    "logo": "logo.png",
+    "score": 33
+  }
+}
