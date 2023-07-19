@@ -1,0 +1,13 @@
+{
+  "name": "3X Long TomoChain Token",
+  "symbol": "TOMOBULL",
+  "web": "https://ftx.com/tokens/TOMOBULL",
+  "explorer": "https://etherscan.io/token/0xa38920C00D1a5303dB538A3Ea08da7a779e1F751",
+  "links": {
+    "coingecko": "3x-long-tomochain-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

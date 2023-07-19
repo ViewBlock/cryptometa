@@ -1,0 +1,10 @@
+{
+  "name": "Huobi Token",
+  "symbol": "HT",
+  "web": "https://bridge.thundercore.com/heco",
+  "trusted": true,
+  "gen": {
+    "logo": "logo.png",
+    "score": 100
+  }
+}

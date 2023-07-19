@@ -1,0 +1,11 @@
+{
+  "name": "Absorber",
+  "symbol": "ABS",
+  "web": "https://absorber.finance",
+  "explorer": "https://bscscan.com/token/0x6c5fe6e99d2484db7e4bf34f365aba42d0e4dc20",
+  "links": {
+    "coingecko": "absorber",
+    "twitter": "DeFi_Absorber",
+    "telegram": "AbsorberProtocol"
+  }
+}

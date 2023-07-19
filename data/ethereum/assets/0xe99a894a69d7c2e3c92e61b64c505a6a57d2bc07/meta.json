@@ -1,0 +1,18 @@
+{
+  "name": "Hyperion",
+  "symbol": "HYN",
+  "web": "https://www.hyn.space",
+  "explorer": "https://etherscan.io/token/0xe99a894a69d7c2e3c92e61b64c505a6a57d2bc07",
+  "links": {
+    "github": "hyperion-hyn",
+    "coingecko": "hyperion",
+    "twitter": "HyperionHYN",
+    "facebook": "Hyperion-854025704797996",
+    "telegram": "HyperionOfficialHYN"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

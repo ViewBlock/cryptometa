@@ -1,0 +1,15 @@
+{
+  "name": "Xaviera Tech",
+  "symbol": "XTS",
+  "web": "http://www.xavieratech.com",
+  "explorer": "https://etherscan.io/token/0x36232b1328e49a043434e71c02c0dc2be278e975",
+  "links": {
+    "coingecko": "xaviera-tech",
+    "facebook": "xavieratech",
+    "telegram": "xavieratech_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

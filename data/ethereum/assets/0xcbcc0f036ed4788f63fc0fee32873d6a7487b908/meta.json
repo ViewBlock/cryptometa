@@ -1,0 +1,17 @@
+{
+  "name": "Humaniq",
+  "symbol": "HMQ",
+  "web": "https://humaniq.co",
+  "explorer": "https://etherscan.io/token/0xcbcc0f036ed4788f63fc0fee32873d6a7487b908",
+  "links": {
+    "github": "humaniq",
+    "coingecko": "humaniq",
+    "twitter": "Humaniq_co",
+    "facebook": "humaniq.co",
+    "reddit": "r/Humaniq"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

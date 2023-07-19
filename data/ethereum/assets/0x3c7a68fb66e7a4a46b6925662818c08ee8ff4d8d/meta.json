@@ -1,0 +1,16 @@
+{
+  "name": "Tro.Network",
+  "symbol": "TRO",
+  "web": "https://tro.network",
+  "explorer": "https://etherscan.io/token/0x3c7a68fb66e7a4a46b6925662818c08ee8ff4d8d",
+  "links": {
+    "coingecko": "tro-network",
+    "twitter": "tro_network",
+    "facebook": "TroNetwork",
+    "telegram": "TroNetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

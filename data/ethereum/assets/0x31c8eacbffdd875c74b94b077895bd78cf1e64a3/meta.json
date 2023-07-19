@@ -1,0 +1,15 @@
+{
+  "name": "Radicle",
+  "symbol": "RAD",
+  "web": "https://radicle.xyz",
+  "explorer": "https://etherscan.io/token/0x31c8eacbffdd875c74b94b077895bd78cf1e64a3",
+  "links": {
+    "github": "radicle-dev",
+    "coingecko": "radicle",
+    "twitter": "radicle"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

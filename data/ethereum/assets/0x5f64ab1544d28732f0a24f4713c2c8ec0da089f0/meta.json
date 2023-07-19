@@ -1,0 +1,15 @@
+{
+  "name": "DEXTF",
+  "symbol": "DEXTF",
+  "web": "https://dextf.com",
+  "explorer": "https://etherscan.io/token/0x5f64ab1544d28732f0a24f4713c2c8ec0da089f0",
+  "links": {
+    "coingecko": "dextf",
+    "twitter": "dextfprotocol",
+    "telegram": "dextfprotocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

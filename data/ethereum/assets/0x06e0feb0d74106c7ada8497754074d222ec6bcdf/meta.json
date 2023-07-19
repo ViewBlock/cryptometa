@@ -1,0 +1,17 @@
+{
+  "name": "Bitball",
+  "symbol": "BTB",
+  "web": "https://www.bitball-btb.com",
+  "explorer": "https://etherscan.io/token/0x06e0feb0d74106c7ada8497754074d222ec6bcdf",
+  "links": {
+    "github": "BitballErc20",
+    "coingecko": "bitball",
+    "twitter": "BitBall_Erc20",
+    "facebook": "bit.ball.921",
+    "telegram": "BitballGroupChat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

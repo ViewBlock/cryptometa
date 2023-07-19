@@ -1,0 +1,15 @@
+{
+  "name": "Defi Shopping Stake",
+  "symbol": "DSS",
+  "web": "https://defi.uquid.com",
+  "explorer": "https://etherscan.io/token/0x213c53c96a01a89e6dcc5683cf16473203e17513",
+  "links": {
+    "github": "uquid",
+    "coingecko": "defi-shopping-stake",
+    "twitter": "uquidcard"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

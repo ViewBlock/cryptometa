@@ -1,0 +1,24 @@
+{
+  "name": "Bundlr",
+  "description": "A network supporting infinite scale on Arweave, supporting storage payment in any crypto.",
+  "web": "https://bundlr.network",
+  "categories": [
+    "storage"
+  ],
+  "addresses": [
+    "OXcT1sVRSA5eGwt2k6Yuz8-3e3g9WJi5uSE99CWqsBs",
+    "ZE0N-8P9gXkhtK-07PQu9d8me5tGDxa_i4Mee5RzVYg"
+  ],
+  "links": {
+    "twitter": "BundlrNetwork",
+    "discord": "invite/xwsTEZv6DU",
+    "github": "Bundlr-Network"
+  },
+  "developers": [],
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg"
+  },
+  "key": "bundlr"
+}

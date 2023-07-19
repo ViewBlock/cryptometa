@@ -1,0 +1,17 @@
+{
+  "name": "Silver Coin",
+  "symbol": "SCN",
+  "web": "https://silvercoin.asia",
+  "explorer": "https://etherscan.io/token/0x8a65ab17324c155fac3e46ad33e9553d9165a252",
+  "links": {
+    "coingecko": "silver-coin",
+    "twitter": "scn_stabel",
+    "facebook": "silvercoinpage",
+    "telegram": "silvercoin_group",
+    "reddit": "r/Aceh_coin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

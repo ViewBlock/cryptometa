@@ -1,0 +1,14 @@
+{
+  "name": "Block 18",
+  "symbol": "18C",
+  "web": "https://static.block18.io",
+  "explorer": "https://etherscan.io/token/0x5A9bF6bADCd24Fe0d58E1087290c2FE2c728736a",
+  "links": {
+    "coingecko": "block-18",
+    "telegram": "Blockchain_18"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Sting",
+  "symbol": "STN",
+  "web": "https://stingcoin.io",
+  "explorer": "https://etherscan.io/token/0x592481A5F6b4F078cc303C2cDE4337dFA2d76fA0",
+  "links": {
+    "coingecko": "sting",
+    "telegram": "Stingcoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

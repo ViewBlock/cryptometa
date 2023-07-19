@@ -1,0 +1,16 @@
+{
+  "name": "ScarPunk",
+  "symbol": "Are Unique Punks choose the one that talk to you most",
+  "web": "crazysoulart.com",
+  "links": {
+    "twitter": "crazysoulart",
+    "web": "http://www.crazysoulart.com/"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

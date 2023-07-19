@@ -1,0 +1,16 @@
+{
+  "name": "ZMINE",
+  "symbol": "ZMN",
+  "web": "https://www.zmine.com",
+  "explorer": "https://etherscan.io/token/0x554ffc77f4251a9fb3c0e3590a6a205f8d4e067d",
+  "links": {
+    "coingecko": "zmine",
+    "twitter": "zmineofficial",
+    "facebook": "zmineofficial",
+    "telegram": "zminegroupchat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

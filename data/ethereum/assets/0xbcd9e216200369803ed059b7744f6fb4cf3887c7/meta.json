@@ -1,0 +1,16 @@
+{
+  "name": "Epic",
+  "symbol": "EPIC",
+  "web": "https://epicex.io",
+  "explorer": "https://etherscan.io/token/0xbcd9e216200369803ed059b7744f6fb4cf3887c7",
+  "links": {
+    "github": "Epic-token",
+    "coingecko": "epic",
+    "twitter": "epiccomu",
+    "telegram": "epiccoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

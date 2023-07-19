@@ -1,0 +1,16 @@
+{
+  "name": "Okimoto",
+  "description": "Okimoto the most advanced decentralised non-fungible token exchange on the Zilliqa blockchain.",
+  "web": "https://okimoto.io",
+  "links": {
+    "twitter": "https://twitter.com/Okimoto_Dex"
+  },
+  "categories": [
+    "nft"
+  ],
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true
+  },
+  "key": "okimoto"
+}

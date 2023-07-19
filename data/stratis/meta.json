@@ -1,0 +1,16 @@
+{
+  "name": "Stratis",
+  "symbol": "STRAX",
+  "web": "http://stratisplatform.com",
+  "explorer": " https://chainz.cryptoid.info/strax",
+  "links": {
+    "github": "stratisproject",
+    "coingecko": "stratis",
+    "twitter": "stratisplatform",
+    "facebook": "stratisplatform",
+    "reddit": "r/stratisplatform"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Doc.com",
+  "symbol": "MTC",
+  "web": "https://doc.com",
+  "explorer": "https://etherscan.io/token/0x905e337c6c8645263d3521205aa37bf4d034e745",
+  "links": {
+    "github": "Docademic",
+    "coingecko": "medical-token-currency",
+    "twitter": "doc_comofficial",
+    "facebook": "Docademic"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "ETH Momentum Trigger Set",
+  "symbol": "ETHMO",
+  "web": "https://www.tokensets.com/set/ethmo",
+  "explorer": "https://etherscan.io/token/0x98a25ba4c3793b9029652cbc1a8875cbe223df13",
+  "links": {
+    "coingecko": "eth-momentum-trigger-set",
+    "twitter": "setprotocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

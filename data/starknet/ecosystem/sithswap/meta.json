@@ -1,0 +1,19 @@
+{
+  "name": "SithSwap",
+  "description": "SithSwap is a next-gen AMM on StarkNet featuring stable + volatile swaps, ultra-low fees & slippage, gauged (3,3) rewards & bribes governed by veNFTs",
+  "categories": [
+    "defi"
+  ],
+  "web": "https://sithswap.com",
+  "links": {
+    "github": "https://github.com/SithSwap",
+    "twitter": "https://twitter.com/SithSwap",
+    "medium": "https://mirror.xyz/sithswap.eth",
+    "discord": "https://discord.gg/gAD2wuzeNf",
+    "telegram": "https://t.me/SithWars"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "sithswap"
+}

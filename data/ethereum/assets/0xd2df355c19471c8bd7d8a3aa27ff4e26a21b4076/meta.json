@@ -1,0 +1,14 @@
+{
+  "name": "sAAVE",
+  "symbol": "SAAVE",
+  "web": "https://www.synthetix.io",
+  "explorer": "https://etherscan.io/token/0xd2dF355C19471c8bd7D8A3aa27Ff4e26A21b4076",
+  "links": {
+    "coingecko": "saave",
+    "twitter": "synthetix_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

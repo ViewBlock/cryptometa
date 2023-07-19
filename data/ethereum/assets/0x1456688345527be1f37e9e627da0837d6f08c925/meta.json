@@ -1,0 +1,15 @@
+{
+  "name": "USDP Stablecoin",
+  "symbol": "USDP",
+  "web": "https://unit.xyz",
+  "explorer": "https://etherscan.io/token/0x1456688345527bE1f37E9e627DA0837D6f08C925",
+  "links": {
+    "github": "unitprotocol",
+    "coingecko": "usdp",
+    "telegram": "unit_en"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

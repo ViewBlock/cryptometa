@@ -1,0 +1,15 @@
+{
+  "name": "PRESTO",
+  "symbol": "PRSTX",
+  "web": "https://presto-platform.io",
+  "explorer": "https://etherscan.io/token/0x00ad22ab1006fc282674887aff1114e5ad14077d",
+  "links": {
+    "github": "PrestoPlatform",
+    "coingecko": "presto",
+    "twitter": "PrestoPlatform"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

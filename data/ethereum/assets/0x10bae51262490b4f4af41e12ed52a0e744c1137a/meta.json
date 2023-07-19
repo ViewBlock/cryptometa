@@ -1,0 +1,15 @@
+{
+  "name": "Soft Link",
+  "symbol": "SLINK",
+  "web": "https://slink.finance",
+  "explorer": "https://etherscan.io/token/0x10bae51262490b4f4af41e12ed52a0e744c1137a",
+  "links": {
+    "coingecko": "softlink",
+    "twitter": "Slinkfinance",
+    "telegram": "OfficialSoftLink"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

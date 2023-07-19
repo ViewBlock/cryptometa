@@ -1,0 +1,16 @@
+{
+  "name": "YUGE",
+  "symbol": "TRUMP",
+  "web": "https://yuge.money",
+  "explorer": "https://etherscan.io/token/0x012ba3ae1074ae43a34a14bca5c4ed0af01b6e53",
+  "links": {
+    "github": "DeFiDonaldAdmin",
+    "coingecko": "yuge",
+    "twitter": "MDGA2020",
+    "telegram": "TRUMPCOINMDGA"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

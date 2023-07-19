@@ -1,0 +1,15 @@
+{
+  "name": "Couchain",
+  "symbol": "COU",
+  "web": "https://couchain.io",
+  "explorer": "https://etherscan.io/token/0xf091cf09c51811819db705710e9634b8bf18f164",
+  "links": {
+    "coingecko": "couchain",
+    "twitter": "Couchain",
+    "telegram": "CouchainGroups"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

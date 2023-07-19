@@ -1,0 +1,14 @@
+{
+  "name": "Snetwork",
+  "symbol": "SNET",
+  "web": "http://snetwork.io",
+  "explorer": "https://etherscan.io/token/0xFf19138b039D938db46bDDA0067DC4BA132ec71C",
+  "links": {
+    "coingecko": "snetwork",
+    "telegram": "snetwork_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

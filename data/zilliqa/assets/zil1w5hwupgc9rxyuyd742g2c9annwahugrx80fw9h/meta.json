@@ -1,0 +1,19 @@
+{
+  "name": "Gary",
+  "symbol": "GARY",
+  "web": "https://thegarytoken.com",
+  "supply": 100,
+  "decimals": 4,
+  "email": "thegarytoken@gmail.com",
+  "publicTeam": true,
+  "links": {
+    "twitter": "https://twitter.com/GusSnail",
+    "telegram": "https://t.me/TheGARYToken",
+    "linkedin": "https://www.linkedin.com/in/gary-smallacombe/",
+    "facebook": "https://www.facebook.com/gary.smallacombe/"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 33
+  }
+}

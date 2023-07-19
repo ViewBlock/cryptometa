@@ -1,0 +1,16 @@
+{
+  "name": "Intelligent Investment Chain",
+  "symbol": "IIC",
+  "web": "http://www.iicoin.io",
+  "explorer": "https://etherscan.io/token/0xb6f43025b29196af2dddd69b0a58afba079cd600",
+  "links": {
+    "github": "iichain",
+    "coingecko": "intelligent-investment-chain",
+    "twitter": "iichain",
+    "telegram": "iichain02"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

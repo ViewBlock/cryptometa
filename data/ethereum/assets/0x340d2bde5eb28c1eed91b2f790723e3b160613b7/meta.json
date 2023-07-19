@@ -1,0 +1,17 @@
+{
+  "name": "BLOCKv",
+  "symbol": "VEE",
+  "web": "https://blockv.io",
+  "explorer": "https://etherscan.io/token/0x340d2bde5eb28c1eed91b2f790723e3b160613b7",
+  "links": {
+    "github": "BLOCKvIO",
+    "coingecko": "blockv",
+    "twitter": "blockv_io",
+    "facebook": "blockv.io",
+    "reddit": "r/blockv"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

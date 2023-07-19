@@ -1,0 +1,15 @@
+{
+  "name": "Okimoto Open NFT Token",
+  "symbol": "OPEN",
+  "web": "https://okimoto.io",
+  "links": {
+    "telegram": "https://t.me/Okipad",
+    "youtube": "https://www.youtube.com/channel/UCCgP-mSOXha_c1xGEn13p6A"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg",
+    "score": 5
+  }
+}

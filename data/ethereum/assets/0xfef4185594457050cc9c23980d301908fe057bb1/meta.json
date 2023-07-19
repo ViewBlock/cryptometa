@@ -1,0 +1,17 @@
+{
+  "name": "VIDT Datalink",
+  "symbol": "VIDT",
+  "web": "https://vidt-datalink.com",
+  "explorer": "https://etherscan.io/token/0xfeF4185594457050cC9c23980d301908FE057Bb1",
+  "links": {
+    "github": "V-ID",
+    "coingecko": "v-id-blockchain",
+    "twitter": "VIDT_Datalink",
+    "telegram": "vidtoken",
+    "reddit": "r/vidt"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

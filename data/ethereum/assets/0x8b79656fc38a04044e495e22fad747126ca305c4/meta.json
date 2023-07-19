@@ -1,0 +1,17 @@
+{
+  "name": "AgaveCoin",
+  "symbol": "AGVC",
+  "web": "https://agavecoin.io",
+  "explorer": "https://etherscan.io/token/0x8b79656fc38a04044e495e22fad747126ca305c4",
+  "links": {
+    "github": "tanogedler",
+    "coingecko": "agavecoin",
+    "twitter": "agave_coin",
+    "facebook": "AgaveCoin",
+    "telegram": "AGAVECOIN1"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

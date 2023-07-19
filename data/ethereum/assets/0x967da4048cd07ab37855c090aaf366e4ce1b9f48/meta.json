@@ -1,0 +1,18 @@
+{
+  "name": "Ocean Protocol",
+  "symbol": "OCEAN",
+  "web": "https://oceanprotocol.com",
+  "explorer": "https://etherscan.io/token/0x967da4048cd07ab37855c090aaf366e4ce1b9f48",
+  "links": {
+    "github": "oceanprotocol",
+    "coingecko": "ocean-protocol",
+    "twitter": "oceanprotocol",
+    "telegram": "oceanprotocol",
+    "reddit": "r/oceanprotocol"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "score": 19
+  }
+}

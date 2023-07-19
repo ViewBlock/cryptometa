@@ -1,0 +1,15 @@
+{
+  "name": "Bridge Finance",
+  "symbol": "BFR",
+  "web": "https://bridgefinance.net",
+  "explorer": "https://etherscan.io/token/0x244c5276ea5bb927575417156038d7381b44ab2c",
+  "links": {
+    "coingecko": "bridge-finance",
+    "twitter": "_bridgefinance",
+    "telegram": "bridgefinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

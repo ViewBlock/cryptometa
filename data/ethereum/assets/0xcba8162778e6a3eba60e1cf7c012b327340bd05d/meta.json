@@ -1,0 +1,16 @@
+{
+  "name": "SINOC",
+  "symbol": "SINOC",
+  "web": "https://sinoc.io",
+  "explorer": "https://etherscan.io/token/0xcba8162778e6a3eba60e1cf7c012b327340bd05d",
+  "links": {
+    "coingecko": "sinoc",
+    "twitter": "Sinoc10",
+    "facebook": "sinocinc",
+    "telegram": "Sinoc10"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

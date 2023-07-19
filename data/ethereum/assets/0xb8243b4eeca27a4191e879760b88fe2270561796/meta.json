@@ -1,0 +1,14 @@
+{
+  "name": "ETHUSD ADL 4H Set",
+  "symbol": "ETHUSDADL4",
+  "web": "https://www.tokensets.com/set/ethusdadl4",
+  "explorer": "https://etherscan.io/token/0xB8243B4eeca27A4191e879760b88fE2270561796",
+  "links": {
+    "coingecko": "ethusd-adl-4h-set",
+    "twitter": "SetProtocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

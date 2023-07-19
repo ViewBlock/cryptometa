@@ -1,0 +1,15 @@
+{
+  "name": "GETModer",
+  "symbol": "GTMR",
+  "web": "https://gtmr.io",
+  "explorer": "https://etherscan.io/token/0x0f4315934eb9ebe33c602e2726ffe0cda9e6dc83",
+  "links": {
+    "github": "getmoder",
+    "coingecko": "getmoder",
+    "twitter": "Getmoder1"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Philosafe Token",
+  "symbol": "PLST",
+  "web": "http://www.philosafe.io",
+  "explorer": "https://etherscan.io/token/0x22314B3d1375548C969eaAE65e43203b51f9e9E9",
+  "links": {
+    "coingecko": "philosafe-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

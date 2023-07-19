@@ -1,0 +1,14 @@
+{
+  "name": "Mykonos Coin",
+  "symbol": "MYK",
+  "web": "https://www.mykonoscoin.com",
+  "explorer": "https://etherscan.io/token/0xc8645f0d6a622e2a9a66c1db9d33b1a46b4462dc",
+  "links": {
+    "coingecko": "mykonos-coin",
+    "telegram": "mykonoscoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

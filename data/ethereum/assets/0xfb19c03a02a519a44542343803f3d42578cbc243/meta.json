@@ -1,0 +1,16 @@
+{
+  "name": "CR Coin",
+  "symbol": "CRC",
+  "web": "https://crcoinico.com",
+  "explorer": "https://etherscan.io/token/0xfb19c03a02a519a44542343803f3d42578cbc243",
+  "links": {
+    "coingecko": "cr-coin",
+    "twitter": "crcointoken",
+    "facebook": "BlockchainCRC",
+    "telegram": "CRYPTOREALM"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

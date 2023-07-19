@@ -1,0 +1,15 @@
+{
+  "name": "Xfers",
+  "description": "A payment solutions provider for businesses, licensed by the Monetary Authority of Singapore.",
+  "web": "https://www.xfers.com/sg",
+  "links": {
+    "twitter": "https://twitter.com/xfers"
+  },
+  "categories": [
+    "payment"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "xfers"
+}

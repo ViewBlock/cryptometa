@@ -1,0 +1,14 @@
+{
+  "name": "yUSD",
+  "symbol": "YVAULT-LP-YCURVE",
+  "web": "https://yearn.finance",
+  "explorer": "https://etherscan.io/token/0x5dbcF33D8c2E976c6b560249878e6F1491Bca25c",
+  "links": {
+    "coingecko": "yvault-lp-ycurve",
+    "twitter": "iearnfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

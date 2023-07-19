@@ -1,0 +1,18 @@
+{
+  "name": "Ubique Chain of Things (UCOT)",
+  "symbol": "UCT",
+  "web": "https://www.ucot.world",
+  "explorer": "https://etherscan.io/token/0x3c4bEa627039F0B7e7d21E34bB9C9FE962977518",
+  "links": {
+    "github": "UCOT",
+    "coingecko": "ucot",
+    "twitter": "UcotMedia",
+    "facebook": "UCOT-128764251169363",
+    "telegram": "ucot_official_international",
+    "reddit": "r/UCOT"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

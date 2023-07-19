@@ -1,0 +1,18 @@
+{
+  "name": "WEBN token",
+  "symbol": "WEBN",
+  "web": "https://webinnovationph.com",
+  "explorer": "https://etherscan.io/token/0x15a664416e42766a6cc0a1221d9c088548a6e731",
+  "links": {
+    "github": "Webinnovationph",
+    "coingecko": "web-innovation-ph",
+    "twitter": "WebnProject",
+    "facebook": "webinnovationph",
+    "telegram": "WEBN_EngOfficial_GroupChat",
+    "reddit": "r/WEBNPROJECT"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

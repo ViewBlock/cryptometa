@@ -1,0 +1,16 @@
+{
+  "name": "Chromia",
+  "symbol": "CHR",
+  "web": "https://chromia.com",
+  "explorer": "https://etherscan.io/token/0x8a2279d4a90b6fe1c4b30fa660cc9f926797baa2",
+  "links": {
+    "coingecko": "chromaway",
+    "twitter": "chromia",
+    "facebook": "chromaway",
+    "telegram": "hellochromia"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

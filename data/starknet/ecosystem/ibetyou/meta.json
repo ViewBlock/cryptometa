@@ -1,0 +1,15 @@
+{
+  "name": "IBetYou",
+  "description": "IBY is a permissionless blockchain protocol that allows you to bet any amount of tokens with anyone on anything. It uses the basic principles of betting and kicks it up a notch with crypto wizardry.",
+  "categories": [
+    "gamefi"
+  ],
+  "web": "https://starknet.ibetyou.xyz",
+  "links": {
+    "twitter": "https://twitter.com/shard_labs"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "ibetyou"
+}

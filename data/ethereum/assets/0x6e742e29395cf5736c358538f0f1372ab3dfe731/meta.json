@@ -1,0 +1,15 @@
+{
+  "name": "TAMA EGG NiftyGotchi",
+  "symbol": "TME",
+  "web": "https://niftygotchi.com",
+  "explorer": "https://etherscan.io/token/0x6e742e29395cf5736c358538f0f1372ab3dfe731",
+  "links": {
+    "coingecko": "tama-egg-niftygotchi",
+    "twitter": "niftygotchi",
+    "telegram": "niftygotchi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

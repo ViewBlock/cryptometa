@@ -1,0 +1,16 @@
+{
+  "name": "apM Coin",
+  "symbol": "APM",
+  "web": "https://apm-coin.com",
+  "explorer": "https://etherscan.io/token/0xc8c424b91d8ce0137bab4b832b7f7d154156ba6c",
+  "links": {
+    "github": "apmcoin",
+    "coingecko": "apm-coin",
+    "twitter": "apmcoin",
+    "telegram": "apmcoin_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

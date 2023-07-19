@@ -1,0 +1,14 @@
+{
+  "name": "KIMCHI.finance",
+  "symbol": "KIMCHI",
+  "web": "https://kimchi.finance",
+  "explorer": "https://etherscan.io/token/0x1e18821e69b9faa8e6e75dffe54e7e25754beda0",
+  "links": {
+    "coingecko": "kimchi-finance",
+    "twitter": "kimchi_finance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

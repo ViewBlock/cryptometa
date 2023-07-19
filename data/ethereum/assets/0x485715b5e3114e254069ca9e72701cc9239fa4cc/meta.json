@@ -1,0 +1,13 @@
+{
+  "name": "Intelligent Internet of Things Token",
+  "symbol": "IIOTT",
+  "web": "https://www.amiiott.com",
+  "explorer": "https://etherscan.io/token/0x485715b5e3114e254069ca9e72701cc9239fa4cc",
+  "links": {
+    "coingecko": "intelligent-internet-of-things-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

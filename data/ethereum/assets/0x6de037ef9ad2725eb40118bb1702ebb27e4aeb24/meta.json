@@ -1,0 +1,17 @@
+{
+  "name": "Render Token",
+  "symbol": "RNDR",
+  "web": "https://rendertoken.com",
+  "explorer": "https://etherscan.io/token/0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24",
+  "links": {
+    "coingecko": "render-token",
+    "twitter": "rendertoken",
+    "facebook": "OTOY",
+    "telegram": "RenderTokenOfficial",
+    "reddit": "r/RenderToken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

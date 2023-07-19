@@ -1,0 +1,15 @@
+{
+  "name": "Utopia Genesis Foundation",
+  "symbol": "UOP",
+  "web": "https://utopiagenesis.com",
+  "explorer": "https://etherscan.io/token/0xe4ae84448db5cfe1daf1e6fb172b469c161cb85f",
+  "links": {
+    "coingecko": "utopia-genesis-foundation",
+    "twitter": "UtopiaGenesis",
+    "telegram": "UtopiaGenesisFound"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

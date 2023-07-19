@@ -1,0 +1,13 @@
+{
+  "name": "Daily Funds",
+  "symbol": "DF",
+  "web": "https://dailyfunds.io",
+  "explorer": "https://etherscan.io/token/0xa73862c5a66cf3be4bf86f60acf085bd927f83f8",
+  "links": {
+    "coingecko": "daily-funds"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

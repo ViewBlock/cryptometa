@@ -1,0 +1,14 @@
+{
+  "name": "Cube",
+  "symbol": "AUTO",
+  "web": "https://cubeint.io",
+  "explorer": "https://etherscan.io/token/0x622dFfCc4e83C64ba959530A5a5580687a57581b",
+  "links": {
+    "coingecko": "cube",
+    "twitter": "cubeintel"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

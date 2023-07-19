@@ -1,0 +1,16 @@
+{
+  "name": "Blue Baikal",
+  "symbol": "BBC",
+  "web": "https://www.bluebaikal.io",
+  "explorer": "https://etherscan.io/token/0x675ce995953136814cb05aaaa5d02327e7dc8c93",
+  "links": {
+    "coingecko": "blue-baikal",
+    "twitter": "Blue_Baikal",
+    "facebook": "BlueBaikalProject",
+    "telegram": "bluebaikal_eng"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

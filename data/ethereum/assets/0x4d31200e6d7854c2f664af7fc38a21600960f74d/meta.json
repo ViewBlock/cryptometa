@@ -1,0 +1,16 @@
+{
+  "name": "Bit Financial",
+  "symbol": "BFC",
+  "web": "http://bitfinancialcoin.io",
+  "explorer": "https://etherscan.io/token/0x4d31200e6d7854c2f664af7fc38a21600960f74d",
+  "links": {
+    "github": "Banabaholdingsbfc",
+    "coingecko": "bit_financial",
+    "twitter": "HxkWTHbBq640IAh",
+    "facebook": "Bfc_project-641745659802442"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

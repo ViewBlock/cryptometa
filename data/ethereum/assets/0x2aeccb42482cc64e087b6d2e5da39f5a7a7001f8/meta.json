@@ -1,0 +1,15 @@
+{
+  "name": "Ruler Protocol",
+  "symbol": "RULER",
+  "web": "https://rulerprotocol.com",
+  "explorer": "https://etherscan.io/token/0x2aECCB42482cc64E087b6D2e5Da39f5A7A7001f8",
+  "links": {
+    "github": "Ruler-Protocol",
+    "coingecko": "ruler-protocol",
+    "twitter": "RulerProtocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Dollars",
+  "symbol": "USDX",
+  "web": "https://www.dollarprotocol.com",
+  "explorer": "https://etherscan.io/token/0x2F6081E3552b1c86cE4479B80062A1ddA8EF23E3",
+  "links": {
+    "github": "dollar-protocol",
+    "coingecko": "dollars",
+    "twitter": "DollarProtocol",
+    "telegram": "dollarprotocol",
+    "reddit": "r/DollarProtocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

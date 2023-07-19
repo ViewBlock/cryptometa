@@ -1,0 +1,16 @@
+{
+  "name": "Benscoin",
+  "symbol": "BSC",
+  "web": "https://benscoin.org",
+  "explorer": "https://etherscan.io/token/0xcfAD57a67689809CdA997f655802a119838c9ceC",
+  "links": {
+    "github": "Benscoin",
+    "coingecko": "benscoin",
+    "twitter": "benscoinbsc",
+    "telegram": "benscoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

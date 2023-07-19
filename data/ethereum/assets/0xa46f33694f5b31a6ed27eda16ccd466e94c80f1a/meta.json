@@ -1,0 +1,11 @@
+{
+  "symbol": "uPAK",
+  "name": "The PAK Collection",
+  "decimals": 18,
+  "description": "The official fractionalized Pak collection on Unicly consisting of 9 premium Pak pieces.",
+  "links": {},
+  "gen": {
+    "logo": "logo.svg",
+    "score": 0
+  }
+}

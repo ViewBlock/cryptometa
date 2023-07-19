@@ -1,0 +1,15 @@
+{
+  "name": "UNII Finance",
+  "symbol": "UNII",
+  "web": "https://unii.finance",
+  "explorer": "https://etherscan.io/token/0x825130aa1beef07bdf4f389705321816d05b0d0f",
+  "links": {
+    "coingecko": "unii-finance",
+    "twitter": "FinanceUnii",
+    "telegram": "uniifinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

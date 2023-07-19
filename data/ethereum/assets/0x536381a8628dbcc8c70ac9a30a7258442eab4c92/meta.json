@@ -1,0 +1,18 @@
+{
+  "name": "Pantos",
+  "symbol": "PAN",
+  "web": "https://pantos.io",
+  "explorer": "https://etherscan.io/token/0x536381a8628dbcc8c70ac9a30a7258442eab4c92",
+  "links": {
+    "github": "pantos-io",
+    "coingecko": "pantos",
+    "twitter": "pantosio",
+    "facebook": "PantosIO",
+    "telegram": "PantosIO_EN",
+    "reddit": "r/pantos"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

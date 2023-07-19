@@ -1,0 +1,17 @@
+{
+  "name": "Magnachain",
+  "symbol": "MGC",
+  "web": "https://magnachain.co",
+  "explorer": "https://etherscan.io/token/0xa6eb54102f20095679882db4c84e72e65ab782a4",
+  "links": {
+    "coingecko": "magnachain",
+    "twitter": "magnachain",
+    "facebook": "magnachain",
+    "telegram": "magnachain",
+    "reddit": "r/magnachain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

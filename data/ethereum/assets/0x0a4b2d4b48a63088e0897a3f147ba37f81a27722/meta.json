@@ -1,0 +1,16 @@
+{
+  "name": "CuraDAI",
+  "symbol": "CURA",
+  "web": "https://curadai.curadao.io",
+  "explorer": "https://etherscan.io/token/0x0a4b2d4b48a63088e0897a3f147ba37f81a27722",
+  "links": {
+    "github": "Cura-dao",
+    "coingecko": "curadai",
+    "twitter": "Cura_DAO",
+    "facebook": "CWdao"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

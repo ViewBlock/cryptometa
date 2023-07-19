@@ -1,0 +1,18 @@
+{
+  "name": "Lunch Money",
+  "symbol": "LMY",
+  "web": "http://lunchmoney.io",
+  "explorer": "https://etherscan.io/token/0x66fd97a78d8854fec445cd1c80a07896b0b4851f",
+  "links": {
+    "github": "LunchMoneyToken",
+    "coingecko": "lunch-money",
+    "twitter": "LunchToken",
+    "facebook": "LunchMoneyToken",
+    "telegram": "lunchmoneytoken",
+    "reddit": "r/lunchmoney_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

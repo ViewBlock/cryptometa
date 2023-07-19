@@ -1,0 +1,18 @@
+{
+  "name": "CoinFi",
+  "symbol": "COFI",
+  "web": "http://www.coinfi.com",
+  "explorer": "https://etherscan.io/token/0x3136ef851592acf49ca4c825131e364170fa32b3",
+  "links": {
+    "github": "coinfi",
+    "coingecko": "coinfi",
+    "twitter": "coin_fi",
+    "facebook": "CoinFiProject",
+    "telegram": "coinfi",
+    "reddit": "r/CoinFi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

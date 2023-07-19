@@ -9,8 +9,7 @@
     "research": "https://research.binance.com/en/projects/dai"
   },
   "gen": {
-    "logo": "logo.png",
-    "hasDark": false,
+    "logo": "logo.svg",
     "score": 10
   }
 }

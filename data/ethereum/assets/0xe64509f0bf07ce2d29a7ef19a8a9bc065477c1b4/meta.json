@@ -1,0 +1,14 @@
+{
+  "name": "PiplCoin",
+  "symbol": "PIPL",
+  "web": "https://piplcoin.com",
+  "explorer": "https://etherscan.io/token/0xe64509f0bf07ce2d29a7ef19a8a9bc065477c1b4",
+  "links": {
+    "coingecko": "piplcoin",
+    "twitter": "PiplCoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

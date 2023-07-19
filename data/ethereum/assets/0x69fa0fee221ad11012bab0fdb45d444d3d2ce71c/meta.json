@@ -1,0 +1,21 @@
+{
+  "name": "Thorstarter XRUNE Token",
+  "symbol": "XRUNE",
+  "decimals": 18,
+  "web": "https://paxos.com/busd",
+  "description": "Thorstarter is an IDO platform and liquidity relayer for the THORChain ecosystem",
+  "explorer": "https://etherscan.io/token/0x69fa0fee221ad11012bab0fdb45d444d3d2ce71c",
+  "whitepaper": "https://www.thorstarter.org/thorstarter-lightpaper.pdf",
+  "email": "team@thorstarter.org",
+  "links": {
+    "twitter": "https://twitter.com/thorstarter",
+    "discord": "https://discord.gg/fPjbPxm37F",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/thorstarter",
+    "telegram": "https://t.me/thorstarter",
+    "github": "https://github.com/thorstarter"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 29
+  }
+}

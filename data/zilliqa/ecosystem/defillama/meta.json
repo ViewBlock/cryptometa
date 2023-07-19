@@ -1,0 +1,16 @@
+{
+  "name": "DefiLlama",
+  "description": "DefiLlama integrated Zilswap Defi Dashboard",
+  "web": "https://defillama.com/home",
+  "links": {
+    "twitter": "https://twitter.com/DefiLlama"
+  },
+  "categories": [
+    "tools",
+    "app"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "defillama"
+}

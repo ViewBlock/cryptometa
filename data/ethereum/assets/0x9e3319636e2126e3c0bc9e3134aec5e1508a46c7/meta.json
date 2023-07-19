@@ -1,0 +1,17 @@
+{
+  "name": "Universa",
+  "symbol": "UTNP",
+  "web": "https://universablockchain.com",
+  "explorer": "https://etherscan.io/token/0x9e3319636e2126e3c0bc9e3134AEC5e1508A46c7",
+  "links": {
+    "github": "UniversaBlockchain",
+    "coingecko": "universa",
+    "twitter": "Universa_News",
+    "telegram": "Uplatform",
+    "reddit": "r/universa"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

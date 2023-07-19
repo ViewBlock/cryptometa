@@ -1,0 +1,11 @@
+{
+  "name": "StarkTx",
+  "description": "StarkNet transactions analysis tool",
+  "categories": [
+    "tools"
+  ],
+  "web": "https://starktx.info",
+  "links": {},
+  "gen": {},
+  "key": "starktx"
+}

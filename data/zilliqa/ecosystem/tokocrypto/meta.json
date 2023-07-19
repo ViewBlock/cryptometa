@@ -1,0 +1,16 @@
+{
+  "name": "TokoCrypto",
+  "description": "An Indonesian crypto exchange for learning, buying, selling and investing in crypto safely.",
+  "web": "https://www.tokocrypto.com",
+  "links": {
+    "twitter": "https://twitter.com/TokoCrypto",
+    "telegram": "https://t.me/TokocryptoOfficial"
+  },
+  "categories": [
+    "exchange"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "tokocrypto"
+}

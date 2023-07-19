@@ -1,0 +1,16 @@
+{
+  "name": "YVS Finance",
+  "symbol": "YVS",
+  "web": "https://yvs.finance",
+  "explorer": "https://etherscan.io/token/0xEC681F28f4561c2a9534799AA38E0d36A83Cf478",
+  "links": {
+    "github": "yvs-finance",
+    "coingecko": "yvs-finance",
+    "twitter": "YVSFinance",
+    "telegram": "YVSFinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

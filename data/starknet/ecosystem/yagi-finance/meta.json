@@ -1,0 +1,17 @@
+{
+  "name": "Yagi Finance",
+  "description": "Yagi is a network of keepers on StarkNet L2 that automate protocol actions.",
+  "categories": [
+    "infra",
+    "defi"
+  ],
+  "web": "https://yagi.fi",
+  "links": {
+    "github": "https://github.com/OilerNetwork/fossil/tree/master/contracts/starknet",
+    "twitter": "https://twitter.com/yagi_fi"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "yagi-finance"
+}

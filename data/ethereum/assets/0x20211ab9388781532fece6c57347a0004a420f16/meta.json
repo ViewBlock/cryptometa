@@ -1,0 +1,16 @@
+{
+  "name": "Enceladus Network",
+  "symbol": "ENCX",
+  "web": "https://www.enceladusnetwork.com",
+  "explorer": "https://etherscan.io/token/0x20211ab9388781532fece6c57347a0004a420f16",
+  "links": {
+    "github": "enceladus-code",
+    "coingecko": "enceladus-network",
+    "twitter": "EnceladusNtwork",
+    "telegram": "Enceladus_announcement"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "NFT Traders",
+  "symbol": "NFT",
+  "web": "https://nfttraders.carrd.co",
+  "links": {
+    "twitter": "https://twitter.com/TradersNFT",
+    "telegram": "https://t.me/NFTTraders",
+    "instagram": "https://www.instagram.com/nftcompetitions"
+  },
+  "supply": "2000",
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

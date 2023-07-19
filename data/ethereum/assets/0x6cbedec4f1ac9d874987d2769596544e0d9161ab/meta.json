@@ -1,0 +1,15 @@
+{
+  "name": "DeepCloud AI",
+  "symbol": "DEEP",
+  "web": "https://www.deepcloudai.com",
+  "explorer": "https://etherscan.io/token/0x6CbEDEc4F1ac9D874987D2769596544E0d9161ab",
+  "links": {
+    "coingecko": "deepcloud-ai",
+    "twitter": "DeepCloud_AI",
+    "telegram": "deepcloud_ai"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

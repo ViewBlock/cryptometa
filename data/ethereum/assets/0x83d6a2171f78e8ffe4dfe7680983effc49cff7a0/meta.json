@@ -1,0 +1,17 @@
+{
+  "name": "Bet Chips",
+  "symbol": "BETC",
+  "web": "https://betc.ltd",
+  "explorer": "https://etherscan.io/token/0x83d6a2171f78e8ffe4dfe7680983effc49cff7a0",
+  "links": {
+    "github": "betcltd",
+    "coingecko": "bet-chips",
+    "twitter": "betcltd",
+    "facebook": "betcltd",
+    "telegram": "betcltd"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

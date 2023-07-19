@@ -1,0 +1,20 @@
+{
+  "name": "Brokoli Token",
+  "symbol": "BRKL",
+  "web": "https://brokoli.network",
+  "email": "info@brokoli.network",
+  "whitepaper": "https://whitepaper.brokoli.network/",
+  "publicTeam": true,
+  "links": {
+    "twitter": "@BrokoliNetwork",
+    "telegram": "https://t.me/brokolinetwork",
+    "linkedin": "https://www.linkedin.com/company/brokoli-network",
+    "discord": "http://discord.gg/QKU2jFdht8",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/brokoli-network/",
+    "coingecko": "https://www.coingecko.com/en/coins/brokoli"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 43
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Dash",
+  "symbol": "DASH",
+  "web": "https://www.dash.org",
+  "explorer": "https://chainz.cryptoid.info/dash",
+  "links": {
+    "github": "dashevo",
+    "coingecko": "dash",
+    "twitter": "dashpay",
+    "telegram": "dash_chat",
+    "reddit": "r/dashpay"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

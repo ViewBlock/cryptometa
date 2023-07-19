@@ -1,0 +1,15 @@
+{
+  "name": "Forte Coin",
+  "symbol": "FOTC",
+  "web": "https://fortecoinbiz.com",
+  "explorer": "https://etherscan.io/token/0xd9a1fe8b4d6de4f41c8a1b6ad3b6457916e546b4",
+  "links": {
+    "coingecko": "forte-coin",
+    "twitter": "FOTC17",
+    "facebook": "fortecoinbiz"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

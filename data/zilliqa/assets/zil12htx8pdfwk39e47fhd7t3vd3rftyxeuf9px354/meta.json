@@ -1,0 +1,21 @@
+{
+  "name": "Pelenia",
+  "symbol": "PELE",
+  "web": "https://pelenia.online/",
+  "supply": "420000069",
+  "email": "hello@pelenia.online",
+  "whitepaper": "https://peledao.app/White-Paper-2-0-ee974ae822734cd2ac22eb11df911d8f",
+  "links": {
+    "telegram": "https://t.me/GetYouSomePELE",
+    "discord": "https://discord.gg/6BywvPNJQa",
+    "twitter": "https://twitter.com/PeleniaDAO",
+    "github": "https://github.com/Pelenia",
+    "linkedin": "https://www.linkedin.com/company/pelenia/",
+    "youtube": "https://www.youtube.com/channel/UCi4PEPhoZ1wsCrTLPHTDYZw"
+  },
+  "publicTeam": true,
+  "gen": {
+    "logo": "logo.png",
+    "score": 52
+  }
+}

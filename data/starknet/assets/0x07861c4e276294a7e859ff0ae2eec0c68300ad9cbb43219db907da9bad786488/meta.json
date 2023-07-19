@@ -1,0 +1,12 @@
+{
+  "name": "Mint Square Storefront",
+  "symbol": "MINTSQ",
+  "type": "erc721",
+  "links": {
+    "market": "https://aspect.co/asset/0x07861c4e276294a7e859ff0ae2eec0c68300ad9cbb43219db907da9bad786488"
+  },
+  "gen": {
+    "logo": "logo.jpg",
+    "score": 0
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "MediShares",
+  "symbol": "MDS",
+  "web": "http://www.medishares.org",
+  "explorer": "https://etherscan.io/token/0x66186008C1050627F979d464eABb258860563dbE",
+  "links": {
+    "github": "MediShares",
+    "coingecko": "medishares",
+    "twitter": "MediShares"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

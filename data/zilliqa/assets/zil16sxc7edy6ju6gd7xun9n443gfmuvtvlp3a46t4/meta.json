@@ -1,0 +1,14 @@
+{
+  "name": "Mirabel Encanto",
+  "symbol": "Mirabel Encanto",
+  "links": {
+    "twitter": "https://twitter.com/INV3STARZ"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

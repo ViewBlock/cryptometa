@@ -1,0 +1,12 @@
+{
+  "name": "Water Token",
+  "symbol": "WTR",
+  "web": "https://www.waterfinance.co.uk",
+  "explorer": "https://bscscan.com/token/0xf9661bf16f7521102eaf412a29e68cfd791a2ca3",
+  "links": {
+    "github": "waterswap",
+    "coingecko": "water-token-2",
+    "twitter": "WaterFinanceX ",
+    "telegram": "waterfinance"
+  }
+}

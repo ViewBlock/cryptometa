@@ -1,0 +1,18 @@
+{
+  "name": "Nectar",
+  "symbol": "NEC",
+  "web": "https://nectar.community",
+  "explorer": "https://etherscan.io/token/0xcc80c051057b774cd75067dc48f8987c4eb97a5e",
+  "links": {
+    "github": "deversifi",
+    "coingecko": "nectar-token",
+    "twitter": "deversifi",
+    "facebook": "deversifi",
+    "telegram": "deversifi",
+    "reddit": "r/deversifi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

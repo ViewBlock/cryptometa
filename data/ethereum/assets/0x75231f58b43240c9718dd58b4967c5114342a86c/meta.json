@@ -1,0 +1,16 @@
+{
+  "name": "OKB",
+  "symbol": "OKB",
+  "web": "https://www.okex.com/okb",
+  "explorer": "https://etherscan.io/token/0x75231f58b43240c9718dd58b4967c5114342a86c",
+  "links": {
+    "coingecko": "okb",
+    "twitter": "OKEx",
+    "facebook": "okexofficial",
+    "telegram": "okexofficial_en"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

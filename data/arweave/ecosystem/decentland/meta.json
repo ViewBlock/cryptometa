@@ -1,0 +1,26 @@
+{
+  "name": "DecentLand",
+  "description": "The web3 social layer",
+  "web": "http://decent.land",
+  "categories": [
+    "social"
+  ],
+  "addresses": [
+    "HrPi8hFc7M5dbrtlELfTKwPr53RRrDBgXGdDkp0h-j4"
+  ],
+  "links": {
+    "github": "decentldotland",
+    "twitter": "decentdotland",
+    "telegram": "decentland"
+  },
+  "developers": [
+    {
+      "name": "Darwin",
+      "github": "charmful0x"
+    }
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "decentland"
+}

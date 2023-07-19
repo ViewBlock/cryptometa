@@ -1,0 +1,17 @@
+{
+  "name": "Empty Set Dollar",
+  "symbol": "ESD",
+  "web": "https://emptyset.finance",
+  "explorer": "https://etherscan.io/token/0x36f3fd68e7325a35eb768f1aedaae9ea0689d723",
+  "links": {
+    "github": "emptysetsquad",
+    "coingecko": "empty-set-dollar",
+    "twitter": "emptysetsquad",
+    "telegram": "emptysetdollar"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

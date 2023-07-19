@@ -1,0 +1,17 @@
+{
+  "name": "Robonomics Web Services",
+  "symbol": "RWS",
+  "web": "https://robonomics.network",
+  "explorer": "https://etherscan.io/token/0x08ad83d779bdf2bbe1ad9cc0f78aa0d24ab97802",
+  "links": {
+    "coingecko": "robonomics-web-services",
+    "twitter": "AIRA_Robonomics",
+    "facebook": "186923562059254",
+    "telegram": "robonomics",
+    "reddit": "r/robonomics"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

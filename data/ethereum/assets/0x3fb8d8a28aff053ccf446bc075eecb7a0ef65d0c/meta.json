@@ -1,0 +1,14 @@
+{
+  "name": "StarPlay",
+  "symbol": "STPC",
+  "web": "http://www.starplay.io",
+  "explorer": "https://etherscan.io/token/0x3fb8d8a28aff053ccf446bc075eecb7a0ef65d0c",
+  "links": {
+    "coingecko": "starplay",
+    "twitter": "mystarplay"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

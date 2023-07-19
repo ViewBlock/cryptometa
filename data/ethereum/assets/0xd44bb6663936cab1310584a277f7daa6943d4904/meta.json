@@ -1,0 +1,17 @@
+{
+  "name": "Winco",
+  "symbol": "WCO",
+  "web": "winco.io",
+  "explorer": "https://etherscan.io/token/0xd44bb6663936cab1310584a277f7daa6943d4904",
+  "links": {
+    "github": "WincoCrypto",
+    "coingecko": "winco",
+    "twitter": "WincoCrypto",
+    "facebook": "WincoCryptocurrency",
+    "telegram": "wincocripto"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

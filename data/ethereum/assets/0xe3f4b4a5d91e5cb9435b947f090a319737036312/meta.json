@@ -1,0 +1,16 @@
+{
+  "name": "Popchain",
+  "symbol": "PCH",
+  "web": "http://www.popchain.org",
+  "explorer": "https://etherscan.io/token/0xe3f4b4a5d91e5cb9435b947f090a319737036312",
+  "links": {
+    "github": "PopchainOrg",
+    "coingecko": "popchain",
+    "twitter": "POPCHAIN_Global",
+    "telegram": "popchain_kr"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Request",
+  "symbol": "REQ",
+  "web": "https://request.network",
+  "explorer": "https://etherscan.io/token/0x8f8221afbb33998d8584a2b05749ba73c37a938a",
+  "links": {
+    "github": "RequestNetwork",
+    "coingecko": "request-network",
+    "twitter": "requestnetwork",
+    "reddit": "r/RequestNetwork"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

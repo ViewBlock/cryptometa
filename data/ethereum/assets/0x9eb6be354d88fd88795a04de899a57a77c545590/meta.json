@@ -1,0 +1,16 @@
+{
+  "name": "GameStop Finance",
+  "symbol": "GME",
+  "web": "https://www.gamestop.finance",
+  "explorer": "https://etherscan.io/token/0x9eb6be354d88fd88795a04de899a57a77c545590",
+  "links": {
+    "github": "GameStopFinance",
+    "coingecko": "gamestop-finance",
+    "twitter": "GameStopFinance",
+    "telegram": "GameStopFinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

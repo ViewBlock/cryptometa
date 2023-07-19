@@ -1,0 +1,15 @@
+{
+  "name": "UBU",
+  "symbol": "UBU",
+  "web": "https://bitubu.com/ubu",
+  "explorer": "https://etherscan.io/token/0x6b74dd5d01f8320081247f5cf1f7a48324700db6",
+  "links": {
+    "coingecko": "ubu",
+    "twitter": "ubu_official",
+    "telegram": "bitubu"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

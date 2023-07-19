@@ -1,0 +1,16 @@
+{
+  "name": "Bitcratic",
+  "symbol": "BCT",
+  "web": "https://www.bitcratic.com",
+  "explorer": "https://etherscan.io/token/0x9ec251401eafb7e98f37a1d911c0aea02cb63a80",
+  "links": {
+    "github": "bitcratic",
+    "coingecko": "bitcratic",
+    "twitter": "bitcratic",
+    "telegram": "Bitcratic"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

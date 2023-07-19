@@ -1,0 +1,15 @@
+{
+  "name": "YF Link",
+  "symbol": "YFL",
+  "web": "https://yflink.io",
+  "explorer": "https://etherscan.io/token/0x28cb7e841ee97947a86B06fA4090C8451f64c0be",
+  "links": {
+    "coingecko": "yflink",
+    "twitter": "YFLinkio",
+    "telegram": "YFLinkGroup"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

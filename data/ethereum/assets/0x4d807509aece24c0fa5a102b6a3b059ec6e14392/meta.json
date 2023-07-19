@@ -1,0 +1,18 @@
+{
+  "name": "Menlo One",
+  "symbol": "ONE",
+  "web": "https://menlo.one",
+  "explorer": "https://etherscan.io/token/0x4d807509aece24c0fa5a102b6a3b059ec6e14392",
+  "links": {
+    "github": "MenloOne",
+    "coingecko": "menlo-one",
+    "twitter": "menloone",
+    "facebook": "menloone",
+    "telegram": "Menloone",
+    "reddit": "r/menloone"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

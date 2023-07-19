@@ -1,0 +1,17 @@
+{
+  "name": "AIDUS Token",
+  "symbol": "AIDUS",
+  "web": "https://aidus.io",
+  "explorer": "https://etherscan.io/token/0xa957045A12D270e2eE0dcA9A3340c340e05d4670",
+  "links": {
+    "coingecko": "aidus",
+    "twitter": "AIDUSofficial",
+    "facebook": "AIDUSofficial",
+    "telegram": "aidusofficial",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

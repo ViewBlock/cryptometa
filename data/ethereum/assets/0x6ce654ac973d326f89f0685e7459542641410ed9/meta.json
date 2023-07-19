@@ -1,0 +1,16 @@
+{
+  "name": "HubDao",
+  "symbol": "HD",
+  "web": "https://hubdao.org",
+  "explorer": "https://etherscan.io/token/0x6ce654ac973d326f89f0685e7459542641410ed9",
+  "links": {
+    "github": "hub-dao",
+    "coingecko": "hubdao",
+    "twitter": "hub_dao",
+    "telegram": "hub_DAO_Community"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

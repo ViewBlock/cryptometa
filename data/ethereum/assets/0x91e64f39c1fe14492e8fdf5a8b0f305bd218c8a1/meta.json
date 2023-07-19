@@ -1,0 +1,17 @@
+{
+  "name": "Vodi X",
+  "symbol": "VDX",
+  "web": "https://vodix.io",
+  "explorer": "https://etherscan.io/token/0x91e64f39c1fe14492e8fdf5a8b0f305bd218c8a1",
+  "links": {
+    "coingecko": "vodi-x",
+    "twitter": "vodi_app",
+    "facebook": "vodiapp",
+    "telegram": "Vodixgroup",
+    "reddit": "r/VodiX"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

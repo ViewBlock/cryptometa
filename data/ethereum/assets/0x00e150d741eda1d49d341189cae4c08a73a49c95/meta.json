@@ -1,0 +1,16 @@
+{
+  "name": "Infinitus Token",
+  "symbol": "INF",
+  "web": "https://inftech.io",
+  "explorer": "https://etherscan.io/token/0x00e150d741eda1d49d341189cae4c08a73a49c95",
+  "links": {
+    "github": "InfinitusToken",
+    "coingecko": "infinitus-token",
+    "twitter": "InfinitusToken",
+    "telegram": "infinitustoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

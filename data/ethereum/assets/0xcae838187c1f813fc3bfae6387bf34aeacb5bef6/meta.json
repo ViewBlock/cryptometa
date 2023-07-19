@@ -1,0 +1,15 @@
+{
+  "name": "Commons Earth",
+  "symbol": "COM",
+  "web": "https://commons.earth",
+  "explorer": "https://etherscan.io/token/0xcae838187c1f813fc3bfae6387bf34aeacb5bef6",
+  "links": {
+    "github": "commonsos",
+    "coingecko": "commons-earth",
+    "telegram": "commons_earth"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

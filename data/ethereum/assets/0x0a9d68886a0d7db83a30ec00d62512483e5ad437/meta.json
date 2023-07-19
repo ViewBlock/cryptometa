@@ -1,0 +1,16 @@
+{
+  "name": "Treecle",
+  "symbol": "TRCL",
+  "web": "https://www.treecle.io",
+  "explorer": "https://etherscan.io/token/0x0a9d68886a0D7Db83a30ec00d62512483e5Ad437",
+  "links": {
+    "github": "treeclegitadmin",
+    "coingecko": "treecle",
+    "twitter": "TRCL_0601",
+    "telegram": "trcl_0601"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

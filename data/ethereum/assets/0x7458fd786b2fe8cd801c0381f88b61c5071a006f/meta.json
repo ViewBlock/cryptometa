@@ -1,0 +1,15 @@
+{
+  "name": "LOA Protocol",
+  "symbol": "LOA",
+  "web": "https://loaprotocol.io",
+  "explorer": "https://etherscan.io/token/0x7458fd786b2fe8cd801c0381f88b61c5071a006f",
+  "links": {
+    "coingecko": "loa-protocol",
+    "twitter": "officialloapro1",
+    "telegram": "LOAprotocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Butterfly Protocol",
+  "symbol": "BFLY",
+  "web": "https://www.butterflyprotocol.io",
+  "explorer": "https://etherscan.io/token/0xf680429328caaaCabee69b7A9FdB21a71419c063",
+  "links": {
+    "github": "ButterflyProtocol",
+    "coingecko": "butterfly-protocol-2",
+    "twitter": "butterflyproto",
+    "telegram": "butterflyprotocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

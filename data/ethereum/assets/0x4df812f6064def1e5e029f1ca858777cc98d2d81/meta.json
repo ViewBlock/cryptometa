@@ -1,0 +1,16 @@
+{
+  "name": "Xaurum",
+  "symbol": "XAUR",
+  "web": "http://www.xaurum.org",
+  "explorer": "http://etherscan.io/token/0x4DF812F6064def1e5e029f1ca858777CC98D2D81",
+  "links": {
+    "github": "XaurumTeam",
+    "coingecko": "xaurum",
+    "twitter": "xaurumofficial",
+    "facebook": "xaurumofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

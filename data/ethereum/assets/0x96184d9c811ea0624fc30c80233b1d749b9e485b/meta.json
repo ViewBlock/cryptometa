@@ -1,0 +1,17 @@
+{
+  "name": "Dapp.com",
+  "symbol": "DAPPT",
+  "web": "https://www.dapp.com",
+  "explorer": "https://etherscan.io/token/0x96184d9c811ea0624fc30c80233b1d749b9e485b",
+  "links": {
+    "coingecko": "dapp-com",
+    "twitter": "dapp_com",
+    "facebook": "dappcom",
+    "telegram": "dapp_com",
+    "reddit": "r/dapp_com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

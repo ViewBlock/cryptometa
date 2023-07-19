@@ -1,0 +1,16 @@
+{
+  "name": "MATH",
+  "symbol": "MATH",
+  "web": "https://mathwallet.org",
+  "explorer": "https://etherscan.io/token/0x08d967bb0134f2d07f7cfb6e246680c53927dd30",
+  "links": {
+    "github": "mathwallet",
+    "coingecko": "math",
+    "twitter": "MathWallet",
+    "telegram": "mathwallet"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

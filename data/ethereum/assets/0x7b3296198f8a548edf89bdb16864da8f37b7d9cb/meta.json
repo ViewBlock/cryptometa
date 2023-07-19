@@ -1,0 +1,17 @@
+{
+  "name": "GoldeNugget",
+  "symbol": "GNTO",
+  "web": "https://www.goldenugget.ch",
+  "explorer": "https://etherscan.io/token/0x7b3296198f8a548edf89bdb16864da8f37b7d9cb",
+  "links": {
+    "github": "Goldenugget",
+    "coingecko": "goldenugget",
+    "twitter": "GoldeNuggetCH",
+    "facebook": "Goldenuggetproject",
+    "telegram": "GoldeNugget_token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

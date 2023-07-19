@@ -1,0 +1,17 @@
+{
+  "name": "XCELTOKEN PLUS",
+  "symbol": "XLAB",
+  "web": "https://www.xceltrip.com",
+  "explorer": "https://etherscan.io/token/0x8c4e7f814d40f8929f9112c5d09016f923d34472",
+  "links": {
+    "github": "xceltripofficial",
+    "coingecko": "xceltoken-plus",
+    "twitter": "xceltoken",
+    "facebook": "XcelToken",
+    "telegram": "XcelToken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

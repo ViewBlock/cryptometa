@@ -1,0 +1,15 @@
+{
+  "name": "Unibomb",
+  "symbol": "UBOMB",
+  "web": "https://unibomb.it",
+  "explorer": "https://etherscan.io/token/0x265Ba42daF2D20F3F358a7361D9f69Cb4E28F0E6",
+  "links": {
+    "coingecko": "unibomb",
+    "twitter": "UniBombProject",
+    "telegram": "UniBomb"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

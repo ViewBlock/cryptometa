@@ -1,0 +1,15 @@
+{
+  "name": "Xiotri",
+  "symbol": "XIOT",
+  "web": "https://xiotri.io",
+  "explorer": "https://etherscan.io/token/0x31024a4c3e9aeeb256b825790f5cb7ac645e7cd5",
+  "links": {
+    "coingecko": "xiotri",
+    "twitter": "xiotri_defi",
+    "telegram": "XND_chat "
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

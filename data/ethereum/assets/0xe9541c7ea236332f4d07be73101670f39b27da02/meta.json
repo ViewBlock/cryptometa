@@ -1,0 +1,14 @@
+{
+  "name": "Pureland Project",
+  "symbol": "PLD",
+  "web": "http://purelandproject.org",
+  "explorer": "https://etherscan.io/token/0xe9541c7ea236332f4d07be73101670f39b27da02",
+  "links": {
+    "coingecko": "pureland-project"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 5
+  }
+}

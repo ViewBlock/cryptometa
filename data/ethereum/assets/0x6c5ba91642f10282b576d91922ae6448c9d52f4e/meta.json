@@ -1,0 +1,15 @@
+{
+  "name": "Phala Network",
+  "symbol": "PHA",
+  "web": "https://phala.network",
+  "explorer": "https://etherscan.io/token/0x6c5bA91642F10282b576d91922Ae6448C9d52f4E",
+  "links": {
+    "coingecko": "pha",
+    "twitter": "PhalaNetwork",
+    "telegram": "phalanetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

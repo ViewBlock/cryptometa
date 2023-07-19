@@ -1,0 +1,16 @@
+{
+  "name": "Shabu Shabu",
+  "symbol": "KOBE",
+  "web": "https://shabushabu.finance",
+  "explorer": "https://etherscan.io/token/0xCb4e8CafEDa995da5cEdfda5205BD5664a12b848",
+  "links": {
+    "github": "ironminter",
+    "coingecko": "shabu-shabu",
+    "twitter": "shabufinance",
+    "telegram": "shabushabufinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

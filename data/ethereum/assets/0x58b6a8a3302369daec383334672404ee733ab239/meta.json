@@ -1,0 +1,17 @@
+{
+  "name": "Livepeer",
+  "symbol": "LPT",
+  "web": "https://livepeer.org",
+  "explorer": "https://etherscan.io/token/0x58b6a8a3302369daec383334672404ee733ab239",
+  "links": {
+    "github": "livepeer",
+    "coingecko": "livepeer",
+    "twitter": "LivepeerOrg",
+    "telegram": "livepeerorg",
+    "reddit": "r/livepeer"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

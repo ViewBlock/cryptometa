@@ -1,0 +1,17 @@
+{
+  "name": "Magnety",
+  "description": "Magnety is an asset management protocol allowing anyone to build, scale and monetize investment strategies using DeFi protocols included in the platform",
+  "categories": [
+    "defi"
+  ],
+  "web": "https://magnety.finance",
+  "links": {
+    "twitter": "https://twitter.com/magnetyfi",
+    "medium": "https://medium.com/@magnety.finance",
+    "discord": "http://discord.gg/magnety"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "magnety"
+}

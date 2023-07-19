@@ -1,0 +1,15 @@
+{
+  "name": "Eauric",
+  "symbol": "EAURIC",
+  "web": "https://eauric.com",
+  "explorer": "https://etherscan.io/token/0xc36c65693ea9e207ad35d4ee2fb6c5f6f43bdec8",
+  "links": {
+    "coingecko": "eauric",
+    "twitter": "eauric4",
+    "telegram": "electrumchain_eauric"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

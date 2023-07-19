@@ -1,0 +1,14 @@
+{
+  "name": "MurAll",
+  "symbol": "PAINT",
+  "web": "https://murall.art/home",
+  "explorer": "https://etherscan.io/token/0x4c6ec08cf3fc987c6c4beb03184d335a2dfc4042",
+  "links": {
+    "coingecko": "paint",
+    "twitter": "MurAll_art"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

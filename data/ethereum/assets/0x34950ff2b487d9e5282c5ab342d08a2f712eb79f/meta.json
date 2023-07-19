@@ -1,0 +1,16 @@
+{
+  "name": "Efforce",
+  "symbol": "WOZX",
+  "web": "https://www.efforce.io",
+  "explorer": "https://etherscan.io/token/0x34950ff2b487d9e5282c5ab342d08a2f712eb79f",
+  "links": {
+    "coingecko": "wozx",
+    "twitter": "efforceofficial",
+    "facebook": "EFFORCE",
+    "telegram": "EFFORCE_ICO"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

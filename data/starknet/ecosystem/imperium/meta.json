@@ -1,0 +1,17 @@
+{
+  "name": "Imperium Wars",
+  "description": "A Conquer to Earn NFT game where five empires from all over the globe will ally, betray and fight in order to reach Glory and Fortune.",
+  "categories": [
+    "nft",
+    "gamefi"
+  ],
+  "web": "https://imperiumwars.xyz",
+  "links": {
+    "twitter": "https://twitter.com/imperiumwars",
+    "discord": "https://discord.gg/VqXSJaeFK4"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "imperium"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Beflect.Finance",
+  "symbol": "BFI",
+  "web": "https://www.beflect.finance",
+  "explorer": "https://bscscan.com/token/0xbe609eacbfca10f6e5504d39e3b113f808389056",
+  "links": {
+    "github": "cryptozen5",
+    "coingecko": "beflect-finance",
+    "twitter": "BeflectFinance",
+    "telegram": "beflect"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Hotpot Base Token",
+  "symbol": "POT",
+  "web": "https://pot.finance",
+  "explorer": "https://etherscan.io/token/0x042afd3869a47e2d5d42cc787d5c9e19df32185f",
+  "links": {
+    "coingecko": "hotpot-base-token",
+    "twitter": "potfinance"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

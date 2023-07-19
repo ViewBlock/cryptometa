@@ -1,0 +1,15 @@
+{
+  "name": "Huobi BTC",
+  "symbol": "HBTC",
+  "web": "https://www.hbtc.finance/zh-cn",
+  "explorer": "https://etherscan.io/token/0x0316EB71485b0Ab14103307bf65a021042c6d380",
+  "links": {
+    "coingecko": "huobi-btc",
+    "twitter": "HuobiGlobal",
+    "telegram": "huobiglobalofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

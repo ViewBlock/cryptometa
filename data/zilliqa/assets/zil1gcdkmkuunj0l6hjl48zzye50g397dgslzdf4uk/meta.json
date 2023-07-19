@@ -1,0 +1,15 @@
+{
+  "name": "Oasis of Amazing Creatures",
+  "symbol": "OAC",
+  "web": "https://sites.google.com/view/oasis-of-amazing-creatures/home",
+  "links": {
+    "twitter": "oasisofamazing"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Coinsuper Ecosystem Network",
+  "symbol": "CEN",
+  "web": "https://www.coinsuper.com/cen",
+  "explorer": "https://etherscan.io/token/0x0bc61dded5f6710c637cf8288eb6058766ce1921",
+  "links": {
+    "coingecko": "coinsuper-ecosystem-network",
+    "twitter": "Coinsuper_OFCL"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

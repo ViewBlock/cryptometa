@@ -1,0 +1,15 @@
+{
+  "name": "HELIO POWER TOKEN",
+  "symbol": "THPT",
+  "web": "https://heliopower.uk",
+  "explorer": "https://etherscan.io/token/0x9F58702Ef19ebEB76363884362439a8691E3f033",
+  "links": {
+    "coingecko": "helio-power-token",
+    "twitter": "PowerHelio",
+    "facebook": "helio.power.96"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

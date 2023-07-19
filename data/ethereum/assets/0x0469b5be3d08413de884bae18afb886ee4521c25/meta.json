@@ -1,0 +1,13 @@
+{
+  "name": "HuoTop",
+  "symbol": "HTP",
+  "web": "https://huotop.cc",
+  "explorer": "https://etherscan.io/token/0x0469b5be3d08413de884bae18afb886ee4521c25",
+  "links": {
+    "coingecko": "huotop"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

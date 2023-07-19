@@ -8,8 +8,7 @@
   },
   "publicTeam": true,
   "gen": {
-    "logo": "logo.png",
-    "hasDark": false,
+    "logo": "logo.svg",
     "score": 33
   }
 }

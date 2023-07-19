@@ -1,0 +1,15 @@
+{
+  "name": "Uptrennd",
+  "symbol": "1UP",
+  "web": "https://www.uptrennd.com",
+  "explorer": "https://etherscan.io/token/0x07597255910a51509ca469568b048f2597e72504",
+  "links": {
+    "coingecko": "uptrennd",
+    "twitter": "Uptrennd",
+    "telegram": "Uptrennd"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

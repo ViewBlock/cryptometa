@@ -1,0 +1,15 @@
+{
+  "name": "LiteGold",
+  "symbol": "LTG",
+  "web": "https://litegold.io",
+  "explorer": "https://etherscan.io/token/0xb4c9abc8a74bd2e0e0b7ac5ece30792e65d86c59",
+  "links": {
+    "github": "litegoldio",
+    "coingecko": "litegold",
+    "twitter": "LiteGoldio"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

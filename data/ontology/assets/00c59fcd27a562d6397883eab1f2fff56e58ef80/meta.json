@@ -1,0 +1,16 @@
+{
+  "name": "Wing Finance",
+  "symbol": "WING",
+  "web": "https://wing.finance",
+  "explorer": "https://explorer.ont.io/token/detail/oep4/00c59fcd27a562d6397883eab1f2fff56e58ef80/Wing%20Token/10/1",
+  "links": {
+    "coingecko": "wing-finance",
+    "twitter": "Wing_Finance",
+    "telegram": "WingDAO"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "score": 10
+  }
+}

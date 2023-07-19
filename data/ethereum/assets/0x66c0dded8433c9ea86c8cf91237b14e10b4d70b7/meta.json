@@ -1,0 +1,16 @@
+{
+  "name": "Mars",
+  "symbol": "MARS",
+  "web": "https://mars.poolin.fi",
+  "explorer": "https://etherscan.io/token/0x66C0DDEd8433c9EA86C8cf91237B14e10b4d70B7",
+  "links": {
+    "github": "MarsFi",
+    "coingecko": "mars",
+    "twitter": "MarsProject2020",
+    "telegram": "marsproject1"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

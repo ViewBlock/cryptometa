@@ -1,0 +1,15 @@
+{
+  "name": "Vaultz",
+  "symbol": "VAULTZ",
+  "web": "https://vaultz.info",
+  "explorer": "https://etherscan.io/token/0x861b2456ac1a6ab5fb5c72aa456091f23ddec1cc",
+  "links": {
+    "coingecko": "vaultz",
+    "twitter": "vaultzinfo",
+    "telegram": "vaultzinfo"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

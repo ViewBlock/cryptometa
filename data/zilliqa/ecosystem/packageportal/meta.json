@@ -1,0 +1,22 @@
+{
+  "name": "PackagePortal",
+  "description": "A platform which incentivises online shoppers to scan shipping labels on their deliveries to confirm receipt and rate the service provider.",
+  "web": "https://www.packageportal.com",
+  "links": {
+    "twitter": "https://twitter.com/packageportal",
+    "linkedin": "packageportal",
+    "facebook": "packageportal"
+  },
+  "addresses": [
+    "zil1l2duu9tryqaru5r7tnlz2ex3ceg5rg2tvamnsg",
+    "zil1d0ym7zugp7hgz58vfqsqut5c4sf78dxulx6wtf",
+    "zil18f5rlhqz9vndw4w8p60d0n7vg3n9sqvta7n6t2"
+  ],
+  "categories": [
+    "dapp"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "packageportal"
+}

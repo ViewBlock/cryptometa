@@ -1,0 +1,16 @@
+{
+  "name": "IFX24",
+  "symbol": "IFX24",
+  "web": "https://ifx24.com",
+  "explorer": "https://etherscan.io/token/0xc962ad021a69D457564e985738C719aE3f79B707",
+  "links": {
+    "coingecko": "ifx24",
+    "twitter": "ifx24_com",
+    "facebook": "instafinex",
+    "telegram": "ifx24"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

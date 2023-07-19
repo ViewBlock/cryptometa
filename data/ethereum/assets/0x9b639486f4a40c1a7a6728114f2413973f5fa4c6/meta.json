@@ -1,0 +1,13 @@
+{
+  "name": "Electronic Move Pay",
+  "symbol": "EMP",
+  "web": "https://www.empvip.cc",
+  "explorer": "https://etherscan.io/token/0x9b639486f4a40c1a7a6728114f2413973f5fa4c6",
+  "links": {
+    "coingecko": "electronic-move-pay"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

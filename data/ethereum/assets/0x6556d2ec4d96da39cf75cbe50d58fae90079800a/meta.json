@@ -1,0 +1,16 @@
+{
+  "name": "Lukki Operating Token",
+  "symbol": "LOT",
+  "web": "https://lukki.io",
+  "explorer": "https://etherscan.io/token/0x6556d2ec4d96da39cf75cbe50d58fae90079800a",
+  "links": {
+    "coingecko": "lukki-operating-token",
+    "twitter": "ExchangeLukki",
+    "facebook": "Lukki-Exchange-1264967910334954",
+    "telegram": "lukkichat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

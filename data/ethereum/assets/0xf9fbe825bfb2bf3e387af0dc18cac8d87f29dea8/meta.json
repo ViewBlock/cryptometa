@@ -1,0 +1,15 @@
+{
+  "name": "Bot Ocean",
+  "symbol": "BOTS",
+  "web": "https://botocean.com",
+  "explorer": "https://etherscan.io/token/0xf9fbe825bfb2bf3e387af0dc18cac8d87f29dea8",
+  "links": {
+    "coingecko": "bot-ocean",
+    "twitter": "BotOceanInc",
+    "telegram": "botocean"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

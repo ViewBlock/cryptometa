@@ -1,0 +1,15 @@
+{
+  "name": "Nord Finance",
+  "symbol": "NORD",
+  "web": "https://nordfinance.io",
+  "explorer": "https://etherscan.io/token/0x6e9730ecffbed43fd876a264c982e254ef05a0de",
+  "links": {
+    "coingecko": "nord-finance",
+    "twitter": "Nord_Finance",
+    "telegram": "NordFinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

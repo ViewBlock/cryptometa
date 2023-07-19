@@ -1,0 +1,17 @@
+{
+  "name": "TronEuropeRewardCoin",
+  "symbol": "TERC",
+  "web": "https://tron-europe.org/terc",
+  "explorer": "https://tronscan.org/#/token/1000226",
+  "links": {
+    "coingecko": "troneuroperewardcoin",
+    "twitter": "europe_tron",
+    "facebook": "SR.TRON.EUROPE",
+    "telegram": "Tron_Europe"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Quant",
+  "symbol": "QNT",
+  "web": "https://www.quant.network",
+  "explorer": "https://etherscan.io/token/0x4a220e6096b25eadb88358cb44068a3248254675",
+  "links": {
+    "github": "quantnetwork",
+    "coingecko": "quant-network",
+    "twitter": "quant_network",
+    "facebook": "quantnetwork",
+    "telegram": "quantnetworkannouncements",
+    "reddit": "r/QuantNetwork"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Basis Dollar Share",
+  "symbol": "BSDS",
+  "web": "https://basisdollar.fi",
+  "explorer": "https://etherscan.io/token/0xE7C9C188138f7D70945D420d75F8Ca7d8ab9c700",
+  "links": {
+    "github": "basisdollar",
+    "coingecko": "basis-dollar-share",
+    "twitter": "BasisDollar",
+    "telegram": "BasisDollar_Fi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

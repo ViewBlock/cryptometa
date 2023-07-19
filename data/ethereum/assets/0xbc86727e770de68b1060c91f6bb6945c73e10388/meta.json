@@ -1,0 +1,17 @@
+{
+  "name": "Ink Protocol",
+  "symbol": "XNK",
+  "web": "https://paywithink.com",
+  "explorer": "https://etherscan.io/token/0xbc86727e770de68b1060c91f6bb6945c73e10388",
+  "links": {
+    "github": "InkProtocol",
+    "coingecko": "ink-protocol",
+    "twitter": "PayWithInk",
+    "telegram": "paywithink",
+    "reddit": "r/PayWithInk"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

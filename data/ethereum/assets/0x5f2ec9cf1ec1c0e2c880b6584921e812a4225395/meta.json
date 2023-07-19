@@ -1,0 +1,17 @@
+{
+  "name": "Bitcoin Unicorn",
+  "symbol": "BTCUI",
+  "web": "https://www.bitcoinunicorn.io",
+  "explorer": "https://etherscan.io/token/0x5f2ec9cf1ec1c0e2c880b6584921e812a4225395",
+  "links": {
+    "github": "crajkaro",
+    "coingecko": "bitcoin-unicorn",
+    "twitter": "BtcUnicorn1",
+    "telegram": "BitcoinUnicorn",
+    "reddit": "r/bitcoinunicorn"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

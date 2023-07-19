@@ -1,0 +1,15 @@
+{
+  "name": "sETC",
+  "symbol": "SETC",
+  "web": "https://docs.synthetix.io/tokens/list",
+  "explorer": "https://etherscan.io/token/0x22602469d704BfFb0936c7A7cfcD18f7aA269375",
+  "links": {
+    "github": "Synthetixio",
+    "coingecko": "setc",
+    "twitter": "synthetix_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

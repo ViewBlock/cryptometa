@@ -1,0 +1,16 @@
+{
+  "name": "Trinity Network Credit",
+  "symbol": "TNC",
+  "web": "https://trinity.tech",
+  "explorer": "https://neotracker.io/asset/08e8c4400f1af2c20c28e0018f29535eb85d15b6",
+  "links": {
+    "github": "trinity-project",
+    "coingecko": "trinity-network-credit",
+    "twitter": "TrinityProtocol",
+    "telegram": "TrinityStateChannels"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "STK Coin",
+  "symbol": "STK",
+  "web": "https://stkcoin.io",
+  "explorer": "https://etherscan.io/token/0x5c5887e55bbe41472acdba5fae989788c6f7ab59",
+  "links": {
+    "coingecko": "stk-coin",
+    "twitter": "sistemkoin",
+    "facebook": "Sistemkoin",
+    "telegram": "sistemkoinofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

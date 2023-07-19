@@ -1,0 +1,14 @@
+{
+  "name": "ETH AI Limit Loss",
+  "symbol": "ELL",
+  "web": "https://www.tokensets.com/set/ell-1",
+  "explorer": "https://etherscan.io/token/0x7e4d1cd8927ce41bcbfa4f32cada1a6998cb5a51",
+  "links": {
+    "coingecko": "eth-ai-limit-loss",
+    "twitter": "https://twitter.com/SetProtocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

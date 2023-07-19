@@ -1,0 +1,15 @@
+{
+  "name": "BITCOINSVGOLD",
+  "symbol": "BSVG",
+  "web": "https://www.bitcoinsvgold.org",
+  "explorer": "https://etherscan.io/token/0x8013d06a86f341afab95f82f6487e44c4dc0c655",
+  "links": {
+    "coingecko": "bitcoinsvgold",
+    "twitter": "bitcoinsvgold",
+    "telegram": "BitcoinsvgoldBSVG"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Wrapped Virgin Gen-0 CryptoKittties",
+  "symbol": "WVG0",
+  "web": "https://www.wrappered.com",
+  "explorer": "https://etherscan.io/token/0x25c7b64a93eb1261e130ec21a3e9918caa38b611",
+  "links": {
+    "coingecko": "wrapped-virgin-gen-0-cryptokitties",
+    "twitter": "CryptoKitties"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

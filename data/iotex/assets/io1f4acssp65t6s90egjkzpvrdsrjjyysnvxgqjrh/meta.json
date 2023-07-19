@@ -1,0 +1,16 @@
+{
+  "name": "Cyclone Protocol",
+  "symbol": "CYC",
+  "web": "https://cyclone.xyz",
+  "explorer": "https://iotexscan.io/token/io1f4acssp65t6s90egjkzpvrdsrjjyysnvxgqjrh",
+  "links": {
+    "github": "cycloneprotocol",
+    "coingecko": "cyclone-protocol",
+    "twitter": "cycloneprotocol",
+    "telegram": "cycloneprotocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

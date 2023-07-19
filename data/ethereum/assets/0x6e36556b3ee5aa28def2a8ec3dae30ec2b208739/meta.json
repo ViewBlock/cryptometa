@@ -1,0 +1,14 @@
+{
+  "name": "BUILD Finance",
+  "symbol": "BUILD",
+  "web": "https://build.finance",
+  "explorer": "https://etherscan.io/token/0x6e36556b3ee5aa28def2a8ec3dae30ec2b208739",
+  "links": {
+    "coingecko": "build-finance",
+    "twitter": "finance_build"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

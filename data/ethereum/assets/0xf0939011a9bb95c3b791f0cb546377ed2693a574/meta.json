@@ -1,0 +1,15 @@
+{
+  "name": "Zero Exchange",
+  "symbol": "ZERO",
+  "web": "https://zero.exchange",
+  "explorer": "https://etherscan.io/token/0xf0939011a9bb95c3b791f0cb546377ed2693a574",
+  "links": {
+    "coingecko": "zero-exchange",
+    "twitter": "officialzerodex",
+    "telegram": "ZeroExchangeCommunity"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

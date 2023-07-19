@@ -1,0 +1,13 @@
+{
+  "name": "3X Short BiLira Token",
+  "symbol": "TRYBBEAR",
+  "web": "https://ftx.com/tokens/TRYBBEAR",
+  "explorer": "https://etherscan.io/token/0xA5dDFCA8B837cCD0cf80fe6C24E2A9018FB50dbA",
+  "links": {
+    "coingecko": "3x-short-bilira-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

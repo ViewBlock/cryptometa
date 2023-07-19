@@ -1,0 +1,17 @@
+{
+  "name": "NewsTokens",
+  "symbol": "NEWS",
+  "web": "https://www.cryptonewsnet.com",
+  "explorer": "https://etherscan.io/token/0x94b593002a327f2a3f1b190c50d3bcc8b869b5f5",
+  "links": {
+    "github": "Cryptonewsnet",
+    "coingecko": "cryptonewsnet",
+    "twitter": "CryptoNewsnet1",
+    "telegram": "cryptonewsnetofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "KIWI Token",
+  "symbol": "KIWI",
+  "web": "https://kiwi-token.com",
+  "explorer": "https://etherscan.io/token/0x2bf91c18cd4ae9c2f2858ef9fe518180f7b5096d",
+  "links": {
+    "github": "KiwiToken",
+    "coingecko": "kiwi-token",
+    "twitter": "KiwiToken",
+    "reddit": "r/kiwitoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

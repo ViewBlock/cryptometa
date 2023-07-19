@@ -1,0 +1,16 @@
+{
+  "name": "UnlimitedIP",
+  "symbol": "UIP",
+  "web": "http://www.unlimitedip.io",
+  "explorer": "https://etherscan.io/token/0x4290563c2d7c255b5eec87f2d3bd10389f991d68",
+  "links": {
+    "github": "linkentertainments",
+    "coingecko": "unlimitedip",
+    "twitter": "IPStock_ips",
+    "telegram": "UIPworld"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

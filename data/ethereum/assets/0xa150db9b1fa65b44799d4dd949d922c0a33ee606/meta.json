@@ -1,0 +1,17 @@
+{
+  "name": "Digital Reserve Currency",
+  "symbol": "DRC",
+  "web": "https://drcglobal.org",
+  "explorer": "https://etherscan.io/token/0xa150Db9b1Fa65b44799d4dD949D922c0a33Ee606",
+  "links": {
+    "github": "digitalreserve",
+    "coingecko": "digital-reserve-currency",
+    "twitter": "DRCToken",
+    "telegram": "DigitalReserveCurrency",
+    "reddit": "r/DRCToken"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

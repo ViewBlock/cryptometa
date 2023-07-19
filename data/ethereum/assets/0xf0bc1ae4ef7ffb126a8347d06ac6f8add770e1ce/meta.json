@@ -1,0 +1,17 @@
+{
+  "name": "1Million Token",
+  "symbol": "1MT",
+  "web": "https://www.1milliontoken.org",
+  "explorer": "https://etherscan.io/token/0xf0bc1ae4ef7ffb126a8347d06ac6f8add770e1ce",
+  "links": {
+    "github": "1Milliontoken",
+    "coingecko": "1million-token",
+    "twitter": "1MillionTokens",
+    "facebook": "1Million-Token-2178070185856826",
+    "telegram": "MillionToken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

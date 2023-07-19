@@ -1,0 +1,18 @@
+{
+  "name": "Matrix AI Network",
+  "symbol": "MAN",
+  "web": "https://www.matrix.io",
+  "explorer": "https://etherscan.io/token/0xe25bcec5d3801ce3a794079bf94adf1b8ccd802d",
+  "links": {
+    "github": "MatrixAINetwork",
+    "coingecko": "matrix-ai-network",
+    "twitter": "matrixainetwork",
+    "facebook": "MATRIXAINetworks",
+    "telegram": "matrixainetwork",
+    "reddit": "r/MatrixAINetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

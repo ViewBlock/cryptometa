@@ -1,0 +1,14 @@
+{
+  "name": "100 Waves ETH/USD Yield Set",
+  "symbol": "100W",
+  "web": "https://www.tokensets.com/set/100w",
+  "explorer": "https://etherscan.io/token/0xC7D79021CD127A2f35b1E26fe3c4aAD67f5c28b8",
+  "links": {
+    "coingecko": "100-waves-eth-usd-yield-set",
+    "twitter": "SetProtocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

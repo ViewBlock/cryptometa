@@ -1,0 +1,21 @@
+{
+  "name": "GodZilliqa DeFi",
+  "symbol": "GDFI",
+  "supply": "210000000",
+  "email": "GodZilliqaDeFi@gmail.com",
+  "links": {
+    "github": "https://github.com/GODZILLIQA",
+    "telegram": "https://t.me/GodZilliqaDeFi",
+    "medium": "https://godzilliqadefi.medium.com",
+    "twitter": "https://twitter.com/GodzilliqaD"
+  },
+  "donations": {
+    "zilliqa": "zil1crcjdvtgpktfcxgn4ct065n8v2lc4jljt78s9k",
+    "ethereum": "0x33d86afAB02cbAafeda41fD6FB8F845B1BEFd42c",
+    "bsc": "0xb299d68B4b7b5640e1913c1b8506EeF4a04d041b"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Onchain Custodian",
+  "description": "Custody and open finance services for institutional clients and accredited investors.",
+  "web": "https://www.oncustodian.com",
+  "links": {
+    "twitter": "https://twitter.com/oncustodian",
+    "telegram": "https://t.me/oncustodian"
+  },
+  "categories": [
+    "custody"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "onchain-custodian"
+}

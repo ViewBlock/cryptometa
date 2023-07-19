@@ -1,0 +1,16 @@
+{
+  "name": "Fyooz",
+  "symbol": "FYZ",
+  "web": "https://www.fyooz.io",
+  "explorer": "https://etherscan.io/token/0x6BFf2fE249601ed0Db3a87424a2E923118BB0312",
+  "links": {
+    "coingecko": "fyooz",
+    "twitter": "fyoozapp",
+    "facebook": "fyoozapp",
+    "telegram": "fyoozcommunity"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

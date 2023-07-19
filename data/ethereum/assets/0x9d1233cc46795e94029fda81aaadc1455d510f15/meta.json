@@ -1,0 +1,16 @@
+{
+  "name": "Zero Collateral Dai",
+  "symbol": "ZAI",
+  "web": "https://zaiprotocol.finance",
+  "explorer": "https://etherscan.io/token/0x9d1233cc46795E94029fDA81aAaDc1455D510f15",
+  "links": {
+    "github": "zaifinance",
+    "coingecko": "zero-collateral-dai",
+    "twitter": "zaifinance",
+    "telegram": "ZAIcommunitygroup"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

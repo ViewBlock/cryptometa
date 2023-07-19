@@ -1,0 +1,16 @@
+{
+  "name": "Unagii Tether USD",
+  "symbol": "UUSDT",
+  "web": "https://www.unagii.com",
+  "explorer": "https://etherscan.io/token/0x178bf8fd04b47d2de3ef3f6b3d112106375ad584",
+  "links": {
+    "coingecko": "unagii-tether-usd",
+    "twitter": "unagiidotcom",
+    "telegram": "unagiidotcom",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

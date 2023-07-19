@@ -1,0 +1,18 @@
+{
+  "name": "TOKPIE",
+  "symbol": "TKP",
+  "web": "https://tokpie.io",
+  "explorer": "https://etherscan.io/token/0xd31695a1d35e489252ce57b129fd4b1b05e6acac",
+  "links": {
+    "github": "Tokpie",
+    "coingecko": "tokpie",
+    "twitter": "tokpie_io",
+    "facebook": "tokpie.io",
+    "telegram": "tokpie",
+    "reddit": "r/Tokpie"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

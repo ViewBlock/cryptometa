@@ -1,0 +1,17 @@
+{
+  "name": "Zebi",
+  "symbol": "ZCO",
+  "web": "https://www.zebi.io",
+  "explorer": "https://etherscan.io/token/0x2008e3057bd734e10ad13c9eae45ff132abc1722",
+  "links": {
+    "github": "zebidata",
+    "coingecko": "zebi",
+    "twitter": "ZebidataIndia",
+    "facebook": "ZebidataIndia",
+    "telegram": "ZebiData"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

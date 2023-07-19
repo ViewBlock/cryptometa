@@ -1,0 +1,15 @@
+{
+  "name": "Robot",
+  "symbol": "ROBOT",
+  "web": "https://metafactory.ai",
+  "explorer": "https://etherscan.io/token/0xfb5453340c03db5ade474b27e68b6a9c6b2823eb",
+  "links": {
+    "github": "MetaFactoryAI",
+    "coingecko": "robot",
+    "twitter": "themetafactory"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

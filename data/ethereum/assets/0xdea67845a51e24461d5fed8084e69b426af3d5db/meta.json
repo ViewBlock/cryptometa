@@ -1,0 +1,16 @@
+{
+  "name": "HodlTree",
+  "symbol": "HTRE",
+  "web": "https://hodltree.io",
+  "explorer": "https://etherscan.io/token/0xDea67845A51E24461D5fED8084E69B426AF3D5Db",
+  "links": {
+    "github": "HodlTreeProtocol",
+    "coingecko": "hodltree",
+    "twitter": "hodltree",
+    "telegram": "hodltree"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

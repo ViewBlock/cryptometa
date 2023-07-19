@@ -1,0 +1,17 @@
+{
+  "name": "FoodCoin",
+  "symbol": "FOOD",
+  "web": "https://www.foodcoin.io",
+  "explorer": "https://etherscan.io/token/0x2a093bcf0c98ef744bb6f69d74f2f85605324290",
+  "links": {
+    "coingecko": "foodcoin",
+    "twitter": "foodcoin_io",
+    "facebook": "1000ecofarmscom",
+    "telegram": "Foodcoin",
+    "reddit": "r/FoodCoin_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Gems",
+  "symbol": "GEM",
+  "web": "https://gems.org",
+  "explorer": "https://etherscan.io/token/0xc7bba5b765581efb2cdd2679db5bea9ee79b201f",
+  "links": {
+    "coingecko": "gems-2",
+    "twitter": "gems",
+    "telegram": "gemsorg"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "PizzaSwap",
+  "symbol": "PIZZA",
+  "web": "https://pizzafinance.app",
+  "links": {
+    "github": "pizzafinancebsc",
+    "coingecko": "pizzaswap",
+    "twitter": "Pizza_Finance",
+    "telegram": "PizzaFinance"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Changelly",
+  "description": "Fast and secure way to exchange and purchase 150+ cryptocurrencies.",
+  "web": "https://changelly.com",
+  "links": {
+    "twitter": "https://twitter.com/changelly_team"
+  },
+  "categories": [
+    "exchange"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "changelly"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Zero Utility Token",
+  "symbol": "ZUT",
+  "web": "https://zeroutility.com",
+  "explorer": "https://etherscan.io/token/0x83F873388Cd14b83A9f47FabDe3C9850b5C74548",
+  "links": {
+    "coingecko": "zero-utility-token",
+    "twitter": "UtilityZero",
+    "telegram": "ZeroUtilityToken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

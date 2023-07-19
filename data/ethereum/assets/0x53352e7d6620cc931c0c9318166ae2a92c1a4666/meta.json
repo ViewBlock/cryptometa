@@ -1,0 +1,14 @@
+{
+  "name": "AI Mining",
+  "symbol": "AIM",
+  "web": "https://aimining.io",
+  "explorer": "https://etherscan.io/token/0x53352e7d6620cc931c0c9318166ae2a92c1a4666",
+  "links": {
+    "coingecko": "ai-mining",
+    "facebook": "aimining.io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

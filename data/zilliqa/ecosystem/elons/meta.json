@@ -1,0 +1,15 @@
+{
+  "name": "Elons",
+  "description": "The Elons project is designing the future of NFT airdropping on the Zilliqa platform and is building a fully responsive and adaptable NFT exchange platform.",
+  "web": "https://elons.io/what-is-elons",
+  "links": {
+    "twitter": "https://twitter.com/token_elon?lang=en"
+  },
+  "categories": [
+    "nft"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "elons"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Datum",
+  "symbol": "DAT",
+  "web": "https://datum.org",
+  "explorer": "https://etherscan.io/token/0x81c9151de0c8bafcd325a57e3db5a5df1cebf79c",
+  "links": {
+    "github": "datumnetwork",
+    "coingecko": "datum",
+    "twitter": "datumnetwork",
+    "facebook": "datumnetwork",
+    "reddit": "r/datumnetwork"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

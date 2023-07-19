@@ -1,0 +1,15 @@
+{
+  "name": "hardhat-starknetjs",
+  "description": "Hardhat Plugin integrating StarkNet.js.",
+  "categories": [
+    "tools"
+  ],
+  "links": {
+    "github": "https://github.com/playmint/hardhat-starknetjs",
+    "twitter": "https://twitter.com/playmint"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "hardhat-starknetjs"
+}

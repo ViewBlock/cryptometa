@@ -1,0 +1,15 @@
+{
+  "name": "CryBet",
+  "symbol": "CBT",
+  "web": "http://crybet.co",
+  "explorer": "https://etherscan.io/token/0xaf5f584d79701d5bdc9ca045e66ae130b67a68ad",
+  "links": {
+    "coingecko": "crybet",
+    "twitter": "cry_bet",
+    "telegram": "crybet"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

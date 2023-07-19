@@ -1,0 +1,15 @@
+{
+  "name": "MetricExchange",
+  "symbol": "METRIC",
+  "web": "https://metric.exchange",
+  "explorer": "https://etherscan.io/token/0xefc1c73a3d8728dc4cf2a18ac5705fe93e5914ac",
+  "links": {
+    "coingecko": "metric-exchange",
+    "twitter": "MetricExchange",
+    "telegram": "MetricExchange"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

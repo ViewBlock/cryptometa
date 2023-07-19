@@ -1,0 +1,17 @@
+{
+  "name": "EchoLink",
+  "symbol": "EKO",
+  "web": "https://echolink.info",
+  "explorer": "https://etherscan.io/token/0xa6a840e50bcaa50da017b91a0d86b8b2d41156ee",
+  "links": {
+    "github": "EchoLinkTech",
+    "coingecko": "echolink",
+    "twitter": "EchoLinkInfo1",
+    "telegram": "EcholinkOfficial",
+    "reddit": "r/EchoLinkInfo"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

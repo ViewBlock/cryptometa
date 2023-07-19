@@ -1,0 +1,16 @@
+{
+  "name": "CACHE Gold",
+  "symbol": "CGT",
+  "web": "https://cache.gold",
+  "explorer": "https://etherscan.io/token/0xf5238462e7235c7b62811567e63dd17d12c2eaa0",
+  "links": {
+    "github": "cache-token",
+    "coingecko": "cache-gold",
+    "twitter": "cache_gold",
+    "facebook": "CACHEGoldToken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

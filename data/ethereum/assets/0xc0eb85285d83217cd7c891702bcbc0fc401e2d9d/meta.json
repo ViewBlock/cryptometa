@@ -1,0 +1,17 @@
+{
+  "name": "Hiveterminal token",
+  "symbol": "HVN",
+  "web": "https://www.hiveterminal.com",
+  "explorer": "https://etherscan.io/token/0xC0Eb85285d83217CD7c891702bcbC0FC401E2D9D",
+  "links": {
+    "github": "cazala",
+    "coingecko": "hiveterminal",
+    "twitter": "hiveterminal",
+    "facebook": "hiveterminal",
+    "reddit": "r/HiveProject_net"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

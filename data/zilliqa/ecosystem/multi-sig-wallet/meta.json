@@ -1,0 +1,13 @@
+{
+  "name": "Multi-sig wallet",
+  "description": "Multisig wallet backed by a Scilla contract",
+  "web": "https://legacy-multisig.zilliqa.com",
+  "links": {},
+  "categories": [
+    "wallet"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "multi-sig-wallet"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Vox.Finance",
+  "symbol": "VOX",
+  "web": "https://vox.finance",
+  "explorer": "https://etherscan.io/token/0x12D102F06da35cC0111EB58017fd2Cd28537d0e1",
+  "links": {
+    "coingecko": "vox-finance",
+    "twitter": "RealVoxFinance",
+    "telegram": "VoxFinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

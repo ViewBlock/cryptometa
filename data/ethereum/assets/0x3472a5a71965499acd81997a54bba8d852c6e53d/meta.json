@@ -1,0 +1,16 @@
+{
+  "name": "Badger DAO",
+  "symbol": "BADGER",
+  "web": "https://app.badger.finance",
+  "explorer": "https://etherscan.io/token/0x3472a5a71965499acd81997a54bba8d852c6e53d",
+  "links": {
+    "github": "Badger-Finance",
+    "coingecko": "badger-dao",
+    "twitter": "badgerdao",
+    "telegram": "badger_dao"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

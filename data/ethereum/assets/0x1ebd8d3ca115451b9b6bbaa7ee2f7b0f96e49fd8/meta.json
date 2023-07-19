@@ -1,0 +1,16 @@
+{
+  "name": "ngot",
+  "symbol": "NGOT",
+  "web": "http://ngot.io",
+  "explorer": "https://etherscan.io/token/0x1ebd8d3ca115451b9b6bbaa7ee2f7b0f96e49fd8",
+  "links": {
+    "coingecko": "ngot",
+    "twitter": "NGOtoken",
+    "facebook": "NGOTtoken",
+    "telegram": "NGOMofficialEnglish"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

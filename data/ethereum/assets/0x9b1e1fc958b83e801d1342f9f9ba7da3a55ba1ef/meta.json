@@ -1,0 +1,16 @@
+{
+  "name": "Tronipay",
+  "symbol": "TRP",
+  "web": "https://www.tronipaycard.com",
+  "explorer": "https://etherscan.io/token/0x9b1e1fc958b83e801d1342f9f9ba7da3a55ba1ef",
+  "links": {
+    "coingecko": "tronipay",
+    "twitter": "tronipay",
+    "facebook": "tronipay",
+    "telegram": "tronipaycard"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

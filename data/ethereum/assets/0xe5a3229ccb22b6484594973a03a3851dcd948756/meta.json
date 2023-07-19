@@ -1,0 +1,18 @@
+{
+  "name": "Receive Access Ecosystem",
+  "symbol": "RAE",
+  "web": "https://www.raetoken.org",
+  "explorer": "https://etherscan.io/token/0xE5a3229CCb22b6484594973A03a3851dCd948756",
+  "links": {
+    "github": "rokfin",
+    "coingecko": "rae-token",
+    "twitter": "raetoken",
+    "telegram": "RAEToken",
+    "reddit": "r/RAE_Token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

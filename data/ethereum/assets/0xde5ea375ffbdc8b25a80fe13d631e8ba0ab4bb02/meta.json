@@ -1,0 +1,16 @@
+{
+  "name": "Gera Coin",
+  "symbol": "GERA",
+  "web": "https://geracoin.io",
+  "explorer": "https://etherscan.io/token/0xde5ea375ffbdc8b25a80fe13d631e8ba0ab4bb02",
+  "links": {
+    "coingecko": "gera-coin",
+    "twitter": "GeraCoin",
+    "facebook": "Gera-Coin-100762075192953",
+    "telegram": "geracoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

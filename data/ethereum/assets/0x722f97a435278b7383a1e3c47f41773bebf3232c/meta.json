@@ -1,0 +1,16 @@
+{
+  "name": "UCROWDME",
+  "symbol": "UCM",
+  "web": "https://ucrowdme.com",
+  "explorer": "https://etherscan.io/token/0x722f97a435278b7383a1e3c47f41773bebf3232c",
+  "links": {
+    "coingecko": "ucrowdme",
+    "twitter": "ucrowdme",
+    "facebook": "UCROWDME",
+    "telegram": "ucrowdme"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

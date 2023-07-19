@@ -1,0 +1,17 @@
+{
+  "name": "BOTXCOIN",
+  "symbol": "BOTX",
+  "web": "http://botxcoin.com",
+  "explorer": "https://etherscan.io/token/0xEF19F4E48830093Ce5bC8b3Ff7f903A0AE3E9Fa1",
+  "links": {
+    "github": "botxcoin",
+    "coingecko": "botxcoin",
+    "twitter": "botxofficial",
+    "facebook": "botxcoinofficial",
+    "telegram": "botxcoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

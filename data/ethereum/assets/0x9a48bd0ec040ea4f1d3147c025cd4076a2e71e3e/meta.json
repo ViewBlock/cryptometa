@@ -1,0 +1,15 @@
+{
+  "name": "PieDAO USD++",
+  "symbol": "USD++",
+  "web": "https://usd.piedao.org/#",
+  "explorer": "https://etherscan.io/token/0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+  "links": {
+    "github": "pie-dao",
+    "coingecko": "piedao-usd",
+    "twitter": "PieDAO_DeFi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

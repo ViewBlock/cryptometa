@@ -1,0 +1,16 @@
+{
+  "name": "OnX Finance",
+  "symbol": "ONX",
+  "web": "https://onx.finance",
+  "explorer": "https://etherscan.io/token/0xe0ad1806fd3e7edf6ff52fdb822432e847411033",
+  "links": {
+    "github": "OnXFinance",
+    "coingecko": "onx-finance",
+    "twitter": "OnXFinance",
+    "telegram": "OnXFi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

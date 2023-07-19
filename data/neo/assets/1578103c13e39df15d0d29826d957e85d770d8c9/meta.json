@@ -1,0 +1,17 @@
+{
+  "name": "Phoenix Global",
+  "symbol": "PHX",
+  "web": "https://www.phoenix.global",
+  "explorer": "https://neotracker.io/asset/1578103c13e39df15d0d29826d957e85d770d8c9",
+  "links": {
+    "github": "phoenixglobal",
+    "coingecko": "red-pulse",
+    "twitter": "Phoenix_Chain",
+    "telegram": "APEXcommunity",
+    "reddit": "r/RedPulseToken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

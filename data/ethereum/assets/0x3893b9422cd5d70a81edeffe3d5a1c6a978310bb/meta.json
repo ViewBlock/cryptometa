@@ -1,0 +1,19 @@
+{
+  "name": "Mithril",
+  "symbol": "MITH",
+  "web": "https://mith.io",
+  "explorer": "https://etherscan.io/token/0x3893b9422cd5d70a81edeffe3d5a1c6a978310bb",
+  "links": {
+    "github": "mithio",
+    "coingecko": "mithril",
+    "twitter": "MithrilOfficial",
+    "facebook": "MithrilToken",
+    "telegram": "MithrilChat",
+    "reddit": "r/MithrilToken"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "score": 19
+  }
+}

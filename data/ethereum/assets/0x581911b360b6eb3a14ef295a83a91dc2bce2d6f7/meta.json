@@ -1,0 +1,16 @@
+{
+  "name": "MileVerse",
+  "symbol": "MVC",
+  "web": "https://mileverse.com",
+  "explorer": "https://etherscan.io/token/0x581911b360B6eB3a14eF295a83a91DC2bCE2D6f7",
+  "links": {
+    "coingecko": "mileverse",
+    "twitter": "MileVerse_",
+    "facebook": "mileverse",
+    "telegram": "mileverse"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Nyanswop Token",
+  "symbol": "NYA",
+  "web": "https://nyanswop.org",
+  "explorer": "https://bscscan.com/token/0xbfa0841f7a90c4ce6643f651756ee340991f99d5",
+  "links": {
+    "github": "nyanswop",
+    "coingecko": "nyanswop-token",
+    "twitter": "nyanswop",
+    "telegram": "Nyanswop"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "CyberMiles",
+  "symbol": "CMT",
+  "web": "http://cybermiles.io",
+  "explorer": "https://etherscan.io/token/0xf85feea2fdd81d51177f6b8f35f0e6734ce45f5f",
+  "links": {
+    "github": "cybermiles",
+    "coingecko": "cybermiles",
+    "twitter": "cybermiles",
+    "facebook": "cybermiles",
+    "telegram": "cybermilestoken",
+    "reddit": "r/CyberMiles"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

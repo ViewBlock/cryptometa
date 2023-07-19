@@ -1,0 +1,16 @@
+{
+  "name": "Glox Finance",
+  "symbol": "GLOX",
+  "web": "https://glox.finance",
+  "explorer": "https://etherscan.io/token/0x0222bE1F1B8413b2d7d76EBfC9e0285C1300692f",
+  "links": {
+    "github": "GloxFinance",
+    "coingecko": "glox-finance",
+    "twitter": "GloxFinance",
+    "telegram": "GloxFinanceChat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

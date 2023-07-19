@@ -1,0 +1,10 @@
+{
+  "name": "ZPN",
+  "symbol": "ZPN",
+  "decimals": 4,
+  "supply": 10000000,
+  "gen": {
+    "logo": "logo.svg",
+    "score": 0
+  }
+}

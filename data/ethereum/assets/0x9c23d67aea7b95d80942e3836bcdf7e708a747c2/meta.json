@@ -1,0 +1,15 @@
+{
+  "name": "LOCIcoin",
+  "symbol": "LOCI",
+  "web": "http://www.loci.io",
+  "explorer": "https://etherscan.io/token/0x9c23d67aea7b95d80942e3836bcdf7e708a747c2",
+  "links": {
+    "coingecko": "locicoin",
+    "twitter": "Loci_io",
+    "reddit": "r/loci_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

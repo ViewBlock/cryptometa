@@ -1,0 +1,11 @@
+{
+  "name": "Venus DOT",
+  "symbol": "VDOT",
+  "web": "https://venus.io",
+  "explorer": "https://bscscan.com/token/0x1610bc33319e9398de5f57b33a5b184c806ad217",
+  "links": {
+    "coingecko": "venus-dot",
+    "twitter": "VenusProtocol",
+    "telegram": "VenusProtocol"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Umbrella Coin",
+  "symbol": "UMC",
+  "web": "https://www.unitymatrixcommons.com",
+  "explorer": "https://etherscan.io/token/0x190fb342aa6a15eb82903323ae78066ff8616746",
+  "links": {
+    "github": "umccoin",
+    "coingecko": "umbrellacoin",
+    "twitter": "um_coin",
+    "facebook": "UnityMatrixCommons"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

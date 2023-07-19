@@ -1,0 +1,17 @@
+{
+  "name": "AiLink Token",
+  "symbol": "ALI",
+  "web": "http://ailink.in/pc.html",
+  "explorer": "https://etherscan.io/token/0x4289c043a12392f1027307fb58272d8ebd853912",
+  "links": {
+    "github": "ailinkofficial",
+    "coingecko": "ailink-token",
+    "twitter": "ailinkofficial",
+    "facebook": "ailinkofficial",
+    "telegram": "ailinkofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

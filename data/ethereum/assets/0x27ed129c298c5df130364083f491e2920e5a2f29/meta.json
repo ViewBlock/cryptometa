@@ -1,0 +1,15 @@
+{
+  "name": "Upper Pound",
+  "symbol": "GBPU",
+  "web": "https://uppers.io",
+  "explorer": "https://etherscan.io/token/0x27ed129c298c5df130364083f491e2920e5a2f29",
+  "links": {
+    "coingecko": "upper-pound",
+    "facebook": "Upper-Software-106093467886091",
+    "telegram": "uppersoftware"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

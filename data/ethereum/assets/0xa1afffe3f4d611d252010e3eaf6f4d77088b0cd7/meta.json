@@ -1,0 +1,16 @@
+{
+  "name": "reflect.finance",
+  "symbol": "RFI",
+  "web": "https://reflect.finance",
+  "explorer": "https://etherscan.io/token/0xa1afffe3f4d611d252010e3eaf6f4d77088b0cd7",
+  "links": {
+    "github": "reflectfinance",
+    "coingecko": "reflect-finance",
+    "twitter": "ReflectFinance",
+    "telegram": "reflect_finance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

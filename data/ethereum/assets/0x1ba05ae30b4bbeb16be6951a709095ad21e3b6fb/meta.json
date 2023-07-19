@@ -1,0 +1,17 @@
+{
+  "name": "United Token",
+  "symbol": "UTED",
+  "web": "https://www.unitedtoken.eu",
+  "explorer": "https://etherscan.io/token/0x1ba05ae30b4bbeb16be6951a709095ad21e3b6fb",
+  "links": {
+    "github": "UtedToken",
+    "coingecko": "united-token",
+    "twitter": "unitedtoken1",
+    "facebook": "uted.net",
+    "telegram": "unitedtoken1"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

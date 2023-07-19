@@ -1,0 +1,13 @@
+{
+  "name": "ChunghopToken",
+  "symbol": "CHC",
+  "web": "https://topbtc.com",
+  "explorer": "https://etherscan.io/token/0x24810d836f6d60a7ee499622b7103ec769e81e3b",
+  "links": {
+    "coingecko": "chunghoptoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

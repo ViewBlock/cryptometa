@@ -1,0 +1,15 @@
+{
+  "name": "Semitoken",
+  "symbol": "SEMI",
+  "web": "http://www.semitokenglobal.com",
+  "explorer": "https://etherscan.io/token/0x6D7917864003a9bb13CBbEC8F1CdD4E36dDf6fc8",
+  "links": {
+    "coingecko": "semitoken",
+    "twitter": "token_semi",
+    "telegram": "semitokenno1"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

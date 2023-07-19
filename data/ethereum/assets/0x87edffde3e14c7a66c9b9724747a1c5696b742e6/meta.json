@@ -1,0 +1,15 @@
+{
+  "name": "SWAG Finance",
+  "symbol": "SWAG",
+  "web": "https://www.swag.finance",
+  "explorer": "https://etherscan.io/token/0x87edffde3e14c7a66c9b9724747a1c5696b742e6",
+  "links": {
+    "coingecko": "swag-finance",
+    "twitter": "swag_finance",
+    "telegram": "swagfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

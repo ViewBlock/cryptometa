@@ -1,0 +1,15 @@
+{
+  "name": "Reflector.Finance",
+  "symbol": "RFCTR",
+  "web": "https://reflector.finance",
+  "explorer": "https://etherscan.io/token/0x16b1eb8b8e9058800bf0ba3684f805a6711a1d2c",
+  "links": {
+    "coingecko": "reflector-finance",
+    "twitter": "ReflectorFin",
+    "telegram": "reflectorfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

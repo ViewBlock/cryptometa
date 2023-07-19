@@ -1,0 +1,16 @@
+{
+  "name": "Zantepay",
+  "symbol": "ZPAY",
+  "web": "https://zantepay.com",
+  "explorer": "https://etherscan.io/token/0xeffea57067e02999fdcd0bb45c0f1071a29472d9",
+  "links": {
+    "coingecko": "zantepay",
+    "twitter": "zantepay",
+    "facebook": "ZANTEPAY",
+    "telegram": "zantepay"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

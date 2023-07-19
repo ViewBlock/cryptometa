@@ -1,0 +1,17 @@
+{
+  "name": "e-Radix",
+  "symbol": "EXRD",
+  "web": "https://www.radixdlt.com",
+  "explorer": "https://etherscan.io/token/0x6468e79a80c0eab0f9a2b574c8d5bc374af59414",
+  "links": {
+    "github": "radixdlt",
+    "coingecko": "e-radix",
+    "twitter": "RadixDLT",
+    "telegram": "radix_dlt",
+    "reddit": "r/Radix"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

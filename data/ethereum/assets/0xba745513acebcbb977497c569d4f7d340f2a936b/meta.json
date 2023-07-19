@@ -1,0 +1,17 @@
+{
+  "name": "Mainstream For The Underground",
+  "symbol": "MFTU",
+  "web": "https://www.mftu.net",
+  "explorer": "https://etherscan.io/token/0xba745513acebcbb977497c569d4f7d340f2a936b",
+  "links": {
+    "coingecko": "mainstream-for-the-underground",
+    "twitter": "mftu_currency",
+    "facebook": "cyberfm",
+    "telegram": "mftudotnet",
+    "reddit": "r/cyberfm"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Surf.Finance",
+  "symbol": "SURF",
+  "web": "https://surf.finance",
+  "explorer": "https://etherscan.io/token/0xea319e87cf06203dae107dd8e5672175e3ee976c",
+  "links": {
+    "coingecko": "surf-finance",
+    "twitter": "surf_defi",
+    "telegram": "surf_finance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

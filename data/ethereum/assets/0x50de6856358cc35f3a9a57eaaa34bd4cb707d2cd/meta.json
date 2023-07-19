@@ -1,0 +1,17 @@
+{
+  "name": "Razor Network",
+  "symbol": "RAZOR",
+  "web": "https://razor.network",
+  "explorer": "https://etherscan.io/token/0x50de6856358cc35f3a9a57eaaa34bd4cb707d2cd",
+  "links": {
+    "github": "razor-network",
+    "coingecko": "razor-network",
+    "twitter": "razor_network",
+    "telegram": "razornetwork",
+    "reddit": "r/RazorNetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

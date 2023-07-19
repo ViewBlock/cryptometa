@@ -1,0 +1,15 @@
+{
+  "name": "One DEX",
+  "symbol": "ODEX",
+  "web": "https://onedexproject.com",
+  "explorer": "https://etherscan.io/token/0xa960d2ba7000d58773e7fa5754dec3bb40a069d5",
+  "links": {
+    "coingecko": "one-dex",
+    "twitter": "OneDexProject",
+    "telegram": "odexproject"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

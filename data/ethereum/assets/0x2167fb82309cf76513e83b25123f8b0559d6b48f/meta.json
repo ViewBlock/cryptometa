@@ -1,0 +1,18 @@
+{
+  "name": "CoinLion",
+  "symbol": "LION",
+  "web": "https://coinlion.com",
+  "explorer": "https://etherscan.io/token/0x2167fb82309cf76513e83b25123f8b0559d6b48f",
+  "links": {
+    "github": "coin-lion",
+    "coingecko": "coinlion",
+    "twitter": "coin_lion",
+    "facebook": "CoinLion.official",
+    "telegram": "CoinLionPlatform",
+    "reddit": "r/Coin_Lion"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "CryptoFranc",
+  "symbol": "XCHF",
+  "web": "https://www.swisscryptotokens.ch",
+  "explorer": "https://etherscan.io/token/0xb4272071ecadd69d933adcd19ca99fe80664fc08",
+  "links": {
+    "coingecko": "cryptofranc",
+    "twitter": "SwissTokens",
+    "facebook": "swisscryptotokens"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

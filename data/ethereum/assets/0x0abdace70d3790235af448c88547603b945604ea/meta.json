@@ -1,0 +1,16 @@
+{
+  "name": "district0x",
+  "symbol": "DNT",
+  "web": "https://district0x.io",
+  "explorer": "https://etherscan.io/token/0x0abdace70d3790235af448c88547603b945604ea",
+  "links": {
+    "github": "district0x",
+    "coingecko": "district0x",
+    "twitter": "district0x",
+    "reddit": "r/district0x"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

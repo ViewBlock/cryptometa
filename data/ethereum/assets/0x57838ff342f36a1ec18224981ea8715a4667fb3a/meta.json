@@ -1,0 +1,14 @@
+{
+  "name": "Qube",
+  "symbol": "QUBE",
+  "web": "http://www.qube.vip",
+  "explorer": "https://etherscan.io/token/0x57838ff342f36a1ec18224981ea8715a4667fb3a",
+  "links": {
+    "coingecko": "qube"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 5
+  }
+}

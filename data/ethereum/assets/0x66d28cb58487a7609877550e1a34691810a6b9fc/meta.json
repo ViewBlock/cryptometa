@@ -1,0 +1,16 @@
+{
+  "name": "Koinos",
+  "symbol": "KOIN",
+  "web": "https://koinos.io",
+  "explorer": "https://etherscan.io/token/0x66d28cb58487a7609877550e1a34691810a6b9fc",
+  "links": {
+    "github": "koinos",
+    "coingecko": "koinos",
+    "twitter": "koinosnetwork",
+    "reddit": "r/Koinos"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

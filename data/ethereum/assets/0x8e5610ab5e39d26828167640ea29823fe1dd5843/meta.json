@@ -1,0 +1,15 @@
+{
+  "name": "KanadeCoin",
+  "symbol": "KNDC",
+  "web": "https://kanadecoin.com",
+  "explorer": "https://etherscan.io/token/0x8E5610ab5E39d26828167640EA29823fe1dD5843",
+  "links": {
+    "github": "KanadeCoin",
+    "coingecko": "kanadecoin",
+    "twitter": "KanadeCoin_EN"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

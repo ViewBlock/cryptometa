@@ -1,0 +1,15 @@
+{
+  "name": "UniTopia Token",
+  "symbol": "UTO",
+  "web": "https://unitopia.network",
+  "explorer": "https://etherscan.io/token/0x1f8f123bf24849443a56ed9fc42b9265b7f3a39a",
+  "links": {
+    "coingecko": "unitopia-token",
+    "twitter": "Topia_Network",
+    "telegram": "TopiaNetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

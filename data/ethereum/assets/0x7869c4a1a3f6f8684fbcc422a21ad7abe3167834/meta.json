@@ -1,0 +1,16 @@
+{
+  "name": "Pivot Token",
+  "symbol": "PVT",
+  "web": "https://www.pivot.one",
+  "explorer": "https://etherscan.io/token/0x7869c4a1a3f6f8684fbcc422a21ad7abe3167834",
+  "links": {
+    "coingecko": "pivot-token",
+    "twitter": "pivot_pvt",
+    "facebook": "PivotOfficialPVT",
+    "telegram": "pivotglobal"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

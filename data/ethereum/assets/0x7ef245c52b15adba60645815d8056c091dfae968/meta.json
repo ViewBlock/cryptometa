@@ -1,0 +1,15 @@
+{
+  "symbol": "uPMON",
+  "name": "Polychain Monsters",
+  "decimals": 18,
+  "description": "A collection of the most rare and valuable Polychain Monsters. Community-led. We target to add more special Polychain Monsters regularly.",
+  "links": {
+    "medium": "https://upmon-community.medium.com/",
+    "twitter": "https://twitter.com/upmon_official",
+    "telegram": "https://t.me/upmon_community"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 5
+  }
+}

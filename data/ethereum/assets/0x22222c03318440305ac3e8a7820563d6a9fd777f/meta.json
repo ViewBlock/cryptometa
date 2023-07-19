@@ -1,0 +1,16 @@
+{
+  "name": "Clover",
+  "symbol": "CLV",
+  "web": "http://cloverprotocol.biz",
+  "explorer": "https://etherscan.io/token/0x22222c03318440305ac3e8a7820563d6a9fd777f",
+  "links": {
+    "github": "http:",
+    "coingecko": "clover",
+    "twitter": "clvfi",
+    "telegram": "clvfi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

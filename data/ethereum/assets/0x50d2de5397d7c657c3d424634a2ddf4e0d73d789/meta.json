@@ -1,0 +1,16 @@
+{
+  "name": "Bliss",
+  "symbol": "BLISS",
+  "web": "https://nirvanadefi.com",
+  "explorer": "https://etherscan.io/token/0x50d2de5397d7c657c3d424634a2ddf4e0d73d789",
+  "links": {
+    "github": "nirvanaDefi",
+    "coingecko": "bliss-2",
+    "twitter": "NirvanaDefi",
+    "telegram": "nirvanadefi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

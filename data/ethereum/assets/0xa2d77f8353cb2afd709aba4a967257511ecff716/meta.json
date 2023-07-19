@@ -1,0 +1,16 @@
+{
+  "name": "Internet Exchange Token",
+  "symbol": "INEX",
+  "web": "https://www.inexprojectofficial.com",
+  "explorer": "https://etherscan.io/token/0xa2d77f8353cb2afd709aba4a967257511ecff716",
+  "links": {
+    "github": "INEXProject",
+    "coingecko": "internet-exchange-token",
+    "twitter": "InexProject",
+    "telegram": "inexprojectofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

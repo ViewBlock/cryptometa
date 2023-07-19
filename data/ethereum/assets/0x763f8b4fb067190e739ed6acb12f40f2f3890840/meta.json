@@ -1,0 +1,14 @@
+{
+  "name": "Digex",
+  "symbol": "DIGEX",
+  "web": "https://digex.io",
+  "explorer": "https://etherscan.io/token/0x763F8B4fB067190e739Ed6ACB12F40f2F3890840",
+  "links": {
+    "coingecko": "digex",
+    "telegram": "digexchat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

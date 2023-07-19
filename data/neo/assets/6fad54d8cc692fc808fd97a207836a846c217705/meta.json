@@ -1,0 +1,17 @@
+{
+  "name": "Alchemint",
+  "symbol": "SDS",
+  "web": "http://alchemint.io",
+  "explorer": "https://neotracker.io/asset/6fad54d8cc692fc808fd97a207836a846c217705",
+  "links": {
+    "coingecko": "alchemint",
+    "twitter": "Alchemint_SDT",
+    "facebook": "alchemint.sdt",
+    "telegram": "Alchemint",
+    "reddit": "r/Alchemint"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Smart MFG",
+  "symbol": "MFG",
+  "web": "https://smartmfg.io",
+  "explorer": "https://etherscan.io/token/0x6710c63432a2de02954fc0f851db07146a6c0312",
+  "links": {
+    "github": "syncfab",
+    "coingecko": "syncfab",
+    "twitter": "mfgcoin",
+    "telegram": "syncfab",
+    "reddit": "r/syncfab"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

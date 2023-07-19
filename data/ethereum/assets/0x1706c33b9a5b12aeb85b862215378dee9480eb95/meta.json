@@ -1,0 +1,15 @@
+{
+  "name": "BananoDOS",
+  "symbol": "YBAN",
+  "web": "https://bananodos.cc",
+  "explorer": "https://etherscan.io/token/0x1706c33B9a5B12aeB85B862215378dEe9480EB95",
+  "links": {
+    "github": "BananoDOS",
+    "coingecko": "bananados",
+    "telegram": "BananoDos"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

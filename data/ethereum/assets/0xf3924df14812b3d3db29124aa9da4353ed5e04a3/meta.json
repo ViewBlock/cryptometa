@@ -1,0 +1,15 @@
+{
+  "name": "Easticoin",
+  "symbol": "ESTI",
+  "web": "https://easticoin.org",
+  "explorer": "https://etherscan.io/token/0xf3924df14812b3d3db29124aa9da4353ed5e04a3",
+  "links": {
+    "coingecko": "easticoin",
+    "twitter": "Easticoin",
+    "facebook": "easticoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

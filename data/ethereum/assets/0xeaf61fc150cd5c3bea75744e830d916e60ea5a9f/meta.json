@@ -1,0 +1,17 @@
+{
+  "name": "Typerium",
+  "symbol": "TYPE",
+  "web": "https://www.typerium.io",
+  "explorer": "https://etherscan.io/token/0xeaf61fc150cd5c3bea75744e830d916e60ea5a9f",
+  "links": {
+    "github": "Typerium",
+    "coingecko": "typerium",
+    "twitter": "Typerium_io",
+    "facebook": "typerium",
+    "telegram": "typerium"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

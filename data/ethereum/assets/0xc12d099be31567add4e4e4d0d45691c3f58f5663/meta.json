@@ -1,0 +1,18 @@
+{
+  "name": "Auctus",
+  "symbol": "AUC",
+  "web": "https://auctus.org",
+  "explorer": "https://etherscan.io/token/0xc12d099be31567add4e4e4d0D45691C3F58f5663",
+  "links": {
+    "github": "AuctusProject",
+    "coingecko": "auctus",
+    "twitter": "AuctusProject",
+    "facebook": "AuctusProject",
+    "telegram": "auctusproject",
+    "reddit": "r/AuctusProject"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

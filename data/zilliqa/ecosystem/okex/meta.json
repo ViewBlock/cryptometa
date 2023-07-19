@@ -1,0 +1,22 @@
+{
+  "name": "OKEx",
+  "description": "OKEx is a Malta-based cryptocurrency exchange founded in 2017",
+  "web": "https://www.okex.com",
+  "links": {
+    "twitter": "OKEx",
+    "telegram": "OKExOfficial_English",
+    "facebook": "okexofficial",
+    "medium": "okex-blog",
+    "linkedin": "okex"
+  },
+  "addresses": [
+    "zil1zxe9s6fqk90lnh75lqwlgm38pv82mgh9e9u7mk"
+  ],
+  "categories": [
+    "exchange"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "okex"
+}

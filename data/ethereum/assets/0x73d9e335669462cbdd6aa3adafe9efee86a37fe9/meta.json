@@ -1,0 +1,16 @@
+{
+  "name": "Daiquilibrium",
+  "symbol": "DAIQ",
+  "web": "https://daiq.io",
+  "explorer": "https://etherscan.io/token/0x73D9E335669462Cbdd6aa3AdaFe9efeE86a37Fe9",
+  "links": {
+    "github": "daiquilibrium",
+    "coingecko": "daiquilibrium",
+    "twitter": "daiquilibrium",
+    "telegram": "daiquilibrium"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

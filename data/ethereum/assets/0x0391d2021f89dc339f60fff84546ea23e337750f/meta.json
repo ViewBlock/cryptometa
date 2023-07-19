@@ -1,0 +1,15 @@
+{
+  "name": "BarnBridge",
+  "symbol": "BOND",
+  "web": "https://barnbridge.com",
+  "explorer": "https://etherscan.io/token/0x0391D2021f89DC339F60Fff84546EA23E337750f",
+  "links": {
+    "github": "BarnBridge",
+    "coingecko": "barnbridge",
+    "twitter": "barn_bridge"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

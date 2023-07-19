@@ -1,0 +1,16 @@
+{
+  "name": "Govi",
+  "symbol": "GOVI",
+  "web": "https://cvi.finance",
+  "explorer": "https://etherscan.io/token/0xeeaa40b28a2d1b0b08f6f97bb1dd4b75316c6107",
+  "links": {
+    "github": "coti-io",
+    "coingecko": "govi",
+    "twitter": "official_cvi",
+    "telegram": "cviofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

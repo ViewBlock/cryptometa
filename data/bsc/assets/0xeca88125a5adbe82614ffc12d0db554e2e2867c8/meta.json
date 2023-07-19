@@ -1,0 +1,11 @@
+{
+  "name": "Venus USDC",
+  "symbol": "VUSDC",
+  "web": "https://venus.io",
+  "explorer": "https://bscscan.com/token/0xeca88125a5adbe82614ffc12d0db554e2e2867c8",
+  "links": {
+    "coingecko": "venus-usdc",
+    "twitter": "VenusProtocol",
+    "telegram": "VenusProtocol"
+  }
+}

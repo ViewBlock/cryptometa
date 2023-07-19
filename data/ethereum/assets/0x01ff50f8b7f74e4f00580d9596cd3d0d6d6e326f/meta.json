@@ -1,0 +1,17 @@
+{
+  "name": "BnkToTheFuture",
+  "symbol": "BFT",
+  "web": "https://bf-token.bnktothefuture.com/#!",
+  "explorer": "https://etherscan.io/token/0x01ff50f8b7f74e4f00580d9596cd3d0d6d6e326f",
+  "links": {
+    "github": "BankToTheFuture",
+    "coingecko": "bnktothefuture",
+    "twitter": "BankToTheFuture",
+    "facebook": "banktothefuture",
+    "telegram": "bf_token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

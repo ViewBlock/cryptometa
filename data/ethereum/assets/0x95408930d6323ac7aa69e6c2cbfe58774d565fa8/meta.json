@@ -1,0 +1,16 @@
+{
+  "name": "Debitcoin",
+  "symbol": "DBTC",
+  "web": "https://debitcoin.xyz",
+  "explorer": "https://etherscan.io/token/0x95408930d6323Ac7aa69e6C2CBFE58774D565fa8",
+  "links": {
+    "github": "Debitcoin",
+    "coingecko": "debitcoin",
+    "twitter": "debitcoinxyz",
+    "reddit": "r/debitcoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

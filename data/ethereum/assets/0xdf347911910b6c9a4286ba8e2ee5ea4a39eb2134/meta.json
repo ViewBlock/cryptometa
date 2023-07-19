@@ -1,0 +1,15 @@
+{
+  "name": "Bob's Repair",
+  "symbol": "BOB",
+  "web": "https://www.bobsrepair.com",
+  "explorer": "https://etherscan.io/token/0xDF347911910b6c9A4286bA8E2EE5ea4a39eB2134",
+  "links": {
+    "coingecko": "bobs_repair",
+    "twitter": "bobsrepair",
+    "facebook": "BobsRepairCom"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

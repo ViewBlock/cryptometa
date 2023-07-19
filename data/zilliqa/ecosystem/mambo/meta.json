@@ -1,0 +1,17 @@
+{
+  "name": "Mambo",
+  "description": "A pivot point for information on decentralised stablecoins and tokens, most of which will be pegged to physical assets like our daily life, like food and other things.",
+  "web": "https://mambo.li",
+  "links": {
+    "twitter": "https://twitter.com/MrCryptoMambo"
+  },
+  "categories": [
+    "stablecoin",
+    "defi",
+    "dapp"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "mambo"
+}

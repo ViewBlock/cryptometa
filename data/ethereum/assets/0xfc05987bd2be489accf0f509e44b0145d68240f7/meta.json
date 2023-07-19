@@ -1,0 +1,17 @@
+{
+  "name": "Essentia",
+  "symbol": "ESS",
+  "web": "https://essentia.one",
+  "explorer": "https://etherscan.io/token/0xfc05987bd2be489accf0f509e44b0145d68240f7",
+  "links": {
+    "coingecko": "essentia",
+    "twitter": "essentia_one",
+    "facebook": "essentiaone",
+    "telegram": "essentia_one",
+    "reddit": "r/essentia"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

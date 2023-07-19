@@ -1,0 +1,17 @@
+{
+  "name": "OWNDATA",
+  "symbol": "OWN",
+  "web": "https://owndata.network",
+  "explorer": "https://etherscan.io/token/0x170b275ced089fffaebfe927f445a350ed9160dc",
+  "links": {
+    "github": "owndata",
+    "coingecko": "owndata",
+    "twitter": "owndata_coin",
+    "facebook": "owndata",
+    "telegram": "owndata_network"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

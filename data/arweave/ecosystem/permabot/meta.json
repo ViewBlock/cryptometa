@@ -1,0 +1,19 @@
+{
+  "name": "Permabot",
+  "description": "Archives selected content from the web/social media and store it on the Permaweb",
+  "web": "https://permabot.xyz",
+  "categories": [
+    "social"
+  ],
+  "addresses": [],
+  "developers": [
+    {
+      "name": "Layinka",
+      "github": "layinka"
+    }
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "permabot"
+}

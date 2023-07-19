@@ -1,0 +1,15 @@
+{
+  "name": "Caprabull",
+  "symbol": "CBC",
+  "supply": "300000000000",
+  "links": {
+    "medium": "https://caprabullcoin.medium.com/",
+    "twitter": "https://twitter.com/Caprabullcoin",
+    "telegram": "https://t.me/caprabullcoin"
+  },
+  "description": "CBC is Villam Community Token Project",
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

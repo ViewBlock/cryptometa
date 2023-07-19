@@ -1,0 +1,14 @@
+{
+  "name": "Token Economy Doin",
+  "symbol": "TED",
+  "web": "https://myted.io",
+  "explorer": "https://etherscan.io/token/0xa2a7963b19a82665e0f471c0bee29b111d4ae0a2",
+  "links": {
+    "coingecko": "ted",
+    "telegram": "ted_8888"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

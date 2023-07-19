@@ -1,0 +1,14 @@
+{
+  "name": "ZIL CRITTERS",
+  "symbol": "CRIT",
+  "links": {
+    "twitter": "https://twitter.com/Diabolixx2"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

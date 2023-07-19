@@ -1,0 +1,17 @@
+{
+  "name": "Dvision Network",
+  "symbol": "DVI",
+  "web": "https://dvision.network",
+  "explorer": "https://etherscan.io/token/0x10633216e7e8281e33c86f02bf8e565a635d9770",
+  "links": {
+    "github": "Dvision-Network",
+    "coingecko": "dvision-network",
+    "twitter": "Dvision_network",
+    "facebook": "Dvision-Network-119255129870212",
+    "telegram": "dvisionnetworkglobal"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

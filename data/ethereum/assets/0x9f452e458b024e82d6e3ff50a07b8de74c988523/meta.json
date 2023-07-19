@@ -1,0 +1,16 @@
+{
+  "name": "Goat Cash",
+  "symbol": "GOAT",
+  "web": "https://goat.cash",
+  "explorer": "https://etherscan.io/token/0x9f452e458b024e82d6e3ff50a07b8de74c988523",
+  "links": {
+    "github": "goatcash",
+    "coingecko": "goat-cash",
+    "twitter": "GotGoatCash",
+    "telegram": "gotgoatcash"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

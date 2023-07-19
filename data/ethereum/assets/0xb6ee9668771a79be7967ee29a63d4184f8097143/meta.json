@@ -1,0 +1,16 @@
+{
+  "name": "CargoX",
+  "symbol": "CXO",
+  "web": "https://cargox.io",
+  "explorer": "https://etherscan.io/token/0xb6ee9668771a79be7967ee29a63d4184f8097143",
+  "links": {
+    "coingecko": "cargox",
+    "twitter": "cargoxio ",
+    "facebook": "cargox.io",
+    "reddit": "r/CargoXio"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Vortex DeFi",
+  "symbol": "VTX",
+  "web": "https://vortexdefi.com",
+  "explorer": "https://etherscan.io/token/0xceb286C9604c542d3cc08b41AA6C9675B078A832",
+  "links": {
+    "github": "vortexdefi",
+    "coingecko": "vortex-defi",
+    "twitter": "vortexdefi",
+    "telegram": "VortexDeFiOfficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

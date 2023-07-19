@@ -1,0 +1,15 @@
+{
+  "name": "Bella Protocol",
+  "symbol": "BEL",
+  "web": "https://bella.fi",
+  "explorer": "https://etherscan.io/token/0xa91ac63d040deb1b7a5e4d4134ad23eb0ba07e14",
+  "links": {
+    "coingecko": "bella-protocol",
+    "twitter": "BellaProtocol",
+    "telegram": "bellaprotocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

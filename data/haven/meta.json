@@ -1,0 +1,16 @@
+{
+  "name": "Haven",
+  "symbol": "XHV",
+  "web": "https://havenprotocol.org",
+  "explorer": "https://explorer.havenprotocol.org",
+  "links": {
+    "github": "haven-protocol-org",
+    "coingecko": "haven",
+    "twitter": "HavenXHV",
+    "reddit": "r/havenprotocol"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true
+  }
+}

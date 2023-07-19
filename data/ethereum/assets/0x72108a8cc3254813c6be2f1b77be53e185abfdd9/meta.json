@@ -1,0 +1,17 @@
+{
+  "name": "Era Swap Token",
+  "symbol": "ES",
+  "web": "https://eraswaptoken.io",
+  "explorer": "https://etherscan.io/token/0x72108a8CC3254813C6BE2F1b77be53E185abFdD9",
+  "links": {
+    "github": "KMPARDS",
+    "coingecko": "era-swap-token",
+    "twitter": "eraswaptec",
+    "facebook": "eraswap",
+    "telegram": "eraswap"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

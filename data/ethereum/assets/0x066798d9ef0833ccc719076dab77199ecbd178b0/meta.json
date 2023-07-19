@@ -1,0 +1,15 @@
+{
+  "name": "SakeToken",
+  "symbol": "SAKE",
+  "web": "https://sakeswap.finance",
+  "explorer": "https://etherscan.io/token/0x066798d9ef0833ccc719076dab77199ecbd178b0",
+  "links": {
+    "github": "Sakeswap",
+    "coingecko": "sake-token",
+    "twitter": "sakeswap"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

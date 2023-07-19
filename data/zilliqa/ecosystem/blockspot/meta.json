@@ -1,0 +1,16 @@
+{
+  "name": "Blockspot",
+  "description": "A blockchain data platform that provides insights on different crypto assets.",
+  "web": "https://blockspot.io",
+  "links": {
+    "twitter": "https://twitter.com/blockspot_io",
+    "telegram": "https://t.me/blockspot_ann"
+  },
+  "categories": [
+    "tools"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "blockspot"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Elementeum",
+  "symbol": "ELET",
+  "web": "https://www.etherlegends.io",
+  "explorer": "https://etherscan.io/token/0x6c37bf4f042712c978a73e3fd56d1f5738dd7c43",
+  "links": {
+    "github": "etherlegendsorg",
+    "coingecko": "ether-legends",
+    "twitter": "etherlegends",
+    "facebook": "EtherLegends",
+    "telegram": "https://t.me/etherlegends"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

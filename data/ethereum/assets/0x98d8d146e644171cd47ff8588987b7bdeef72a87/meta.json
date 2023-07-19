@@ -1,0 +1,14 @@
+{
+  "name": "Blockchain Exchange Alliance",
+  "symbol": "BXA",
+  "web": "https://www.bxa.com",
+  "explorer": "https://etherscan.io/token/0x98d8d146e644171cd47ff8588987b7bdeef72a87",
+  "links": {
+    "coingecko": "blockchain-exchange-alliance",
+    "telegram": "bxaannouncements"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

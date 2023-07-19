@@ -1,0 +1,20 @@
+{
+  "name": "zETH",
+  "symbol": "zETH",
+  "web": "https://ethereum.org",
+  "links": {
+    "github": "https://github.com/ethereum",
+    "coingecko": "https://www.coingecko.com/en/coins/ethereum",
+    "twitter": "https://twitter.com/ethereum",
+    "facebook": "https://facebook.com/ethereumproject",
+    "reddit": "https://reddit.com/r/ethereum"
+  },
+  "publicTeam": true,
+  "trusted": true,
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg",
+    "score": 100
+  }
+}

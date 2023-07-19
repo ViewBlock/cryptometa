@@ -1,0 +1,17 @@
+{
+  "name": "Pofid Dao",
+  "symbol": "PFID",
+  "web": "http://pofid.com",
+  "explorer": "https://etherscan.io/token/0x87c4bd3038176301e81e6682ce51a6fdaefabd0c",
+  "links": {
+    "github": "pofid-dao",
+    "coingecko": "pofid-dao",
+    "twitter": "pofiddao",
+    "facebook": "pofiddao",
+    "telegram": "pofid"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

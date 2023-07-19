@@ -1,0 +1,15 @@
+{
+  "name": "RELEASE",
+  "symbol": "REL",
+  "web": "https://release.co.jp/rel",
+  "explorer": "https://etherscan.io/token/0x61bfc979ea8160ede9b862798b7833a97bafa02a",
+  "links": {
+    "coingecko": "release-ico-project",
+    "twitter": "ReleaseI",
+    "facebook": "release.co.jp"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

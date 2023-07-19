@@ -1,0 +1,18 @@
+{
+  "name": "Moonlight Lux",
+  "symbol": "LX",
+  "web": "https://moonlight.io",
+  "explorer": "https://neotracker.io/asset/bb3b54ab244b3658155f2db4429fc38ac4cef625",
+  "links": {
+    "github": "Moonlight-io",
+    "coingecko": "lux",
+    "twitter": "Moonlightdotio",
+    "facebook": "moonlight.io",
+    "telegram": "Moonlightdotio",
+    "reddit": "r/moonlightio"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

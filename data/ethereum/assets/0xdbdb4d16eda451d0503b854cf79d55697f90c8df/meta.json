@@ -1,0 +1,18 @@
+{
+  "name": "Alchemix",
+  "symbol": "ALCX",
+  "web": "https://alchemix.fi",
+  "explorer": "https://etherscan.io/token/0xdbdb4d16eda451d0503b854cf79d55697f90c8df",
+  "links": {
+    "github": "alchemix-finance",
+    "coingecko": "alchemix",
+    "twitter": "alchemixfi"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

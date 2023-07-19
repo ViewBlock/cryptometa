@@ -1,0 +1,15 @@
+{
+  "name": "CommX",
+  "description": "A blockchain startup focused on tokenising physical assets for trade on the blockchain.",
+  "web": "https://www.commx.io",
+  "links": {},
+  "categories": [
+    "opfi"
+  ],
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg"
+  },
+  "key": "commx"
+}

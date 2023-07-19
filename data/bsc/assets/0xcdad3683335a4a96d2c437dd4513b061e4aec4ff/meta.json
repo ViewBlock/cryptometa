@@ -1,0 +1,11 @@
+{
+  "name": "Pokeball",
+  "symbol": "POKE",
+  "web": "https://pokeball.finance",
+  "explorer": "https://bscscan.com/token/0xcdad3683335a4a96d2c437dd4513b061e4aec4ff",
+  "links": {
+    "coingecko": "pokeball",
+    "twitter": "PokeballFinance",
+    "telegram": "pokefi"
+  }
+}

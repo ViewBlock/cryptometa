@@ -1,0 +1,15 @@
+{
+  "name": "unMineable",
+  "description": "unMineable provides a seamless experience for miners for non-mineable crypto coins.",
+  "web": "https://unmineable.com/coins/ZIL",
+  "links": {
+    "twitter": "https://twitter.com/un_mineable"
+  },
+  "categories": [
+    "mining"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "unmineable"
+}

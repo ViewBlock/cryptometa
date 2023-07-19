@@ -1,0 +1,17 @@
+{
+  "name": "QUINADS",
+  "symbol": "QUIN",
+  "web": "https://quinads.com",
+  "explorer": "https://etherscan.io/token/0x86e44543164d9b97b14ef7f6f3ab7ba670cab346",
+  "links": {
+    "github": "quinads",
+    "coingecko": "quinads",
+    "twitter": "QuinAdsToken",
+    "facebook": "QuinAds",
+    "telegram": "QuinAdsTokenGlobal"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

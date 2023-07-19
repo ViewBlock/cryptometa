@@ -1,0 +1,15 @@
+{
+  "name": "Morph",
+  "symbol": "MORC",
+  "web": "https://morph.finance",
+  "explorer": "https://etherscan.io/token/0x236ecfb32c2b496f942c86d43b8ca4f6bd931e30",
+  "links": {
+    "coingecko": "dynamic-supply",
+    "twitter": "MorphCoin",
+    "telegram": "morphfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

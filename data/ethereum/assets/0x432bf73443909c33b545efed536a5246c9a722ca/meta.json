@@ -1,0 +1,15 @@
+{
+  "name": "Poverty Eradication Coin",
+  "symbol": "PEC",
+  "web": "https://povertyeradicationcoin.org",
+  "explorer": "https://etherscan.io/token/0x432bf73443909c33b545efed536a5246c9a722ca",
+  "links": {
+    "coingecko": "proverty-eradication-coin",
+    "twitter": "Povertyeracoin",
+    "telegram": "PovertyEradCoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

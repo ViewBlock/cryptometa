@@ -1,0 +1,19 @@
+{
+  "name": "Athlete Token",
+  "symbol": "ATHLETE",
+  "web": "https://www.aosports.tv",
+  "supply": "151000000",
+  "email": "info@aosports.tv",
+  "whitepaper": "https://www.aosports.tv/WP2/wp-content/uploads/2021/12/AOS-Whitepaper-Dec-2021_v4.pdf",
+  "publicTeam": true,
+  "links": {
+    "telegram": "https://t.me/AthleteOwnedSportsTV",
+    "twitter": "https://twitter.com/aosportstv",
+    "linkedin": "https://www.linkedin.com/company/ao-sports-tv",
+    "facebook": "https://www.facebook.com/AOSportsTV/"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 43
+  }
+}

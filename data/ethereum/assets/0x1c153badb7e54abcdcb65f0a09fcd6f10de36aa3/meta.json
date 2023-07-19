@@ -1,0 +1,16 @@
+{
+  "name": "TMC",
+  "symbol": "TMC",
+  "web": "https://tmcfoundation.io",
+  "explorer": "https://etherscan.io/token/0x1c153badb7e54abcdcb65f0a09fcd6f10de36aa3",
+  "links": {
+    "github": "TMC-Official",
+    "coingecko": "tmc",
+    "twitter": "TMCOfficial1",
+    "telegram": "tmc_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

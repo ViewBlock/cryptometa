@@ -1,0 +1,15 @@
+{
+  "name": "iXRP",
+  "symbol": "IXRP",
+  "web": "https://www.synthetix.io/tokens",
+  "explorer": "https://etherscan.io/token/0x27269b3e45A4D3E79A3D6BFeE0C8fB13d0D711A6",
+  "links": {
+    "coingecko": "ixrp",
+    "twitter": "synthetix_io",
+    "reddit": "r/synthetix_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

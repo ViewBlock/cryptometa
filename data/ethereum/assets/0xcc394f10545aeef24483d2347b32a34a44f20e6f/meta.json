@@ -1,0 +1,15 @@
+{
+  "name": "Vault Guardian Token",
+  "symbol": "VGT",
+  "web": "https://vault12.com",
+  "explorer": "https://etherscan.io/token/0xCc394f10545AeEf24483d2347B32A34a44F20E6F",
+  "links": {
+    "coingecko": "vault12",
+    "twitter": "_vault12_",
+    "telegram": "vault12"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

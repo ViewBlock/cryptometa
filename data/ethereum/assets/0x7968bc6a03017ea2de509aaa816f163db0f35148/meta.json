@@ -1,0 +1,15 @@
+{
+  "name": "Hedget",
+  "symbol": "HGET",
+  "web": "https://www.hedget.com",
+  "explorer": "https://etherscan.io/token/0x7968bc6a03017ea2de509aaa816f163db0f35148",
+  "links": {
+    "coingecko": "hedget",
+    "twitter": "team_hedget",
+    "telegram": "hedgetofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

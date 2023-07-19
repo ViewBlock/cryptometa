@@ -1,0 +1,14 @@
+{
+  "name": "METANOIA",
+  "symbol": "NOIA",
+  "web": "http://www.metanoiacoin.com",
+  "explorer": "https://etherscan.io/token/0x22e3c3a3bda39c897a48257bc822e7466f171729",
+  "links": {
+    "coingecko": "metanoia"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "score": 5
+  }
+}

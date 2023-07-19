@@ -1,0 +1,16 @@
+{
+  "name": "Rebase",
+  "symbol": "REBASE",
+  "web": "https://www.rebase.capital",
+  "explorer": "https://etherscan.io/token/0x4208D8d500B1643DcA98dD27bA6C0060BcA311c5",
+  "links": {
+    "github": "reBASEcapital",
+    "coingecko": "rebase",
+    "twitter": "rebasecapital",
+    "telegram": "rebasechat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

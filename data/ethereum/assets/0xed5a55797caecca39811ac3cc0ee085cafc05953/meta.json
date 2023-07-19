@@ -1,0 +1,14 @@
+{
+  "name": "Bastonet",
+  "symbol": "BSN",
+  "web": "http://www.bastonet.com",
+  "explorer": "https://etherscan.io/token/0xed5a55797caecca39811ac3cc0ee085cafc05953",
+  "links": {
+    "coingecko": "bastonet",
+    "twitter": "bastonetproject"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

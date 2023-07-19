@@ -1,0 +1,15 @@
+{
+  "name": "Compound",
+  "symbol": "COMP",
+  "web": "https://compound.finance/governance/comp",
+  "explorer": "https://etherscan.io/token/0xc00e94cb662c3520282e6f5717214004a7f26888",
+  "links": {
+    "github": "compound-finance",
+    "coingecko": "compound-governance-token",
+    "twitter": "compoundfinance"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

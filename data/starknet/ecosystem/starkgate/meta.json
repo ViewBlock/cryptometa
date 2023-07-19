@@ -1,0 +1,18 @@
+{
+  "name": "StarkGate",
+  "description": "StarkGate is the Ethereum↔StarkNet token bridge developed by StarkWare.",
+  "categories": [
+    "bridge",
+    "starkware"
+  ],
+  "web": "https://starkgate.starknet.io",
+  "links": {
+    "github": "https://github.com/starkware-libs/starkgate-contracts",
+    "twitter": "https://twitter.com/StarkWareLtd",
+    "discord": "http://starknet.io/discord"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "starkgate"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Aave YFI",
+  "symbol": "AYFI",
+  "web": "https://aave.com/atokens",
+  "explorer": "https://etherscan.io/token/0x12e51E77DAAA58aA0E9247db7510Ea4B46F9bEAd",
+  "links": {
+    "coingecko": "ayfi",
+    "twitter": "aaveaave",
+    "telegram": "Aavesome",
+    "reddit": "https://www.reddit.comr/Aave_Official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "BitTorro",
+  "symbol": "TORRO",
+  "web": "https://bittorro.io",
+  "explorer": "https://bscscan.com/token/0x403b56babc26a7ec4356056da8dca506dd82feac",
+  "links": {
+    "coingecko": "bittorro",
+    "twitter": "BitTorro_io",
+    "telegram": "BitTorro_io"
+  }
+}

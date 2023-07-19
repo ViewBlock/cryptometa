@@ -1,0 +1,16 @@
+{
+  "name": "OctoFi",
+  "symbol": "OCTO",
+  "web": "https://octo.fi ",
+  "explorer": "https://etherscan.io/token/0x7240aC91f01233BaAf8b064248E80feaA5912BA3",
+  "links": {
+    "github": "octofi",
+    "coingecko": "octofi",
+    "twitter": "octofinance",
+    "telegram": "OctoFi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Davinci Coin",
+  "symbol": "DAC",
+  "web": "https://www.davinci.vision",
+  "explorer": "https://etherscan.io/token/0xaad54c9f27b876d2538455dda69207279ff673a5",
+  "links": {
+    "coingecko": "davinci-coin",
+    "twitter": "DavinciFoundat1",
+    "facebook": "Davinci-coin-1688348254582102",
+    "telegram": "davincifoundation",
+    "reddit": "r/DavinciCoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

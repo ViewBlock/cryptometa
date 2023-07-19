@@ -1,0 +1,17 @@
+{
+  "name": "SynchroBitcoin",
+  "symbol": "SNB",
+  "web": "https://synchrobit.io",
+  "explorer": "https://etherscan.io/token/0x179e31fb25e433441a2839389a7b8ec9c4654b7b",
+  "links": {
+    "github": "mysynchronium",
+    "coingecko": "synchrobitcoin",
+    "twitter": "synchrobit",
+    "facebook": "synchrobitcoin",
+    "telegram": "snbex"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

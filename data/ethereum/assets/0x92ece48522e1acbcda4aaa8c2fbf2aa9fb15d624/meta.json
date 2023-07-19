@@ -1,0 +1,15 @@
+{
+  "name": "Rocki",
+  "symbol": "ROCKS",
+  "web": "https://rocki.app",
+  "explorer": "https://etherscan.io/token/0x92ece48522e1acbcda4aaa8c2fbf2aa9fb15d624",
+  "links": {
+    "coingecko": "rocki",
+    "twitter": "rockiapp",
+    "telegram": "Rockiapp"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

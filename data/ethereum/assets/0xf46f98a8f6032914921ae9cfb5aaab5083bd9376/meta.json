@@ -1,0 +1,16 @@
+{
+  "name": "Open Source Chain",
+  "symbol": "OSCH",
+  "web": "http://www.oschain.io",
+  "explorer": "https://etherscan.io/token/0xf46f98a8f6032914921ae9cfb5aaab5083bd9376",
+  "links": {
+    "coingecko": "open-source-chain",
+    "twitter": "OpenSourceChain",
+    "facebook": "Open-Source-Chain-Official-184580595463277",
+    "telegram": "OSChainEN"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

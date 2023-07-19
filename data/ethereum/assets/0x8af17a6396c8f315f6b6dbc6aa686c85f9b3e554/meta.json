@@ -1,0 +1,13 @@
+{
+  "name": "3X Long Tezos Token",
+  "symbol": "XTZBULL",
+  "web": "https://ftx.com/tokens/XTZBULL",
+  "explorer": "https://etherscan.io/token/0x8AF17a6396c8f315f6b6DBC6AA686C85f9b3E554",
+  "links": {
+    "coingecko": "3x-long-tezos-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

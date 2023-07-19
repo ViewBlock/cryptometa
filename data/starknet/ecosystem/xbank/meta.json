@@ -1,0 +1,17 @@
+{
+  "name": "xBank",
+  "description": "xBank is a decentralized non-custodial liquidity market protocol. xBank manages deposits for the lenders and facilitates lending of the deposited asset for the borrowers while performing appropriate risk management to protect the lenders from risks of illiquidity and insolvency.",
+  "categories": [
+    "defi"
+  ],
+  "web": "https://www.xbank.finance",
+  "links": {
+    "github": "https://github.com/xbank-lab",
+    "twitter": "https://twitter.com/xBankFinance",
+    "discord": "https://discord.com/invite/Ywh9hJg6xv"
+  },
+  "gen": {
+    "logo": "logo.jpeg"
+  },
+  "key": "xbank"
+}

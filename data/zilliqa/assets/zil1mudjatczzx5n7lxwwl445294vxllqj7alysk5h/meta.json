@@ -1,0 +1,16 @@
+{
+  "name": "Zilliqa-bridged BNB Coin",
+  "symbol": "zBNB",
+  "web": "https://www.bnbchain.org",
+  "links": {
+    "github": "https://github.com/bnb-chain",
+    "coingecko": "https://www.coingecko.com/en/coins/bnb",
+    "twitter": "https://twitter.com/BNBCHAIN",
+    "reddit": "https://www.reddit.com/r/bnbchainofficial"
+  },
+  "trusted": true,
+  "gen": {
+    "logo": "logo.png",
+    "score": 100
+  }
+}

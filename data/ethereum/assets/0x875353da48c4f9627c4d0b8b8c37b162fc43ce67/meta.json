@@ -1,0 +1,17 @@
+{
+  "name": "Digipharm",
+  "symbol": "DPH",
+  "web": "https://digipharm.io",
+  "explorer": "https://etherscan.io/token/0x875353da48c4f9627c4d0b8b8c37b162fc43ce67",
+  "links": {
+    "coingecko": "digipharm",
+    "twitter": "DigipharmTeam",
+    "facebook": "digipharmteam",
+    "telegram": "digipharm",
+    "reddit": "r/Digipharm"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

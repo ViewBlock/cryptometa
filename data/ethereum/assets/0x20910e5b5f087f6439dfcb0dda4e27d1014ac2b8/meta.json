@@ -1,0 +1,17 @@
+{
+  "name": "BananaTok",
+  "symbol": "BNA",
+  "web": "https://bananatok.com",
+  "explorer": "https://etherscan.io/token/0x20910e5b5f087f6439dfcb0dda4e27d1014ac2b8",
+  "links": {
+    "github": "Bananatok",
+    "coingecko": "bananatok",
+    "twitter": "kr_bna",
+    "facebook": "bananatok",
+    "telegram": "bnaofficialkr"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "BitCloud Pro",
+  "symbol": "BPRO",
+  "web": "https://bitcloud.pro",
+  "explorer": "https://etherscan.io/token/0x197e6bca6bc2f488ec760a6ce46b1399cd2954b0",
+  "links": {
+    "coingecko": "bitcloud-pro",
+    "twitter": "bitcloudpro",
+    "telegram": "bitcloudpro"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

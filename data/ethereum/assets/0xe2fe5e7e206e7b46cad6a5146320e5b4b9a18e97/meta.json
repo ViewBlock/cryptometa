@@ -1,0 +1,17 @@
+{
+  "name": "Bitcomo",
+  "symbol": "BM",
+  "web": "https://bitcomo.com",
+  "explorer": "https://etherscan.io/token/0xe2fe5e7e206e7b46cad6a5146320e5b4b9a18e97",
+  "links": {
+    "github": "Bitcomo",
+    "coingecko": "bitcomo",
+    "twitter": "AdBitcomo",
+    "facebook": "Bitcomo-CPA-Ad-Network-179910532818852",
+    "telegram": "adbitcomo"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

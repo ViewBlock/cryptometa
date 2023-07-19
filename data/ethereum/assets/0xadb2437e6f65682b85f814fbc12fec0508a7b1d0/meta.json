@@ -1,0 +1,15 @@
+{
+  "name": "UniCrypt",
+  "symbol": "UNCX",
+  "web": "https://unicrypt.network",
+  "explorer": "https://etherscan.io/token/0xaDB2437e6F65682B85F814fBc12FeC0508A7B1D0",
+  "links": {
+    "coingecko": "unicrypt-2",
+    "twitter": "UNCX_token",
+    "telegram": "uncx_token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Frontier",
+  "symbol": "FRONT",
+  "web": "https://frontier.xyz",
+  "explorer": "https://etherscan.io/token/0xf8c3527cc04340b208c854e985240c02f7b7793f",
+  "links": {
+    "github": "frontierwallet",
+    "coingecko": "frontier-token",
+    "twitter": "FrontierDotXYZ",
+    "facebook": "FrontierDotXYZ",
+    "telegram": "FrontierDotXYZ"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

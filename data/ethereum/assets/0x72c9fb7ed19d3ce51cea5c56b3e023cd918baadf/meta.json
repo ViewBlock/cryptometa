@@ -1,0 +1,17 @@
+{
+  "name": "AGROLOT",
+  "symbol": "AGLT",
+  "web": "https://agrolot.io",
+  "explorer": "https://etherscan.io/token/0x72c9fb7ed19d3ce51cea5c56b3e023cd918baadf",
+  "links": {
+    "github": "AGROLOT",
+    "coingecko": "agrolot",
+    "twitter": "agrolot",
+    "facebook": "agrolot.io",
+    "telegram": "agrolot"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

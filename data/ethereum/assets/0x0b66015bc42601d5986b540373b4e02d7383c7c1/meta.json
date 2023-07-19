@@ -1,0 +1,15 @@
+{
+  "name": "Fission Cash",
+  "symbol": "FCX",
+  "web": "https://fission.cash",
+  "explorer": "https://etherscan.io/token/0x0b66015bc42601d5986b540373b4e02d7383c7c1",
+  "links": {
+    "coingecko": "fission-cash",
+    "twitter": "FissionCash",
+    "telegram": "FissionCash"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

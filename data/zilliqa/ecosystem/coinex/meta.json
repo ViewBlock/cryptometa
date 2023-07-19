@@ -1,0 +1,21 @@
+{
+  "name": "Coinex",
+  "description": "Cryptocurrency and derivatives exchange",
+  "web": "https://www.coinex.com",
+  "links": {
+    "twitter": "coinexcom",
+    "telegram": "CoinExOfficialENG",
+    "facebook": "TheCoinEx",
+    "medium": "CoinEx"
+  },
+  "addresses": [
+    "zil1e7g79p6ccc8dcv75tdznx52clpgsd92vfwyqcv"
+  ],
+  "categories": [
+    "exchange"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "coinex"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "StarkSwap",
+  "description": "Building the next generation of DeFi on StarkNet. First offering is an AMM, with other DeFi products to follow.",
+  "categories": [
+    "defi"
+  ],
+  "web": "https://www.starkswap.co",
+  "links": {
+    "github": "https://github.com/Starkswap",
+    "twitter": "https://twitter.com/starkswap"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "starkswap"
+}

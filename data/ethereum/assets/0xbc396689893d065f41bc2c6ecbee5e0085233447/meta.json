@@ -1,0 +1,15 @@
+{
+  "name": "Perpetual Protocol",
+  "symbol": "PERP",
+  "web": "https://perp.exchange",
+  "explorer": "https://etherscan.io/token/0xbc396689893d065f41bc2c6ecbee5e0085233447",
+  "links": {
+    "coingecko": "perpetual-protocol",
+    "twitter": "perpprotocol",
+    "telegram": "perpetualprotocol"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

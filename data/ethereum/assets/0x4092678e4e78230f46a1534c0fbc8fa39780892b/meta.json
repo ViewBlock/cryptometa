@@ -1,0 +1,16 @@
+{
+  "name": "Odyssey",
+  "symbol": "OCN",
+  "web": "http://www.ocnex.net",
+  "explorer": "https://etherscan.io/token/0x4092678e4E78230F46A1534C0fbc8fA39780892B",
+  "links": {
+    "coingecko": "odyssey",
+    "twitter": "OdysseyOCN",
+    "facebook": "ODYSSEYPROTOCOL",
+    "telegram": "OdysseyOfficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

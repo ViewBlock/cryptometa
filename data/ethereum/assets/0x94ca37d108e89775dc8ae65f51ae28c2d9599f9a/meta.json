@@ -1,0 +1,15 @@
+{
+  "name": "Cryptotipsfr",
+  "symbol": "CRTS",
+  "web": "https://cryptotipsfriends.com",
+  "explorer": "https://etherscan.io/token/0x94cA37d108E89775dC8ae65F51AE28c2d9599f9A",
+  "links": {
+    "coingecko": "cryptotipsfr",
+    "twitter": "cryptotipsfr",
+    "telegram": "CryptotipschatFR"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

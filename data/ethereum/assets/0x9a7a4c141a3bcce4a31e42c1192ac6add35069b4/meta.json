@@ -1,0 +1,15 @@
+{
+  "name": "Momentum",
+  "symbol": "XMM",
+  "web": "https://www.xmmtoken.com",
+  "explorer": "https://etherscan.io/token/0x9a7a4c141a3bcce4a31e42c1192ac6add35069b4",
+  "links": {
+    "coingecko": "momentum",
+    "twitter": "MomentumXMM",
+    "telegram": "xmmtoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "ParkinGo",
+  "symbol": "GOT",
+  "web": "https://parkingo.io/en",
+  "explorer": "https://etherscan.io/token/0x613fa2a6e6daa70c659060e86ba1443d2679c9d7",
+  "links": {
+    "github": "parkingo",
+    "coingecko": "parkingo"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

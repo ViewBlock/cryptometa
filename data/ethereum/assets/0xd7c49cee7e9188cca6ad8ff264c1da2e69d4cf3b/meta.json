@@ -1,0 +1,14 @@
+{
+  "name": "Nexus Mutual",
+  "symbol": "NXM",
+  "web": "https://nexusmutual.io",
+  "explorer": "https://etherscan.io/token/0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b",
+  "links": {
+    "coingecko": "nxm",
+    "twitter": "NexusMutual"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

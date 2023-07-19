@@ -1,0 +1,12 @@
+{
+  "name": "PELECAN Character Collections",
+  "symbol": "PELECAN",
+  "web": "https://pele.network/",
+  "links": {
+    "telegram": "https://t.me/getyousomePELE"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 5
+  }
+}

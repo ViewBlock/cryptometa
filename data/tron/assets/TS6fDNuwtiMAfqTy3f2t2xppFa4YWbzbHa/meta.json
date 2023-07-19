@@ -1,0 +1,17 @@
+{
+  "name": "BitUnits Titan",
+  "symbol": "TITAN",
+  "web": "https://bitunits.club",
+  "explorer": "https://tronscan.io/#/token20/TS6fDNuwtiMAfqTy3f2t2xppFa4YWbzbHa",
+  "links": {
+    "github": "BitUnits",
+    "coingecko": "bitunits-titan",
+    "twitter": "bitunits",
+    "telegram": "bitunitsclubgroup",
+    "reddit": "r/BitUnits"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

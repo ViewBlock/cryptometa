@@ -1,0 +1,16 @@
+{
+  "name": "SwapShip",
+  "symbol": "SWSH",
+  "web": "https://www.swapship.finance",
+  "explorer": "https://etherscan.io/token/0x3ac2AB91dDF57e2385089202Ca221C360CED0062",
+  "links": {
+    "github": "veravoss",
+    "coingecko": "swapship",
+    "twitter": "SwapShip",
+    "telegram": "swapship"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

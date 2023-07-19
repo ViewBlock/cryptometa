@@ -1,0 +1,16 @@
+{
+  "name": "Medican Coin",
+  "symbol": "MCAN",
+  "web": "https://medicancoin.com",
+  "explorer": "https://etherscan.io/token/0x72ba699f0f3c29d0f886c264ec7350533a32b3d5",
+  "links": {
+    "coingecko": "medican-coin",
+    "twitter": "MedicalCannab",
+    "facebook": "mcancoin",
+    "telegram": "MCAN_Coin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

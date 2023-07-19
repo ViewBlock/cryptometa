@@ -1,0 +1,13 @@
+{
+  "name": "IdleUSDC (Risk Adjusted)",
+  "symbol": "IDLEUSDCSAFE",
+  "web": "https://idle.finance",
+  "explorer": "https://etherscan.io/token/0x3391bc034f2935ef0e1e41619445f998b2680d35",
+  "links": {
+    "coingecko": "idle-usdc-risk-adjusted"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "DecentBet",
+  "symbol": "DBET",
+  "web": "https://www.decent.bet",
+  "explorer": "https://etherscan.io/token/0x9b68bfae21df5a510931a262cecf63f41338f264",
+  "links": {
+    "github": "decent-bet",
+    "coingecko": "decentbet",
+    "twitter": "decent_bet",
+    "reddit": "r/decentbet"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

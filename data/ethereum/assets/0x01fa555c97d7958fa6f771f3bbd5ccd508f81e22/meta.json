@@ -1,0 +1,16 @@
+{
+  "name": "Civil",
+  "symbol": "CVL",
+  "web": "https://civil.co",
+  "explorer": "https://etherscan.io/token/0x01fa555c97d7958fa6f771f3bbd5ccd508f81e22",
+  "links": {
+    "coingecko": "civil",
+    "twitter": "join_civil",
+    "facebook": "JoinCivil",
+    "telegram": "join_civil"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

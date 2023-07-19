@@ -1,0 +1,18 @@
+{
+  "name": "BoutsPro",
+  "symbol": "BOUTS",
+  "web": "https://www.bouts.pro",
+  "explorer": "https://etherscan.io/token/0x139d9397274bb9e2c29a9aa8aa0b5874d30d62e3",
+  "links": {
+    "github": "Bouts-Pro",
+    "coingecko": "boutspro",
+    "twitter": "boutspro",
+    "facebook": "boutspro",
+    "telegram": "boutspro",
+    "reddit": "r/bouts_pro"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

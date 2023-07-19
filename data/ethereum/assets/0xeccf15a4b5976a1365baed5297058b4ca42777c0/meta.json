@@ -1,0 +1,16 @@
+{
+  "name": "Nosturis",
+  "symbol": "NTRS",
+  "web": "https://nosturis.com",
+  "explorer": "https://etherscan.io/token/0xeccf15a4b5976a1365baed5297058b4ca42777c0",
+  "links": {
+    "coingecko": "nosturis",
+    "twitter": "nosturis1",
+    "facebook": "nosturis",
+    "telegram": "NostusrisNTRS"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

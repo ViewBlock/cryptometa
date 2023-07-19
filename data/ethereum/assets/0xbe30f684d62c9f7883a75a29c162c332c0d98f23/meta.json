@@ -1,0 +1,16 @@
+{
+  "name": "Global Human Trust",
+  "symbol": "GHT",
+  "web": "https://ght.dtsgroup.co.nz",
+  "explorer": "https://etherscan.io/token/0xbe30f684d62c9f7883a75a29c162c332c0d98f23",
+  "links": {
+    "github": "ght-dtsgroup",
+    "coingecko": "global-human-trust",
+    "twitter": "GlobaHumanTrust",
+    "telegram": "GlobalGHTCommunity"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

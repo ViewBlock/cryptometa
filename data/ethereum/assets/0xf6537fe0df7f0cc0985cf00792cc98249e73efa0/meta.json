@@ -1,0 +1,15 @@
+{
+  "name": "GIV Token",
+  "symbol": "GIV",
+  "web": "http://cryptolocally.com",
+  "explorer": "https://etherscan.io/token/0xf6537fe0df7f0cc0985cf00792cc98249e73efa0",
+  "links": {
+    "coingecko": "givly-coin",
+    "twitter": "cryptolocally",
+    "telegram": "cryptolocally"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

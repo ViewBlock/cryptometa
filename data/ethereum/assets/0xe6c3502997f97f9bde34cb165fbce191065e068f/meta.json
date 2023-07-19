@@ -1,0 +1,15 @@
+{
+  "name": "Klondike BTC",
+  "symbol": "KBTC",
+  "web": "https://klondike.finance",
+  "explorer": "https://etherscan.io/token/0xE6C3502997f97F9BDe34CB165fBce191065E068f",
+  "links": {
+    "coingecko": "klondike-btc",
+    "twitter": "KlondikeFinance",
+    "telegram": "klondike_discussion"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Staking Pool",
+  "description": "Stake in your Thunder Tokens and receive rewards for helping secure our chain.",
+  "web": "https://staking.thundercore.com",
+  "addresses": [
+    "0xAD23b02673214973E354D41e19999D9E01F3Be58"
+  ],
+  "categories": [
+    "defi"
+  ],
+  "gen": {
+    "logo": "logo.jpg"
+  },
+  "key": "staking-pool"
+}

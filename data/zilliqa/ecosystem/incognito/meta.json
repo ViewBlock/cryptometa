@@ -1,0 +1,16 @@
+{
+  "name": "Incognito",
+  "description": "A platform which allows its users to purchase and send cryptocurrencies anonymously.",
+  "web": "https://incognito.org",
+  "links": {
+    "twitter": "https://twitter.com/incognitochain",
+    "telegram": "https://t.me/incognitochain"
+  },
+  "categories": [
+    "exchange"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "incognito"
+}

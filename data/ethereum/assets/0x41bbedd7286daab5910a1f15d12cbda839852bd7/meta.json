@@ -1,0 +1,17 @@
+{
+  "name": "Mirrored Microsoft",
+  "symbol": "MMSFT",
+  "web": "https://mirror.finance",
+  "explorer": "https://etherscan.io/token/0x41BbEDd7286dAab5910a1f15d12CBda839852BD7",
+  "links": {
+    "github": "mirror-protocol",
+    "coingecko": "mirrored-microsoft",
+    "twitter": "mirror_protocol",
+    "telegram": "mirror_protocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

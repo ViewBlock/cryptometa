@@ -1,0 +1,14 @@
+{
+  "name": "DeFi Omega",
+  "symbol": "DFIO",
+  "web": "https://defiomega.com",
+  "explorer": "https://etherscan.io/token/0xee3b9b531f4c564c70e14b7b3bb7d516f33513ff",
+  "links": {
+    "coingecko": "defi-omega",
+    "twitter": "DefiOmega"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

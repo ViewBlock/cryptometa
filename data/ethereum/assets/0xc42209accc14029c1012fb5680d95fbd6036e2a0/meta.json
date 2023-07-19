@@ -1,0 +1,15 @@
+{
+  "name": "PayPie",
+  "symbol": "PPP",
+  "web": "https://www.paypie.com",
+  "explorer": "https://etherscan.io/token/0xc42209aCcC14029c1012fB5680D95fBd6036E2a0",
+  "links": {
+    "coingecko": "paypie",
+    "twitter": "PayPiePlatform",
+    "reddit": "r/PayPie"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

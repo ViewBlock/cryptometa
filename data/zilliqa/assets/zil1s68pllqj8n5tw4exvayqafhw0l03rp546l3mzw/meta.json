@@ -1,0 +1,19 @@
+{
+  "name": "ZiLBOX",
+  "symbol": "ZBOX",
+  "supply": "1900621",
+  "email": "zilbox@protonmail.com",
+  "web": "http://zilbox.club/",
+  "links": {
+    "telegram": "https://t.me/ZiLBOX",
+    "twitter": "https://twitter.com/ZilliqaBOX"
+  },
+  "config": {
+    "dark": true
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

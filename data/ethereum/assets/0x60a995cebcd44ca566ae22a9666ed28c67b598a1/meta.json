@@ -1,0 +1,15 @@
+{
+  "name": "Hardcore Finance",
+  "symbol": "HCORE",
+  "web": "https://hcore.finance",
+  "explorer": "https://etherscan.io/token/0x60a995cebcd44ca566ae22a9666ed28c67b598a1",
+  "links": {
+    "coingecko": "hardcore-finance",
+    "twitter": "hcorefinance",
+    "telegram": "hcorefinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

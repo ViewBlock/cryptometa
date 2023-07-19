@@ -1,0 +1,17 @@
+{
+  "name": "Plasma Finance",
+  "symbol": "PPAY",
+  "web": "https://plasma.finance",
+  "explorer": "https://etherscan.io/token/0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2",
+  "links": {
+    "github": "plasmadlt",
+    "coingecko": "plasma-finance",
+    "twitter": "plasma_pay",
+    "facebook": "plasmapay",
+    "telegram": "plasmapay_community"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

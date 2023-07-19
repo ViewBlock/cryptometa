@@ -1,0 +1,15 @@
+{
+  "name": "Helix Technologies",
+  "description": "A developer tool that enables setup of an ETL pipeline in Google Cloud Platform. It aims to integrate Zilliqa’s blockchain data into Google BigQuery database.",
+  "web": "https://www.helixtechnologies.xyz",
+  "links": {
+    "twitter": "https://twitter.com/BlockchainETL"
+  },
+  "categories": [
+    "api"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "helix-technologies"
+}

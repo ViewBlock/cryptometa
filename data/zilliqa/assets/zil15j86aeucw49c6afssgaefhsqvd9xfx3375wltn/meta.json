@@ -1,0 +1,14 @@
+{
+  "name": "Cat Club",
+  "symbol": "CC",
+  "links": {
+    "twitter": "https://twitter.com/MemesZil"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

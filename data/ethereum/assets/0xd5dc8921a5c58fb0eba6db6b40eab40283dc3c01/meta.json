@@ -1,0 +1,13 @@
+{
+  "name": "Decentralized Data Assets Management",
+  "symbol": "DDAM",
+  "web": "https://ddam.one",
+  "explorer": "https://etherscan.io/token/0xd5dC8921A5c58FB0ebA6db6b40Eab40283Dc3C01",
+  "links": {
+    "coingecko": "decentralized-data-assets-management"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

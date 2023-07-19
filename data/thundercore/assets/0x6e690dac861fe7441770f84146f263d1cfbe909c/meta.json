@@ -1,0 +1,14 @@
+{
+  "name": "Acorn",
+  "symbol": "ACORN",
+  "web": "https://acornstable.fi/",
+  "decimals": 18,
+  "email": "laflashboys@gmail.com",
+  "links": {
+    "telegram": "https://t.me/acornstable"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 5
+  }
+}

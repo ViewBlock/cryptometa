@@ -1,0 +1,17 @@
+{
+  "name": "TrustUSD",
+  "symbol": "TRUSD",
+  "web": "https://unitedtrust.co",
+  "explorer": "https://etherscan.io/token/0xDD436a0Dce9244B36599AE7b22f0373b4e33992d",
+  "links": {
+    "github": "UnitedTrust",
+    "coingecko": "trustusd",
+    "twitter": "TrustUSD",
+    "telegram": "trustusd",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

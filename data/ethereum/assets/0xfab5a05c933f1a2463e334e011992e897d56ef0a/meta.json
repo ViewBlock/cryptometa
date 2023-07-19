@@ -1,0 +1,15 @@
+{
+  "name": "DeFi of Thrones",
+  "symbol": "DOTX",
+  "web": "https://defiofthrones.io",
+  "explorer": "https://etherscan.io/token/0xFAb5a05C933f1A2463E334E011992E897D56eF0a",
+  "links": {
+    "coingecko": "deli-of-thrones",
+    "twitter": "DefiOfThrones",
+    "telegram": "DeFiOfThronesOfficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

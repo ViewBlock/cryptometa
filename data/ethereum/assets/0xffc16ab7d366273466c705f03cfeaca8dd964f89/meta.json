@@ -1,0 +1,15 @@
+{
+  "name": "Kansas City Chiefs Win Super Bowl",
+  "symbol": "CHIEFS",
+  "web": "https://catnip.exchange",
+  "explorer": "https://etherscan.io/token/0xffc16ab7d366273466c705f03cfeaca8dd964f89",
+  "links": {
+    "github": "aug-dao",
+    "coingecko": "kansas-city-chiefs-win-super-bowl",
+    "twitter": "catnip_exchange"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

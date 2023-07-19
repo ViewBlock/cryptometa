@@ -1,0 +1,16 @@
+{
+  "name": "Liquidity Network",
+  "symbol": "LQD",
+  "web": "https://liquidity.network",
+  "explorer": "https://etherscan.io/token/0xD29F0b5b3F50b07Fe9a9511F7d86F4f4bAc3f8c4",
+  "links": {
+    "github": "liquidity-network",
+    "coingecko": "liquidity-network",
+    "twitter": "liquiditynet",
+    "telegram": "liquiditynetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

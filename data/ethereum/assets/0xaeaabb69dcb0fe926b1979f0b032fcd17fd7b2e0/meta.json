@@ -1,0 +1,16 @@
+{
+  "name": "CYBR Token",
+  "symbol": "CYBR",
+  "web": "https://cybrtoken.io",
+  "explorer": "https://etherscan.io/token/0xaeaabb69dcb0fe926b1979f0b032fcd17fd7b2e0",
+  "links": {
+    "github": "CYBRToken",
+    "coingecko": "cybr-token",
+    "twitter": "CYBR_Official",
+    "facebook": "CYBRToken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

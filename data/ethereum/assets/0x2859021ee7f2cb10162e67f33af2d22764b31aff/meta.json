@@ -1,0 +1,17 @@
+{
+  "name": "Silent Notary",
+  "symbol": "SNTR",
+  "web": "https://silentnotary.com",
+  "explorer": "https://etherscan.io/token/0x2859021ee7f2cb10162e67f33af2d22764b31aff",
+  "links": {
+    "github": "SilentNotary",
+    "coingecko": "silent-notary",
+    "twitter": "SilentNotary",
+    "facebook": "SilentNotary",
+    "telegram": "silentnotary"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

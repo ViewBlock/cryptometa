@@ -1,0 +1,16 @@
+{
+  "name": "JUIICE",
+  "symbol": "JUI",
+  "web": "https://www.juiice.io",
+  "explorer": "https://etherscan.io/token/0x2CaE31D2Ca104a951654456f46168Bc9F88FDc65",
+  "links": {
+    "coingecko": "juiice",
+    "twitter": "ComJuiice",
+    "facebook": "juiicecom",
+    "telegram": "juiiceltd"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

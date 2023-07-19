@@ -1,0 +1,16 @@
+{
+  "name": "HODL",
+  "description": false,
+  "web": "https://zilstream.com/tokens/hodl",
+  "links": {
+    "telegram": "https://t.me/thehodltoken"
+  },
+  "categories": [
+    "meme",
+    "token"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "hodl"
+}

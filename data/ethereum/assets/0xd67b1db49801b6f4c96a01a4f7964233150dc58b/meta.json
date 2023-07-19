@@ -1,0 +1,16 @@
+{
+  "name": "Karatgold Coin",
+  "symbol": "KBC",
+  "web": "http://karatbars.com",
+  "explorer": "https://etherscan.io/token/0xd67b1Db49801b6F4c96a01a4F7964233150dc58b",
+  "links": {
+    "github": "karatgold",
+    "coingecko": "karatgold-coin",
+    "twitter": "karatbarsgmbh",
+    "facebook": "karatbarsinternationalofficial"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

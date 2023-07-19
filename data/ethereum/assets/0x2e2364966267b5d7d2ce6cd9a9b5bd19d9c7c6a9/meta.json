@@ -1,0 +1,17 @@
+{
+  "name": "Voice Token",
+  "symbol": "VOICE",
+  "web": "https://mute.io",
+  "explorer": "https://etherscan.io/token/0x2e2364966267B5D7D2cE6CD9A9B5bD19d9C7C6A9",
+  "links": {
+    "github": "NixPlatform",
+    "coingecko": "nix-bridge-token",
+    "twitter": "mute_io",
+    "telegram": "mute_io",
+    "reddit": "r/nixplatform"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "LINK RSI Crossover Set",
+  "symbol": "LINKRSICO",
+  "web": "https://www.tokensets.com/set/linkrsico",
+  "explorer": "https://etherscan.io/token/0x0329d23fC7B1b1e6Cca57aFA3F0090F1189069e8",
+  "links": {
+    "coingecko": "link-rsi-crossover-set",
+    "twitter": "SetProtocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

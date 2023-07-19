@@ -1,0 +1,11 @@
+{
+  "name": "Monster Slayer Share",
+  "symbol": "MSS",
+  "web": "https://www.monsterslayer.finance",
+  "explorer": "https://bscscan.com/token/0xacabd3f9b8f76ffd2724604185fa5afa5df25ac6",
+  "links": {
+    "github": "monsterslayerfinance",
+    "coingecko": "monster-cash-share",
+    "telegram": "monsterslayer_community"
+  }
+}

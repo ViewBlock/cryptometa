@@ -1,0 +1,12 @@
+{
+  "name": "Helmet Insure",
+  "symbol": "HELMET",
+  "web": "https://www.helmet.insure",
+  "explorer": "https://bscscan.com/token/0x948d2a81086A075b3130BAc19e4c6DEe1D2E3fE8",
+  "links": {
+    "github": "helmet-insure",
+    "coingecko": "helmet-insure",
+    "twitter": "Helmet_insure",
+    "telegram": "helmet_insure"
+  }
+}

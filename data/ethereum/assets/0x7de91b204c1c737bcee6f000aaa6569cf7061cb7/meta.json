@@ -1,0 +1,18 @@
+{
+  "name": "Robonomics Network",
+  "symbol": "XRT",
+  "web": "https://robonomics.network/en",
+  "explorer": "https://etherscan.io/token/0x7de91b204c1c737bcee6f000aaa6569cf7061cb7",
+  "links": {
+    "github": "airalab",
+    "coingecko": "robonomics-network",
+    "twitter": "AIRA_Robonomics",
+    "facebook": "aira.robonomics",
+    "telegram": "robonomics",
+    "reddit": "r/robonomics"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

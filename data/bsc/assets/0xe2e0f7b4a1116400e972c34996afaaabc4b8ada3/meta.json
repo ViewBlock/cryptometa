@@ -1,0 +1,12 @@
+{
+  "name": "Shitcoin Token",
+  "symbol": "SHIT",
+  "web": "https://shitcoin.pro",
+  "explorer": "https://bscscan.com/token/0xe2e0f7b4a1116400e972c34996afaaabc4b8ada3",
+  "links": {
+    "github": "shitcoin22",
+    "coingecko": "shitcoin-token",
+    "twitter": "shitcoinfinance",
+    "telegram": "shitcoin_finance"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Tornado Core",
+  "symbol": "TCORE",
+  "web": "https://tornado.finance",
+  "explorer": "https://etherscan.io/token/0x7a3d5d49d64e57dbd6fbb21df7202bd3ee7a2253",
+  "links": {
+    "github": "http:",
+    "coingecko": "tornadocore",
+    "twitter": "tornadofinance",
+    "telegram": "tornadofinance2"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

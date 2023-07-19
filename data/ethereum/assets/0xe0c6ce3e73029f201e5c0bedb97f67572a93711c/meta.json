@@ -1,0 +1,17 @@
+{
+  "name": "ETHplode",
+  "symbol": "ETHPLO",
+  "web": "https://ethplode.org",
+  "explorer": "https://etherscan.io/token/0xe0c6ce3e73029f201e5c0bedb97f67572a93711c",
+  "links": {
+    "github": "ETHplode",
+    "coingecko": "ethplode",
+    "twitter": "ETHplode",
+    "telegram": "ethplode",
+    "reddit": "r/ETHplode"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

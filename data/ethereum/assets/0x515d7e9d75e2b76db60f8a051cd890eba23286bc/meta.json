@@ -1,0 +1,16 @@
+{
+  "name": "Governor DAO",
+  "symbol": "GDAO",
+  "web": "https://governordao.org",
+  "explorer": "https://etherscan.io/token/0x515d7e9d75e2b76db60f8a051cd890eba23286bc",
+  "links": {
+    "github": "zhhuffman",
+    "coingecko": "governor-dao",
+    "twitter": "Governor_DAO",
+    "telegram": "GovernorProject"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

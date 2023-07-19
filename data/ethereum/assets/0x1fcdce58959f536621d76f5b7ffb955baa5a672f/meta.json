@@ -1,0 +1,16 @@
+{
+  "name": "ForTube",
+  "symbol": "FOR",
+  "web": "https://for.tube/home",
+  "explorer": "https://etherscan.io/token/0x1fcdce58959f536621d76f5b7ffb955baa5a672f",
+  "links": {
+    "github": "theforceprotocolgroup",
+    "coingecko": "force-protocol",
+    "twitter": "ForTubeFi",
+    "telegram": "theforceprotocol666"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

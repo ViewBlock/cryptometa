@@ -1,0 +1,15 @@
+{
+  "name": "300FIT",
+  "symbol": "FIT",
+  "web": "https://www.300fit.io",
+  "explorer": "https://etherscan.io/token/0x3c72fca8523686fd9e5740b0826fa4bb376e0241",
+  "links": {
+    "coingecko": "300fit",
+    "twitter": "300FIT_official",
+    "telegram": "Official_300FIT"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

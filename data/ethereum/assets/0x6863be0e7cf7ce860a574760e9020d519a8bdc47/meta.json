@@ -1,0 +1,18 @@
+{
+  "name": "On.Live",
+  "symbol": "ONL",
+  "web": "https://on.live",
+  "explorer": "https://etherscan.io/token/0x6863be0e7cf7ce860a574760e9020d519a8bdc47",
+  "links": {
+    "github": "OnLivePlatform",
+    "coingecko": "on-live",
+    "twitter": "on_live",
+    "facebook": "OnLive.TV",
+    "telegram": "OnLive",
+    "reddit": "r/onlivetv"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

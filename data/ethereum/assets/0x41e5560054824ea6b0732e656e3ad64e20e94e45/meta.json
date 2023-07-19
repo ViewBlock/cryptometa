@@ -1,0 +1,16 @@
+{
+  "name": "Civic",
+  "symbol": "CVC",
+  "web": "https://www.civic.com",
+  "explorer": "https://etherscan.io/token/0x41e5560054824ea6b0732e656e3ad64e20e94e45",
+  "links": {
+    "coingecko": "civic",
+    "twitter": "civickey",
+    "telegram": "civicplatform",
+    "reddit": "r/civicplatform"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

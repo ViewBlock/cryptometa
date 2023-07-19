@@ -1,0 +1,14 @@
+{
+  "name": "$ICK Mask",
+  "symbol": "ICK",
+  "web": "https://www.saintfame.com/SICK",
+  "explorer": "https://www.etherscan.io/token/0x793e2602a8396468f3ce6e34c1b6c6fd6d985bad",
+  "links": {
+    "coingecko": "ick-mask",
+    "twitter": "SAINTFAMEdao"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

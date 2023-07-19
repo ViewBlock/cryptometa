@@ -1,0 +1,17 @@
+{
+  "name": "LITEX",
+  "symbol": "LXT",
+  "web": "http://litex.io",
+  "explorer": "https://etherscan.io/token/0xbc46d9961a3932f7d6b64abfdec80c1816c4b835",
+  "links": {
+    "github": "litexio",
+    "coingecko": "litex",
+    "twitter": "litex_io",
+    "facebook": "LITEX-2024570374476812",
+    "telegram": "litex_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

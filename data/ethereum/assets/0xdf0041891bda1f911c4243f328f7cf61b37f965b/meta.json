@@ -1,0 +1,17 @@
+{
+  "name": "BOOSTO",
+  "symbol": "BST",
+  "web": "https://boosto.io/#",
+  "explorer": "https://etherscan.io/token/0xdf0041891bda1f911c4243f328f7cf61b37f965b",
+  "links": {
+    "coingecko": "boosto",
+    "twitter": "Boosto_io",
+    "facebook": "Boosto.io",
+    "telegram": "boosto_io",
+    "reddit": "r/Boosto"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

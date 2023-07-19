@@ -1,0 +1,15 @@
+{
+  "name": "UniWhales",
+  "symbol": "UWL",
+  "web": "https://uniwhales.io",
+  "explorer": "https://etherscan.io/token/0xdbDD6F355A37b94e6C7D32fef548e98A280B8Df5",
+  "links": {
+    "coingecko": "uniwhales",
+    "twitter": "uniwhalesio",
+    "telegram": "uniwhales"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

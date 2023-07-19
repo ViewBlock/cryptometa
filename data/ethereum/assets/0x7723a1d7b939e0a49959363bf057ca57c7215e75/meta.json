@@ -1,0 +1,16 @@
+{
+  "name": "Naz coin",
+  "symbol": "NAZ",
+  "web": "https://nazcoin.net",
+  "explorer": "https://etherscan.io/token/0x7723A1D7B939e0a49959363BF057cA57C7215e75",
+  "links": {
+    "github": "duruk",
+    "coingecko": "naz-coin",
+    "facebook": "naz.coin.79",
+    "telegram": "NazCoinofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

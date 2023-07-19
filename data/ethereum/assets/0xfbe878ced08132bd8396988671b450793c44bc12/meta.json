@@ -1,0 +1,17 @@
+{
+  "name": "Fox Trading Token",
+  "symbol": "FOXT",
+  "web": "https://foxtrading.io",
+  "explorer": "https://etherscan.io/token/0xfbe878ced08132bd8396988671b450793c44bc12",
+  "links": {
+    "github": "foxglobaltrading",
+    "coingecko": "fox-trading-token",
+    "twitter": "foxtradingauto",
+    "facebook": "FoxTradingSignals",
+    "reddit": "u/foxtautotrading"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

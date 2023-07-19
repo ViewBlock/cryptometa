@@ -1,0 +1,15 @@
+{
+  "name": "Bounce",
+  "symbol": "AUCTION",
+  "web": "https://bounce.finance",
+  "explorer": "https://etherscan.io/token/0xa9b1eb5908cfc3cdf91f9b8b3a74108598009096",
+  "links": {
+    "coingecko": "auction",
+    "twitter": "bounce_finance",
+    "telegram": "bounce_finance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

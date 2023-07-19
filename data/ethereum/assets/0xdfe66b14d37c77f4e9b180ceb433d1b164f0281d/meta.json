@@ -1,0 +1,15 @@
+{
+  "name": "StakeHound Staked Ether",
+  "symbol": "STETH",
+  "web": "https://stakehound.com",
+  "explorer": "https://etherscan.io/token/0xdfe66b14d37c77f4e9b180ceb433d1b164f0281d",
+  "links": {
+    "coingecko": "stakehound-staked-ether",
+    "twitter": "stakedTokens",
+    "telegram": "stakehound"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

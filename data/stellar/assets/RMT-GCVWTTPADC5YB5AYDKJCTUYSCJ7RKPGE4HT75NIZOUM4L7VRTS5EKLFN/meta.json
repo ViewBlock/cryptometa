@@ -1,0 +1,17 @@
+{
+  "name": "SureRemit",
+  "symbol": "RMT",
+  "web": "https://sureremit.co",
+  "explorer": "https://stellar.expert/explorer/public/asset/RMT-GDEGOXPCHXWFYY234D2YZSPEJ24BX42ESJNVHY5H7TWWQSYRN5ZKZE3N",
+  "links": {
+    "coingecko": "sureremit",
+    "twitter": "sureremit",
+    "facebook": "sureremit",
+    "telegram": "sureremit",
+    "reddit": "r/sureremit"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Karaganda Token",
+  "symbol": "KRG",
+  "web": "https://krg-token.com",
+  "explorer": "https://etherscan.io/token/0x32a8cd4d04d5f2e5de30ad73ef0a377eca2fdd98",
+  "links": {
+    "github": "t-blockchain",
+    "coingecko": "karaganda-token",
+    "facebook": "KRG-token-world-102621584890722",
+    "telegram": "krg_token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

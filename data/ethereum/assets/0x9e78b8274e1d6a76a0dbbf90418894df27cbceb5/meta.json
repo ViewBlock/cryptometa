@@ -1,0 +1,16 @@
+{
+  "name": "Covenants",
+  "symbol": "UNIFI",
+  "web": "https://covenants.eth.link",
+  "explorer": "https://etherscan.io/token/0x9E78b8274e1D6a76a0dBbf90418894DF27cBCEb5",
+  "links": {
+    "github": "b-u-i-d-l",
+    "coingecko": "unifi",
+    "twitter": "ethereansOS",
+    "reddit": "r/dfohub"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Polygon",
+  "symbol": "MATIC",
+  "web": "https://polygon.technology",
+  "explorer": "https://polygonscan.com",
+  "links": {
+    "github": "maticnetwork",
+    "coingecko": "polygon",
+    "twitter": "0xPolygon"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

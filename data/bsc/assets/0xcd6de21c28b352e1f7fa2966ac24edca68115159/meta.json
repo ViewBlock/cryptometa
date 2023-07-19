@@ -1,0 +1,10 @@
+{
+  "name": "McBase Finance",
+  "symbol": "MCBASE",
+  "web": "https://www.mcbase.finance",
+  "links": {
+    "coingecko": "mcbase-finance",
+    "twitter": "Mcbase_Finance",
+    "telegram": "mcbasebsc"
+  }
+}

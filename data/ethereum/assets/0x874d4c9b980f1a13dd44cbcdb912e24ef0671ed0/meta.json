@@ -1,0 +1,17 @@
+{
+  "name": "Guider",
+  "symbol": "GDR",
+  "web": "https://guider.travel",
+  "explorer": "https://etherscan.io/token/0x874d4c9b980f1a13dd44cbcdb912e24ef0671ed0",
+  "links": {
+    "github": "GuiderDev",
+    "coingecko": "guider",
+    "twitter": "guider_official",
+    "facebook": "guidertalk",
+    "telegram": "Guider_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

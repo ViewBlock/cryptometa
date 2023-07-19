@@ -1,0 +1,11 @@
+{
+  "name": "ACryptoSI",
+  "symbol": "ACSI",
+  "web": "https://app.acryptos.com",
+  "explorer": "https://bscscan.com/token/0x5b17b4d5e4009b5c43e3e3d63a5229f794cba389",
+  "links": {
+    "coingecko": "acryptosi",
+    "twitter": "acryptosx",
+    "telegram": "acryptos9"
+  }
+}

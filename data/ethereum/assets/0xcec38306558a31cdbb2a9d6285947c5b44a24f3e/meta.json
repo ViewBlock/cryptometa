@@ -1,0 +1,15 @@
+{
+  "name": "Fantasy Sports",
+  "symbol": "DFS",
+  "web": "https://www.digitalfantasysports.com",
+  "explorer": "https://etherscan.io/token/0xcec38306558a31cdbb2a9d6285947c5b44a24f3e",
+  "links": {
+    "coingecko": "digital-fantasy-sports",
+    "twitter": "dfstoken",
+    "reddit": "r/dfstoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

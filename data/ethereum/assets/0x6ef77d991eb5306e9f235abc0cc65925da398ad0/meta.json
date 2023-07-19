@@ -1,0 +1,14 @@
+{
+  "name": "Master MIX Token",
+  "symbol": "MMT",
+  "web": "https://www.mastermix.io",
+  "explorer": "https://etherscan.io/token/0x6Ef77d991Eb5306E9F235abC0Cc65925Da398aD0",
+  "links": {
+    "coingecko": "master-mix-token",
+    "telegram": "MMT_Group"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

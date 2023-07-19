@@ -1,0 +1,18 @@
+{
+  "name": "DaTa eXchange Token",
+  "symbol": "DTX",
+  "web": "https://databrokerdao.com",
+  "explorer": "https://etherscan.io/token/0x765f0c16d1ddc279295c1a7c24b0883f62d33f75",
+  "links": {
+    "github": "DataBrokerDAO",
+    "coingecko": "databroker-dao",
+    "twitter": "DataBrokerDAO",
+    "facebook": "DataBrokerDAO",
+    "telegram": "databrokerdao",
+    "reddit": "r/DatabrokerDAO"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "BankCoin BCash",
+  "symbol": "BCASH",
+  "web": "https://bankcoinbcash.com",
+  "explorer": "https://etherscan.io/token/0xb5bb48567bfd0bfe9e4b08ef8b7f91556cc2a112",
+  "links": {
+    "github": "bcashbankcoin",
+    "coingecko": "bankcoincash",
+    "facebook": "Bankcoin-BCASH-586488321774012",
+    "telegram": "bankcoinbcash"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

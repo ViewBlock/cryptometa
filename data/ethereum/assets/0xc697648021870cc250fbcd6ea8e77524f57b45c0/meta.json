@@ -1,0 +1,16 @@
+{
+  "name": "Podo Point",
+  "symbol": "POD",
+  "web": "https://podopoint.io",
+  "explorer": "https://etherscan.io/token/0xC697648021870Cc250Fbcd6EA8E77524f57b45C0",
+  "links": {
+    "github": "PodoPoint",
+    "coingecko": "podo-point",
+    "twitter": "PodoPoint",
+    "telegram": "podopoint_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

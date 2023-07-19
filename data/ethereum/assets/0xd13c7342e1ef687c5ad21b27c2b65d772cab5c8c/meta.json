@@ -1,0 +1,17 @@
+{
+  "name": "Ultra",
+  "symbol": "UOS",
+  "web": "https://ultra.io",
+  "explorer": "https://etherscan.io/token/0xd13c7342e1ef687c5ad21b27c2b65d772cab5c8c",
+  "links": {
+    "coingecko": "ultra",
+    "twitter": "Ultra_io",
+    "facebook": "Ultra-441139419649279",
+    "telegram": "ultra_io",
+    "reddit": "r/ultra_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

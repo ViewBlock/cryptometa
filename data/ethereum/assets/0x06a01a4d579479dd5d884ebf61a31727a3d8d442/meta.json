@@ -1,0 +1,16 @@
+{
+  "name": "SmartKey",
+  "symbol": "SKEY",
+  "web": "https://smartkeyplatform.io",
+  "explorer": "https://etherscan.io/token/0x06A01a4d579479Dd5D884EBf61A31727A3d8D442",
+  "links": {
+    "coingecko": "smartkey",
+    "twitter": "SmartKeyDeFi",
+    "facebook": "SmartKeyPlatform",
+    "telegram": "SmartKeyChat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

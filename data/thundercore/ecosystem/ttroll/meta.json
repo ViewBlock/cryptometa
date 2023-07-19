@@ -1,0 +1,15 @@
+{
+  "name": "TTRoll",
+  "description": "Pick your chance and roll the dice to win! Refer friends and get free TT.",
+  "web": "https://ttroll.ttmobileapps.com",
+  "addresses": [
+    "0x27cC646B45bf1CC02269472cD6ABD73ab1bd14dd"
+  ],
+  "categories": [
+    "gambling"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "ttroll"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Mirrored Apple",
+  "symbol": "MAAPL",
+  "web": "https://mirror.finance",
+  "explorer": "https://etherscan.io/token/0xd36932143F6eBDEDD872D5Fb0651f4B72Fd15a84",
+  "links": {
+    "github": "mirror-protocol",
+    "coingecko": "mirrored-apple",
+    "twitter": "mirror_protocol",
+    "telegram": "mirror_protocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

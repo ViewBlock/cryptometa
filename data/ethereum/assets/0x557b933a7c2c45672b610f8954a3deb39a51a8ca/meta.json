@@ -1,0 +1,16 @@
+{
+  "name": "REVV",
+  "symbol": "REVV",
+  "web": "https://www.revvmotorsport.com",
+  "explorer": "https://etherscan.io/token/0x557b933a7c2c45672b610f8954a3deb39a51a8ca",
+  "links": {
+    "github": "animocabrands",
+    "coingecko": "revv",
+    "twitter": "REVV_Token",
+    "telegram": "REVVCommunity"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Sports Betting Marketplace",
+  "symbol": "SBX",
+  "web": "https://sbxtoken.io",
+  "explorer": "https://etherscan.io/token/0x2579bb08387f0de7ab135edd6c2a985a3f577b6b",
+  "links": {
+    "coingecko": "degenerate-platform",
+    "twitter": "SBXtoken",
+    "telegram": "SBXtoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

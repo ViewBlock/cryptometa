@@ -1,0 +1,14 @@
+{
+  "name": "Angry Monkey 2022",
+  "symbol": "Ang22",
+  "links": {
+    "twitter": "https://twitter.com/Spardasoldier"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

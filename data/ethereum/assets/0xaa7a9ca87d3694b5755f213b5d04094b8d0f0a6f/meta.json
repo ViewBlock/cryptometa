@@ -1,0 +1,18 @@
+{
+  "name": "OriginTrail",
+  "symbol": "TRAC",
+  "web": "https://origintrail.io",
+  "explorer": "https://etherscan.io/token/0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f",
+  "links": {
+    "github": "OriginTrail",
+    "coingecko": "origintrail",
+    "twitter": "origin_trail",
+    "facebook": "origintrail",
+    "telegram": "origintrail",
+    "reddit": "r/origintrail"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

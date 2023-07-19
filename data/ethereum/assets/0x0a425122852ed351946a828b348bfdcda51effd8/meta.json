@@ -1,0 +1,16 @@
+{
+  "name": "EduMetrix Coin",
+  "symbol": "EMC",
+  "web": "https://edumetrix.io",
+  "explorer": "https://etherscan.io/token/0x0a425122852ed351946a828b348bfdcda51effd8",
+  "links": {
+    "coingecko": "edumetrix-coin",
+    "twitter": "Edumetrix_io",
+    "facebook": "edumetrix.io",
+    "telegram": "Contact_EduMetrix"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

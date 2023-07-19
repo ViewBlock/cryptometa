@@ -1,0 +1,17 @@
+{
+  "name": "Midas Protocol",
+  "symbol": "MAS",
+  "web": "https://midasprotocol.io",
+  "explorer": "https://etherscan.io/token/0x23ccc43365d9dd3882eab88f43d515208f832430",
+  "links": {
+    "github": "MidasCore",
+    "coingecko": "midas-protocol",
+    "twitter": "MidasProtocol",
+    "facebook": "midasprotocol.io",
+    "telegram": "midasprotocolglobal"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

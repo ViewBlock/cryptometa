@@ -1,0 +1,18 @@
+{
+  "name": "Thrive",
+  "symbol": "THRT",
+  "web": "https://ico.thrivelabs.io",
+  "explorer": "https://etherscan.io/token/0x4f27053f32eda8af84956437bc00e5ffa7003287",
+  "links": {
+    "github": "thrivelabs",
+    "coingecko": "thrive",
+    "twitter": "WeareThrivelabs",
+    "facebook": "thrivelabs.io",
+    "telegram": "thriveico",
+    "reddit": "r/ThriveLabs"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

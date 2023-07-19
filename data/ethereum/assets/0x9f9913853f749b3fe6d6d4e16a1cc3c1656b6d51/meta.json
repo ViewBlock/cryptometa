@@ -1,0 +1,15 @@
+{
+  "name": "BITToken",
+  "symbol": "BITT",
+  "web": "https://www.bittoken.club",
+  "explorer": "https://etherscan.io/token/0x9f9913853f749b3fe6d6d4e16a1cc3c1656b6d51",
+  "links": {
+    "coingecko": "bittoken",
+    "twitter": "BiTToken_Club",
+    "telegram": "Bittoken_Project"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

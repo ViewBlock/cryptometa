@@ -1,0 +1,16 @@
+{
+  "name": "MP4",
+  "symbol": "MP4",
+  "web": "https://mp4.social",
+  "explorer": "https://etherscan.io/token/0xe1a0da60f8802b49cc36313bafade3f9e12342fd",
+  "links": {
+    "github": "blockchainmusicentertainment",
+    "coingecko": "mp4",
+    "twitter": "mp4social",
+    "telegram": "mp4social"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

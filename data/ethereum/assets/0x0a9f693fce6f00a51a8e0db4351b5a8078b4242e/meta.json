@@ -1,0 +1,15 @@
+{
+  "name": "Resfinex Token",
+  "symbol": "RES",
+  "web": "https://resfinex.com",
+  "explorer": "https://etherscan.io/token/0x0a9f693fce6f00a51a8e0db4351b5a8078b4242e",
+  "links": {
+    "github": "resfinex",
+    "coingecko": "resfinex-token",
+    "twitter": "resfinex"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

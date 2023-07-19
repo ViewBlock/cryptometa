@@ -1,0 +1,17 @@
+{
+  "name": "REN",
+  "symbol": "REN",
+  "web": "http://renproject.io",
+  "explorer": "https://etherscan.io/token/0x408e41876cccdc0f92210600ef50372656052a38",
+  "links": {
+    "github": "renproject",
+    "coingecko": "republic-protocol",
+    "twitter": "renprotocol",
+    "telegram": "renproject",
+    "reddit": "r/republicprotocol"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Unslashed Finance",
+  "symbol": "USF",
+  "web": "https://unslashed.finance",
+  "explorer": "https://etherscan.io/token/0xe0e05c43c097b0982db6c9d626c4eb9e95c3b9ce",
+  "links": {
+    "coingecko": "unslashed-finance",
+    "twitter": "UnslashedF",
+    "telegram": "UnslashedFinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

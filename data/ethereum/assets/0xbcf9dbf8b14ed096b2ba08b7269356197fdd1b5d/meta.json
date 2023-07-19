@@ -1,0 +1,15 @@
+{
+  "name": "Avaluse",
+  "symbol": "AVAL",
+  "web": "https://avaluse.com",
+  "explorer": "https://etherscan.io/token/0xbcf9dbf8b14ed096b2ba08b7269356197fdd1b5d",
+  "links": {
+    "coingecko": "avaluse",
+    "twitter": "avaluse",
+    "telegram": "avaluse"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

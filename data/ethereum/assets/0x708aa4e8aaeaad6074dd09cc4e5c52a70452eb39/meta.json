@@ -1,0 +1,16 @@
+{
+  "name": "Bitcoffeen",
+  "symbol": "BFF",
+  "web": "https://bitcoffeen.com",
+  "explorer": "https://etherscan.io/token/0x708aA4e8AaeAaD6074dD09cc4e5C52A70452eB39",
+  "links": {
+    "coingecko": "bitcoffeen",
+    "twitter": "bitcoffeen",
+    "facebook": "bitcoffeen",
+    "telegram": "bitcoffeen"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

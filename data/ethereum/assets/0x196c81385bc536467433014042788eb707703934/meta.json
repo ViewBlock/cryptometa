@@ -1,0 +1,16 @@
+{
+  "name": "CryptoTask",
+  "symbol": "CTASK",
+  "web": "https://about.cryptotask.org",
+  "explorer": "https://etherscan.io/token/0x196c81385bc536467433014042788eb707703934",
+  "links": {
+    "github": "vkajic",
+    "coingecko": "cryptotask-2",
+    "twitter": "ct_task",
+    "telegram": "cryptotaskofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

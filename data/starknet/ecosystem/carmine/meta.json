@@ -1,0 +1,17 @@
+{
+  "name": "Carmine Options AMM",
+  "description": "Options AMM to allow users not only to buy, but also to sell options. To hedge or insure not only crypto pairs but also NFTs and game commodities.",
+  "categories": [
+    "defi"
+  ],
+  "web": "https://carmine.finance",
+  "links": {
+    "github": "https://github.com/CarmineOptions",
+    "twitter": "https://twitter.com/CarmineOptions",
+    "discord": "https://discord.gg/uRs7j8w3bX"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "carmine"
+}

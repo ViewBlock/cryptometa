@@ -1,0 +1,18 @@
+{
+  "name": "ZilSwap",
+  "symbol": "ZWAP",
+  "web": "http://zilswap.io",
+  "links": {
+    "twitter": "https://twitter.com/zilswap",
+    "discord": "https://discord.gg/443FG3nP62",
+    "github": "https://github.com/switcheo/zilswap",
+    "linkedin": "https://www.linkedin.com/company/switcheo"
+  },
+  "holders": true,
+  "product": true,
+  "publicTeam": true,
+  "gen": {
+    "logo": "logo.svg",
+    "score": 81
+  }
+}

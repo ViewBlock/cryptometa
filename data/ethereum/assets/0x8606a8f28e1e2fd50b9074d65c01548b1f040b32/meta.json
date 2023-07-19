@@ -1,0 +1,16 @@
+{
+  "name": "Cryptrust",
+  "symbol": "CTRT",
+  "web": "https://cryptrust.io/platform",
+  "explorer": "https://etherscan.io/token/0x8606a8f28e1e2fd50b9074d65c01548b1f040b32",
+  "links": {
+    "github": "cryptrusten",
+    "coingecko": "cryptrust",
+    "twitter": "cryptrustdapp",
+    "telegram": "cryptrusten"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

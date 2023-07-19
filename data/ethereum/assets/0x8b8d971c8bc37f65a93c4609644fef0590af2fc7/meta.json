@@ -1,0 +1,18 @@
+{
+  "name": "Securypto",
+  "symbol": "SCU",
+  "web": "https://www.securypto.io",
+  "explorer": "https://etherscan.io/token/0x8B8d971C8bc37f65a93c4609644FeF0590Af2Fc7",
+  "links": {
+    "github": "Securypto",
+    "coingecko": "securypto",
+    "twitter": "Securypto",
+    "facebook": "securypto",
+    "telegram": "securypto",
+    "reddit": "r/Securypto"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

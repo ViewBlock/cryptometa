@@ -1,0 +1,17 @@
+{
+  "name": "MahaDAO",
+  "symbol": "MAHA",
+  "web": "https://mahadao.com",
+  "explorer": "https://etherscan.io/token/0xb4d930279552397bba2ee473229f89ec245bc365",
+  "links": {
+    "github": "http:",
+    "coingecko": "mahadao",
+    "twitter": "themahadao",
+    "telegram": "mahadao",
+    "reddit": "r/mahadao"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

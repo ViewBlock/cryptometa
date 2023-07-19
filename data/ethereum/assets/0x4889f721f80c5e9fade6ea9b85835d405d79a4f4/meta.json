@@ -1,0 +1,15 @@
+{
+  "name": "Mafia.Network",
+  "symbol": "MAFI",
+  "web": "https://www.mafi.network",
+  "explorer": "https://etherscan.io/token/0x4889F721f80C5E9fadE6Ea9B85835D405D79a4f4",
+  "links": {
+    "coingecko": "mafia-network",
+    "twitter": "Mafia_Network_",
+    "telegram": "mafianetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

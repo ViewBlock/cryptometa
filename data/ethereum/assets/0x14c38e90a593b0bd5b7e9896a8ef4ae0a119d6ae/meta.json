@@ -1,0 +1,16 @@
+{
+  "name": "WAV3",
+  "symbol": "WAV3",
+  "web": "https://wav3.org",
+  "explorer": "https://etherscan.io/token/0x14c38e90a593b0bd5b7e9896a8ef4ae0a119d6ae",
+  "links": {
+    "github": "wav3org",
+    "coingecko": "wav3",
+    "twitter": "WAV3org",
+    "telegram": "wav3org"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "AstroTools",
+  "symbol": "ASTRO",
+  "web": "https://astrotools.io",
+  "explorer": "https://etherscan.io/token/0xcbd55d4ffc43467142761a764763652b48b969ff",
+  "links": {
+    "coingecko": "astrotools",
+    "twitter": "Astro_Tools"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

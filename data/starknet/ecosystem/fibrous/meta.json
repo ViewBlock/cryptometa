@@ -1,0 +1,17 @@
+{
+  "name": "Fibrous Finance",
+  "description": "Gathers all AMMs of StarkNet at one place.",
+  "categories": [
+    "defi",
+    "infra"
+  ],
+  "web": "https://fibrous.finance",
+  "links": {
+    "twitter": "https://twitter.com/FibrousFinance",
+    "medium": "https://medium.com/@fibrous"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "fibrous"
+}

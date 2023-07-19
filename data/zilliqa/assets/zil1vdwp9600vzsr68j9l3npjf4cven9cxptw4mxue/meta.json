@@ -1,0 +1,16 @@
+{
+  "name": "Scraps - Zolar Resource",
+  "symbol": "zlrSCRAP",
+  "web": "https://zolar.io/",
+  "whitepaper": "https://docs.zolar.io/",
+  "links": {
+    "twitter": "https://twitter.com/bearmarketnft",
+    "discord": "https://discord.gg/zilswap",
+    "instagram": "https://instagram.com/thebearmarketnft"
+  },
+  "publicTeam": true,
+  "gen": {
+    "logo": "logo.png",
+    "score": 38
+  }
+}

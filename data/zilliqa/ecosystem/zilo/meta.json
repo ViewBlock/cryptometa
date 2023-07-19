@@ -1,0 +1,13 @@
+{
+  "name": "Zilo",
+  "description": "ZilSwap Initial Launch Offering (ZILO) is a platform where ZWAP holders can participate in new token launches.",
+  "web": "https://zilswap.io/zilo/current",
+  "links": {},
+  "categories": [
+    "infra"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "zilo"
+}

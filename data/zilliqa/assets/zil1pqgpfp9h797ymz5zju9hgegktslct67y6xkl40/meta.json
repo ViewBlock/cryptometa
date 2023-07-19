@@ -1,0 +1,14 @@
+{
+  "name": "ORIGIN",
+  "symbol": "ORG",
+  "links": {
+    "twitter": "tuttisibor"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

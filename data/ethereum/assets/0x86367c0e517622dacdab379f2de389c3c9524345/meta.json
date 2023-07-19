@@ -1,0 +1,17 @@
+{
+  "name": "Universal US Dollar",
+  "symbol": "UPUSD",
+  "web": "https://universalprotocol.io",
+  "explorer": "https://etherscan.io/token/0x86367c0e517622dacdab379f2de389c3c9524345",
+  "links": {
+    "coingecko": "universal-us-dollar",
+    "twitter": "UPPlatform",
+    "facebook": "UPPlatform",
+    "telegram": "universalprotocolplatform",
+    "reddit": "r/universalprotocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

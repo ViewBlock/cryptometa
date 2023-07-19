@@ -1,0 +1,18 @@
+{
+  "name": "Remme",
+  "symbol": "REM",
+  "web": "https://remme.io",
+  "explorer": "https://etherscan.io/token/0x83984d6142934bb535793a82adb0a46ef0f66b6d",
+  "links": {
+    "github": "Remmeauth",
+    "coingecko": "remme",
+    "twitter": "remme_io",
+    "facebook": "remme.io",
+    "telegram": "remme",
+    "reddit": "r/remme"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Shardus",
+  "symbol": "ULT",
+  "web": "https://shardus.com",
+  "explorer": "https://etherscan.io/token/0x09617f6fd6cf8a71278ec86e23bbab29c04353a7",
+  "links": {
+    "github": "Shardus",
+    "coingecko": "shardus",
+    "twitter": "ShardusLedger",
+    "telegram": "shardus",
+    "reddit": "r/Shardus"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

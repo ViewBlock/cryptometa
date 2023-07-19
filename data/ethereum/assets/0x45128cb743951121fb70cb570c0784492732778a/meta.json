@@ -1,0 +1,15 @@
+{
+  "name": "Metawhale Gold",
+  "symbol": "MWG",
+  "web": "https://metawhale.io/#",
+  "explorer": "https://etherscan.io/token/0x45128cb743951121fb70cb570c0784492732778a",
+  "links": {
+    "coingecko": "metawhale-gold",
+    "twitter": "Meta_Whale",
+    "telegram": "defilabs_community"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

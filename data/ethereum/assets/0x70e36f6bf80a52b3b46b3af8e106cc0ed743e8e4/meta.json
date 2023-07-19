@@ -1,0 +1,15 @@
+{
+  "name": "cCOMP",
+  "symbol": "CCOMP",
+  "web": "https://compound.finance",
+  "explorer": "https://etherscan.io/token/0x70e36f6BF80a52b3B46b3aF8e106CC0ed743E8e4",
+  "links": {
+    "coingecko": "ccomp",
+    "twitter": "compoundfinance",
+    "reddit": "r/compound"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

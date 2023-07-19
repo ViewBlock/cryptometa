@@ -1,0 +1,18 @@
+{
+  "name": "SHENG",
+  "symbol": "SHENG",
+  "web": "https://sheng.global",
+  "explorer": "https://etherscan.io/token/0x22ef3753e3658e81d5a0d0889ce078178fe66595",
+  "links": {
+    "github": "sheng-global",
+    "coingecko": "sheng",
+    "twitter": "sheng_global",
+    "facebook": "shengworld",
+    "telegram": "sheng_world",
+    "reddit": "r/Sheng_Global"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

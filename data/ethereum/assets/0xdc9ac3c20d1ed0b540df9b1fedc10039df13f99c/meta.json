@@ -1,0 +1,18 @@
+{
+  "name": "UTRUST",
+  "symbol": "UTK",
+  "web": "https://utrust.com",
+  "explorer": "https://etherscan.io/token/0xdc9Ac3C20D1ed0B540dF9b1feDC10039Df13F99c",
+  "links": {
+    "github": "utrustdev",
+    "coingecko": "utrust",
+    "twitter": "UTRUST",
+    "facebook": "utrust.io",
+    "telegram": "utrustofficial",
+    "reddit": "r/UTRUST_Official"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

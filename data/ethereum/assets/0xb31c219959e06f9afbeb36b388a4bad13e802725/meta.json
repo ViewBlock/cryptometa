@@ -1,0 +1,18 @@
+{
+  "name": "ONO",
+  "symbol": "ONOT",
+  "web": "https://www.ono.chat/en",
+  "explorer": "https://etherscan.io/token/0xb31c219959e06f9afbeb36b388a4bad13e802725",
+  "links": {
+    "github": "onochat",
+    "coingecko": "ono",
+    "twitter": "ONOsocial",
+    "facebook": "onosocial",
+    "telegram": "ONOUS",
+    "reddit": "r/OnoSocial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

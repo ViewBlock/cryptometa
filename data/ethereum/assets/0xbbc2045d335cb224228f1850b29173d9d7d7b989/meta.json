@@ -1,0 +1,18 @@
+{
+  "name": "GoHelpFund",
+  "symbol": "HELP",
+  "web": "https://gohelpfund.com",
+  "explorer": "https://etherscan.io/token/0xbbc2045d335cb224228f1850b29173d9d7d7b989",
+  "links": {
+    "github": "GoHelpFund",
+    "coingecko": "help-token",
+    "twitter": "GoHelpFund_com",
+    "facebook": "gohelpfund",
+    "telegram": "gohelpfund",
+    "reddit": "r/gohelpfund"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

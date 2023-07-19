@@ -1,0 +1,13 @@
+{
+  "name": "3X Short Bitcoin Cash Token",
+  "symbol": "BCHBEAR",
+  "web": "https://ftx.com/tokens/BCHBEAR",
+  "explorer": "https://etherscan.io/token/0xa9fc65da36064ce545e87690e06f5de10c52c690",
+  "links": {
+    "coingecko": "3x-short-bitcoin-cash-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

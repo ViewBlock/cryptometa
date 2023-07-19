@@ -1,0 +1,18 @@
+{
+  "name": "Multicoin",
+  "symbol": "MTCN",
+  "web": "https://www.multiven.io",
+  "explorer": "https://etherscan.io/token/0xf6117cc92d7247f605f11d4c942f0feda3399cb5",
+  "links": {
+    "github": "Multiven-Group-BV",
+    "coingecko": "multiven",
+    "twitter": "multivengroup",
+    "facebook": "MultivenGroup",
+    "telegram": "MultivenOfficialGroup",
+    "reddit": "r/Multiven"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

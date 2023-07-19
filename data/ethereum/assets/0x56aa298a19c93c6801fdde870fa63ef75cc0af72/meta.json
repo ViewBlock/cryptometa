@@ -1,0 +1,16 @@
+{
+  "name": "Mirrored Alibaba",
+  "symbol": "MBABA",
+  "web": "https://mirror.finance",
+  "explorer": "https://etherscan.io/token/0x56aA298a19C93c6801FDde870fA63EF75Cc0aF72",
+  "links": {
+    "coingecko": "mirrored-alibaba",
+    "twitter": "mirror_protocol",
+    "telegram": "mirror_protocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

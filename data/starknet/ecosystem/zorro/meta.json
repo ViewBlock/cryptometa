@@ -1,0 +1,16 @@
+{
+  "name": "Zorro",
+  "description": "Proof of personhood protocol for democratic DAO voting, quadratic funding, etc. Runs on the Ethereum L2 StarkNet.",
+  "categories": [
+    "dao",
+    "governance"
+  ],
+  "web": "https://zorro.xyz",
+  "links": {
+    "twitter": "https://twitter.com/ZorroProtocol"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "zorro"
+}

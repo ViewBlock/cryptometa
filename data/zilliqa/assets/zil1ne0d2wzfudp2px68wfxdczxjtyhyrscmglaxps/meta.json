@@ -1,0 +1,14 @@
+{
+  "name": "Sundown Estate",
+  "symbol": "SDE",
+  "links": {
+    "twitter": "https://twitter.com/tropixlr"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

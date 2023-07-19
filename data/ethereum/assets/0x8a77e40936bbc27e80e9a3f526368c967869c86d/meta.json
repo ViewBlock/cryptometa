@@ -1,0 +1,18 @@
+{
+  "name": "Merculet",
+  "symbol": "MVP",
+  "web": "http://merculet.io",
+  "explorer": "https://etherscan.io/token/0x8a77e40936bbc27e80e9a3f526368c967869c86d",
+  "links": {
+    "github": "Merculet",
+    "coingecko": "merculet",
+    "twitter": "Merculet_io",
+    "facebook": "merculet",
+    "telegram": "merculet",
+    "reddit": "r/Merculet"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

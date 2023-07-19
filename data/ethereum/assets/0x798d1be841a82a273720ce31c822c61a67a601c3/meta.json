@@ -1,0 +1,16 @@
+{
+  "name": "DIGG",
+  "symbol": "DIGG",
+  "web": "https://badger.finance",
+  "explorer": "https://etherscan.io/token/0x798D1bE841a82a273720CE31c822C61a67a601C3",
+  "links": {
+    "github": "Badger-Finance",
+    "coingecko": "digg",
+    "twitter": "BadgerDAO",
+    "telegram": "badger_dao"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

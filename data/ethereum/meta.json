@@ -3,8 +3,17 @@
   "symbol": "ETH",
   "web": "https://ethereum.org",
   "explorer": "https://etherscan.io",
+  "trusted": true,
+  "links": {
+    "github": "ethereum",
+    "coingecko": "ethereum",
+    "twitter": "ethereum",
+    "facebook": "ethereumproject",
+    "reddit": "r/ethereum"
+  },
   "gen": {
     "logo": "logo.svg",
-    "hasDark": true
+    "hasDark": true,
+    "darkExt": "svg"
   }
 }

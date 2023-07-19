@@ -1,0 +1,18 @@
+{
+  "name": "XYO Network",
+  "symbol": "XYO",
+  "web": "https://xyo.network",
+  "explorer": "https://etherscan.io/token/0x55296f69f40ea6d20e478533c15a6b08b654e758",
+  "links": {
+    "github": "XYOracleNetwork",
+    "coingecko": "xyo-network",
+    "twitter": "XYOracleNetwork",
+    "facebook": "xyonetwork",
+    "telegram": "xyonetwork",
+    "reddit": "r/XYONetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

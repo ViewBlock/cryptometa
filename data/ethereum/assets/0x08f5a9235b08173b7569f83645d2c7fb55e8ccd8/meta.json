@@ -1,0 +1,17 @@
+{
+  "name": "Tierion",
+  "symbol": "TNT",
+  "web": "https://tierion.com",
+  "explorer": "https://etherscan.io/token/0x08f5a9235b08173b7569f83645d2c7fb55e8ccd8",
+  "links": {
+    "github": "tierion",
+    "coingecko": "tierion",
+    "twitter": "Tierion",
+    "telegram": "tierion",
+    "reddit": "r/tierion"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

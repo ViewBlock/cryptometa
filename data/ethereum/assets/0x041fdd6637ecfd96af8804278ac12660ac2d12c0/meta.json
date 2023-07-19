@@ -1,0 +1,16 @@
+{
+  "name": "SwapDEX",
+  "symbol": "SDX",
+  "web": "https://swapdex.net",
+  "explorer": "https://etherscan.io/token/0x041fdd6637ecfd96af8804278ac12660ac2d12c0",
+  "links": {
+    "github": "69th-byte",
+    "coingecko": "swapdex",
+    "twitter": "SwapdexO",
+    "telegram": "Officialswapdex"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

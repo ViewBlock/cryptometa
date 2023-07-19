@@ -1,0 +1,17 @@
+{
+  "name": "Falcon Project",
+  "symbol": "FNT",
+  "web": "http://falconofficial.com",
+  "explorer": "https://etherscan.io/token/0xdc5864ede28bd4405aa04d93e05a0531797d9d59",
+  "links": {
+    "github": "ProjectFalcon",
+    "coingecko": "falcon-token",
+    "twitter": "Falcon_SBS",
+    "facebook": "Falcon-Project-103578471206969",
+    "telegram": "Falcon_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

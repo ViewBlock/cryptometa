@@ -1,0 +1,15 @@
+{
+  "name": "PeerGuess",
+  "symbol": "GUESS",
+  "web": "https://peerguess.com",
+  "explorer": "https://etherscan.io/token/0xbdcfbf5c4d91abc0bc9709c7286d00063c0e6f22",
+  "links": {
+    "coingecko": "peerguess",
+    "twitter": "peerguess",
+    "telegram": "peerguess"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

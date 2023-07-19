@@ -1,0 +1,15 @@
+{
+  "name": "cETH",
+  "symbol": "CETH",
+  "web": "https://compound.finance",
+  "explorer": "https://etherscan.io/token/0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5",
+  "links": {
+    "coingecko": "compound-ether",
+    "twitter": "compoundfinance",
+    "reddit": "r/compound"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

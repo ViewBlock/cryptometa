@@ -1,0 +1,15 @@
+{
+  "name": "KuCoin Token",
+  "symbol": "KCS",
+  "web": "https://www.kucoin.com/#",
+  "explorer": "https://etherscan.io/token/0xf34960d9d60be18cc1d5afc1a6f012a723a28811",
+  "links": {
+    "coingecko": "kucoin-shares",
+    "twitter": "kucoincom",
+    "reddit": "r/kucoin"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

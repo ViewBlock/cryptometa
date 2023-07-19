@@ -1,0 +1,17 @@
+{
+  "name": "Edenchain",
+  "symbol": "EDN",
+  "web": "http://edenchain.io",
+  "explorer": "https://etherscan.io/token/0x89020f0D5C5AF4f3407Eb5Fe185416c457B0e93e",
+  "links": {
+    "coingecko": "edenchain",
+    "twitter": "edenchainio",
+    "facebook": "edenchainio",
+    "telegram": "edenchainio",
+    "reddit": "r/edenchainio"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

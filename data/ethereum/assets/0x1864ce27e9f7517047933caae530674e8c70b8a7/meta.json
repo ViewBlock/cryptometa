@@ -1,0 +1,18 @@
+{
+  "name": "Pibble",
+  "symbol": "PIB",
+  "web": "http://pibble.io",
+  "explorer": "https://etherscan.io/token/0x1864ce27e9f7517047933caae530674e8c70b8a7",
+  "links": {
+    "github": "Pibble-io",
+    "coingecko": "pibble",
+    "twitter": "pibbleio",
+    "facebook": "pibbleio",
+    "telegram": "pibbleio_eng",
+    "reddit": "r/Pibbleio"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Matic Aave Interest Bearing USDC",
+  "symbol": "MAUSDC",
+  "web": "https://www.aavegotchi.com",
+  "explorer": "https://explorer-mainnet.maticvigil.com/tokens/0x9719d867A500Ef117cC201206B8ab51e794d3F82",
+  "links": {
+    "github": "aavegotchi",
+    "coingecko": "matic-aave-usdc",
+    "twitter": "aavegotchi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

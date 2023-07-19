@@ -1,0 +1,16 @@
+{
+  "name": "UNION Protocol Governance Token",
+  "symbol": "UNN",
+  "web": "https://unn.finance",
+  "explorer": "https://etherscan.io/token/0x226f7b842e0f0120b7e194d05432b3fd14773a9d",
+  "links": {
+    "coingecko": "union-protocol-governance-token",
+    "twitter": "unnfinance",
+    "telegram": "UNNFinance",
+    "reddit": "r/UNNFinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

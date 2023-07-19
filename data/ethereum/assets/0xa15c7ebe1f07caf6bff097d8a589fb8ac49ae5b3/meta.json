@@ -1,0 +1,17 @@
+{
+  "name": "Pundi X",
+  "symbol": "NPXS",
+  "web": "https://pundix.com",
+  "explorer": "https://etherscan.io/token/0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3",
+  "links": {
+    "coingecko": "pundi-x",
+    "twitter": "PundiXLabs",
+    "facebook": "pundixlabs",
+    "telegram": "pundix",
+    "reddit": "r/PundiX"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

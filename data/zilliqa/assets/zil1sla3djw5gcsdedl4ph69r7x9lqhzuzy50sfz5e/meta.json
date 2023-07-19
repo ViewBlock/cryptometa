@@ -1,0 +1,17 @@
+{
+  "name": "AFLL Time Bandits",
+  "symbol": "BANDIT",
+  "web": "https://www.uffsports.com/ufffranchisesfb/afll15",
+  "supply": "100000",
+  "email": "afll@uffsports.com",
+  "whitepaper": "https://docs.google.com/document/d/1ObJ5CxOs8k9TJssLUPdWLLM0EmZngpXY/edit",
+  "publicTeam": true,
+  "links": {
+    "telegram": "https://t.me/TheAFLL",
+    "twitter": "https://twitter.com/TimeBanditsAFLL"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 38
+  }
+}

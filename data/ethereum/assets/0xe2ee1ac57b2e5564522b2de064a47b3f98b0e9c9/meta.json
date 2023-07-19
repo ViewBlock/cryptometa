@@ -1,0 +1,17 @@
+{
+  "name": "Whalesburg",
+  "symbol": "WBT",
+  "web": "https://whalesburg.com",
+  "explorer": "https://etherscan.io/token/0xe2ee1ac57b2e5564522b2de064a47b3f98b0e9c9",
+  "links": {
+    "coingecko": "whalesburg",
+    "twitter": "whalesburg",
+    "facebook": "Whalesburg",
+    "telegram": "whalesburg",
+    "reddit": "r/Whalesburg"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

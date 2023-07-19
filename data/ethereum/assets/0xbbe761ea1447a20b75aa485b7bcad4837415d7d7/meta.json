@@ -1,0 +1,18 @@
+{
+  "name": "Global Crypto Alliance",
+  "symbol": "CALL",
+  "web": "https://gcalliance.io",
+  "explorer": "https://etherscan.io/token/0xbbe761ea1447a20b75aa485b7bcad4837415d7d7",
+  "links": {
+    "github": "Global-Crypto-Alliance",
+    "coingecko": "global-crypto-alliance",
+    "twitter": "gcnews_io",
+    "facebook": "GCA.Call.token",
+    "telegram": "Gcall777",
+    "reddit": "r/GlobalCryptoAlliance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

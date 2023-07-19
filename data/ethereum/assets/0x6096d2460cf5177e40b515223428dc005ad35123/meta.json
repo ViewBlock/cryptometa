@@ -1,0 +1,15 @@
+{
+  "name": "Precium",
+  "symbol": "PCM",
+  "web": "https://precium.io",
+  "explorer": "https://etherscan.io/token/0x6096d2460cf5177e40b515223428dc005ad35123",
+  "links": {
+    "coingecko": "precium",
+    "twitter": "Precium_io",
+    "telegram": "preciumen"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

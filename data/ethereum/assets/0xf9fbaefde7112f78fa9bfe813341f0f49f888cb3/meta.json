@@ -1,0 +1,15 @@
+{
+  "name": "DDS.Store",
+  "symbol": "DDS",
+  "web": "https://dds.store",
+  "explorer": "https://etherscan.io/token/0xf9fbaefde7112f78fa9bfe813341f0f49f888cb3",
+  "links": {
+    "coingecko": "dds-store",
+    "twitter": "dds_store_",
+    "telegram": "digitaldollarstore"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

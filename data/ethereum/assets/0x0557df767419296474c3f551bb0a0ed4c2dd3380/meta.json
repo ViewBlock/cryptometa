@@ -1,0 +1,17 @@
+{
+  "name": "Universal Gold",
+  "symbol": "UPXAU",
+  "web": "https://www.universalprotocol.io/universalgold",
+  "explorer": "https://etherscan.io/token/0x0557Df767419296474C3f551Bb0A0ED4c2DD3380",
+  "links": {
+    "coingecko": "universal-gold",
+    "twitter": "UPPlatform",
+    "facebook": "UPPlatform",
+    "telegram": "universalprotocolplatform",
+    "reddit": "r/universalprotocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

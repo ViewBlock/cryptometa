@@ -1,0 +1,15 @@
+{
+  "name": "Triality",
+  "description": "A decentralized knowledge sharing platform for web3 developers. Ask questions and find answers for the Cairo programming language, StarkNet, and more.",
+  "categories": [
+    "tools"
+  ],
+  "web": "https://triality.org",
+  "links": {
+    "twitter": "https://twitter.com/trialityorg"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "triality"
+}

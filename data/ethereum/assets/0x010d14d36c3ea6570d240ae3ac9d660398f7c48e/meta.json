@@ -1,0 +1,16 @@
+{
+  "name": "Cenfura Token",
+  "symbol": "XCF",
+  "web": "https://xcf-token.io",
+  "explorer": "https://etherscan.io/token/0x010d14d36c3ea6570d240ae3ac9d660398f7c48e",
+  "links": {
+    "coingecko": "cenfura-token",
+    "twitter": "XCFtoken",
+    "facebook": "cenfura",
+    "telegram": "CenfuraEnergy"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

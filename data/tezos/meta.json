@@ -1,0 +1,14 @@
+{
+  "name": "Tezos",
+  "symbol": "XTZ",
+  "web": "https://www.tezos.com",
+  "explorer": "https://tzstats.com",
+  "links": {
+    "coingecko": "tezos",
+    "twitter": "tezos",
+    "reddit": "r/tezos"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Blox",
+  "symbol": "CDT",
+  "web": "https://www.bloxstaking.com",
+  "explorer": "https://etherscan.io/token/0x177d39ac676ed1c67a2b268ad7f1e58826e5b0af",
+  "links": {
+    "github": "bloxapp",
+    "coingecko": "blox",
+    "twitter": "Blox_Staking",
+    "reddit": "r/Blox_io"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

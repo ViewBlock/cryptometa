@@ -1,0 +1,14 @@
+{
+  "name": "BeautyK",
+  "symbol": "BTKC",
+  "web": "https://beautyk.io",
+  "explorer": "https://etherscan.io/token/0x6682195e2a0048ce38b727a3711802d58244606e",
+  "links": {
+    "coingecko": "beautyk"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 5
+  }
+}

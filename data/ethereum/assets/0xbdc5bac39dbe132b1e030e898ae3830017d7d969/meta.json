@@ -1,0 +1,17 @@
+{
+  "name": "Snovian.Space",
+  "symbol": "SNOV",
+  "web": "https://snovian.space",
+  "explorer": "https://etherscan.io/token/0xbdc5bac39dbe132b1e030e898ae3830017d7d969",
+  "links": {
+    "coingecko": "snovio",
+    "twitter": "snovio_ico",
+    "facebook": "ICOsnovio",
+    "telegram": "snovio_ico",
+    "reddit": "r/Snovio_ICO"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

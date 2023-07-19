@@ -1,0 +1,14 @@
+{
+  "name": "iCEX",
+  "symbol": "ICEX",
+  "web": "https://www.synthetix.io/tokens",
+  "explorer": "https://etherscan.io/token/0x336213e1DDFC69f4701Fc3F86F4ef4A160c1159d",
+  "links": {
+    "coingecko": "icex",
+    "twitter": "synthetix_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

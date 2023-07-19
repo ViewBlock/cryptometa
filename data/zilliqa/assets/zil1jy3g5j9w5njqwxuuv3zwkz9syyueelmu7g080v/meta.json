@@ -1,0 +1,21 @@
+{
+  "name": "Unifees",
+  "symbol": "FEES",
+  "web": "https://unifees.io",
+  "supply": "1000000000",
+  "links": {
+    "telegram": "https://t.me/unifees",
+    "linkedin": "https://www.linkedin.com/company/unifees",
+    "twitter": "https://twitter.com/UnifeesToken",
+    "github": "https://github.com/Unifees",
+    "instagram": "https://www.instagram.com/unifeestoken",
+    "facebook": "https://www.facebook.com/unifeestoken"
+  },
+  "publicTeam": true,
+  "holders": true,
+  "whitepaper": "https://unifees.io/Unifees-Whitepaper.pdf",
+  "gen": {
+    "logo": "logo.png",
+    "score": 62
+  }
+}

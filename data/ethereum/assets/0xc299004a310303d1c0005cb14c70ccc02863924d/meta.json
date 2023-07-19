@@ -1,0 +1,16 @@
+{
+  "name": "Trinity Protocol",
+  "symbol": "TRI",
+  "web": "https://trinityprotocol.io",
+  "explorer": "https://etherscan.io/token/0xc299004a310303d1c0005cb14c70ccc02863924d",
+  "links": {
+    "github": "trinityprotocol",
+    "coingecko": "trinity-protocol",
+    "twitter": "triprotocol",
+    "telegram": "trinitytoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

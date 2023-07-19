@@ -1,0 +1,16 @@
+{
+  "name": "Isalcoin",
+  "symbol": "ISAL",
+  "web": "https://www.isalcoin.com",
+  "explorer": "https://etherscan.io/token/0x8e12bd795d2608f90440c84dddd2d985240696d5",
+  "links": {
+    "coingecko": "isalcoin",
+    "twitter": "IsalCoin",
+    "facebook": "ISALCoinOfficial",
+    "telegram": "ISALCoinCommunity"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

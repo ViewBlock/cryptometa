@@ -1,0 +1,13 @@
+{
+  "name": "Kerala Academy",
+  "description": "An initiative under the Government of Kerala, KBA offers blockchain training in multiple domains.",
+  "web": "https://kba.ai",
+  "links": {},
+  "categories": [
+    "education"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "kerala-academy"
+}

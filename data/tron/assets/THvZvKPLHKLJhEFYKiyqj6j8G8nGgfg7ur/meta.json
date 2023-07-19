@@ -1,0 +1,15 @@
+{
+  "name": "TRONdice",
+  "symbol": "DICE",
+  "web": "https://trondice.org",
+  "explorer": "https://tronscan.org/#/token20/THvZvKPLHKLJhEFYKiyqj6j8G8nGgfg7ur",
+  "links": {
+    "coingecko": "trondice",
+    "twitter": "tron_dice",
+    "telegram": "TRONdiceofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

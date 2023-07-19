@@ -1,0 +1,15 @@
+{
+  "name": "sXRP",
+  "symbol": "SXRP",
+  "web": "https://www.synthetix.io/tokens",
+  "explorer": "https://etherscan.io/token/0xa2B0fDe6D710e201d0d608e924A484d1A5fEd57c",
+  "links": {
+    "coingecko": "sxrp",
+    "twitter": "synthetix_io",
+    "reddit": "r/synthetix_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

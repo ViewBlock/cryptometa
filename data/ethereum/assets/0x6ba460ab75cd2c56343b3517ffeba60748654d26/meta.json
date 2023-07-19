@@ -1,0 +1,17 @@
+{
+  "name": "UpToken",
+  "symbol": "UP",
+  "web": "https://uptoken.org",
+  "explorer": "https://etherscan.io/token/0x6ba460ab75cd2c56343b3517ffeba60748654d26",
+  "links": {
+    "coingecko": "uptoken",
+    "twitter": "uptoken",
+    "facebook": "UpTokenSale",
+    "telegram": "Uptoken",
+    "reddit": "r/UpToken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

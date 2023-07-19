@@ -1,0 +1,17 @@
+{
+  "name": "BitDNS",
+  "symbol": "DNS",
+  "web": "http://www.bitdns.vip",
+  "explorer": "https://etherscan.io/token/0x17c090f9a17e4e5a8ceb23bbe7e7e28e3c4ca196",
+  "links": {
+    "github": "BitDNSFoundation",
+    "coingecko": "bitdns",
+    "twitter": "BitdnsO",
+    "facebook": "BitDNSofficial",
+    "telegram": "bitdnsenglish"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

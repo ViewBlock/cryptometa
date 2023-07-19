@@ -1,0 +1,16 @@
+{
+  "name": "Archer DAO Governance Token",
+  "symbol": "ARCH",
+  "web": "https://archerdao.io",
+  "explorer": "https://etherscan.io/token/0x1f3f9d3068568f8040775be2e8c03c103c61f3af",
+  "links": {
+    "github": "archerdao",
+    "coingecko": "archer-dao-governance-token",
+    "twitter": "archer_dao",
+    "telegram": "archerdao"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

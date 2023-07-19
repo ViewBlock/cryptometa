@@ -1,0 +1,13 @@
+{
+  "name": "IdleUSDC (Yield)",
+  "symbol": "IDLEUSDCYIELD",
+  "web": "https://idle.finance",
+  "explorer": "https://etherscan.io/token/0x5274891bec421b39d23760c04a6755ecb444797c",
+  "links": {
+    "coingecko": "idle-usdc-yield"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

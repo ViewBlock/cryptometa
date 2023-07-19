@@ -1,0 +1,17 @@
+{
+  "name": "Bone",
+  "symbol": "BONE",
+  "web": "https://mydogdata.com",
+  "explorer": "https://etherscan.io/token/0x5C84bc60a796534bfeC3439Af0E6dB616A966335",
+  "links": {
+    "coingecko": "bone",
+    "twitter": "FaceBook4Dog",
+    "facebook": "DogsData",
+    "telegram": "DogDataICO",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

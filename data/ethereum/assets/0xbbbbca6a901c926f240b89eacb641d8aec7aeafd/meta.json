@@ -1,0 +1,17 @@
+{
+  "name": "Loopring",
+  "symbol": "LRC",
+  "web": "https://loopring.org",
+  "explorer": "https://etherscan.io/token/0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+  "links": {
+    "github": "Loopring",
+    "coingecko": "loopring",
+    "twitter": "loopringorg",
+    "telegram": "loopring_en",
+    "reddit": "r/loopringorg"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

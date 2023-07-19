@@ -1,0 +1,17 @@
+{
+  "name": "SeChain",
+  "symbol": "SNN",
+  "web": "https://snn.cash",
+  "explorer": "https://etherscan.io/token/0xF5717f5DF41eA67Ef67DFD3c1d02F9940bcF5d08",
+  "links": {
+    "github": "SeChainSNN",
+    "coingecko": "sechain",
+    "twitter": "sechainsnn",
+    "facebook": "thesechain",
+    "telegram": "SeChain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

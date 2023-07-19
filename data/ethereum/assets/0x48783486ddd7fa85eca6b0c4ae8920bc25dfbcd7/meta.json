@@ -1,0 +1,14 @@
+{
+  "name": "GoMoney2",
+  "symbol": "GOM2",
+  "web": "https://animalgo.io",
+  "explorer": "https://etherscan.io/token/0x48783486ddD7fa85ECa6B0C4AE8920Bc25DfbcD7",
+  "links": {
+    "coingecko": "gomoney2",
+    "telegram": "animalgo89"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

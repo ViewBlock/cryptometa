@@ -1,0 +1,15 @@
+{
+  "name": "Cargo Gems",
+  "symbol": "GEM",
+  "web": "https://gems.cargo.build",
+  "explorer": "https://etherscan.io/token/0x30b1efb052205e6ca3c4888c3c50c5b339cc0602",
+  "links": {
+    "coingecko": "cargo-gems",
+    "twitter": "BuildWithCargo",
+    "telegram": "buildwithcargo"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Minds",
+  "symbol": "MINDS",
+  "web": "https://www.minds.com/token",
+  "explorer": "https://etherscan.io/token/0xb26631c6dda06ad89b93c71400d25692de89c068",
+  "links": {
+    "github": "Minds",
+    "coingecko": "minds",
+    "twitter": "minds"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

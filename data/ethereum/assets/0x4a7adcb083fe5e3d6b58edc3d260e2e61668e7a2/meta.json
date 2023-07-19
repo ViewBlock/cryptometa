@@ -1,0 +1,15 @@
+{
+  "name": "Trade Butler Bot",
+  "symbol": "TBB",
+  "web": "https://tradebutler.tools",
+  "explorer": "https://etherscan.io/token/0x4a7adcb083fe5e3d6b58edc3d260e2e61668e7a2",
+  "links": {
+    "coingecko": "trade-butler-bot",
+    "twitter": "TradeButlerBot",
+    "telegram": "tradebutlerbot_chat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

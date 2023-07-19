@@ -1,0 +1,10 @@
+{
+  "name": "Zoge Coin",
+  "symbol": "ZOGE",
+  "web": "http://zogecoin.xyz/",
+  "supply": "690000000000000000000000000000000",
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

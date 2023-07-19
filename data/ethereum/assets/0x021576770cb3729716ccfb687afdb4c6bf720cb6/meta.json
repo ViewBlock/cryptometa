@@ -1,0 +1,15 @@
+{
+  "name": "Unlimited FiscusFYI",
+  "symbol": "UFFYI",
+  "web": "https://fiscus.fyi",
+  "explorer": "https://etherscan.io/token/0x021576770CB3729716CCfb687afdB4c6bF720CB6",
+  "links": {
+    "github": "Fiscus-fyi",
+    "coingecko": "unlimited-fiscusfyi",
+    "twitter": "fiscusfyi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

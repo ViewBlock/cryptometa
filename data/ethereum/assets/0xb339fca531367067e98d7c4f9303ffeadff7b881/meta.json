@@ -1,0 +1,16 @@
+{
+  "name": "Aludra Network",
+  "symbol": "ALD",
+  "web": "https://aludra.network",
+  "explorer": "https://etherscan.io/token/0xb339FcA531367067e98d7c4f9303Ffeadff7B881",
+  "links": {
+    "github": "aludra-network",
+    "coingecko": "aludra-network",
+    "twitter": "AludraNetwork",
+    "telegram": "AludraNetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

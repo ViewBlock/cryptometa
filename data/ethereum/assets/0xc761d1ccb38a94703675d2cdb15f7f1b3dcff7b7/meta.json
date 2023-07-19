@@ -1,0 +1,16 @@
+{
+  "name": "Hiz Finance",
+  "symbol": "HIZ",
+  "web": "https://hizfinance.com",
+  "explorer": "https://etherscan.io/token/0xc761D1ccb38a94703675d2cDb15F7F1B3dcFF7B7",
+  "links": {
+    "github": "HizFinanceofficial",
+    "coingecko": "hiz-finance",
+    "twitter": "hiz_finance",
+    "telegram": "hizfinance_ID"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

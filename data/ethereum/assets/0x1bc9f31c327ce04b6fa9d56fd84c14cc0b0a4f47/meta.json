@@ -1,0 +1,14 @@
+{
+  "name": "Hygenercoin",
+  "symbol": "HG",
+  "web": "http://www.hygenercoin.com",
+  "explorer": "https://etherscan.io/token/0x1bc9f31c327ce04b6fa9d56fd84c14cc0b0a4f47",
+  "links": {
+    "coingecko": "hygenercoin",
+    "facebook": "hygener"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

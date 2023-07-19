@@ -1,0 +1,16 @@
+{
+  "name": "Rabbit Coin",
+  "symbol": "BRB",
+  "web": "https://bitrabbit.io",
+  "explorer": "https://etherscan.io/token/0x61d24aabb3e5e800d8f3d3d43dcbd66ae6cab51e",
+  "links": {
+    "coingecko": "rabbit-coin",
+    "twitter": "Bitrabbit_Team",
+    "facebook": "BitRabbitTeam",
+    "telegram": "bitrabbit_en"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

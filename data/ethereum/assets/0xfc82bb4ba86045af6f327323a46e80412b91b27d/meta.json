@@ -1,0 +1,15 @@
+{
+  "name": "Prometeus",
+  "symbol": "PROM",
+  "web": "https://prometeus.io",
+  "explorer": "https://etherscan.io/token/0xfc82bb4ba86045af6f327323a46e80412b91b27d",
+  "links": {
+    "coingecko": "prometeus",
+    "twitter": "prometeusnet",
+    "telegram": "promnetwork"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

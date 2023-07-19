@@ -1,0 +1,15 @@
+{
+  "name": "LGCY Network",
+  "symbol": "LGCY",
+  "web": "https://lgcy.network",
+  "explorer": "https://etherscan.io/token/0xae697f994fc5ebc000f8e22ebffee04612f98a0d",
+  "links": {
+    "coingecko": "lgcy-network",
+    "twitter": "LGCYNetwork",
+    "telegram": "LGCYNetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

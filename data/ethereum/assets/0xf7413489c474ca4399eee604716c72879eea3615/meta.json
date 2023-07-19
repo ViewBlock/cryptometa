@@ -1,0 +1,15 @@
+{
+  "name": "APYSwap",
+  "symbol": "APYS",
+  "web": "https://apyswap.com",
+  "explorer": "https://etherscan.io/token/0xf7413489c474ca4399eee604716c72879eea3615",
+  "links": {
+    "coingecko": "apyswap",
+    "twitter": "apyswap",
+    "telegram": "apyswapcom"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "SuperFarm",
+  "symbol": "SUPER",
+  "web": "http://superfarm.io",
+  "explorer": "https://etherscan.io/token/0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55",
+  "links": {
+    "coingecko": "superfarm",
+    "twitter": "SuperFarmDao",
+    "telegram": "SuperFarmDAO"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

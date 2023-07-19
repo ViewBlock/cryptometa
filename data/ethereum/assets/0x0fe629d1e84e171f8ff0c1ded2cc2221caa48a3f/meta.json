@@ -1,0 +1,14 @@
+{
+  "name": "NFTX Hashmasks Index",
+  "symbol": "MASK",
+  "web": "https://nftx.org/#/fund/20",
+  "explorer": "https://etherscan.io/token/0x0fe629d1e84e171f8ff0c1ded2cc2221caa48a3f",
+  "links": {
+    "coingecko": "nftx-hashmasks-index",
+    "twitter": "nftx_"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

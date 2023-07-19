@@ -1,0 +1,13 @@
+{
+  "name": "StarkNet.py",
+  "description": "Python SDK for StarkNet",
+  "categories": [
+    "tools"
+  ],
+  "web": "https://starknetpy.readthedocs.io/en/latest",
+  "links": {
+    "github": "https://github.com/software-mansion/starknet.py"
+  },
+  "gen": {},
+  "key": "starknet-py"
+}

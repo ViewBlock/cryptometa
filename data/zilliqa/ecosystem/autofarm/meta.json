@@ -1,0 +1,15 @@
+{
+  "name": "Autofarm",
+  "description": "A yield optimiser on Binance Smart Chain that added BNB/ZIL LP vault.",
+  "web": "https://autofarm.network",
+  "links": {
+    "twitter": "https://twitter.com/autofarmnetwork"
+  },
+  "categories": [
+    "defi"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "autofarm"
+}

@@ -1,0 +1,13 @@
+{
+  "symbol": "uMASK",
+  "name": "Hashmask",
+  "decimals": 18,
+  "description": "The largest collection of Hashmasks on the market including unique and extra rare pieces.",
+  "gen": {
+    "logo": "logo.svg",
+    "score": 5
+  },
+  "links": {
+    "twitter": "https://twitter.com/FreyaDAO"
+  }
+}

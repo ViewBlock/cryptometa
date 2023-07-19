@@ -1,0 +1,16 @@
+{
+  "name": "Mothership",
+  "symbol": "MSP",
+  "web": "https://mothership.cx",
+  "explorer": "https://etherscan.io/token/0x68aa3f232da9bdc2343465545794ef3eea5209bd",
+  "links": {
+    "github": "mothership-ec",
+    "coingecko": "mothership",
+    "twitter": "MothershipCX",
+    "telegram": "mothershipcx"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

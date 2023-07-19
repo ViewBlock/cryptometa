@@ -1,0 +1,17 @@
+{
+  "name": "Vaiot",
+  "symbol": "VAI",
+  "web": "https://vaiot.ai",
+  "explorer": "https://etherscan.io/token/0x9F801c1F02AF03cC240546DadEf8e56Cd46EA2E9",
+  "links": {
+    "github": "VAIoT",
+    "coingecko": "vaiot",
+    "twitter": "vaiot_ltd",
+    "telegram": "VAIOT_Community"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Hybrix",
+  "symbol": "HY",
+  "web": "https://hybrix.io",
+  "explorer": "https://etherscan.io/token/0x9b53e429b0badd98ef7f01f03702986c516a5715",
+  "links": {
+    "github": "hybrix-io",
+    "coingecko": "hybrix",
+    "twitter": "hybrix_io",
+    "telegram": "hybrixgroup"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

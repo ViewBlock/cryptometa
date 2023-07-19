@@ -1,0 +1,14 @@
+{
+  "name": "Zilliqa Index",
+  "symbol": "ZILLEX",
+  "web": "https://zilall.com",
+  "publicTeam": true,
+  "links": {
+    "twitter": "https://twitter.com/zil_all",
+    "telegram": "https://t.me/zilall_community"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 29
+  }
+}

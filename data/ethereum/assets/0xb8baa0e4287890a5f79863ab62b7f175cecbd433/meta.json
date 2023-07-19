@@ -1,0 +1,16 @@
+{
+  "name": "Swerve",
+  "symbol": "SWRV",
+  "web": "https://swerve.fi",
+  "explorer": "https://etherscan.io/token/0xb8baa0e4287890a5f79863ab62b7f175cecbd433",
+  "links": {
+    "github": "SwerveFinance",
+    "coingecko": "swerve-dao",
+    "twitter": "SwerveFinance",
+    "telegram": "swervefi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Aave",
+  "symbol": "AAVE-8FA",
+  "explorer": "https://explorer.binance.org/asset/AAVE-8FA",
+  "links": {
+    "research": "https://research.binance.com/en/projects/aave-protocol"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

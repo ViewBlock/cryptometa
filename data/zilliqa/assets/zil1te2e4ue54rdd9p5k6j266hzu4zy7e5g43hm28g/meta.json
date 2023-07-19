@@ -1,0 +1,11 @@
+{
+  "name": "Love Token",
+  "symbol": "LOVE",
+  "web": "https://lovetokencoin.com",
+  "decimals": "2",
+  "supply": "300000000000000000000000",
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "YeaFinance",
+  "symbol": "YEA",
+  "web": "http://yea.finance",
+  "explorer": "https://etherscan.io/token/0x40b92fCE37CEfA03baf7603e7913C1d34dD1a4EC",
+  "links": {
+    "coingecko": "yeafinance",
+    "twitter": "YeaFinace",
+    "telegram": "yeafinace"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

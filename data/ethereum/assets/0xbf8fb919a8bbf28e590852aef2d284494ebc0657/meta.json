@@ -1,0 +1,16 @@
+{
+  "name": "ABCC Token",
+  "symbol": "AT",
+  "web": "https://abcc.com",
+  "explorer": "https://etherscan.io/token/0xbf8fb919a8bbf28e590852aef2d284494ebc0657",
+  "links": {
+    "coingecko": "abcc-token",
+    "twitter": "ABCC_Exchange",
+    "facebook": "ABCC-Exchange-558472047871367",
+    "telegram": "abcc_en"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

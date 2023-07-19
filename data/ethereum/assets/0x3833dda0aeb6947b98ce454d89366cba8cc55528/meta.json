@@ -1,0 +1,18 @@
+{
+  "name": "SophiaTX",
+  "symbol": "SPHTX",
+  "web": "https://www.sophiatx.com",
+  "explorer": "https://etherscan.io/token/0x3833dda0aeb6947b98ce454d89366cba8cc55528",
+  "links": {
+    "github": "SophiaTX",
+    "coingecko": "sophiatx",
+    "twitter": "sophia_tx_",
+    "facebook": "SophiaTXC",
+    "telegram": "sophia_TX_com",
+    "reddit": "r/SophiaTXproject"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

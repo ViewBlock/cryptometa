@@ -1,0 +1,17 @@
+{
+  "name": "AdEx",
+  "symbol": "ADX",
+  "web": "https://www.adex.network",
+  "explorer": "https://etherscan.io/token/0xADE00C28244d5CE17D72E40330B1c318cD12B7c3",
+  "links": {
+    "github": "AdExNetwork",
+    "coingecko": "adex",
+    "twitter": "AdEx_Network",
+    "telegram": "AdExNetworkOfficial",
+    "reddit": "r/AdEx"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "DEFI Top 5 Index",
+  "symbol": "DEFI5",
+  "web": "https://indexed.finance/index/defi5",
+  "explorer": "https://etherscan.io/token/0xfa6de2697d59e88ed7fc4dfe5a33dac43565ea41",
+  "links": {
+    "github": "indexed-finance",
+    "coingecko": "defi-top-5-tokens-index",
+    "twitter": "ndxfi",
+    "telegram": "ndxfi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

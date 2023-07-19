@@ -1,0 +1,16 @@
+{
+  "name": "LBRY Credits",
+  "symbol": "LBC",
+  "web": "https://lbry.com",
+  "explorer": "https://explorer.lbry.com",
+  "links": {
+    "github": "lbryio",
+    "coingecko": "lbry-credits",
+    "twitter": "lbrycom",
+    "facebook": "lbrycom",
+    "reddit": "r/lbry"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

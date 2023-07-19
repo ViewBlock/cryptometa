@@ -1,0 +1,17 @@
+{
+  "name": "Shivers",
+  "symbol": "SHVR",
+  "web": "http://shivers.io",
+  "explorer": "https://etherscan.io/token/0xd5f788ca0de8f17cbde1d1e35aa8f005a87fa00b",
+  "links": {
+    "github": "ShiversToken",
+    "coingecko": "shivers",
+    "twitter": "ShiversToken",
+    "facebook": "InfamousHorror",
+    "telegram": "shiversio"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

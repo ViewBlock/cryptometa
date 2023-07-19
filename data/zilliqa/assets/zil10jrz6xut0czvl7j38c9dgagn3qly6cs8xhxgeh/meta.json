@@ -1,0 +1,11 @@
+{
+  "name": "Elements of Zilliqa",
+  "symbol": "EoZ",
+  "links": {
+    "twitter": "https://twitter.com/elements_of_zil"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

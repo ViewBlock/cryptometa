@@ -1,0 +1,17 @@
+{
+  "name": "Cobinhood",
+  "symbol": "COB",
+  "web": "https://www.cobinhood.com",
+  "explorer": "https://etherscan.io/token/0xb2f7eb1f2c37645be61d73953035360e768d81e6",
+  "links": {
+    "github": "cobinhood",
+    "coingecko": "cobinhood",
+    "twitter": "cobinhood",
+    "telegram": "cobinhood",
+    "reddit": "r/cobinhood"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

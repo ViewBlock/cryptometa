@@ -1,0 +1,16 @@
+{
+  "name": "OpenAlexa Protocol",
+  "symbol": "OAP",
+  "web": "https://openalexa.com",
+  "explorer": "https://etherscan.io/token/0x1788430620960f9a70e3dc14202a3a35dde1a316",
+  "links": {
+    "coingecko": "openalexa-protocol",
+    "twitter": "OpenAlexa",
+    "facebook": "OpenAlexaio",
+    "telegram": "OpenAlexaInfo"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

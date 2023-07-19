@@ -1,0 +1,15 @@
+{
+  "name": "ETHPlus",
+  "symbol": "ETHP",
+  "web": "https://ethplus.net",
+  "explorer": "https://etherscan.io/token/0xEED736b2b809550D89A941C2005dE93588c628e2",
+  "links": {
+    "coingecko": "ethplus",
+    "facebook": "ETHplus_-101963788197476",
+    "telegram": "ethplusLA"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

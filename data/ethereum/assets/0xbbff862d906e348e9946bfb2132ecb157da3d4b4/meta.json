@@ -1,0 +1,16 @@
+{
+  "name": "Sharder protocol",
+  "symbol": "SS",
+  "web": "https://sharder.org",
+  "explorer": "https://etherscan.io/token/0xbbff862d906e348e9946bfb2132ecb157da3d4b4",
+  "links": {
+    "github": "Sharders",
+    "coingecko": "sharder-protocol",
+    "twitter": "SharderChain",
+    "telegram": "sharder_talk"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

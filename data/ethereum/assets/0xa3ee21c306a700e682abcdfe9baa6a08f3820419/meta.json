@@ -1,0 +1,17 @@
+{
+  "name": "Creditcoin",
+  "symbol": "CTC",
+  "web": "https://creditcoin.org",
+  "explorer": "https://etherscan.io/token/0xa3ee21c306a700e682abcdfe9baa6a08f3820419",
+  "links": {
+    "github": "gluwa",
+    "coingecko": "creditcoin-2",
+    "twitter": "crecfoundation",
+    "facebook": "gluwa",
+    "telegram": "CreditcoinOfficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

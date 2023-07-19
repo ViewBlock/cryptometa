@@ -1,0 +1,18 @@
+{
+  "name": "CRDT",
+  "symbol": "CRDT",
+  "web": "https://crdt.io",
+  "explorer": "https://etherscan.io/token/0xDaab5E695bb0E8Ce8384ee56BA38fA8290618e52",
+  "links": {
+    "github": "CRDTOfficial",
+    "coingecko": "crdt",
+    "twitter": "CRDTpay",
+    "facebook": "CRDT-Token-1971421106483021",
+    "telegram": "crdtcommunity",
+    "reddit": "r/CRDT"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

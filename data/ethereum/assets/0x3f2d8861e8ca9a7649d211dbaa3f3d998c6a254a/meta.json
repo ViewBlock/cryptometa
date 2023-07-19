@@ -1,0 +1,17 @@
+{
+  "name": "Bullers Coin",
+  "symbol": "BLCC",
+  "web": "https://blccoin.live",
+  "explorer": "https://etherscan.io/token/0x3f2d8861e8ca9a7649d211dbaa3f3d998c6a254a",
+  "links": {
+    "github": "blccoin-g",
+    "coingecko": "bullers-coin",
+    "twitter": "CoinBullers",
+    "facebook": "Bullers-Coin-112778187044624",
+    "telegram": "blchelp"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

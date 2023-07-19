@@ -1,0 +1,15 @@
+{
+  "name": "xSNXa",
+  "symbol": "XSNXA",
+  "web": "https://xtoken.market",
+  "explorer": "https://etherscan.io/token/0x2367012aB9c3da91290F71590D5ce217721eEfE4",
+  "links": {
+    "github": "xtokenmarket",
+    "coingecko": "xsnx",
+    "twitter": "xtokenmarket"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

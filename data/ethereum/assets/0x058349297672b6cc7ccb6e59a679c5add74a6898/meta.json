@@ -1,0 +1,13 @@
+{
+  "name": "Ethereum Vault",
+  "symbol": "ETHV",
+  "web": "https://ethvault.live",
+  "explorer": "https://etherscan.io/token/0x058349297672b6cc7ccb6e59a679c5add74a6898",
+  "links": {
+    "coingecko": "ethereum-vault"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

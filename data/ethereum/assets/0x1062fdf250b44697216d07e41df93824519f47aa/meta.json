@@ -1,0 +1,16 @@
+{
+  "name": "Cryptolandy",
+  "symbol": "CRYPL",
+  "web": "https://cryptolandy.com",
+  "explorer": "https://etherscan.io/token/0x1062fdf250b44697216d07e41df93824519f47aa",
+  "links": {
+    "coingecko": "cryptolandy",
+    "twitter": "cryptolandy1",
+    "facebook": "cryptolandy",
+    "telegram": "cryptolandy"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

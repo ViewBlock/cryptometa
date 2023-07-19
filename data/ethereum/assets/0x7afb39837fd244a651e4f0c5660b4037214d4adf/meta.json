@@ -1,0 +1,15 @@
+{
+  "name": "Soda Token",
+  "symbol": "SODA",
+  "web": "https://soda.finance",
+  "explorer": "https://etherscan.io/token/0x7AfB39837Fd244A651e4F0C5660B4037214D4aDF",
+  "links": {
+    "github": "soda-finance",
+    "coingecko": "soda-token",
+    "twitter": "soda_finance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Passport Finance",
+  "symbol": "PASS",
+  "web": "https://passport.finance",
+  "explorer": "https://etherscan.io/token/0x6C4522F0035bED2180B40f4c5d9DbAab64B41325",
+  "links": {
+    "coingecko": "passport-finance",
+    "twitter": "passportfin",
+    "telegram": "passportfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

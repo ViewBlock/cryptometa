@@ -1,0 +1,17 @@
+{
+  "name": "SRH",
+  "symbol": "SRH",
+  "web": "https://www.srcoin.info",
+  "explorer": "https://etherscan.io/token/0xc350e846e2c57f9eece90febc253d14c8080871b",
+  "links": {
+    "github": "srcoin-ico",
+    "coingecko": "srcoin",
+    "twitter": "SRCoin_ICO",
+    "facebook": "SRCOIN-ICO-161224754498824",
+    "telegram": "SRCOIN_EN"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

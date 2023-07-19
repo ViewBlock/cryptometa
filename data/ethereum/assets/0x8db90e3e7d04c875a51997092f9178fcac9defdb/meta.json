@@ -1,0 +1,16 @@
+{
+  "name": "Portal",
+  "symbol": "PORTAL",
+  "web": "http://www.project-portal.io",
+  "explorer": "https://etherscan.io/token/0x8DB90E3e7D04C875a51997092f9178FCac9DefdB",
+  "links": {
+    "coingecko": "portal",
+    "twitter": "contact2portal",
+    "facebook": "Project-Portal-1638917542833085",
+    "telegram": "ProjectportalEN"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

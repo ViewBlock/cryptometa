@@ -1,0 +1,17 @@
+{
+  "name": "Kyber Network",
+  "symbol": "KNC",
+  "web": "https://kyber.network",
+  "explorer": "https://etherscan.io/token/0xdd974d5c2e2928dea5f71b9825b8b646686bd200",
+  "links": {
+    "github": "kybernetwork",
+    "coingecko": "kyber-network",
+    "twitter": "kybernetwork",
+    "telegram": "officialkybernetwork",
+    "reddit": "r/kybernetwork"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

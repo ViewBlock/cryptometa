@@ -1,0 +1,17 @@
+{
+  "name": "XMax",
+  "symbol": "XMX",
+  "web": "http://www.xmx.com",
+  "explorer": "https://etherscan.io/token/0x0f8c45b896784a1e408526b9300519ef8660209c",
+  "links": {
+    "coingecko": "xmax",
+    "twitter": "XMAX_XMX",
+    "facebook": "XMAXTokenXMX",
+    "telegram": "XMAX_XMX",
+    "reddit": "r/XMax_Blockchain"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "CoinMeet",
+  "symbol": "MEET",
+  "web": "https://coinmeet.io",
+  "explorer": "https://etherscan.io/token/0xf77f4810e7521298a6e2a04f82a6c3492706d74f",
+  "links": {
+    "coingecko": "coinmeet",
+    "twitter": "CoinMeetCoin",
+    "telegram": "coinmeet"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

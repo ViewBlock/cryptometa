@@ -1,0 +1,18 @@
+{
+  "name": "renBCH",
+  "symbol": "RENBCH",
+  "web": "https://renproject.io",
+  "explorer": "https://etherscan.io/token/0x459086f2376525bdceba5bdda135e4e9d3fef5bf",
+  "links": {
+    "github": "renproject",
+    "coingecko": "renbch",
+    "twitter": "renprotocol",
+    "telegram": "renproject",
+    "reddit": "r/RenProject"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

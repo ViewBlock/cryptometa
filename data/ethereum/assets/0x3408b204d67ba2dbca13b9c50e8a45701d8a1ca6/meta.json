@@ -1,0 +1,16 @@
+{
+  "name": "Sendvibe",
+  "symbol": "SVB",
+  "web": "https://sendvibe.cash",
+  "explorer": "https://etherscan.io/token/0x3408B204d67BA2dBcA13b9C50e8a45701d8a1cA6",
+  "links": {
+    "github": "sendvibe-apps",
+    "coingecko": "sendvibe",
+    "twitter": "sendvibe",
+    "telegram": "sendvibeworldwide"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

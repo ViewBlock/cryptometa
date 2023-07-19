@@ -1,0 +1,15 @@
+{
+  "name": "MetaWhale BTC",
+  "symbol": "MWBTC",
+  "web": "https://metawhale.io",
+  "explorer": "https://etherscan.io/token/0x3521c85C3000bff57Eac04489EB05BbD3193A531",
+  "links": {
+    "coingecko": "metawhale-btc",
+    "twitter": "Meta_Whale",
+    "telegram": "defilabs_community"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

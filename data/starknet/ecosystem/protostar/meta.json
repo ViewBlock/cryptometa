@@ -1,0 +1,16 @@
+{
+  "name": "Protostar",
+  "description": "StarkNet smart contract development toolchain",
+  "categories": [
+    "tools"
+  ],
+  "web": "https://docs.swmansion.com/protostar",
+  "links": {
+    "github": "https://github.com/software-mansion/protostar",
+    "discord": "https://discord.com/channels/793094838509764618/964116575387021413"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "protostar"
+}

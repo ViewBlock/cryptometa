@@ -1,0 +1,17 @@
+{
+  "name": "Bounty0x",
+  "symbol": "BNTY",
+  "web": "https://bounty0x.io",
+  "explorer": "https://etherscan.io/token/0xd2d6158683aee4cc838067727209a0aaf4359de3",
+  "links": {
+    "github": "bounty0x",
+    "coingecko": "bounty0x",
+    "twitter": "bounty0x",
+    "facebook": "bounty0x",
+    "reddit": "r/bounty0x"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

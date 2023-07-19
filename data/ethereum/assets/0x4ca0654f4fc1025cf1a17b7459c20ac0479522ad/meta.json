@@ -1,0 +1,16 @@
+{
+  "name": "Rigel Finance",
+  "symbol": "RIGEL",
+  "web": "https://rigel.finance",
+  "explorer": "https://etherscan.io/token/0x4ca0654f4fc1025cf1a17b7459c20ac0479522ad",
+  "links": {
+    "github": "RigelFinance",
+    "coingecko": "rigel-finance",
+    "twitter": "RigelFinance",
+    "telegram": "RigelFinance1"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

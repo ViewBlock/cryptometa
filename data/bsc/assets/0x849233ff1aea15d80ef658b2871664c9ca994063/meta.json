@@ -1,0 +1,11 @@
+{
+  "name": "Soak Token",
+  "symbol": "SOAK",
+  "web": "https://sponge.finance",
+  "explorer": "https://bscscan.com/token/0x849233FF1aea15D80EF658B2871664C9Ca994063",
+  "links": {
+    "coingecko": "soak-token",
+    "twitter": "nojobfinance",
+    "telegram": "SpongeFinanceChat"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Jurasaur",
+  "symbol": "JREX",
+  "web": "https://www.jura.network",
+  "explorer": "https://etherscan.io/token/0x638155f4bd8f85d401da32498d8866ee39a150b8",
+  "links": {
+    "coingecko": "jurasaur",
+    "twitter": "juraprotocol",
+    "telegram": "juranetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

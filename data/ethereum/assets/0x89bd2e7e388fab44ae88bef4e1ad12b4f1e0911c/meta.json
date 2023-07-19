@@ -1,0 +1,15 @@
+{
+  "name": "Peanut",
+  "symbol": "NUX",
+  "web": "https://peanut.trade",
+  "explorer": "https://etherscan.io/token/0x89bd2e7e388fab44ae88bef4e1ad12b4f1e0911c",
+  "links": {
+    "coingecko": "peanut",
+    "twitter": "PeanutTrade",
+    "telegram": "peanuttrade"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

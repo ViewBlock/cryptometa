@@ -1,0 +1,13 @@
+{
+  "name": "Dreamscape",
+  "symbol": "DSC",
+  "web": "https://dreamscape.capital",
+  "explorer": "https://etherscan.io/token/0xf2b87ce9c2ce65e786d6ffee0fdb9629ceff05f2",
+  "links": {
+    "coingecko": "dreamscape"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "EX-MACHINA",
+  "symbol": "EXM",
+  "links": {
+    "twitter": "https://twitter.com/darkula__"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

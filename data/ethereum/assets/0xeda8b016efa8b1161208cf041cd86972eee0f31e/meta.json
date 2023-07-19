@@ -1,0 +1,15 @@
+{
+  "name": "IHT Real Estate Protocol",
+  "symbol": "IHT",
+  "web": "https://ihtcoin.com",
+  "explorer": "https://etherscan.io/token/0xEda8B016efA8b1161208Cf041cD86972eeE0F31E",
+  "links": {
+    "coingecko": "iht-real-estate-protocol",
+    "twitter": "ihtcoin",
+    "telegram": "IHTcoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

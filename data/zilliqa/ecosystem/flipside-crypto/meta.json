@@ -1,0 +1,17 @@
+{
+  "name": "Flipside Crypto",
+  "description": "Provides business intelligence to crypto organisations.",
+  "web": "https://flipsidecrypto.com",
+  "links": {
+    "twitter": "https://twitter.com/flipsidecrypto"
+  },
+  "categories": [
+    "api",
+    "tools"
+  ],
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true
+  },
+  "key": "flipside-crypto"
+}

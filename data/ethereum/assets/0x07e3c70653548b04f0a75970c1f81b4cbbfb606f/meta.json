@@ -1,0 +1,17 @@
+{
+  "name": "Agrello",
+  "symbol": "DLT",
+  "web": "https://www.agrello.org",
+  "explorer": "https://etherscan.io/token/0x07e3c70653548B04f0A75970C1F81B4CBbFB606f",
+  "links": {
+    "github": "Agrello",
+    "coingecko": "agrello",
+    "twitter": "AgrelloOfficial",
+    "facebook": "agrellofoundation",
+    "reddit": "r/agrello"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

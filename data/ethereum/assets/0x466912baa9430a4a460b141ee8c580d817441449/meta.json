@@ -1,0 +1,17 @@
+{
+  "name": "BLOCKMAX",
+  "symbol": "OCB",
+  "web": "https://blockmax.io",
+  "explorer": "https://etherscan.io/token/0x466912baa9430a4a460b141ee8c580d817441449",
+  "links": {
+    "github": "ocbtoken",
+    "coingecko": "blockmax",
+    "twitter": "blockmaxio",
+    "facebook": "blockmaxio",
+    "telegram": "blockmaxio"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Elite Swap",
+  "symbol": "ELT",
+  "web": "https://eliteswap.io",
+  "explorer": "https://etherscan.io/token/0x380291a9a8593b39f123cf39cc1cc47463330b1f",
+  "links": {
+    "github": "EthereumEliteswap",
+    "coingecko": "elite-swap",
+    "twitter": "EliteSwap2020",
+    "telegram": "EliteSwap"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

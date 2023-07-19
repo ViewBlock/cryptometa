@@ -1,0 +1,12 @@
+{
+  "name": "Nile",
+  "description": "CLI tool to develop StarkNet projects written in Cairo",
+  "categories": [
+    "tools"
+  ],
+  "links": {
+    "github": "https://github.com/OpenZeppelin/nile"
+  },
+  "gen": {},
+  "key": "nile"
+}

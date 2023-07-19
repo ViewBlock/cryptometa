@@ -1,0 +1,14 @@
+{
+  "name": "zil-cli",
+  "description": "Command Line Interface for Zilliqa Blockchain.",
+  "web": "https://zilcli.app/#",
+  "links": {},
+  "categories": [
+    "sdk",
+    "tools"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "zil-cli"
+}

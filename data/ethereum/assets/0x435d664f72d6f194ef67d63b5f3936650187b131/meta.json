@@ -1,0 +1,15 @@
+{
+  "name": "Pocket Node",
+  "symbol": "NODE",
+  "web": "https://www.pocketnode.net",
+  "explorer": "https://etherscan.io/token/0x435d664F72D6F194ef67d63B5f3936650187b131",
+  "links": {
+    "coingecko": "pocket-node",
+    "twitter": "pocketnodes",
+    "telegram": "Pocketnode_techsupport"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

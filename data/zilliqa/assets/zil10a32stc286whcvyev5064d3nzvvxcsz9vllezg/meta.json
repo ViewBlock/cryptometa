@@ -1,0 +1,14 @@
+{
+  "name": "The 4th Century Boy",
+  "symbol": "T4CB",
+  "links": {
+    "twitter": "https://twitter.com/darkula__"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

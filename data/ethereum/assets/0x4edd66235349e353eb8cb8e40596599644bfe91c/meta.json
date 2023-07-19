@@ -1,0 +1,17 @@
+{
+  "name": "Vanywhere",
+  "symbol": "VANY",
+  "web": "https://vanywhere.com",
+  "explorer": "https://etherscan.io/token/0x4edd66235349e353eb8cb8e40596599644bfe91c",
+  "links": {
+    "coingecko": "vanywhere",
+    "twitter": "vVanywhere",
+    "facebook": "vVanywhere",
+    "telegram": "vanywhere",
+    "reddit": "r/vanywhereapp"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

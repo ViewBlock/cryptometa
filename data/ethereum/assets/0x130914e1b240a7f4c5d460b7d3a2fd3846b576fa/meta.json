@@ -1,0 +1,17 @@
+{
+  "name": "Aureus Nummus Gold",
+  "symbol": "ANG",
+  "web": "https://www.an.gold",
+  "explorer": "https://etherscan.io/token/0x130914E1B240a7F4c5D460B7d3a2Fd3846b576fa",
+  "links": {
+    "github": "AureusNummusGold",
+    "coingecko": "aureus-nummus-gold",
+    "twitter": "ANummus",
+    "facebook": "aureusnummusgold",
+    "telegram": "AureusNummusGold"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

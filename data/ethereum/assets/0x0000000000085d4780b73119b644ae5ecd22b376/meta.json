@@ -1,0 +1,16 @@
+{
+  "name": "TrueUSD",
+  "symbol": "TUSD",
+  "web": "https://www.trusttoken.com",
+  "explorer": "https://etherscan.io/token/0x0000000000085d4780B73119b644AE5ecd22b376",
+  "links": {
+    "github": "trusttoken",
+    "coingecko": "true-usd",
+    "twitter": "TrustToken",
+    "facebook": "TrustToken"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

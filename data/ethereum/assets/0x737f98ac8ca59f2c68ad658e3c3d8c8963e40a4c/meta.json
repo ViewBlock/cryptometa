@@ -1,0 +1,17 @@
+{
+  "name": "Amon",
+  "symbol": "AMN",
+  "web": "https://amon.tech",
+  "explorer": "https://etherscan.io/token/0x737f98ac8ca59f2c68ad658e3c3d8c8963e40a4c",
+  "links": {
+    "github": "amontech",
+    "coingecko": "amon",
+    "twitter": "amonwallet",
+    "facebook": "amonwallet",
+    "telegram": "amontech"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

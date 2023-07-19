@@ -1,0 +1,15 @@
+{
+  "name": "Transmute",
+  "symbol": "XPB",
+  "web": "https://transmute.fi",
+  "explorer": "https://etherscan.io/token/0xbC81BF5B3173BCCDBE62dba5f5b695522aD63559",
+  "links": {
+    "coingecko": "transmute",
+    "twitter": "https://twitter.com/TransmuteFi",
+    "telegram": "transmuteprotocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

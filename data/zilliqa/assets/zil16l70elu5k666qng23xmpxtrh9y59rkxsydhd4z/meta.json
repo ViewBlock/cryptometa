@@ -1,0 +1,13 @@
+{
+  "name": "YLAB-ZILLIQA-LIMITED-EDITION-NFT",
+  "symbol": "YLAB-ZIL",
+  "web": "https://www.ylab.sg/",
+  "links": {
+    "twitter": "https://twitter.com/natgallerysg",
+    "linkedin": "https://www.linkedin.com/company/the-national-art-gallery-singapore/"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 14
+  }
+}

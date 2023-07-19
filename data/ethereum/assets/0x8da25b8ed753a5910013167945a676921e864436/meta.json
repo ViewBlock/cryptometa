@@ -1,0 +1,16 @@
+{
+  "name": "Bellevue Network",
+  "symbol": "BLV",
+  "web": "https://www.bellevuenetwork.io",
+  "explorer": "https://etherscan.io/token/0x8DA25B8eD753a5910013167945A676921e864436",
+  "links": {
+    "github": "BellevueNetwork",
+    "coingecko": "bellevue-network",
+    "twitter": "official_blv",
+    "telegram": "blvofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

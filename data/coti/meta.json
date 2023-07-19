@@ -1,0 +1,17 @@
+{
+  "name": "COTI",
+  "symbol": "COTI",
+  "web": "https://coti.io",
+  "explorer": "https://explorer.coti.io",
+  "links": {
+    "github": "coti-io",
+    "coingecko": "coti",
+    "twitter": "COTInetwork",
+    "facebook": "COTInetwork",
+    "telegram": "COTInetwork",
+    "reddit": "r/cotinetwork"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

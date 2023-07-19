@@ -1,0 +1,24 @@
+{
+  "name": "Meson Network",
+  "symbol": "MESON",
+  "web": "https://meson.network",
+  "description": "Bandwidth trading platform built on Blockchain",
+  "categories": [
+    "marketplace"
+  ],
+  "links": {
+    "github": "daqnext",
+    "twitter": "NetworkMeson",
+    "medium": "https://medium.com/meson-network",
+    "telegram": "mesonnetwork",
+    "linkedin": "meson-network",
+    "discord": "https://discord.gg/z6YfSHDkmS"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "meson"
+}

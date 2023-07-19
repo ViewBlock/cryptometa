@@ -1,0 +1,16 @@
+{
+  "name": "Bolt",
+  "symbol": "BOLT",
+  "web": "https://bolt.global",
+  "explorer": "https://etherscan.io/token/0xd5930c307d7395ff807f2921f12c5eb82131a789",
+  "links": {
+    "github": "BOLT-Ops",
+    "coingecko": "bolt",
+    "twitter": "Bolt_Global",
+    "telegram": "BoltGlobal"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

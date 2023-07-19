@@ -1,0 +1,17 @@
+{
+  "name": "EnviZion",
+  "description": "EnviZion is a project built on Zilliqa that helps people create new meta universes through NFTs.",
+  "web": "https://envizion.world",
+  "links": {
+    "twitter": "https://twitter.com/EnviZionWorld"
+  },
+  "categories": [
+    "nft",
+    "metaverse",
+    "dao"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "envizion"
+}

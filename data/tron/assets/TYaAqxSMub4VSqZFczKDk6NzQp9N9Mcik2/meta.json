@@ -1,0 +1,16 @@
+{
+  "name": "Score Milk",
+  "symbol": "MILK",
+  "web": "https://scoremilk.com",
+  "explorer": "https://tronscan.org/#/token20/TYaAqxSMub4VSqZFczKDk6NzQp9N9Mcik2",
+  "links": {
+    "github": "microbecode",
+    "coingecko": "score-milk",
+    "twitter": "scoremilk",
+    "telegram": "scoremilk"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Stake DAO",
+  "symbol": "SDT",
+  "web": "https://stakedao.org",
+  "explorer": "https://etherscan.io/token/0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f",
+  "links": {
+    "coingecko": "stake-dao",
+    "twitter": "StakedaoHQ",
+    "telegram": "StakedaoHQ"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

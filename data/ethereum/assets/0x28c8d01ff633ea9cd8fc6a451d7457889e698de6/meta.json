@@ -1,0 +1,14 @@
+{
+  "name": "Ethereum Gold",
+  "symbol": "ETG",
+  "web": "https://www.etgproject.org",
+  "explorer": "https://etherscan.io/token/0x28c8d01ff633ea9cd8fc6a451d7457889e698de6",
+  "links": {
+    "coingecko": "ethereum-gold",
+    "twitter": "ethereumgoldetg"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

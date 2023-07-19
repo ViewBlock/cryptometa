@@ -1,0 +1,13 @@
+{
+  "name": "Universal Marketing Coin",
+  "symbol": "UMC",
+  "web": "https://umc.digital",
+  "explorer": "https://etherscan.io/token/0xd3EC111e4E33C0a1c32e3AD0BE976214d30Dc37E",
+  "links": {
+    "coingecko": "universal-marketing-coin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

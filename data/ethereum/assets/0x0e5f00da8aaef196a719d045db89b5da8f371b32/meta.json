@@ -1,0 +1,17 @@
+{
+  "name": "Connectome",
+  "symbol": "CNTM",
+  "web": "http://www.connectome.one",
+  "explorer": "https://etherscan.io/token/0x0e5f00da8aaef196a719d045db89b5da8f371b32",
+  "links": {
+    "github": "connectometo",
+    "coingecko": "connectome",
+    "twitter": "Connectome_CNTM",
+    "facebook": "connectome.cntm.7",
+    "telegram": "connectomegroup"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

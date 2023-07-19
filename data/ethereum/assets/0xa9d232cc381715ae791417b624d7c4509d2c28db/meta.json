@@ -1,0 +1,16 @@
+{
+  "name": "Basis Gold Share",
+  "symbol": "BSGS",
+  "web": "https://basis.gold",
+  "explorer": "https://etherscan.io/token/0xA9d232cC381715aE791417B624D7C4509D2c28DB",
+  "links": {
+    "github": "build-finance",
+    "coingecko": "basis-gold-share",
+    "twitter": "GoldBasis",
+    "telegram": "GoldBasis"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

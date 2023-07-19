@@ -1,0 +1,13 @@
+{
+  "name": "Huobi Litecoin",
+  "symbol": "HLTC",
+  "web": "https://www.htokens.finance/en-us",
+  "explorer": "https://etherscan.io/token/0x2c000c0093de75a8fa2fccd3d97b314e20b431c3",
+  "links": {
+    "coingecko": "huobi-litecoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

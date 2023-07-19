@@ -1,0 +1,16 @@
+{
+  "name": "Shroom.Finance",
+  "symbol": "SHROOM",
+  "web": "https://shroom.finance",
+  "explorer": "https://etherscan.io/token/0xed0439eacf4c4965ae4613d77a5c2efe10e5f183",
+  "links": {
+    "github": "shroom-finance",
+    "coingecko": "shroom-finance",
+    "twitter": "ShroomFinance",
+    "telegram": "shroomfinance"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

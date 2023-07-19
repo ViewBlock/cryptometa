@@ -1,0 +1,16 @@
+{
+  "name": "Netkoin",
+  "symbol": "NTK",
+  "web": "https://www.netkoin.com",
+  "explorer": "https://etherscan.io/token/0x5d4d57cd06fa7fe99e26fdc481b468f77f05073c",
+  "links": {
+    "coingecko": "netkoin",
+    "twitter": "netkoin",
+    "facebook": "Netkoin",
+    "telegram": "netkoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

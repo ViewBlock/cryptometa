@@ -1,0 +1,15 @@
+{
+  "name": "Wrapped Terra",
+  "symbol": "LUNA",
+  "web": "https://terra.money",
+  "explorer": "https://etherscan.io/token/0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9",
+  "links": {
+    "coingecko": "wrapped-terra",
+    "twitter": "terra_money",
+    "telegram": "TerraLunaChat"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

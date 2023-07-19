@@ -1,0 +1,16 @@
+{
+  "name": "Offshift",
+  "symbol": "XFT",
+  "web": "https://offshift.io",
+  "explorer": "https://etherscan.io/token/0xabe580e7ee158da464b51ee1a83ac0289622e6be",
+  "links": {
+    "github": "offshift-dev",
+    "coingecko": "offshift",
+    "twitter": "OffshiftXFT",
+    "telegram": "offshiftxft"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

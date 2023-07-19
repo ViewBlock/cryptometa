@@ -1,0 +1,16 @@
+{
+  "name": "DAO Maker",
+  "symbol": "DAO",
+  "web": "https://daomaker.com",
+  "explorer": "https://etherscan.io/token/0x0f51bb10119727a7e5ea3538074fb341f56b09ad",
+  "links": {
+    "github": "daomaker",
+    "coingecko": "dao-maker",
+    "twitter": "thedaomaker",
+    "telegram": "daomaker"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

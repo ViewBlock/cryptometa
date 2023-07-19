@@ -1,0 +1,14 @@
+{
+  "name": "NEW HMB",
+  "symbol": "HMB 2022",
+  "links": {
+    "twitter": "https://twitter.com/darkula_"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

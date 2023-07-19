@@ -1,0 +1,17 @@
+{
+  "name": "Toast.finance",
+  "symbol": "HOUSE",
+  "web": "https://toast.finance",
+  "explorer": "https://etherscan.io/token/0x19810559df63f19cfe88923313250550edadb743",
+  "links": {
+    "github": "Toast-finance",
+    "coingecko": "toast-finance",
+    "twitter": "toastfinance",
+    "telegram": "toastfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

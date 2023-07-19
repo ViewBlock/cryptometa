@@ -1,0 +1,16 @@
+{
+  "name": "IYF.finance",
+  "symbol": "IYF",
+  "web": "https://iyf.finance",
+  "explorer": "https://etherscan.io/token/0x5d762f76b9e91f71cc4f94391bdfe6333db8519c",
+  "links": {
+    "github": "iyieldfarm",
+    "coingecko": "iyf-finance",
+    "twitter": "iYieldFarm",
+    "telegram": "iYieldFarm"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

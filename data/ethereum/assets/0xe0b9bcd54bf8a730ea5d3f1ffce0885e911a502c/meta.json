@@ -1,0 +1,16 @@
+{
+  "name": "ZUM TOKEN",
+  "symbol": "ZUM",
+  "web": "https://zum-token.com",
+  "explorer": "https://etherscan.io/token/0xe0b9bcd54bf8a730ea5d3f1ffce0885e911a502c",
+  "links": {
+    "github": "TournamentGameToken",
+    "coingecko": "zum-token",
+    "twitter": "Zum_Token",
+    "telegram": "ZumToken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

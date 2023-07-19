@@ -1,0 +1,20 @@
+{
+  "name": "Mintable",
+  "description": "An NFT marketplace where users can create, buy, and sell digital items.",
+  "web": "zilliqa.mintable.com",
+  "links": {
+    "twitter": "https://twitter.com/mintable_app",
+    "discord": "https://discord.com/invite/ScDMhWW"
+  },
+  "addresses": [
+    "zil1cyck4za8yrxryxs6h0mupu5w3j72a3as6e5lqz"
+  ],
+  "categories": [
+    "nft",
+    "dapp"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "mintable"
+}

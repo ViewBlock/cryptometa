@@ -1,0 +1,16 @@
+{
+  "name": "Ethereum Gold Project",
+  "symbol": "ETGP",
+  "web": "https://www.etgproject.org",
+  "explorer": "https://etherscan.io/token/0xa96f31f1c187c28980176c3a27ba7069f48abde4",
+  "links": {
+    "github": "EthereumGoldETG",
+    "coingecko": "ethereum-gold-project",
+    "twitter": "ethereumgoldetg",
+    "facebook": "Ethereum-Gold-ETG-127521641285006"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

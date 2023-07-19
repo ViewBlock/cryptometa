@@ -1,0 +1,17 @@
+{
+  "name": "BORA",
+  "symbol": "BORA",
+  "web": "https://www.boraecosystem.com",
+  "explorer": "https://etherscan.io/token/0x26fb86579e371c7aedc461b2ddef0a8628c93d3b",
+  "links": {
+    "github": "boraecosystem",
+    "coingecko": "bora",
+    "twitter": "bora_ecosystem",
+    "telegram": "boraofficial_kr",
+    "reddit": "r/Bora_Ecosystem"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

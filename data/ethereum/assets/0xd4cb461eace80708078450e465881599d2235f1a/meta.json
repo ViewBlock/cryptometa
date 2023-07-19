@@ -1,0 +1,17 @@
+{
+  "name": "Passive Income",
+  "symbol": "PSI",
+  "web": " https://www.passive-income.io/ ",
+  "explorer": "https://etherscan.io/token/0xd4cb461eace80708078450e465881599d2235f1a",
+  "links": {
+    "github": "passive-income-001",
+    "coingecko": "passive-income",
+    "twitter": "Pass1ve1ncome",
+    "telegram": "PassiveIncomePSI",
+    "reddit": "r/Passive1ncome"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

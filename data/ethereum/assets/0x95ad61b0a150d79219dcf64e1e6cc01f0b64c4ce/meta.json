@@ -1,0 +1,14 @@
+{
+  "name": "Shiba Inu",
+  "symbol": "SHIB",
+  "web": "https://shibatoken.com",
+  "explorer": "https://etherscan.io/token/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+  "links": {
+    "coingecko": "shiba-inu",
+    "telegram": "shibainuthedogecoinkiller"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

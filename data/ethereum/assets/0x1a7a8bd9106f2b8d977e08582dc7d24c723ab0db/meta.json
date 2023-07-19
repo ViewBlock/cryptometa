@@ -1,0 +1,17 @@
+{
+  "name": "AppCoins",
+  "symbol": "APPC",
+  "web": "https://appcoins.io",
+  "explorer": "https://etherscan.io/token/0x1a7a8bd9106f2b8d977e08582dc7d24c723ab0db",
+  "links": {
+    "github": "Aptoide",
+    "coingecko": "appcoins",
+    "twitter": "AppCoinsProject",
+    "facebook": "AppCoinsOfficial",
+    "reddit": "r/AppcoinsProtocol"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

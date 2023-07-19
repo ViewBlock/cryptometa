@@ -1,0 +1,16 @@
+{
+  "name": "Button Wallet",
+  "description": "A multi virtual currency wallet that operates via Telegram messenger.",
+  "web": "https://buttonwallet.com",
+  "links": {
+    "twitter": "https://buttonwallet.com/#pablo"
+  },
+  "categories": [
+    "wallet"
+  ],
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true
+  },
+  "key": "button-wallet"
+}

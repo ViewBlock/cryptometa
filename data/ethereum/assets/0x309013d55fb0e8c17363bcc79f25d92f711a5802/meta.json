@@ -1,0 +1,15 @@
+{
+  "name": "Soft Bitcoin",
+  "symbol": "SBTC",
+  "web": "https://sbtc.fi",
+  "explorer": "https://etherscan.io/token/0x309013d55fB0E8C17363bcC79F25d92f711A5802",
+  "links": {
+    "coingecko": "soft-bitcoin",
+    "twitter": "softbitcoin",
+    "telegram": "SoftBitcoinOfficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

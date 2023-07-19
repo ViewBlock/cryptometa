@@ -1,0 +1,16 @@
+{
+  "name": "Capital.finance",
+  "symbol": "CAP",
+  "web": "https://capitaldefi.finance",
+  "explorer": "https://etherscan.io/token/0xeda6efe5556e134ef52f2f858aa1e81c84cda84b",
+  "links": {
+    "coingecko": "capital-finance",
+    "twitter": "capital_defi",
+    "facebook": "capitaldefi.finance",
+    "telegram": "capitalDefi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

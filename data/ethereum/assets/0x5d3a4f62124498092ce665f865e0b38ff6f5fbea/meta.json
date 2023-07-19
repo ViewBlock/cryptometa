@@ -1,0 +1,16 @@
+{
+  "name": "Ideaology",
+  "symbol": "IDEA",
+  "web": "https://ideaology.io",
+  "explorer": "https://etherscan.io/token/0x5d3a4f62124498092ce665f865e0b38ff6f5fbea",
+  "links": {
+    "github": "ideaologyio",
+    "coingecko": "ideaology",
+    "twitter": "ideaologyio",
+    "telegram": "ideaologyio"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

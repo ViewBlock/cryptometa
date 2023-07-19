@@ -1,0 +1,17 @@
+{
+  "name": "Barter",
+  "symbol": "BRTR",
+  "web": "https://barter.company",
+  "explorer": "https://etherscan.io/token/0xf0acf8949e705e0ebb6cb42c2164b0b986454223",
+  "links": {
+    "github": "bartersmartplace",
+    "coingecko": "barter",
+    "twitter": "barterteam",
+    "facebook": "barterteam",
+    "telegram": "barterteam"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

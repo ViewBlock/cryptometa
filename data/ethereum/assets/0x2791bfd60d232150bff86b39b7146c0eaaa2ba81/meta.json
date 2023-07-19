@@ -1,0 +1,17 @@
+{
+  "name": "BiFi",
+  "symbol": "BIFI",
+  "web": "https://bifi.finance",
+  "explorer": "https://etherscan.io/token/0x2791bfd60d232150bff86b39b7146c0eaaa2ba81",
+  "links": {
+    "github": "bifrost-platform",
+    "coingecko": "bifi",
+    "twitter": "BiFi_lending",
+    "telegram": "Bifrost_Global",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

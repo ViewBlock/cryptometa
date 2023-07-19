@@ -1,0 +1,12 @@
+{
+  "name": "Thorecoin",
+  "symbol": "THR",
+  "web": "https://www.thorecoin.com",
+  "explorer": "https://wavesdesk.com/asset/51ZCHw4vzWpj4WgviWjjF6buAFga8tjoUSXze2Pkdui9",
+  "links": {
+    "coingecko": "thorecoin",
+    "twitter": "Thr_Official",
+    "telegram": "ThoreGroup",
+    "reddit": "r/ThoreCoin"
+  }
+}

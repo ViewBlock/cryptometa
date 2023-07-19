@@ -1,0 +1,16 @@
+{
+  "name": "Reef Finance",
+  "symbol": "REEF",
+  "web": "https://reef.finance",
+  "explorer": "https://etherscan.io/token/0xfe3e6a25e6b192a42a44ecddcd13796471735acf",
+  "links": {
+    "coingecko": "reef-finance",
+    "twitter": "ReefDeFi",
+    "telegram": "reefdefi",
+    "reddit": "r/ReefDeFi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

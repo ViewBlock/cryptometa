@@ -1,0 +1,16 @@
+{
+  "name": "DogeYield",
+  "symbol": "DOGY",
+  "web": "https://dogeyield.com",
+  "explorer": "https://etherscan.io/token/0x9c405acf8688afb61b3197421cdeec1a266c6839",
+  "links": {
+    "github": "dogeyield",
+    "coingecko": "dogeyield",
+    "twitter": "dogeyield_com",
+    "telegram": "dogeyieldofficialgroup"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Escoin Token",
+  "symbol": "ELG",
+  "web": "https://www.escoin.ee",
+  "explorer": "https://etherscan.io/token/0xA2085073878152aC3090eA13D1e41bD69e60Dc99",
+  "links": {
+    "github": "escoin-ico",
+    "coingecko": "escoin-token",
+    "twitter": "EsCoinICO",
+    "facebook": "ICOEscoin",
+    "telegram": "EscoinICO"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

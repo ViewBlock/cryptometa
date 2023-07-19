@@ -1,0 +1,13 @@
+{
+  "name": "PancakeSwap",
+  "description": "A  popular DeFi tool where users can trade, earn, and win crypto.",
+  "web": "https://pancakeswap.finance",
+  "links": {},
+  "categories": [
+    "dex"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "pancakeswap"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "JMTIME",
+  "symbol": "JMT",
+  "web": "http://jmtime.org",
+  "explorer": "https://etherscan.io/token/0xda022ca91df99413e8cb0caab4d1cba4e9018bea",
+  "links": {
+    "coingecko": "jmtime",
+    "twitter": "JMT_Blockchain",
+    "facebook": "token.jmt.7",
+    "telegram": "JMT555"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

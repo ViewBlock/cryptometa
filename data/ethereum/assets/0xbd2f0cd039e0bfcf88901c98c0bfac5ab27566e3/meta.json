@@ -1,0 +1,15 @@
+{
+  "name": "Dynamic Set Dollar",
+  "symbol": "DSD",
+  "web": "https://dsd.finance/app/#",
+  "explorer": "https://etherscan.io/token/0xbd2f0cd039e0bfcf88901c98c0bfac5ab27566e3",
+  "links": {
+    "coingecko": "dynamic-set-dollar",
+    "twitter": "dsdproject",
+    "telegram": "dynamicsetdollar"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

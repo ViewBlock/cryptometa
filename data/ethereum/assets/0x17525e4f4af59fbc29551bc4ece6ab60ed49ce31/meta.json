@@ -1,0 +1,17 @@
+{
+  "name": "PieDAO Yearn Ecosystem Pie",
+  "symbol": "YPIE",
+  "web": "https://beta.piedao.org/#/pie/0x17525e4f4af59fbc29551bc4ece6ab60ed49ce31",
+  "explorer": "https://etherscan.io/token/0x17525e4f4af59fbc29551bc4ece6ab60ed49ce31",
+  "links": {
+    "github": "pie-dao",
+    "coingecko": "piedao-yearn-ecosystem-pie",
+    "twitter": "piedao_DeFI",
+    "telegram": "piedao",
+    "reddit": "r/PieDAO"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

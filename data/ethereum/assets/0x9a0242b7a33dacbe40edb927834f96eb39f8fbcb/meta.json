@@ -1,0 +1,17 @@
+{
+  "name": "BABB",
+  "symbol": "BAX",
+  "web": "https://getbabb.com",
+  "explorer": "https://etherscan.io/token/0x9a0242b7a33dacbe40edb927834f96eb39f8fbcb",
+  "links": {
+    "coingecko": "babb",
+    "twitter": "getbabb",
+    "facebook": "getbabb",
+    "telegram": "babb_official",
+    "reddit": "r/getBABB"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

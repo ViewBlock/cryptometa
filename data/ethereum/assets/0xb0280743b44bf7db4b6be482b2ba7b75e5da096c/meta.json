@@ -1,0 +1,17 @@
+{
+  "name": "Transcodium",
+  "symbol": "TNS",
+  "web": "https://transcodium.com",
+  "explorer": "https://etherscan.io/token/0xb0280743b44bf7db4b6be482b2ba7b75e5da096c",
+  "links": {
+    "github": "transcodium",
+    "coingecko": "transcodium",
+    "twitter": "transcodium",
+    "facebook": "transcodium",
+    "telegram": "transcodium"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

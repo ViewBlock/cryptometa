@@ -1,0 +1,16 @@
+{
+  "name": "Digital Antares Dollar",
+  "symbol": "DANT",
+  "web": "https://dant.finance",
+  "explorer": "https://etherscan.io/token/0xbe3c393fb670f0a29c3f3e660ffb113200e36676",
+  "links": {
+    "github": "Antares-Trade",
+    "coingecko": "digital-antares-dollar",
+    "twitter": "antares_trade",
+    "telegram": "antrtrade"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Avely Swap",
+  "description": "Avely Swap DEX is a part of Avely Finance - a leading-edge liquid staking protocol built on the Zilliqa blockchain. You can swap stZIL/ZIL here or provide liquidty and earn from fees.",
+  "web": "https://dapp.avely.fi/swap",
+  "addresses": [
+    "zil1uxfzk4n9ef2t3f4c4939ludlvp349uwqdx32xt"
+  ],
+  "links": {
+    "twitter": "https://twitter.com/AvelyFinance",
+    "telegram": "https://t.me/avelyfinance",
+    "discord": "https://discord.com/invite/DnfRwq67VX"
+  },
+  "categories": [
+    "dex",
+    "defi"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "avely-swap"
+}

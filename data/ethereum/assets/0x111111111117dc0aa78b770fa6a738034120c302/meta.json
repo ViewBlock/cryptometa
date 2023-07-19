@@ -1,0 +1,14 @@
+{
+  "name": "1inch",
+  "symbol": "1INCH",
+  "web": "https://1inch.exchange/#/r/0x050F788d09395724777a67Dd08bE127cF70dd238",
+  "explorer": "https://etherscan.io/token/0x111111111117dc0aa78b770fa6a738034120c302",
+  "links": {
+    "github": "1inch-exchange",
+    "coingecko": "1inch"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 14
+  }
+}

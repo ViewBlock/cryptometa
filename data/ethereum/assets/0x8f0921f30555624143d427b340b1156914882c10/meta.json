@@ -1,0 +1,17 @@
+{
+  "name": "FlypMe",
+  "symbol": "FYP",
+  "web": "https://flyp.me",
+  "explorer": "https://etherscan.io/token/0x8f0921f30555624143d427b340b1156914882c10",
+  "links": {
+    "github": "flypme",
+    "coingecko": "flypme",
+    "twitter": "flyp_me",
+    "telegram": "flypme",
+    "reddit": "r/flypme"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

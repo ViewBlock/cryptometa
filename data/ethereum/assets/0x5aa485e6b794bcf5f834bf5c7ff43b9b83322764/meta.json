@@ -1,0 +1,16 @@
+{
+  "name": "Mandi Token",
+  "symbol": "MANDI",
+  "web": "https://manditoken.io",
+  "explorer": "https://etherscan.io/token/0x5aA485E6b794bcf5F834BF5c7FF43B9B83322764",
+  "links": {
+    "coingecko": "mandi-token",
+    "twitter": "manditoken",
+    "facebook": "Manditokenio-104550877723503",
+    "telegram": "manditoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

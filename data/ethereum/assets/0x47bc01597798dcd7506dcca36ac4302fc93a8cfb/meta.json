@@ -1,0 +1,17 @@
+{
+  "name": "Crowd Machine",
+  "symbol": "CMCT",
+  "web": "https://crowdmachine.com",
+  "explorer": "https://etherscan.io/token/0x47bc01597798dcd7506dcca36ac4302fc93a8cfb",
+  "links": {
+    "coingecko": "crowd-machine",
+    "twitter": "crowd_machine",
+    "facebook": "Crowd-Machine-393354234414159",
+    "telegram": "crowdmachine",
+    "reddit": "r/CrowdMachine"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "concertVR",
+  "symbol": "CVT",
+  "web": "https://www.concertvr.io",
+  "explorer": "https://etherscan.io/token/0x24b47299e756af0571f512232a3629e0dabb52ed",
+  "links": {
+    "coingecko": "concertvr",
+    "twitter": "simplybethere",
+    "facebook": "concertvr",
+    "telegram": "concertVR1"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

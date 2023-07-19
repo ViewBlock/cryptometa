@@ -1,0 +1,15 @@
+{
+  "name": "UZURAS",
+  "symbol": "UZZ",
+  "web": "https://web.uzuras.net",
+  "explorer": "https://etherscan.io/token/0x66e5d4063219a54a8244078affb49e23982d9640",
+  "links": {
+    "coingecko": "azuras",
+    "twitter": "UZURAS2",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

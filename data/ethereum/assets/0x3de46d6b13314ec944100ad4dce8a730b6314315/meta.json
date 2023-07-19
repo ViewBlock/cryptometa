@@ -1,0 +1,16 @@
+{
+  "name": "VelaCoin",
+  "symbol": "VELA",
+  "web": "https://velacoin.pw",
+  "explorer": "https://etherscan.io/token/0x3de46d6b13314ec944100ad4dce8a730b6314315",
+  "links": {
+    "coingecko": "vela",
+    "twitter": "velacoin",
+    "facebook": "VelaCoinGroup",
+    "telegram": "Vela_coin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

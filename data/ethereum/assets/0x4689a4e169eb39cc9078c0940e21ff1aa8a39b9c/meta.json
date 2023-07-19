@@ -1,0 +1,17 @@
+{
+  "name": "Proton Token",
+  "symbol": "PTT",
+  "web": "https://www.proton.global",
+  "explorer": "https://etherscan.io/token/0x4689a4e169eb39cc9078c0940e21ff1aa8a39b9c",
+  "links": {
+    "github": "ProtonNetwork",
+    "coingecko": "proton-token",
+    "twitter": "proton_global",
+    "telegram": "ProtonToken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

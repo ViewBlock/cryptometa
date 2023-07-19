@@ -1,0 +1,16 @@
+{
+  "name": "Bitpayer Token",
+  "symbol": "BPT",
+  "web": "https://bitpayer.io",
+  "explorer": "https://etherscan.io/token/0x283669123bd83da2536bb534e20512101c18e5d8",
+  "links": {
+    "coingecko": "bitplayer-token",
+    "twitter": "bitpayerdex",
+    "facebook": "Bitpayerdex",
+    "telegram": "bitpayerdex"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

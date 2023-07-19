@@ -1,0 +1,14 @@
+{
+  "name": "eToro Euro",
+  "symbol": "EURX",
+  "web": "https://www.etorox.com/exchange/euro",
+  "explorer": "https://etherscan.io/token/0x05ac103f68e05da35e78f6165b9082432fe64b58",
+  "links": {
+    "github": "etoroxlabs",
+    "coingecko": "etoro-euro"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

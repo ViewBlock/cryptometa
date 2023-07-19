@@ -1,0 +1,16 @@
+{
+  "name": "Blocery",
+  "symbol": "BLY",
+  "web": "http://blocery.io",
+  "explorer": "https://etherscan.io/token/0xf8ad7dfe656188a23e89da09506adf7ad9290d5d",
+  "links": {
+    "github": "blocery",
+    "coingecko": "blocery",
+    "twitter": "blocery",
+    "telegram": "blocery"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

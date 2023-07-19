@@ -1,0 +1,11 @@
+{
+  "name": "Taxi",
+  "symbol": "TAXI",
+  "web": "https://taxi.finance",
+  "explorer": "https://bscscan.com/token/0xb08560ac3832f680d09b33cf3d8982bd78afcba8",
+  "links": {
+    "coingecko": "taxi",
+    "twitter": "FinanceTaxi",
+    "telegram": "taxi_finance_chat"
+  }
+}

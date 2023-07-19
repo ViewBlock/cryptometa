@@ -1,0 +1,13 @@
+{
+  "name": "Huobi Polkadot",
+  "symbol": "HDOT",
+  "web": "https://www.htokens.finance/en-us",
+  "explorer": "https://etherscan.io/token/0x9ffc3bCDe7B68C46a6dC34f0718009925c1867cB",
+  "links": {
+    "coingecko": "huobi-polkadot"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

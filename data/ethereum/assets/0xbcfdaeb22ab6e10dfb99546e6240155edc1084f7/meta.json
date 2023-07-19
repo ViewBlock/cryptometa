@@ -1,0 +1,16 @@
+{
+  "name": "Genexi",
+  "symbol": "GXI",
+  "web": "https://genexi.io",
+  "explorer": "https://etherscan.io/token/0xbcfdaeb22ab6e10dfb99546e6240155edc1084f7",
+  "links": {
+    "coingecko": "genexi",
+    "twitter": "Genexi_bio",
+    "facebook": "GenexiAccelerator",
+    "telegram": "genexi_eng"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

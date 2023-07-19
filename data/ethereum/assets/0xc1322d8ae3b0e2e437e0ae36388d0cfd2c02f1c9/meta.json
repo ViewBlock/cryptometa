@@ -1,0 +1,17 @@
+{
+  "name": "DAO PlayMarket 2.0",
+  "symbol": "PMT",
+  "web": "https://ico.playmarket.io",
+  "explorer": "https://etherscan.io/token/0xc1322d8ae3b0e2e437e0ae36388d0cfd2c02f1c9",
+  "links": {
+    "github": "CryptonStudio",
+    "coingecko": "playmarket",
+    "twitter": "en_playmarket2",
+    "facebook": "playmarket2.0",
+    "telegram": "playmarket_2"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

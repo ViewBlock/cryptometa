@@ -1,0 +1,16 @@
+{
+  "name": "YFFS Finance",
+  "symbol": "YFFS",
+  "web": "https://yffs.finance",
+  "explorer": "https://etherscan.io/token/0x90D702f071d2af33032943137AD0aB4280705817",
+  "links": {
+    "github": "yffsfinance",
+    "coingecko": "yffs",
+    "twitter": "yffsfinance",
+    "telegram": "yffsfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

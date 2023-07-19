@@ -1,0 +1,15 @@
+{
+  "name": "Mask Network",
+  "symbol": "MASK",
+  "web": "https://mask.io",
+  "explorer": "https://etherscan.io/token/0x69af81e73a73b40adf4f3d4223cd9b1ece623074",
+  "links": {
+    "coingecko": "mask-network",
+    "twitter": "realmaskbook",
+    "telegram": "maskbook_group"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

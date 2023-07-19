@@ -1,0 +1,14 @@
+{
+  "name": "sAUD",
+  "symbol": "SAUD",
+  "web": "https://synthetix.io",
+  "explorer": "https://etherscan.io/token/0xf48e200eaf9906362bb1442fca31e0835773b8b4",
+  "links": {
+    "coingecko": "saud",
+    "twitter": "synthetix_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

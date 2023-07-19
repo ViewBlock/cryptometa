@@ -1,0 +1,17 @@
+{
+  "name": "EOS",
+  "symbol": "EOS",
+  "web": "https://eos.io",
+  "explorer": "https://bloks.io",
+  "links": {
+    "github": "EOSIO",
+    "coingecko": "eos",
+    "twitter": "block_one_",
+    "facebook": "eosblockchain",
+    "reddit": "r/eos"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true
+  }
+}

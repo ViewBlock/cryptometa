@@ -1,0 +1,14 @@
+{
+  "name": "BIZZCOIN",
+  "symbol": "BIZZ",
+  "web": "https://bizzcoin.com",
+  "explorer": "https://etherscan.io/token/0x7a8ca2f815a260660158a38c34ca321a3605ecfe",
+  "links": {
+    "coingecko": "bizzcoin",
+    "facebook": "BizzCoinOfficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

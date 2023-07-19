@@ -1,0 +1,15 @@
+{
+  "name": "JavaScript Token",
+  "symbol": "JS",
+  "web": "http://javascripttoken.pagedemo.co",
+  "explorer": "https://etherscan.io/token/0x5046e860ff274fb8c66106b0ffb8155849fb0787",
+  "links": {
+    "github": "lydell",
+    "coingecko": "javascript-token",
+    "twitter": "JS_Token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

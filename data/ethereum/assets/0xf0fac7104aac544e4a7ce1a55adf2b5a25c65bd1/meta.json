@@ -1,0 +1,16 @@
+{
+  "name": "Pamp Network",
+  "symbol": "PAMP",
+  "web": "https://pamp.network",
+  "explorer": "https://etherscan.io/token/0xf0fac7104aac544e4a7ce1a55adf2b5a25c65bd1",
+  "links": {
+    "github": "Pamp-Network",
+    "coingecko": "pamp-network",
+    "twitter": "PampNetwork",
+    "telegram": "pampnetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

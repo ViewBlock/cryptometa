@@ -1,0 +1,16 @@
+{
+  "name": "WinPlay",
+  "symbol": "WNRZ",
+  "web": "https://token.winplay.app",
+  "explorer": "https://etherscan.io/token/0x4690d8f53e0d367f5b68f7f571e6eb4b72d39ace",
+  "links": {
+    "github": "winplaytoken",
+    "coingecko": "winplay",
+    "twitter": "WinPlayApp",
+    "telegram": "winplaytoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

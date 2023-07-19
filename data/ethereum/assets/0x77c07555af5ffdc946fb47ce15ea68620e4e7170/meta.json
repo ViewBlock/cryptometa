@@ -1,0 +1,18 @@
+{
+  "name": "Breezecoin",
+  "symbol": "BRZE",
+  "web": "https://www.breezecoin.io",
+  "explorer": "https://etherscan.io/token/0x77c07555af5ffdc946fb47ce15ea68620e4e7170",
+  "links": {
+    "github": "BreezeDeMarUK",
+    "coingecko": "breezecoin",
+    "twitter": "breezecoinio",
+    "facebook": "breezecoin.io",
+    "telegram": "breezecoinofficial",
+    "reddit": "r/BreezeCoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

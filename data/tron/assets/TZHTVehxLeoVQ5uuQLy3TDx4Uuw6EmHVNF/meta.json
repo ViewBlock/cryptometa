@@ -1,0 +1,15 @@
+{
+  "name": "TRON GO",
+  "symbol": "GO",
+  "web": "https://trongo.io",
+  "explorer": "https://trxplorer.io/token/TZHTVehxLeoVQ5uuQLy3TDx4Uuw6EmHVNF",
+  "links": {
+    "coingecko": "tron-go",
+    "twitter": "Trongo_official",
+    "telegram": "trongo_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

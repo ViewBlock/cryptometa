@@ -1,0 +1,17 @@
+{
+  "name": "Mega Lottery Services Global",
+  "symbol": "MLR",
+  "web": "https://megaltr.com",
+  "explorer": "https://etherscan.io/token/0xf26893f89b23084c4c6216038d6ebdbe9e96c5cb",
+  "links": {
+    "github": "megaltr",
+    "coingecko": "mega-lottery-services-global",
+    "twitter": "MegaLTR",
+    "facebook": "MegaLTR",
+    "telegram": "MegaltrEnglish"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

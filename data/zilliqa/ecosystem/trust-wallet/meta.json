@@ -1,0 +1,17 @@
+{
+  "name": "Trust Wallet",
+  "description": "A secure software wallet that allows its users to store their BEP2, ERC20 and ERC721 tokens.",
+  "web": "https://trustwallet.com",
+  "links": {
+    "twitter": "https://twitter.com/trustwalletapp",
+    "telegram": "https://t.me/trust_announcements"
+  },
+  "categories": [
+    "wallet",
+    "app"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "trust-wallet"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "dRAY",
+  "symbol": "DRAY",
+  "web": "https://dray.digital",
+  "explorer": "https://etherscan.io/token/0x86642d169db9f57a02c65052049cbbbfb3e3b08c",
+  "links": {
+    "coingecko": "dray",
+    "twitter": "dRAY_renderer",
+    "telegram": "dRAY_Community"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

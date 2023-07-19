@@ -1,0 +1,16 @@
+{
+  "name": "88mph",
+  "symbol": "MPH",
+  "web": "https://88mph.app",
+  "explorer": "https://etherscan.io/token/0x8888801af4d980682e47f1a9036e589479e835c5",
+  "links": {
+    "github": "88mphapp",
+    "coingecko": "88mph",
+    "twitter": "88mphapp",
+    "telegram": "join_88mphapp"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

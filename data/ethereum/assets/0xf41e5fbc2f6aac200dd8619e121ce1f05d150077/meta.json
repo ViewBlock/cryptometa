@@ -1,0 +1,17 @@
+{
+  "name": "CRYCASH",
+  "symbol": "CRC",
+  "web": "https://crycash.io",
+  "explorer": "https://etherscan.io/token/0xf41e5fbc2f6aac200dd8619e121ce1f05d150077",
+  "links": {
+    "github": "CRYCASH",
+    "coingecko": "crycash",
+    "twitter": "cry_cash",
+    "facebook": "crycash.io",
+    "telegram": "crycash"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

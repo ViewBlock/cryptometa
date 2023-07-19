@@ -1,0 +1,15 @@
+{
+  "name": "Tacos",
+  "symbol": "TACO",
+  "web": "https://www.taconomics.io",
+  "explorer": "https://etherscan.io/token/0x00D1793D7C3aAE506257Ba985b34C76AaF642557",
+  "links": {
+    "coingecko": "tacos",
+    "twitter": "taconomics101",
+    "telegram": "TacoGram"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

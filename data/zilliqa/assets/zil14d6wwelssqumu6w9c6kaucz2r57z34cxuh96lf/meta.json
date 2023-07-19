@@ -1,0 +1,22 @@
+{
+  "name": "Shards",
+  "symbol": "SHARDS",
+  "web": "https://shards.robounicats.com",
+  "whitepaper": "https://shards.robounicats.com/data/shards_whitepaper_0.1.pdf",
+  "publicTeam": true,
+  "links": {
+    "telegram": "https://t.me/ruc_shards",
+    "facebook": "https://www.facebook.com/renat.akhmadishin",
+    "twitter": "https://twitter.com/robounicats",
+    "github": "https://github.com/Arenbo/RoboUniCats"
+  },
+  "config": {
+    "scoreSkip": [
+      "whitepaper"
+    ]
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 38
+  }
+}

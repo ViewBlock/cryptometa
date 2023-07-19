@@ -1,0 +1,12 @@
+{
+  "name": "CNY Tether",
+  "symbol": "CNYT",
+  "explorer": "https://etherscan.io/token/0x91b7ed3b352aa3502f94e58eac930ae1f5b5ebcd",
+  "links": {
+    "coingecko": "cny-tether"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 0
+  }
+}

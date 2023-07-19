@@ -1,0 +1,17 @@
+{
+  "name": "Review Capital",
+  "symbol": "RECAP",
+  "web": "https://reviewcapital.org/",
+  "whitepaper": "https://github.com/Review-Capital-Blockchain-Ecosystem/RCIP/blob/master/RECAP-Whitepaper.md",
+  "publicTeam": true,
+  "links": {
+    "twitter": "https://twitter.com/recap_token",
+    "telegram": "https://t.me/RECAPCommunity",
+    "github": "https://github.com/Review-Capital-Blockchain-Ecosystem",
+    "linkedin": "https://www.linkedin.com/company/recap-blockchain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 52
+  }
+}

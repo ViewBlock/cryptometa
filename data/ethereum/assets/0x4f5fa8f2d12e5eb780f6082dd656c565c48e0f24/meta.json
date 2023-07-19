@@ -1,0 +1,17 @@
+{
+  "name": "Gourmet Galaxy",
+  "symbol": "GUM",
+  "web": "https://gourmetgalaxy.io",
+  "explorer": "https://etherscan.io/token/0x4f5fa8f2d12e5eB780f6082Dd656C565C48E0f24",
+  "links": {
+    "github": "gourmetgalaxy",
+    "coingecko": "gourmetgalaxy",
+    "twitter": "gourmetfinance",
+    "telegram": "gourmetgalaxy_chat",
+    "reddit": "r/gourmetfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

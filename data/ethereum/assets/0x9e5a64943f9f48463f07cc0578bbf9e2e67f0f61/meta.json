@@ -1,0 +1,16 @@
+{
+  "name": "Anonymous Coin",
+  "symbol": "AMC",
+  "web": "http://www.amcoin.ltd",
+  "explorer": "https://etherscan.io/token/0x9e5a64943f9f48463f07cc0578bbf9e2e67f0f61",
+  "links": {
+    "github": "amc-blockchain",
+    "coingecko": "anonymous-coin",
+    "twitter": "AMCengofficial",
+    "facebook": "AMCenglishofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

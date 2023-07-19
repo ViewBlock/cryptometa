@@ -1,0 +1,16 @@
+{
+  "name": "Cryptocurrency Business Token",
+  "symbol": "CBT",
+  "web": "https://arbi-coin.com",
+  "explorer": "https://etherscan.io/token/0x3ca6b185285684e14f925179992387fb4ef90ac7",
+  "links": {
+    "coingecko": "cryptocurrency-business-token",
+    "twitter": "arbi_bot",
+    "facebook": "arbibot2018",
+    "telegram": "arbibot_kr"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Influence",
+  "description": "Influence is a crypto-native space strategy game set in a realistic asteroid belt with real-time orbital dynamics.",
+  "categories": [
+    "gamefi",
+    "nft"
+  ],
+  "web": "https://www.influenceth.io",
+  "links": {
+    "twitter": "https://twitter.com/influenceth",
+    "discord": "https://discord.com/invite/6GjgPkp464"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "influence"
+}

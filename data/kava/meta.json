@@ -1,0 +1,16 @@
+{
+  "name": "Kava.io",
+  "symbol": "KAVA",
+  "web": "https://www.kava.io",
+  "explorer": "https://www.mintscan.io/kava",
+  "links": {
+    "github": "Kava-Labs",
+    "coingecko": "kava",
+    "twitter": "kava_labs",
+    "telegram": "kavalabs",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

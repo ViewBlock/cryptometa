@@ -1,0 +1,15 @@
+{
+  "name": "yUSD Synthetic Token Expiring 1 September 2020",
+  "symbol": "YUSD-SEP20",
+  "web": "https://umaproject.org",
+  "explorer": "https://etherscan.io/token/0x81ab848898b5ffD3354dbbEfb333D5D183eEDcB5",
+  "links": {
+    "github": "UMAprotocol",
+    "coingecko": "yusd-synthetic-token-expiring-1-september-2020",
+    "twitter": "UMAprotocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

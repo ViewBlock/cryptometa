@@ -1,0 +1,13 @@
+{
+  "name": "Starbugs Shards",
+  "symbol": "BUGS",
+  "web": "https://www.niftex.com/launches/details/BUGS",
+  "explorer": "https://etherscan.io/token/0xbc3ec4e491b835dce394a53e9a9a10ac19564839",
+  "links": {
+    "coingecko": "starbugs-shards"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

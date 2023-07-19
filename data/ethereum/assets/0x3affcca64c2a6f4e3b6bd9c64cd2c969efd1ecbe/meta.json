@@ -1,0 +1,18 @@
+{
+  "name": "DSLA Protocol",
+  "symbol": "DSLA",
+  "web": "https://dsla.network",
+  "explorer": "https://etherscan.io/token/0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe",
+  "links": {
+    "github": "Stacktical",
+    "coingecko": "stacktical",
+    "twitter": "stacktical",
+    "facebook": "stacktical",
+    "telegram": "stacktical",
+    "reddit": "r/Stacktical"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

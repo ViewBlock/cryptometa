@@ -1,0 +1,17 @@
+{
+  "name": "Finswap",
+  "symbol": "FNSP",
+  "web": "https://finswap.app",
+  "explorer": "https://etherscan.io/token/0x3B78dc5736a49BD297Dd2E4d62daA83D35A22749",
+  "links": {
+    "github": "finswap-app",
+    "coingecko": "finswap",
+    "twitter": "finswapapp",
+    "telegram": "finswap",
+    "reddit": "r/FinSwap"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

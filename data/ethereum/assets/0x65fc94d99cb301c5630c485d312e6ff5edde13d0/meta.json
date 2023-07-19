@@ -1,0 +1,15 @@
+{
+  "name": "MVP",
+  "symbol": "MVP",
+  "web": "https://Toshify.finance",
+  "explorer": "https://etherscan.io/token/0x65fc94d99cb301c5630c485d312e6ff5edde13d0",
+  "links": {
+    "coingecko": "mvp",
+    "twitter": "toshifyfinance",
+    "telegram": "toshifyfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

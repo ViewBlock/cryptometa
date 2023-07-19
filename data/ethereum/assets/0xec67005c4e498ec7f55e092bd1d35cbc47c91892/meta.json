@@ -1,0 +1,18 @@
+{
+  "name": "Enzyme",
+  "symbol": "MLN",
+  "web": "https://enzyme.finance",
+  "explorer": "https://etherscan.io/token/0xec67005c4E498Ec7f55E092bd1d35cbC47C91892",
+  "links": {
+    "github": "enzymeprotocol",
+    "coingecko": "melon",
+    "twitter": "enzymefinance",
+    "facebook": "melonport",
+    "telegram": "enzymefinance",
+    "reddit": "r/enzymefinance"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

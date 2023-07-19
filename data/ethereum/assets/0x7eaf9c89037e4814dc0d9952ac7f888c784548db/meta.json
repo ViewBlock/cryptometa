@@ -1,0 +1,15 @@
+{
+  "name": "Royale",
+  "symbol": "ROYA",
+  "web": "https://royale.finance",
+  "explorer": "https://etherscan.io/token/0x7eaf9c89037e4814dc0d9952ac7f888c784548db",
+  "links": {
+    "coingecko": "royale",
+    "twitter": "Royale_Finance",
+    "telegram": "Royalefinanceofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

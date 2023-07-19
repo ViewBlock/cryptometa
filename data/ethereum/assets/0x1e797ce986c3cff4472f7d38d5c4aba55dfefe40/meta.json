@@ -1,0 +1,16 @@
+{
+  "name": "BlockCDN",
+  "symbol": "BCDN",
+  "web": "http://www.blockcdn.org",
+  "explorer": "https://etherscan.io/token/0x1e797Ce986C3CFF4472F7D38d5C4aba55DfEFE40",
+  "links": {
+    "github": "Blockcdnteam",
+    "coingecko": "blockcdn",
+    "twitter": "BlockCDN",
+    "facebook": "blockchaincdn"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

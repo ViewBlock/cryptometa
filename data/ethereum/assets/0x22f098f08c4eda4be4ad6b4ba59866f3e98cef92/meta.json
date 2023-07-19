@@ -1,0 +1,13 @@
+{
+  "name": "Force For Fast",
+  "symbol": "FFF",
+  "web": "http://www.forceforfast.com",
+  "explorer": "https://etherscan.io/token/0x22f098F08c4eda4bE4ad6B4ba59866F3E98CEF92",
+  "links": {
+    "coingecko": "force-for-fast"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

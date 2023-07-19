@@ -1,0 +1,18 @@
+{
+  "name": "Linkeye",
+  "symbol": "LET",
+  "web": "https://www.linkeye.com",
+  "explorer": "https://etherscan.io/token/0xfa3118b34522580c35ae27f6cf52da1dbb756288",
+  "links": {
+    "github": "linkeye",
+    "coingecko": "linkeye",
+    "twitter": "LinkEyeProject",
+    "facebook": "linkeye.linkeye",
+    "telegram": "linkeye_en",
+    "reddit": "r/ico"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

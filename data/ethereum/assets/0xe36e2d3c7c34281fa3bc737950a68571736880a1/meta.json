@@ -1,0 +1,15 @@
+{
+  "name": "sADA",
+  "symbol": "SADA",
+  "web": "https://www.synthetix.io/tokens",
+  "explorer": "https://etherscan.io/token/0xe36E2D3c7c34281FA3bC737950a68571736880A1",
+  "links": {
+    "github": "Synthetixio",
+    "coingecko": "sada",
+    "twitter": "synthetix_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

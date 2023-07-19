@@ -1,0 +1,16 @@
+{
+  "name": "Tadpole",
+  "symbol": "TAD",
+  "web": "https://tadpole.finance",
+  "explorer": "https://etherscan.io/token/0x9f7229af0c4b9740e207ea283b9094983f78ba04",
+  "links": {
+    "github": "Tadpole-finance",
+    "coingecko": "tadpole-finance",
+    "twitter": "TadpoleFinance",
+    "telegram": "TadpoleFinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

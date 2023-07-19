@@ -1,0 +1,15 @@
+{
+  "name": "Finxflo",
+  "symbol": "FXF",
+  "web": "https://www.finxflo.com",
+  "explorer": "https://etherscan.io/token/0x8a40c222996f9F3431f63Bf80244C36822060f12",
+  "links": {
+    "coingecko": "finxflo",
+    "twitter": "finxflo",
+    "telegram": "Finxflo_Community"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

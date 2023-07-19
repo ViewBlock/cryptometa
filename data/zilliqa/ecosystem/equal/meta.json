@@ -1,0 +1,16 @@
+{
+  "name": "EQUAL",
+  "description": "Equal Wallet is an ERC20 wallet that unlocks the decentralized web through the use of their Ethereum dApp browser",
+  "web": "https://equal.tech",
+  "links": {
+    "twitter": "https://twitter.com/Equal_Network",
+    "telegram": "https://t.me/joinchat/GtLjl1JMYiTHzhaQA5CGPw"
+  },
+  "categories": [
+    "wallet"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "equal"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Universal Protocol Token",
+  "symbol": "UPT",
+  "web": "https://universalprotocol.io",
+  "explorer": "https://etherscan.io/token/0x6ca88cc8d9288f5cad825053b6a1b179b05c76fc",
+  "links": {
+    "coingecko": "universal-protocol-token",
+    "twitter": "UPPlatform",
+    "facebook": "UPPlatform",
+    "telegram": "universalprotocolplatform",
+    "reddit": "r/universalprotocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

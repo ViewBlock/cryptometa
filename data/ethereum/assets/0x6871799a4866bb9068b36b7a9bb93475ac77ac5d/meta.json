@@ -1,0 +1,14 @@
+{
+  "name": "eToro New Zealand Dollar",
+  "symbol": "NZDX",
+  "web": "https://www.etorox.com/exchange/new-zealand-dollar",
+  "explorer": "https://etherscan.io/token/0x6871799a4866bb9068b36b7a9bb93475ac77ac5d",
+  "links": {
+    "github": "etoroxlabs",
+    "coingecko": "etoro-new-zealand-dollar"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

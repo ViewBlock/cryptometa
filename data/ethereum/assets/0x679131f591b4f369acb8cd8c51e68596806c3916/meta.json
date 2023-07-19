@@ -1,0 +1,16 @@
+{
+  "name": "Trustlines Network",
+  "symbol": "TLN",
+  "web": "https://trustlines.network",
+  "explorer": "https://etherscan.io/token/0x679131f591b4f369acb8cd8c51e68596806c3916",
+  "links": {
+    "github": "trustlines-protocol",
+    "coingecko": "trustline-network",
+    "twitter": "TrustlinesFound",
+    "telegram": "trustlines_network"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

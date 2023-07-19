@@ -1,0 +1,17 @@
+{
+  "name": "Aleph.im",
+  "symbol": "ALEPH",
+  "web": "https://aleph.im",
+  "explorer": "https://etherscan.io/token/0x27702a26126e0b3702af63ee09ac4d1a084ef628",
+  "links": {
+    "github": "aleph-im",
+    "coingecko": "aleph",
+    "twitter": "aleph_im",
+    "telegram": "alephim",
+    "reddit": "r/Aleph_im"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

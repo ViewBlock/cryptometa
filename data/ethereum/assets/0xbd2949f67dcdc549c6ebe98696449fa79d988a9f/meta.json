@@ -1,0 +1,18 @@
+{
+  "name": "Meter Governance mapped by Meter.io",
+  "symbol": "EMTRG",
+  "web": "https://www.meter.io",
+  "explorer": "https://etherscan.io/token/0xbd2949f67dcdc549c6ebe98696449fa79d988a9f",
+  "links": {
+    "github": "meterio",
+    "coingecko": "meter-governance-mapped-by-meter-io",
+    "twitter": "Meter_IO",
+    "facebook": "MeterFoundation",
+    "telegram": "meter_io",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

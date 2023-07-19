@@ -1,0 +1,15 @@
+{
+  "name": "ARPA Chain",
+  "symbol": "ARPA",
+  "web": "https://arpachain.io",
+  "explorer": "https://etherscan.io/token/0xba50933c268f567bdc86e1ac131be072c6b0b71a",
+  "links": {
+    "coingecko": "arpa-chain",
+    "twitter": "arpaofficial",
+    "telegram": "arpa_community"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

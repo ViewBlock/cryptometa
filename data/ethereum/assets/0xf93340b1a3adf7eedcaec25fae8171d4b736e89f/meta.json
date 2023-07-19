@@ -1,0 +1,16 @@
+{
+  "name": "pxUSD Synthetic USD Expiring 1 April 2021",
+  "symbol": "PXUSD-MAR2021",
+  "web": "https://app.perlinx.finance",
+  "explorer": "https://etherscan.io/token/0xf93340b1a3adf7eedcaec25fae8171d4b736e89f",
+  "links": {
+    "coingecko": "pxusd-synthetic-usd-expiring-1-april-2021",
+    "twitter": "PerlinNetwork",
+    "facebook": "perlin.network",
+    "telegram": "PerlinNetworkChat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

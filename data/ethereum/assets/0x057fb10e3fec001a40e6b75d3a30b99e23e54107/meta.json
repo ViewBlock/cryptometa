@@ -1,0 +1,13 @@
+{
+  "name": "3X Short Algorand Token",
+  "symbol": "ALGOBEAR",
+  "web": "https://ftx.com/tokens/ALGOBEAR",
+  "explorer": "https://etherscan.io/token/0x057fb10e3fec001a40e6b75d3a30b99e23e54107",
+  "links": {
+    "coingecko": "3x-short-algorand-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

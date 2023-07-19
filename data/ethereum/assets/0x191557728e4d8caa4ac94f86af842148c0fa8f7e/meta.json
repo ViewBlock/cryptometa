@@ -1,0 +1,17 @@
+{
+  "name": "Ormeus Ecosystem",
+  "symbol": "ECO",
+  "web": "http://eco-system.io",
+  "explorer": "https://etherscan.io/token/0x191557728e4d8caa4ac94f86af842148c0fa8f7e",
+  "links": {
+    "coingecko": "ormeus-ecosystem",
+    "twitter": "ormeusecosystem",
+    "facebook": "ormeusecosystem",
+    "telegram": "OrmeusEcoSystemDAO",
+    "reddit": "r/OrmeusEcosystem"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

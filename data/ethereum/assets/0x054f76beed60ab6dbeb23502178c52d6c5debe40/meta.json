@@ -1,0 +1,15 @@
+{
+  "name": "DeFiner",
+  "symbol": "FIN",
+  "web": "https://definer.org",
+  "explorer": "https://etherscan.io/token/0x054f76beed60ab6dbeb23502178c52d6c5debe40",
+  "links": {
+    "coingecko": "definer",
+    "twitter": "DeFinerOrg",
+    "telegram": "DeFiner"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

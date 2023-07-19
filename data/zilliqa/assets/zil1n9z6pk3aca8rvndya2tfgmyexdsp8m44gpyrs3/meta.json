@@ -1,0 +1,13 @@
+{
+  "name": "Heroes of Lowhelm",
+  "symbol": "HOL",
+  "web": "https://heroesoflowhelm.com",
+  "links": {
+    "twitter": "https://twitter.com/HLowhelm",
+    "telegram": "https://t.me/heroesoflowhelm"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

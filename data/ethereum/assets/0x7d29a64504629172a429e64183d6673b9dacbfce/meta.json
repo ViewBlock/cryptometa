@@ -1,0 +1,15 @@
+{
+  "name": "Vectorspace AI",
+  "symbol": "VXV",
+  "web": "https://vectorspace.ai",
+  "explorer": "https://etherscan.io/token/0x7D29A64504629172a429e64183D6673b9dAcbFCe",
+  "links": {
+    "coingecko": "vectorspace",
+    "twitter": "Vectorspace_AI",
+    "reddit": "r/VectorspaceAI"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "mStable USD",
+  "symbol": "MUSD",
+  "web": "http://mstable.org",
+  "explorer": "https://etherscan.io/token/0xe2f2a5c287993345a840db3b0845fbc70f5935a5",
+  "links": {
+    "github": "mstable",
+    "coingecko": "musd",
+    "twitter": "mstable_",
+    "telegram": "mstableofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

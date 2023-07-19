@@ -1,0 +1,15 @@
+{
+  "name": "DragonVein",
+  "symbol": "DVC",
+  "web": "http://www.dragonvein.io",
+  "explorer": "https://etherscan.io/token/0x5E6FFe7B174A50c81fF3f3c54c04fD3c11E20830",
+  "links": {
+    "github": "DragonveinChain",
+    "coingecko": "dragonvein",
+    "telegram": "DRAGONVEIN"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Presearch",
+  "symbol": "PRE",
+  "web": "https://www.presearch.io",
+  "explorer": "https://etherscan.io/token/0xec213f83defb583af3a000b1c0ada660b1902a0f",
+  "links": {
+    "github": "PresearchOfficial",
+    "coingecko": "presearch",
+    "twitter": "presearchnews",
+    "facebook": "presearch.io",
+    "telegram": "presearch",
+    "reddit": "r/Presearch"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

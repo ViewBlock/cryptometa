@@ -1,0 +1,16 @@
+{
+  "name": "TORQ Coin",
+  "symbol": "TORQ",
+  "web": "https://www.torqcoin.io",
+  "explorer": "https://etherscan.io/token/0x1c65c261cb89178b02cf2aee20058b992787d770",
+  "links": {
+    "coingecko": "torq-coin",
+    "twitter": "TORQCoin",
+    "facebook": "torqcoin.io",
+    "telegram": "TORQChannel"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

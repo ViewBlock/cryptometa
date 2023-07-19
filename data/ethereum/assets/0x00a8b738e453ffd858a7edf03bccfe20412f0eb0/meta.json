@@ -1,0 +1,15 @@
+{
+  "name": "AllianceBlock",
+  "symbol": "ALBT",
+  "web": "https://allianceblock.io",
+  "explorer": "https://etherscan.io/token/0x00a8b738E453fFd858a7edf03bcCfe20412f0Eb0",
+  "links": {
+    "coingecko": "allianceblock",
+    "twitter": "allianceblock",
+    "telegram": "allianceblock"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

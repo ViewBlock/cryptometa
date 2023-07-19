@@ -1,0 +1,16 @@
+{
+  "name": "Cryptorg Token",
+  "symbol": "CTG",
+  "web": "https://cryptorg.net",
+  "explorer": "https://etherscan.io/token/0xc760721eb65aa6b0a634df6a008887c48813ff63",
+  "links": {
+    "github": "cryptorg-io",
+    "coingecko": "cryptorg-token",
+    "twitter": "Cryptorg_trade",
+    "telegram": "cryptorg_rus"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

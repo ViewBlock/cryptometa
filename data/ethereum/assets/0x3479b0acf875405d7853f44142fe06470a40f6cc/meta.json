@@ -1,0 +1,17 @@
+{
+  "name": "Value USD",
+  "symbol": "VUSD",
+  "web": "https://valueliquid.io/#/swap",
+  "explorer": "https://etherscan.io/token/0x3479b0acf875405d7853f44142fe06470a40f6cc",
+  "links": {
+    "github": "valuedefi",
+    "coingecko": "value-usd",
+    "twitter": "value_defi",
+    "telegram": "ValueDeFi",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

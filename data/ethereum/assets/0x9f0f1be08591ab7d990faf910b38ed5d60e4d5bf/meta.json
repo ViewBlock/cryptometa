@@ -1,0 +1,16 @@
+{
+  "name": "MainCoin",
+  "symbol": "MNC",
+  "web": "https://maincoin.money",
+  "explorer": "https://etherscan.io/token/0x9f0f1be08591ab7d990faf910b38ed5d60e4d5bf",
+  "links": {
+    "github": "main-coin",
+    "coingecko": "maincoin",
+    "facebook": "maincoin.money",
+    "reddit": "r/MainCoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

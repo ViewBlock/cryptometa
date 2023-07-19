@@ -1,0 +1,16 @@
+{
+  "name": "Candy Protocol",
+  "symbol": "CAD",
+  "web": "http://candyprotocol.io",
+  "explorer": "https://etherscan.io/token/0x2029017f38128bFeFaA6C7B9cDd1b680cE8E5c03",
+  "links": {
+    "coingecko": "candy-protocol",
+    "twitter": "candy_protocol",
+    "facebook": "candy.protocol",
+    "telegram": "Candyprotocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

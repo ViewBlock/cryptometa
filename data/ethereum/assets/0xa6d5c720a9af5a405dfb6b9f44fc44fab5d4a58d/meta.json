@@ -1,0 +1,16 @@
+{
+  "name": "Ezystayz",
+  "symbol": "EZY",
+  "web": "https://ezystayz.com",
+  "explorer": "https://etherscan.io/token/0xA6D5C720a9af5A405dFB6b9F44Fc44FaB5D4A58D",
+  "links": {
+    "coingecko": "ezystayz",
+    "twitter": "ezystayz2014",
+    "facebook": "ezystayzofficial",
+    "telegram": "ezystayzcom"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

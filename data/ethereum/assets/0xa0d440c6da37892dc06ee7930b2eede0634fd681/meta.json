@@ -1,0 +1,18 @@
+{
+  "name": "Masternet",
+  "symbol": "MASH",
+  "web": "https://masternet.io",
+  "explorer": "https://etherscan.io/token/0xa0d440c6da37892dc06ee7930b2eede0634fd681",
+  "links": {
+    "github": "masternetio",
+    "coingecko": "masternet",
+    "twitter": "MasternetMASH",
+    "facebook": "masternetproject",
+    "telegram": "AkasicGlobal",
+    "reddit": "r/MasternetMASH"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "7B Crypto",
+  "description": "A crypto broker app for people who want to trade with an easy-to-use interface, suited to both beginners and advanced traders.",
+  "web": "https://sevenb.io",
+  "links": {
+    "twitter": "https://twitter.com/sevenb_roker",
+    "telegram": "https://t.me/sevenb_rokerchat"
+  },
+  "categories": [
+    "exchange"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "7-b-crypto"
+}

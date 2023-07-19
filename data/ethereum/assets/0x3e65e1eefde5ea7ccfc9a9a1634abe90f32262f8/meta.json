@@ -1,0 +1,16 @@
+{
+  "name": "BaaSid",
+  "symbol": "BAAS",
+  "web": "https://www.baasid.com/#token",
+  "explorer": "https://etherscan.io/token/0x3e65e1eefde5ea7ccfc9a9a1634abe90f32262f8",
+  "links": {
+    "coingecko": "baasid",
+    "twitter": "baa_sid",
+    "facebook": "BaaSidIco",
+    "telegram": "BaaSidOfficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

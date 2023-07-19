@@ -1,0 +1,16 @@
+{
+  "name": "Hive",
+  "symbol": "HIVE",
+  "web": "https://hive.io",
+  "explorer": "https://hiveblocks.com",
+  "links": {
+    "github": "openhive-network",
+    "coingecko": "hive",
+    "twitter": "hiveblocks",
+    "telegram": "hivenetwork",
+    "reddit": "r/hiveblocks"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

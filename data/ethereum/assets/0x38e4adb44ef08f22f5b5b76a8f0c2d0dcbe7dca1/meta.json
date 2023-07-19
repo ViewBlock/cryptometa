@@ -1,0 +1,16 @@
+{
+  "name": "PowerPool Concentrated Voting Power",
+  "symbol": "CVP",
+  "web": "https://powerpool.finance",
+  "explorer": "https://etherscan.io/token/0x38e4adB44ef08F22F5B5b76A8f0c2d0dCbE7DcA1",
+  "links": {
+    "github": "powerpool-finance",
+    "coingecko": "concentrated-voting-power",
+    "twitter": "powerpoolcvp",
+    "telegram": "powerpoolcvp"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

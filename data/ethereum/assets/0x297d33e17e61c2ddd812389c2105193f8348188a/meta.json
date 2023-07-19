@@ -1,0 +1,16 @@
+{
+  "name": "Strudel Finance",
+  "symbol": "TRDL",
+  "web": "https://strudel.finance",
+  "explorer": "https://etherscan.io/token/0x297d33e17e61c2ddd812389c2105193f8348188a",
+  "links": {
+    "github": "strudel-finance",
+    "twitter": "EnterTheStrudel",
+    "telegram": "StrudelFinanceOfficial",
+    "linkedin": "company/strudel-finance"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 24
+  }
+}

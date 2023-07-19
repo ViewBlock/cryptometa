@@ -1,0 +1,16 @@
+{
+  "name": "DoYourTip",
+  "symbol": "DYT",
+  "web": "https://doyourtip.io",
+  "explorer": "https://etherscan.io/token/0x740623d2c797b7d8d1ecb98e9b4afcf99ec31e14",
+  "links": {
+    "coingecko": "dynamite",
+    "twitter": "DoYourTip",
+    "telegram": "DoYourTip",
+    "reddit": "r/DynamiteToken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

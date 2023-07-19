@@ -1,0 +1,14 @@
+{
+  "name": "TrueFi",
+  "symbol": "TRU",
+  "web": "http://truefi.io",
+  "explorer": "https://etherscan.io/token/0x4c19596f5aaff459fa38b0f7ed92f11ae6543784",
+  "links": {
+    "coingecko": "truefi",
+    "twitter": "TrustToken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

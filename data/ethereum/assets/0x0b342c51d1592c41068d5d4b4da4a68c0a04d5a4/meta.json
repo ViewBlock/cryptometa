@@ -1,0 +1,16 @@
+{
+  "name": "OneSwap DAO Token",
+  "symbol": "ONES",
+  "web": "https://www.oneswap.net",
+  "explorer": "https://etherscan.io/token/0x0b342c51d1592c41068d5d4b4da4a68c0a04d5a4",
+  "links": {
+    "github": "oneswap",
+    "coingecko": "oneswap-dao-token",
+    "twitter": "OneSwap",
+    "telegram": "OneSwap"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

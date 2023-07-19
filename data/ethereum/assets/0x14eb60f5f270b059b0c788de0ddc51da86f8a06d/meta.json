@@ -1,0 +1,15 @@
+{
+  "name": "Phantasma Energy",
+  "symbol": "KCAL",
+  "web": "https://Phantasma.io",
+  "explorer": "https://etherscan.io/token/0x14eb60f5f270b059b0c788de0ddc51da86f8a06d",
+  "links": {
+    "github": "phantasma-io",
+    "coingecko": "phantasma-energy",
+    "twitter": "phantasmachain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

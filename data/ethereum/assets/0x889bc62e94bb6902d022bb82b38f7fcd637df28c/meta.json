@@ -1,0 +1,13 @@
+{
+  "name": "1X Short OKB Token",
+  "symbol": "OKBHEDGE",
+  "web": "https://ftx.com/tokens/OKBHEDGE",
+  "explorer": "https://etherscan.io/token/0x889BC62E94bb6902D022bB82B38f7FCd637Df28C",
+  "links": {
+    "coingecko": "1x-short-okb-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

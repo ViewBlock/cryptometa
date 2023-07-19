@@ -1,0 +1,15 @@
+{
+  "name": "ShareAt",
+  "symbol": "XAT",
+  "web": "https://shareat.io",
+  "explorer": "https://etherscan.io/token/0x01c8857057326B8f64DCb5cba6d802DcD132946e",
+  "links": {
+    "github": "shareAtDev",
+    "coingecko": "shareat",
+    "telegram": "shareat_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

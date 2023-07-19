@@ -1,0 +1,30 @@
+{
+  "name": "CaptureClub NFT",
+  "symbol": "CC",
+  "description": "Discover, Collect, and Sell Extraordinary NFTs",
+  "web": "https://captureclub.cc",
+  "decimals": "18",
+  "email": "hi@numbersprotocol.io",
+  "links": {
+    "github": "https://github.com/numbersprotocol",
+    "linkedin": "https://www.linkedin.com/company/numbersprotocol",
+    "twitter": "https://twitter.com/numbersprotocol",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/numbers-protocol",
+    "coingecko": "https://www.coingecko.com/en/coins/numbers-protocol",
+    "medium": "https://medium.com/numbers-protocol",
+    "telegram": "https://t.me/numbersprotocol",
+    "discord": "https://discord.gg/rtef8kJH",
+    "reddit": "https://www.reddit.com/r/NumbersProtocolIO",
+    "youtube": "https://www.youtube.com/channel/UC9aIubRdrhLoSVb9xALFpUg"
+  },
+  "trusted": true,
+  "product": true,
+  "publicTeam": true,
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 100
+  }
+}

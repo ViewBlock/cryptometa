@@ -1,0 +1,16 @@
+{
+  "name": "Get A Fox",
+  "description": "Collect and trade furry Foxy friends.",
+  "web": "https://www.getafox.com",
+  "addresses": [
+    "0x90A410E99BF123069AEC52e8eA31b9F324943254",
+    "0xa7017579Ae122FF327080EdA895329A0B9062BB9"
+  ],
+  "categories": [
+    "game"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "get-a-fox"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Datbit",
+  "symbol": "DBT",
+  "web": "https://datbit.org",
+  "explorer": "https://etherscan.io/token/0xc28d4341ad8224e1a424558074ef0b4515f424d5",
+  "links": {
+    "coingecko": "datbit",
+    "twitter": "datbit_org",
+    "telegram": "datbit_org"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

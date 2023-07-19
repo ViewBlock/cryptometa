@@ -1,0 +1,15 @@
+{
+  "name": "Glitch Protocol",
+  "symbol": "GLCH",
+  "web": "https://glitch.finance",
+  "explorer": "https://etherscan.io/token/0x038a68ff68c393373ec894015816e33ad41bd564",
+  "links": {
+    "coingecko": "glitch-protocol",
+    "twitter": "GlitchProtocol",
+    "telegram": "glitchprotocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

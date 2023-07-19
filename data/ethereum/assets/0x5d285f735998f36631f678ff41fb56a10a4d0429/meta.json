@@ -1,0 +1,17 @@
+{
+  "name": "MixMarvel",
+  "symbol": "MIX",
+  "web": "https://www.mixmarvel.com",
+  "explorer": "https://etherscan.io/token/0x5d285f735998f36631f678ff41fb56a10a4d0429",
+  "links": {
+    "coingecko": "mixmarvel",
+    "twitter": "mixmarvelgame",
+    "facebook": "mixmarvelplatform",
+    "telegram": "MixMarvelGlobal",
+    "reddit": "r/MIXMARVEL"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

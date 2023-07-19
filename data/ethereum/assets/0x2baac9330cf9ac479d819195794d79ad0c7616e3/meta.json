@@ -1,0 +1,16 @@
+{
+  "name": "adbank",
+  "symbol": "ADB",
+  "web": "https://adbank.network",
+  "explorer": "https://etherscan.io/token/0x2baac9330cf9ac479d819195794d79ad0c7616e3",
+  "links": {
+    "coingecko": "adbank",
+    "twitter": "adbanknetwork",
+    "facebook": "adbanknetwork",
+    "reddit": "r/adbank"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

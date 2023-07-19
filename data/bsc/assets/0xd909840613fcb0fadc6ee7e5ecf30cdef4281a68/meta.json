@@ -1,0 +1,12 @@
+{
+  "name": "Panda Yield",
+  "symbol": "BBOO",
+  "web": "https://pandayield.com/#",
+  "explorer": "https://bscscan.com/token/0xd909840613fcb0fadc6ee7e5ecf30cdef4281a68",
+  "links": {
+    "github": "pandayield",
+    "coingecko": "panda-yield",
+    "twitter": "PandaYield",
+    "telegram": "pandayieldd"
+  }
+}

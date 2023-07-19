@@ -1,0 +1,16 @@
+{
+  "name": "FinanceX Exchange Token",
+  "symbol": "FNXS",
+  "web": "https://financex.io",
+  "explorer": "https://etherscan.io/token/0x05919a3915462abbdf2cd3c5b42213cc8f596102",
+  "links": {
+    "coingecko": "financex-exchange-token",
+    "twitter": "FinanceX_Fiat",
+    "facebook": "FinanceX.io",
+    "telegram": "FinanceX_Vietnam"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

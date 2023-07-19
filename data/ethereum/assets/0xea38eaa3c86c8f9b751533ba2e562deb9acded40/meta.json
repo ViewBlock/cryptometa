@@ -1,0 +1,16 @@
+{
+  "name": "Etherparty",
+  "symbol": "FUEL",
+  "web": "https://etherparty.io",
+  "explorer": "https://etherscan.io/token/0xea38eaa3c86c8f9b751533ba2e562deb9acded40",
+  "links": {
+    "github": "etherparty",
+    "coingecko": "etherparty",
+    "twitter": "etherparty_io",
+    "reddit": "r/etherparty"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

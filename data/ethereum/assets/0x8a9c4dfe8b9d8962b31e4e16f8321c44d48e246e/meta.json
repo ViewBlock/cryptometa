@@ -1,0 +1,14 @@
+{
+  "name": "Name Changing Token",
+  "symbol": "NCT",
+  "web": "https://www.thehashmasks.com/nct",
+  "explorer": "https://etherscan.io/token/0x8a9c4dfe8b9d8962b31e4e16f8321c44d48e246e",
+  "links": {
+    "coingecko": "name-changing-token",
+    "twitter": "TheHashmasks"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

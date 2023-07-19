@@ -1,0 +1,15 @@
+{
+  "name": "NEWLAND",
+  "symbol": "NLD",
+  "web": "https://www.newland.one",
+  "explorer": "https://etherscan.io/token/0x48e234d2ddcb32d780971c0df7fdde25bba192de",
+  "links": {
+    "coingecko": "newland",
+    "twitter": "Newland34009353",
+    "facebook": "yu.newland.3"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

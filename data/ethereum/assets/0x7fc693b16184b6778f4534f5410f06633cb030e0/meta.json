@@ -1,0 +1,14 @@
+{
+  "name": "RELAX Protocol",
+  "symbol": "RLX",
+  "web": "https://relaxprotocol.com",
+  "explorer": "https://etherscan.io/token/0x7fc693b16184b6778f4534f5410f06633cb030e0",
+  "links": {
+    "github": "volaxrelax",
+    "coingecko": "relax-protocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

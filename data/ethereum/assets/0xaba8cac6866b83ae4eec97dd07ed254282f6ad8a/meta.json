@@ -1,0 +1,15 @@
+{
+  "name": "YAM v2",
+  "symbol": "YAMV2",
+  "web": "http://yam.finance",
+  "explorer": "https://etherscan.io/token/0xaba8cac6866b83ae4eec97dd07ed254282f6ad8a",
+  "links": {
+    "github": "yam-finance",
+    "coingecko": "yam-v2",
+    "twitter": "YamFinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

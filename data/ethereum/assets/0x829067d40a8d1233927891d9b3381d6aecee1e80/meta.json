@@ -1,0 +1,13 @@
+{
+  "name": "Ivy Mining",
+  "symbol": "IVY",
+  "web": "https://www.ivymining.com",
+  "explorer": "https://etherscan.io/token/0x829067D40A8D1233927891D9b3381d6aeCeE1E80",
+  "links": {
+    "coingecko": "ivy-mining"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

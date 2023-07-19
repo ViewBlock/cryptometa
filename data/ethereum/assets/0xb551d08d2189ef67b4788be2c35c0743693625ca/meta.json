@@ -1,0 +1,13 @@
+{
+  "name": "EAutocoin",
+  "symbol": "ATO",
+  "web": "https://www.eautocoin.com",
+  "explorer": "https://etherscan.io/token/0xb551d08d2189ef67b4788be2c35c0743693625ca",
+  "links": {
+    "coingecko": "eautocoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

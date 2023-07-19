@@ -1,0 +1,16 @@
+{
+  "name": "KAWANGGAWA",
+  "symbol": "KGW",
+  "web": "https://kawanggawa.network",
+  "explorer": "https://etherscan.io/token/0x55eb5288c9b65037a4cd2289637f38a4f9db3a6b",
+  "links": {
+    "github": "kawanggawa-network",
+    "coingecko": "kawanggawa",
+    "twitter": "Kawanggawa_OFC",
+    "telegram": "kawanggawaglobal"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

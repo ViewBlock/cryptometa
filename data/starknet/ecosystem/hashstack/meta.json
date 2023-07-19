@@ -1,0 +1,18 @@
+{
+  "name": "Hashstack",
+  "description": "A non-custodial Zk-native money market protocol enabling secure under-collateralized loans.",
+  "categories": [
+    "defi"
+  ],
+  "web": "https://hashstack.finance",
+  "links": {
+    "github": "https://github.com/0xHashstack/zkOpen",
+    "twitter": "https://twitter.com/0xHashstack",
+    "medium": "https://hashstack.medium.com",
+    "discord": "http://hashstack.community"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "hashstack"
+}

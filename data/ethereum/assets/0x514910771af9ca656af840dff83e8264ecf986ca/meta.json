@@ -1,0 +1,17 @@
+{
+  "name": "Chainlink",
+  "symbol": "LINK",
+  "web": "https://chain.link",
+  "explorer": "https://etherscan.io/token/0x514910771af9ca656af840dff83e8264ecf986ca",
+  "links": {
+    "github": "smartcontractkit",
+    "coingecko": "chainlink",
+    "twitter": "chainlink",
+    "telegram": "chainlinkofficial",
+    "reddit": "r/Chainlink"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

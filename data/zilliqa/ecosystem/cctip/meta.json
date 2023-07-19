@@ -1,0 +1,17 @@
+{
+  "name": "CCTip",
+  "description": "A crypto tipping bot currently supporting 5 platforms namely Twitter, WeChat, Telegram, Reddit and Discord.",
+  "web": "https://cctip.io",
+  "links": {
+    "twitter": "https://twitter.com/cctip_io",
+    "telegram": "https://t.me/cctip_bot",
+    "discord": "https://discord.gg/gEPamDz"
+  },
+  "categories": [
+    "app"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "cctip"
+}

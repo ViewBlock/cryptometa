@@ -1,0 +1,16 @@
+{
+  "name": "SENSO",
+  "symbol": "SENSO",
+  "web": "https://sensoriumxr.com",
+  "explorer": "https://etherscan.io/token/0xC19B6A4Ac7C7Cc24459F08984Bbd09664af17bD1",
+  "links": {
+    "coingecko": "senso",
+    "twitter": "SensoriumGalaxy",
+    "facebook": "SensoriumGalaxy",
+    "telegram": "sensoriumgalaxy"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

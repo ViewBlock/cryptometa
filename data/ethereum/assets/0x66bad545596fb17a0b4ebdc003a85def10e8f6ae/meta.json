@@ -1,0 +1,16 @@
+{
+  "name": "Wiki Token",
+  "symbol": "WIKI",
+  "web": "https://wikitoken.bitcoinwiki.org",
+  "explorer": "https://etherscan.io/token/0x66bad545596fb17a0b4ebdc003a85def10e8f6ae",
+  "links": {
+    "coingecko": "wiki-token",
+    "twitter": "wiki_token",
+    "telegram": "wikitoken_eng",
+    "reddit": "r/WikiToken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

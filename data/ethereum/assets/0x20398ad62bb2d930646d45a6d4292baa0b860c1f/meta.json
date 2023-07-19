@@ -1,0 +1,16 @@
+{
+  "name": "Flashstake",
+  "symbol": "FLASH",
+  "web": "https://flashstake.io",
+  "explorer": "https://etherscan.io/token/0x20398ad62bb2d930646d45a6d4292baa0b860c1f",
+  "links": {
+    "github": "XIO-Network",
+    "coingecko": "flash-stake",
+    "twitter": "Flashstake",
+    "telegram": "flashstake"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

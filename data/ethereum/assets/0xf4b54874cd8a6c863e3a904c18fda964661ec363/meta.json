@@ -1,0 +1,15 @@
+{
+  "name": "DWS",
+  "symbol": "DWS",
+  "web": "https://dwswifi.com",
+  "explorer": "https://etherscan.io/token/0xf4b54874cd8a6c863e3a904c18fda964661ec363",
+  "links": {
+    "coingecko": "dws",
+    "twitter": "dwswifi",
+    "telegram": "dwswifiofficial "
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Typhoon Cash",
+  "symbol": "PHOON",
+  "web": "https://typhoon.cash",
+  "explorer": "https://etherscan.io/token/0x79256db1bdb6259315a1a3d7dd237f69cadfd8fc",
+  "links": {
+    "coingecko": "typhoon-cash",
+    "twitter": "TyphoonCash",
+    "telegram": "typhooncashchat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

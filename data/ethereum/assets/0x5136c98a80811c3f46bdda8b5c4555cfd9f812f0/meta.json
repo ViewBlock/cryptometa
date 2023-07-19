@@ -1,0 +1,19 @@
+{
+  "name": "indaHash",
+  "symbol": "IDH",
+  "web": "https://indahash.com/ico",
+  "explorer": "https://etherscan.io/token/0x5136C98A80811C3f46bDda8B5c4555CFd9f812F0",
+  "links": {
+    "github": "indahash",
+    "coingecko": "indahash",
+    "twitter": "indahash",
+    "facebook": "indahash",
+    "telegram": "indaHash_chat",
+    "reddit": "r/indaHash"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

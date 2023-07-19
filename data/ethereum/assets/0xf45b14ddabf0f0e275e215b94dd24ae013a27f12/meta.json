@@ -1,0 +1,15 @@
+{
+  "name": "sXTZ",
+  "symbol": "SXTZ",
+  "web": "https://www.synthetix.io",
+  "explorer": "https://etherscan.io/token/0xF45B14ddaBF0F0e275E215b94dD24Ae013a27F12",
+  "links": {
+    "coingecko": "sxtz",
+    "twitter": "synthetix_io",
+    "reddit": "r/synthetix_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

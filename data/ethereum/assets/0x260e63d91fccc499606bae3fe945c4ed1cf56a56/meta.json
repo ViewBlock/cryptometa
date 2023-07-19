@@ -1,0 +1,15 @@
+{
+  "name": "MoonTools",
+  "symbol": "MOONS",
+  "web": "https://www.moontools.io",
+  "explorer": "https://etherscan.io/token/0x260e63d91fCCC499606BAe3FE945c4ed1CF56A56",
+  "links": {
+    "coingecko": "moontools",
+    "twitter": "moontoolsio",
+    "telegram": "moontoolsio"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,15 +1,24 @@
 {
   "name": "Carbon",
+  "description": "CARB is a utility token that is used to power a number of innovative products, services and tools developed by Carbon Labs.",
   "symbol": "CARB",
   "web": "https://www.carbontoken.info",
+  "decimals": "8",
   "supply": "10000000",
+  "email": "contact@carbontoken.info",
+  "whitepaper": "https://github.com/Carbon-Labs/whitepapers",
+  "holders": true,
+  "publicTeam": true,
+  "product": true,
   "links": {
     "telegram": "https://t.me/carbontoken",
-    "github": "https://github.com/GenesysLabs"
+    "github": "https://github.com/Carbon-Labs",
+    "twitter": "https://twitter.com/carblabs",
+    "linkedin": "https://www.linkedin.com/in/adamjamesmartin/"
   },
   "gen": {
     "logo": "logo.png",
     "hasDark": true,
-    "score": 14
+    "score": 90
   }
 }

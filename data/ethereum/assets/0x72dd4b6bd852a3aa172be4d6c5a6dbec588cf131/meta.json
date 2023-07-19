@@ -1,0 +1,18 @@
+{
+  "name": "NAGA",
+  "symbol": "NGC",
+  "web": "https://www.thenagacoin.com",
+  "explorer": "https://etherscan.io/token/0x72dd4b6bd852a3aa172be4d6c5a6dbec588cf131",
+  "links": {
+    "github": "nagadevelopment",
+    "coingecko": "naga",
+    "twitter": "nagainvesting",
+    "facebook": "thenagaico",
+    "telegram": "nagaico",
+    "reddit": "r/thenagaico"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

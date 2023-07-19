@@ -1,0 +1,18 @@
+{
+  "name": "Genaro Network",
+  "symbol": "GNX",
+  "web": "https://genaro.network/en",
+  "explorer": "https://etherscan.io/token/0x6ec8a24cabdc339a06a172f8223ea557055adaa5",
+  "links": {
+    "github": "GenaroSanada",
+    "coingecko": "genaro-network",
+    "twitter": "GenaroNetwork",
+    "facebook": "GenaroNetwork",
+    "telegram": "GenaroNetworkOfficial",
+    "reddit": "r/GenaroNetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Hardware Chain",
+  "symbol": "HDW",
+  "web": "http://www.hardwarechain.io",
+  "explorer": "https://etherscan.io/token/0xca176a8ac234446b2561293db7543e0cdadc6627",
+  "links": {
+    "coingecko": "hardware-chain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

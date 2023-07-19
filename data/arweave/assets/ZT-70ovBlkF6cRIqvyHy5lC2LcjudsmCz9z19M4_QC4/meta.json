@@ -1,0 +1,21 @@
+{
+  "name": "ArGo App",
+  "symbol": "ARGO",
+  "web": "https://argoapp.live",
+  "supply": 20000000,
+  "email": "team@argoapp.live",
+  "publicTeam": true,
+  "links": {
+    "github": "https://github.com/argoapp-live",
+    "twitter": "https://twitter.com/argoapplive",
+    "discord": "https://discord.gg/ahxuCtm"
+  },
+  "config": {
+    "manualDark": true
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 38
+  }
+}

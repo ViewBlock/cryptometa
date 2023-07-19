@@ -1,0 +1,15 @@
+{
+  "name": "Etheroll",
+  "symbol": "DICE",
+  "web": "https://etheroll.com",
+  "explorer": "https://etherscan.io/token/0x2e071D2966Aa7D8dECB1005885bA1977D6038A65",
+  "links": {
+    "coingecko": "etheroll",
+    "twitter": "etheroll",
+    "reddit": "r/etheroll"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

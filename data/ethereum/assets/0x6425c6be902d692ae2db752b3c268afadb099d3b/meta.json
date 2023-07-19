@@ -1,0 +1,18 @@
+{
+  "name": "Restart Energy",
+  "symbol": "MWAT",
+  "web": "https://restartenergy.io",
+  "explorer": "https://etherscan.io/token/0x6425c6be902d692ae2db752b3c268afadb099d3b",
+  "links": {
+    "github": "TransylvaniaHighTech",
+    "coingecko": "restart-energy",
+    "twitter": "restartenergyio",
+    "facebook": "restartenergydemocracy",
+    "telegram": "RestartEnergy",
+    "reddit": "r/RestartEnergy"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

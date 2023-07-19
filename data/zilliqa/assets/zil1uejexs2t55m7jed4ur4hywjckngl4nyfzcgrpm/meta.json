@@ -1,0 +1,17 @@
+{
+  "name": "Scam Token",
+  "symbol": "SCAM",
+  "web": "https://security.zilliqa.com/",
+  "decimals": 0,
+  "email": "security@zilliqa.com",
+  "links": {
+    "github": "https://github.com/Zilliqa/ZILScamWatchlist"
+  },
+  "publicTeam": true,
+  "product": true,
+  "gen": {
+    "logo": "logo.png",
+    "score": 100
+  },
+  "trusted": true
+}

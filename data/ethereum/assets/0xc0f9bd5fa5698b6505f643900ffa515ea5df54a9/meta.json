@@ -1,0 +1,14 @@
+{
+  "name": "Donut",
+  "symbol": "DONUT",
+  "web": "https://www.donut.foundation",
+  "explorer": "https://etherscan.io/token/0xc0f9bd5fa5698b6505f643900ffa515ea5df54a9",
+  "links": {
+    "coingecko": "donut",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

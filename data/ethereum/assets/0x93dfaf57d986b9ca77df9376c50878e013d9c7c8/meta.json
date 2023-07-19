@@ -1,0 +1,17 @@
+{
+  "name": "Unique One",
+  "symbol": "RARE",
+  "web": "https://www.unique.one",
+  "explorer": "https://etherscan.io/token/0x93dfaf57D986B9cA77Df9376c50878E013D9c7C8",
+  "links": {
+    "github": "Unique-One-Official",
+    "coingecko": "unique-one",
+    "twitter": "UniqueOne_UO",
+    "facebook": "Unique-One-104043604825334",
+    "telegram": "unique_one_rare"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

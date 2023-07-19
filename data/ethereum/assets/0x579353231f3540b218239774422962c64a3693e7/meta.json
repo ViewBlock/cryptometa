@@ -1,0 +1,16 @@
+{
+  "name": "Bitcratic Revenue",
+  "symbol": "BCTR",
+  "web": "https://www.bitcratic.com",
+  "explorer": "https://etherscan.io/token/0x579353231f3540b218239774422962c64a3693e7",
+  "links": {
+    "github": "Bitcratic",
+    "coingecko": "bitcratic-revenue",
+    "twitter": "bitcratic",
+    "telegram": "Bitcratic"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

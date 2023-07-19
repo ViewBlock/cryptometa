@@ -1,0 +1,16 @@
+{
+  "name": "WM PROFESSIONAL",
+  "symbol": "WMPRO",
+  "web": "https://www.wmpro.io",
+  "explorer": "https://etherscan.io/token/0x687a790e4e94a8abf9952aed635c80a5540d7e5c",
+  "links": {
+    "coingecko": "wm-professional",
+    "twitter": "professional_wm",
+    "facebook": "Wmpro-coin-294318044444335",
+    "telegram": "wmpro1"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

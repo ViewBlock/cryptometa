@@ -1,0 +1,17 @@
+{
+  "name": "Cova Unity",
+  "symbol": "COVA",
+  "web": "http://covalent.ai",
+  "explorer": "https://etherscan.io/token/0xb37a769b37224449d92aac57de379e1267cd3b00",
+  "links": {
+    "github": "covalent-hq",
+    "coingecko": "covalent-cova",
+    "twitter": "covatoken",
+    "telegram": "covalentofficial",
+    "reddit": "r/Covalent_Official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

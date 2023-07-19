@@ -1,0 +1,16 @@
+{
+  "name": "En-Tan-Mo",
+  "symbol": "ETM",
+  "web": "http://www.entanmo.com",
+  "explorer": "https://etherscan.io/token/0x6020da0f7c1857dbe4431ec92a15cc318d933eaa",
+  "links": {
+    "github": "entanmo",
+    "coingecko": "en-tan-mo",
+    "twitter": "entanmo1",
+    "telegram": "entanmo"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

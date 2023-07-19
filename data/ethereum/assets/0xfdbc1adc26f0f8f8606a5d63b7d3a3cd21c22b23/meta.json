@@ -1,0 +1,17 @@
+{
+  "name": "1World",
+  "symbol": "1WO",
+  "web": "https://ico.1worldonline.com",
+  "explorer": "https://etherscan.io/token/0xfdbc1adc26f0f8f8606a5d63b7d3a3cd21c22b23",
+  "links": {
+    "github": "1World-Online",
+    "coingecko": "1world",
+    "twitter": "1World_Online",
+    "facebook": "1WorldOnlineInc",
+    "telegram": "oneworldonlineico"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

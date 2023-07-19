@@ -1,0 +1,16 @@
+{
+  "name": "Rank Token",
+  "symbol": "RANK",
+  "web": "https://rankalt.com",
+  "explorer": "https://tronscan.io/#/token20/TNkmiDFubYeHZ3nAnZNFvtc6K1toBzE6DD",
+  "links": {
+    "coingecko": "rank-token",
+    "twitter": "icorankinfo",
+    "facebook": "icorankinfo",
+    "telegram": "ranktoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

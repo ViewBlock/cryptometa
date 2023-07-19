@@ -1,0 +1,15 @@
+{
+  "name": "Basis Coin Share",
+  "symbol": "BCS",
+  "web": "https://basiscoin.finance",
+  "explorer": "https://etherscan.io/token/0x03066dA434e5264ef0B32f787923f974A5726fDc",
+  "links": {
+    "coingecko": "basiscoin-share",
+    "twitter": "Basis_Coin",
+    "telegram": "basiscoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

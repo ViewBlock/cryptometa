@@ -1,0 +1,16 @@
+{
+  "name": "Volume Network",
+  "symbol": "VOL",
+  "web": "https://volumenetwork.io",
+  "explorer": "https://etherscan.io/token/0x2e2e0a28f6585e895dd646a363bae29b77b88a31",
+  "links": {
+    "coingecko": "volume-network-token",
+    "twitter": "network_volume",
+    "facebook": "VolumeNetwork",
+    "telegram": "VolumeNetworkio"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

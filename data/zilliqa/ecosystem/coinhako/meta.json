@@ -1,0 +1,20 @@
+{
+  "name": "CoinHako",
+  "description": "Buy, sell, swap, and store digital assets in Asia",
+  "web": "https://www.coinhako.com",
+  "links": {
+    "twitter": "coinhako",
+    "telegram": "CoinhakoOfficial"
+  },
+  "addresses": [
+    "zil1829canc2d26647sgafx8f2zwy7eq36l2a3t766",
+    "zil1cznkkuwq0sk38uavsvr3dd2cfcpq6lt8042rgw"
+  ],
+  "categories": [
+    "exchange"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "coinhako"
+}

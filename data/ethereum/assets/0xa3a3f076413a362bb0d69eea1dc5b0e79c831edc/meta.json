@@ -1,0 +1,13 @@
+{
+  "name": "Cocaine Cowboy Shards",
+  "symbol": "COKE",
+  "web": "https://www.niftex.com/launches/details/COKE",
+  "explorer": "https://etherscan.io/token/0xa3a3f076413a362bb0d69eea1dc5b0e79c831edc",
+  "links": {
+    "coingecko": "cocaine-cowboy-shards"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

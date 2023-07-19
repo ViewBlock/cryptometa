@@ -1,0 +1,18 @@
+{
+  "name": "LUKSO Token",
+  "symbol": "LYXE",
+  "web": "https://www.lukso.network",
+  "explorer": "https://etherscan.io/token/0xA8b919680258d369114910511cc87595aec0be6D",
+  "links": {
+    "github": "lukso-network",
+    "coingecko": "lukso-token",
+    "twitter": "lukso_io",
+    "facebook": "lukso.io",
+    "telegram": "LUKSO",
+    "reddit": "r/lukso"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "AntiMatter",
+  "symbol": "MATTER",
+  "web": "https://antimatter.finance",
+  "explorer": "https://etherscan.io/token/0x1c9491865a1de77c5b6e19d2e6a5f1d7a6f2b25f",
+  "links": {
+    "github": "antimatter-finance",
+    "coingecko": "antimatter",
+    "twitter": "antimatterdefi",
+    "telegram": "antimatterchat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

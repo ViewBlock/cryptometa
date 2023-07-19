@@ -1,0 +1,14 @@
+{
+  "name": "DANDY ART CLUB",
+  "symbol": "DAC",
+  "links": {
+    "twitter": "https://twitter.com/DeepsiDAC"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "BMJ Master Nodes",
+  "symbol": "BMJ",
+  "web": "https://dapp.bmjcoin.com",
+  "explorer": "https://etherscan.io/token/0x5913D0F34615923552ee913DBe809F9F348e706E",
+  "links": {
+    "coingecko": "bmj-master-nodes",
+    "twitter": "BMJ67466085",
+    "facebook": "bmj.bmj.39142",
+    "telegram": "bmj012"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

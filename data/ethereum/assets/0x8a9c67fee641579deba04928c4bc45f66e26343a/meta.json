@@ -1,0 +1,16 @@
+{
+  "name": "Jarvis Reward Token",
+  "symbol": "JRT",
+  "web": "https://jarvis.network",
+  "explorer": "https://etherscan.io/token/0x8a9c67fee641579deba04928c4bc45f66e26343a",
+  "links": {
+    "coingecko": "jarvis-reward-token",
+    "twitter": "Jarvis_Network",
+    "facebook": "jarvis.network",
+    "telegram": "jarvisnetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

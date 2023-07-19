@@ -1,0 +1,17 @@
+{
+  "name": "8X8 Protocol",
+  "symbol": "EXE",
+  "web": "https://8x8protocol.io",
+  "explorer": "https://etherscan.io/token/0x412d397ddca07d753e3e0c61e367fb1b474b3e7d",
+  "links": {
+    "github": "isoftpartners",
+    "coingecko": "8x8-protocol",
+    "twitter": "8x8PROTOCOL",
+    "facebook": "8X8PROTOCOL",
+    "telegram": "EXEOFFICIAL"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

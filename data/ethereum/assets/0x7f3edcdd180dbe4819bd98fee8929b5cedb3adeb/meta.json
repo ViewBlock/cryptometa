@@ -1,0 +1,15 @@
+{
+  "name": "xToken",
+  "symbol": "XTK",
+  "web": "https://xtoken.market",
+  "explorer": "https://etherscan.io/token/0x7f3edcdd180dbe4819bd98fee8929b5cedb3adeb",
+  "links": {
+    "github": "xtokenmarket",
+    "coingecko": "xtoken",
+    "twitter": "xtokenmarket"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

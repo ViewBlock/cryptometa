@@ -1,0 +1,17 @@
+{
+  "name": "Tornado Cash",
+  "symbol": "TORN",
+  "web": "https://tornado.cash",
+  "explorer": "https://etherscan.io/token/0x77777feddddffc19ff86db637967013e6c6a116c",
+  "links": {
+    "github": "tornadocash",
+    "coingecko": "tornado-cash",
+    "twitter": "TornadoCash",
+    "telegram": "TornadoCashOfficial"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "score": 19
+  }
+}

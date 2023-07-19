@@ -1,0 +1,16 @@
+{
+  "name": "MX Token",
+  "symbol": "MX",
+  "web": "https://www.mxc.com",
+  "explorer": "https://etherscan.io/token/0x11eef04c884e24d9b7b4760e7476d06ddf797f36",
+  "links": {
+    "coingecko": "mx-token",
+    "twitter": "MXC_Exchange",
+    "facebook": "mxcexchangeofficial",
+    "telegram": "MXCEnglish"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

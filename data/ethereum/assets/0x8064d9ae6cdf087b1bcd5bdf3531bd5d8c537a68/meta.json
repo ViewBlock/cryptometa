@@ -1,0 +1,16 @@
+{
+  "name": "BoringDAO BTC",
+  "symbol": "OBTC",
+  "web": "https://www.boringdao.com",
+  "explorer": "https://etherscan.io/token/0x8064d9ae6cdf087b1bcd5bdf3531bd5d8c537a68",
+  "links": {
+    "github": "BoringDAO",
+    "coingecko": "boringdao-btc",
+    "twitter": "BoringDAO_Defi",
+    "telegram": "boringDAO"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

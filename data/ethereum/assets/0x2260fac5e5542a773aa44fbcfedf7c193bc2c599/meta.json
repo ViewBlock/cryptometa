@@ -1,0 +1,16 @@
+{
+  "name": "Wrapped Bitcoin",
+  "symbol": "WBTC",
+  "web": "https://www.wbtc.network",
+  "explorer": "https://etherscan.io/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+  "links": {
+    "github": "WrappedBTC",
+    "coingecko": "wrapped-bitcoin"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg",
+    "score": 14
+  }
+}

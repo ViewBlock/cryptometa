@@ -1,0 +1,16 @@
+{
+  "name": "SKINCHAIN",
+  "symbol": "SKC",
+  "web": "http://skinchain.io",
+  "explorer": "https://etherscan.io/token/0x0fE156436F203B114C6c562Cb1a2A81aa2801090",
+  "links": {
+    "coingecko": "skinchain",
+    "twitter": "skinchain",
+    "facebook": "skinchain",
+    "telegram": "skinchain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

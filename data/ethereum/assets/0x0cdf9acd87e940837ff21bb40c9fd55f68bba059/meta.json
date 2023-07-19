@@ -1,0 +1,15 @@
+{
+  "name": "Public Mint",
+  "symbol": "MINT",
+  "web": "https://publicmint.com",
+  "explorer": "https://etherscan.io/token/0x0CDF9acd87E940837ff21BB40c9fd55F68bba059",
+  "links": {
+    "coingecko": "public-mint",
+    "twitter": "PublicMint",
+    "telegram": "PublicMint"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

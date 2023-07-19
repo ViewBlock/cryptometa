@@ -1,0 +1,15 @@
+{
+  "name": "ARCS",
+  "symbol": "ARX",
+  "web": "https://www.arcs-chain.com",
+  "explorer": "https://etherscan.io/token/0x7d8DafF6d70CEAd12c6f077048552Cf89130A2B1",
+  "links": {
+    "coingecko": "arcs",
+    "twitter": "ARCS_ARX",
+    "telegram": "ARCS_ARX_EN"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

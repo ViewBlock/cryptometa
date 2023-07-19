@@ -1,0 +1,16 @@
+{
+  "name": "TrueAUD",
+  "symbol": "TAUD",
+  "web": "https://www.trusttoken.com/trueaud",
+  "explorer": "https://etherscan.io/token/0x00006100f7090010005f1bd7ae6122c3c2cf0090",
+  "links": {
+    "github": "trusttoken",
+    "coingecko": "trueaud",
+    "twitter": "TrustToken",
+    "facebook": "TrustToken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

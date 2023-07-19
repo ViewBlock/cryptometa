@@ -1,0 +1,19 @@
+{
+  "name": "ZilPepe",
+  "description": "Flagship memecoin of Zilliqa. 100% supply renounced. Extremely useless and highly risky token - shitty as hell!",
+  "symbol": "ZILPEPE",
+  "web": "https://zilpepe.com/",
+  "decimals": 18,
+  "supply": 420690420690420,
+  "links": {
+    "twitter": "https://twitter.com/Zil_Pepe",
+    "telegram": "https://t.me/ZILPEPE",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/zilpepe/",
+    "coingecko": "https://www.coingecko.com/en/coins/zilpepe",
+    "discord": "https://discord.gg/sBAjua7WXT"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

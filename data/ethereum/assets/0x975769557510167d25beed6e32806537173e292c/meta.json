@@ -1,0 +1,13 @@
+{
+  "name": "Derivex",
+  "symbol": "DVX",
+  "web": "http://derivexglobal.com",
+  "explorer": "https://etherscan.io/token/0x975769557510167d25BEed6E32806537173E292C",
+  "links": {
+    "coingecko": "derivex"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "SelfKey",
+  "symbol": "KEY",
+  "web": "https://selfkey.org",
+  "explorer": "https://etherscan.io/token/0x4cc19356f2d37338b9802aa8e8fc58b0373296e7",
+  "links": {
+    "github": "SelfKeyFoundation",
+    "coingecko": "selfkey",
+    "twitter": "SelfKey",
+    "facebook": "SelfKeyNetwork",
+    "telegram": "selfkeyfoundation",
+    "reddit": "r/selfkey"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

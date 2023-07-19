@@ -1,0 +1,14 @@
+{
+  "name": "TilWiki",
+  "symbol": "TLW",
+  "web": "https://tilwiki.com",
+  "explorer": "https://etherscan.io/token/0x06f3cdabae564b0546529b4dd8fef1bcd4235753",
+  "links": {
+    "coingecko": "tilwiki",
+    "facebook": "TILWIKI"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

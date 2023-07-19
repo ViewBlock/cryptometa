@@ -1,0 +1,16 @@
+{
+  "name": "Hybrid Bank Cash",
+  "symbol": "HBC",
+  "web": "https://www.hybridbank.io",
+  "explorer": "https://etherscan.io/token/0xFb9553aFa2B5c19c5F8e5b8eE175Fc01abD1555F",
+  "links": {
+    "coingecko": "hybrid-bank-cash",
+    "twitter": "hybridbank1",
+    "telegram": "hybrid_bank"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

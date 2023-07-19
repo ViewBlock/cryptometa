@@ -1,0 +1,15 @@
+{
+  "name": "Paypex",
+  "symbol": "PAYX",
+  "web": "https://paypex.org",
+  "explorer": "https://etherscan.io/token/0x62a56a4a2ef4d355d34d10fbf837e747504d38d4",
+  "links": {
+    "coingecko": "paypex",
+    "twitter": "paypex",
+    "reddit": "r/paypex"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

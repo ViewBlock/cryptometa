@@ -1,0 +1,17 @@
+{
+  "name": "CoinMetro",
+  "symbol": "XCM",
+  "web": "https://coinmetro.com",
+  "explorer": "https://etherscan.io/token/0x36ac219f90f5A6A3C77f2a7B660E3cC701f68e25",
+  "links": {
+    "coingecko": "coinmetro",
+    "twitter": "CoinMetro",
+    "facebook": "CoinMetro",
+    "telegram": "CoinMetro",
+    "reddit": "r/CoinMetro"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

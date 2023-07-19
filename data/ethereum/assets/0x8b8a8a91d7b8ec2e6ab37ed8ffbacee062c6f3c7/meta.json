@@ -1,0 +1,14 @@
+{
+  "name": "ECP+ Technology",
+  "symbol": "ECP",
+  "web": "https://epay-global.io",
+  "explorer": "https://etherscan.io/token/0x8b8a8a91d7b8ec2e6ab37ed8ffbacee062c6f3c7",
+  "links": {
+    "coingecko": "ecp-technology",
+    "twitter": "ECP_plus"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

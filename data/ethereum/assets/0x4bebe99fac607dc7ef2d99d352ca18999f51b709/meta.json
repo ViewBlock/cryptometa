@@ -1,0 +1,14 @@
+{
+  "name": "Bloc",
+  "symbol": "DAP",
+  "web": "https://www.daplabsllc.org",
+  "explorer": "https://etherscan.io/token/0x4bebe99fac607dc7ef2d99d352ca18999f51b709",
+  "links": {
+    "coingecko": "bloc",
+    "twitter": "daplabsllc"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

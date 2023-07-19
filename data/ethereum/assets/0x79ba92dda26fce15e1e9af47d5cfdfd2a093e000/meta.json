@@ -1,0 +1,15 @@
+{
+  "name": "SERGS",
+  "symbol": "SERGS",
+  "web": "https://app.sergs.link",
+  "explorer": "https://etherscan.io/token/0x79BA92DDA26FcE15e1e9af47D5cFdFD2A093E000",
+  "links": {
+    "coingecko": "sergs",
+    "twitter": "SERGSNFT",
+    "telegram": "sergsfam"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "AurusDeFi",
+  "symbol": "AWX",
+  "web": "https://www.aurus.io",
+  "explorer": "https://etherscan.io/token/0x1efdfc6146cad8909817284ae99325ef1caf623e",
+  "links": {
+    "coingecko": "auruscoin",
+    "twitter": "AurusOfficial",
+    "facebook": "aurustokens",
+    "telegram": "AurusOfficial",
+    "reddit": "r/Aurus"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

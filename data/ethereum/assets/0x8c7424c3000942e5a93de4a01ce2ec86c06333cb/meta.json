@@ -1,0 +1,16 @@
+{
+  "name": "ROCK3T",
+  "symbol": "R3T",
+  "web": "https://3t.finance",
+  "explorer": "https://etherscan.io/token/0x8c7424c3000942e5a93de4a01ce2ec86c06333cb",
+  "links": {
+    "github": "degen-vc",
+    "coingecko": "rock3t",
+    "twitter": "rock3tfinance",
+    "telegram": "Rock3Tfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

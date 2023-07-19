@@ -1,0 +1,16 @@
+{
+  "name": "ZINC",
+  "symbol": "ZINC",
+  "web": "https://zinc.work",
+  "explorer": "https://etherscan.io/token/0x4aac461c86abfa71e9d00d9a2cde8d74e4e1aeea",
+  "links": {
+    "github": "zincwork",
+    "coingecko": "zinc",
+    "twitter": "zinc_work",
+    "telegram": "zinc_work"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Word Search Blitz",
+  "description": "Do you like scrabble? Try our whole new spelling puzzle.",
+  "web": "https://esports.win4.fun/g/word-race",
+  "addresses": [
+    "0x28b328bd7013a097af2283c5946f2b0677982402"
+  ],
+  "categories": [
+    "game"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "word-search-blitz"
+}

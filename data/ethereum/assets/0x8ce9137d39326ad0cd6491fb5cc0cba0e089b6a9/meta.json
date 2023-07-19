@@ -1,0 +1,17 @@
+{
+  "name": "Swipe",
+  "symbol": "SXP",
+  "web": "https://www.swipe.io",
+  "explorer": "https://etherscan.io/token/0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9",
+  "links": {
+    "github": "SwipeWallet",
+    "coingecko": "swipe",
+    "twitter": "SwipeWallet",
+    "facebook": "SwipeWalletOfficial",
+    "telegram": "SwipeWallet"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

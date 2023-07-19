@@ -1,0 +1,9 @@
+{
+  "name": "Dai Stablecoin",
+  "symbol": "DAI",
+  "trusted": true,
+  "gen": {
+    "logo": "logo.svg",
+    "score": 100
+  }
+}

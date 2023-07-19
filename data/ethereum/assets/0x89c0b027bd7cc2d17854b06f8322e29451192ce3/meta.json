@@ -1,0 +1,15 @@
+{
+  "name": "Intelligent ETH Set II",
+  "symbol": "INTETH",
+  "web": "https://www.tokensets.com/set/inteth-1",
+  "explorer": "https://etherscan.io/token/0x89c0b027bd7cc2d17854b06f8322e29451192ce3",
+  "links": {
+    "github": "SetProtocol",
+    "coingecko": "intelligent-eth-set-ii",
+    "twitter": "SetProtocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

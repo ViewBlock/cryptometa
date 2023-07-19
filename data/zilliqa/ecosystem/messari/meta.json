@@ -1,0 +1,13 @@
+{
+  "name": "Messari",
+  "description": "A comprehensive database for the crypto industry, providing data insights and research.",
+  "web": null,
+  "links": {},
+  "categories": [
+    "tools"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "messari"
+}

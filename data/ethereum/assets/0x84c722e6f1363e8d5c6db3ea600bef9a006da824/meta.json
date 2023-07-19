@@ -1,0 +1,16 @@
+{
+  "name": "Misbloc",
+  "symbol": "MSB",
+  "web": "http://misblock.io",
+  "explorer": "https://etherscan.io/token/0x84c722e6f1363e8d5c6db3ea600bef9a006da824",
+  "links": {
+    "coingecko": "misbloc",
+    "twitter": "misbloc",
+    "facebook": "Misbloc-103357971483544",
+    "telegram": "misbloc"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Jointer",
+  "symbol": "JNTR",
+  "web": "https://jointer.io",
+  "explorer": "https://bscscan.com/token/0x5f2caa99fc378248ac02cbbaac27e3fa155ed2c4",
+  "links": {
+    "github": "jointerinc",
+    "coingecko": "jointer",
+    "twitter": "DeFiAuctions",
+    "facebook": "DeFiAuctions",
+    "telegram": "jointer_io",
+    "reddit": "r/Jointer"
+  }
+}

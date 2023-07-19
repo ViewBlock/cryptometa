@@ -1,0 +1,17 @@
+{
+  "name": "ETHBNT Relay",
+  "symbol": "ETHBNT",
+  "web": "https://www.bancor.network",
+  "explorer": "https://etherscan.io/token/0xb1cd6e4153b2a390cf00a6556b0fc1458c4a5533",
+  "links": {
+    "coingecko": "ethbnt",
+    "twitter": "Bancor",
+    "facebook": "Bancor",
+    "telegram": "Bancor",
+    "reddit": "r/Bancor"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

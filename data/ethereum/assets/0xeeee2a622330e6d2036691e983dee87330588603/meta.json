@@ -1,0 +1,17 @@
+{
+  "name": "Asko",
+  "symbol": "ASKO",
+  "web": "https://asko.finance",
+  "explorer": "https://etherscan.io/token/0xeEEE2a622330E6d2036691e983DEe87330588603",
+  "links": {
+    "github": "joefilmo",
+    "coingecko": "askobar-network",
+    "twitter": "asko_official",
+    "facebook": "askonetwork",
+    "telegram": "Askomain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

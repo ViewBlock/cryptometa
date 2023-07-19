@@ -1,0 +1,19 @@
+{
+  "name": "MATRYX",
+  "symbol": "MTX",
+  "web": "https://matryx.ai",
+  "explorer": "https://etherscan.io/token/0x0af44e2784637218dd1d32a322d44e603a8f0c6a",
+  "links": {
+    "github": "matryx",
+    "coingecko": "matryx",
+    "twitter": "matryx_ai",
+    "facebook": "matryxai",
+    "telegram": "matryxai",
+    "reddit": "r/matryx"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

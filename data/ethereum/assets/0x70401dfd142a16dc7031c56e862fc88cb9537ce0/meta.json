@@ -1,0 +1,16 @@
+{
+  "name": "Bird.Money",
+  "symbol": "BIRD",
+  "web": "https://bird.money",
+  "explorer": "https://etherscan.io/token/0x70401dFD142A16dC7031c56E862Fc88Cb9537Ce0",
+  "links": {
+    "github": "birdcarer",
+    "coingecko": "bird-money",
+    "twitter": "_birdmoney",
+    "telegram": "birdmoneygroup"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

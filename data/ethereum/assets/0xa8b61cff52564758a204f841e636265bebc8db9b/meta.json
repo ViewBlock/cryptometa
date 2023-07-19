@@ -1,0 +1,15 @@
+{
+  "name": "Yield Protocol",
+  "symbol": "YIELD",
+  "web": "https://yieldprotocol.org",
+  "explorer": "https://etherscan.io/token/0xa8b61cff52564758a204f841e636265bebc8db9b",
+  "links": {
+    "coingecko": "yield-protocol",
+    "twitter": "yield_protocol",
+    "telegram": "yieldshield"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "RMPL",
+  "symbol": "RMPL",
+  "web": "https://www.rmpl.io",
+  "explorer": "https://etherscan.io/token/0xe17f017475a709de58e976081eb916081ff4c9d5",
+  "links": {
+    "github": "rmpldefiteam",
+    "coingecko": "rmpl",
+    "twitter": "RmplDefi",
+    "telegram": "RMPLTG"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

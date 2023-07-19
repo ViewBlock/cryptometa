@@ -1,0 +1,11 @@
+{
+  "name": "Yearn Classic Finance",
+  "symbol": "EARN",
+  "web": "https://yearnclassic.finance",
+  "explorer": "https://bscscan.com/token/0x63a18BC38D1101DB7F0efCbCBdCbe927A5879039",
+  "links": {
+    "coingecko": "yearn-classic-finance",
+    "twitter": "earn_finance",
+    "telegram": "earndefi"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "FireAnts",
+  "symbol": "ANTS",
+  "web": "https://fireants.online",
+  "explorer": "https://etherscan.io/token/0xa9fbb83a2689f4ff86339a4b96874d718673b627",
+  "links": {
+    "coingecko": "fireants",
+    "twitter": "FireantsT"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

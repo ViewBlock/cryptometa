@@ -1,0 +1,16 @@
+{
+  "name": "FLEX Coin",
+  "symbol": "FLEX",
+  "web": "https://coinflex.com/flex",
+  "explorer": "https://etherscan.io/token/0xfcf8eda095e37a41e002e266daad7efc1579bc0a",
+  "links": {
+    "coingecko": "flex-coin",
+    "twitter": "CoinFLEXdotcom",
+    "telegram": "coinflex_EN"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

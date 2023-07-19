@@ -1,0 +1,10 @@
+{
+  "symbol": "uPUNK",
+  "name": "CryptoPunks",
+  "decimals": 18,
+  "description": "The First and Largest Collection of LarvaLabs CryptoPunks. CryptoPunks are one of the earliest NFTs created on Ethereum and the largest by Marketcap. The real OG NFTs.",
+  "gen": {
+    "logo": "logo.svg",
+    "score": 0
+  }
+}
