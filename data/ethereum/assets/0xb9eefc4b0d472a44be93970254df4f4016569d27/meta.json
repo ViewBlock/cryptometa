@@ -1,0 +1,18 @@
+{
+  "name": "DigitalBits",
+  "symbol": "XDB",
+  "web": "https://www.digitalbits.io",
+  "explorer": "https://etherscan.io/token/0xb9eefc4b0d472a44be93970254df4f4016569d27",
+  "links": {
+    "github": "DigitalBitsOrg",
+    "coingecko": "digitalbits",
+    "twitter": "DigitalBitsOrg",
+    "facebook": "DigitalBitsOrg",
+    "telegram": "digitalbits",
+    "reddit": "r/DigitalBitsOrg"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

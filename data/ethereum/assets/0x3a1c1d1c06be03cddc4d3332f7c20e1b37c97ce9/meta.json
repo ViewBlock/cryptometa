@@ -1,0 +1,16 @@
+{
+  "name": "Vybe",
+  "symbol": "VYBE",
+  "web": "https://vybe.finance",
+  "explorer": "https://etherscan.io/token/0x3A1c1d1c06bE03cDDC4d3332F7C20e1B37c97CE9",
+  "links": {
+    "github": "vybetoken",
+    "coingecko": "vybe",
+    "twitter": "VybeToken",
+    "telegram": "vybetoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

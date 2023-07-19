@@ -1,0 +1,26 @@
+{
+  "name": "OpenBits",
+  "symbol": "OPENBITS",
+  "web": "https://openbits.world",
+  "supply": 100000000,
+  "email": "multiverse@openbits.world",
+  "product": true,
+  "whitepaper": "https://gitlab.com/cervoneluca/openbits/-/blob/master/README.md",
+  "links": {
+    "github": "https://gitlab.com/cervoneluca/openbits",
+    "twitter": "https://twitter.com/OpenBitsWorld",
+    "discord": "https://discord.gg/ZYjAwXk",
+    "facebook": "https://www.facebook.com/OpenBits",
+    "telegram": "https://t.me/openbits_official",
+    "linkedin": "https://www.linkedin.com/company/openbitsworld/",
+    "youtube": "https://www.youtube.com/watch?v=fvjL7rKCLQ4"
+  },
+  "config": {
+    "manualDark": true
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 62
+  }
+}

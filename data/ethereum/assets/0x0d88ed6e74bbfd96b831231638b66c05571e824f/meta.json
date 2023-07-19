@@ -1,0 +1,17 @@
+{
+  "name": "Aventus",
+  "symbol": "AVT",
+  "web": "https://aventus.io",
+  "explorer": "https://etherscan.io/token/0x0d88ed6e74bbfd96b831231638b66c05571e824f",
+  "links": {
+    "github": "AventusSystems",
+    "coingecko": "aventus",
+    "twitter": "AventusSystems",
+    "facebook": "AventusPF",
+    "reddit": "r/Aventus"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

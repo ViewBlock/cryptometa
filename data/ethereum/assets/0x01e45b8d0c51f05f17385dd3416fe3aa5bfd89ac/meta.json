@@ -1,0 +1,17 @@
+{
+  "name": "COINBIG",
+  "symbol": "CB",
+  "web": "https://www.coinbig.com/cb.html",
+  "explorer": "https://etherscan.io/token/0x01E45B8D0c51f05F17385DD3416fE3aA5BFd89aC",
+  "links": {
+    "coingecko": "cb-token",
+    "twitter": "CoinbigExchange",
+    "facebook": "coinbig",
+    "telegram": "CoinBigCommunity",
+    "reddit": "r/Coinbig"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

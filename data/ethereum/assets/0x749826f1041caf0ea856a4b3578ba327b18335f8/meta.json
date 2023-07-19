@@ -1,0 +1,17 @@
+{
+  "name": "TIG Token",
+  "symbol": "TIG",
+  "web": "https://hellotig.com",
+  "explorer": "https://etherscan.io/token/0x749826f1041caf0ea856a4b3578ba327b18335f8",
+  "links": {
+    "coingecko": "tigereum",
+    "twitter": "tigcommunity",
+    "facebook": "hellotig",
+    "telegram": "TIGannouncements",
+    "reddit": "r/tigereum"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

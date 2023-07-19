@@ -1,0 +1,10 @@
+{
+  "name": "BSCPAD",
+  "symbol": "BSCPAD",
+  "web": "https://bscpad.com",
+  "explorer": "https://bscscan.com/token/0x5a3010d4d8d3b5fb49f8b6e57fb9e48063f16700",
+  "links": {
+    "coingecko": "bscpad",
+    "telegram": "bscpad"
+  }
+}

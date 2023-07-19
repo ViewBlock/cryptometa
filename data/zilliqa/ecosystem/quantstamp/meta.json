@@ -1,0 +1,16 @@
+{
+  "name": "QuantStamp",
+  "description": "A trusted leader in blockchain security, delivering end-to-end blockchain solutions for the world's largest companies.",
+  "web": "https://quantstamp.com",
+  "links": {
+    "twitter": "https://twitter.com/Quantstamp"
+  },
+  "categories": [
+    "tools"
+  ],
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true
+  },
+  "key": "quantstamp"
+}

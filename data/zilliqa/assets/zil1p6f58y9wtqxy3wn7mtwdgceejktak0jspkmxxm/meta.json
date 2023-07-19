@@ -1,0 +1,11 @@
+{
+  "name": "DesaNFT",
+  "symbol": "DESA",
+  "links": {
+    "twitter": "https://twitter.com/desanft"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "ZilStream",
+  "symbol": "STREAM",
+  "web": "https://zilstream.com",
+  "links": {
+    "twitter": "https://twitter.com/zilstream",
+    "github": "https://github.com/zilstream",
+    "linkedin": "https://www.linkedin.com/company/zilstream",
+    "telegram": "https://t.me/zilstream"
+  },
+  "publicTeam": true,
+  "trusted": true,
+  "gen": {
+    "logo": "logo.svg",
+    "score": 100
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "FANBI TOKEN",
+  "symbol": "FBT",
+  "web": "https://www.fanbi.com",
+  "explorer": "https://etherscan.io/token/0x7a9716685f852ee268feb86dffa562d214cc13db",
+  "links": {
+    "coingecko": "fanbi-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

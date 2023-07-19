@@ -1,0 +1,13 @@
+{
+  "name": "Pegasus",
+  "symbol": "PGS",
+  "web": "http://pgs.plus",
+  "explorer": "https://etherscan.io/token/0x931ad0628aa11791c26ff4d41ce23e40c31c5e4e",
+  "links": {
+    "coingecko": "pegasus"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

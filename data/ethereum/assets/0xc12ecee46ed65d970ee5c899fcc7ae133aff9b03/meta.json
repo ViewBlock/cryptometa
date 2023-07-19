@@ -1,0 +1,16 @@
+{
+  "name": "Try.Finance",
+  "symbol": "TRY",
+  "web": "https://try.finance",
+  "explorer": "https://etherscan.io/token/0xc12ecee46ed65d970ee5c899fcc7ae133aff9b03",
+  "links": {
+    "github": "try_finance",
+    "coingecko": "try-finance",
+    "twitter": "try_finance",
+    "telegram": "TRY_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

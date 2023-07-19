@@ -1,0 +1,15 @@
+{
+  "name": "XDEFI",
+  "symbol": "XDEFI",
+  "web": "https://www.xdefi.io",
+  "explorer": "https://etherscan.io/token/0x72b886d09c117654ab7da13a14d603001de0b777",
+  "links": {
+    "telegram": "xdefi_io",
+    "twitter": "xdefi_wallet",
+    "discord": "https://discord.com/invite/xdefiwallet"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "UniDex",
+  "symbol": "UNIDX",
+  "web": "https://www.unidex.finance",
+  "explorer": "https://etherscan.io/token/0x95b3497bbcccc46a8f45f5cf54b0878b39f8d96c",
+  "links": {
+    "github": "supakawaiidesu",
+    "coingecko": "unidex",
+    "twitter": "UniDexFinance",
+    "telegram": "unidexfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

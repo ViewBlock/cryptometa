@@ -1,0 +1,17 @@
+{
+  "name": "Zloadr",
+  "symbol": "ZDR",
+  "web": "http://www.zloadr.com",
+  "explorer": "https://etherscan.io/token/0xbdfa65533074b0b23ebc18c7190be79fa74b30c2",
+  "links": {
+    "github": "ZloadrPlatform",
+    "coingecko": "zloadr",
+    "twitter": "zloadr",
+    "facebook": "zloadrmedia",
+    "telegram": "Zloadr"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

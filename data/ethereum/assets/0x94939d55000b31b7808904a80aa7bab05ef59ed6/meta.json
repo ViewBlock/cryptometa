@@ -1,0 +1,16 @@
+{
+  "name": "Jiaozi",
+  "symbol": "JIAOZI",
+  "web": "https://jiaozi.farm",
+  "explorer": "https://etherscan.io/token/0x94939D55000B31B7808904a80aA7Bab05eF59Ed6",
+  "links": {
+    "github": "JiaoziFarm",
+    "coingecko": "jiaozi",
+    "twitter": "JiaoziFarm",
+    "telegram": "JiaoziFarm"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

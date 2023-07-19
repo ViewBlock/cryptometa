@@ -1,0 +1,15 @@
+{
+  "name": "BuildUp",
+  "symbol": "BUP",
+  "web": "https://gomoneda.com",
+  "explorer": "https://etherscan.io/token/0xB04DFdb8271ed2d5e13858562C44A77D3CEb9e57",
+  "links": {
+    "github": "blobs-coin",
+    "coingecko": "buildup",
+    "telegram": "gomoneda_bup"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

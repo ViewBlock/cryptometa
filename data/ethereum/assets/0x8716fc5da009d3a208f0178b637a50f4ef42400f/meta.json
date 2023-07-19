@@ -1,0 +1,17 @@
+{
+  "name": "Ultrain",
+  "symbol": "UGAS",
+  "web": "https://www.ultrain.io",
+  "explorer": "https://etherscan.io/token/0x8716fc5da009d3a208f0178b637a50f4ef42400f",
+  "links": {
+    "github": "ultrain-os",
+    "coingecko": "ultrain",
+    "twitter": "UltrainB",
+    "facebook": "Ultraincommunity",
+    "telegram": "UltrainOfficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

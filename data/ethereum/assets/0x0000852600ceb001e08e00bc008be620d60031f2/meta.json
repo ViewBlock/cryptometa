@@ -1,0 +1,16 @@
+{
+  "name": "TrueHKD",
+  "symbol": "THKD",
+  "web": "https://www.trusttoken.com/truehkd",
+  "explorer": "https://etherscan.io/token/0x0000852600ceb001e08e00bc008be620d60031f2",
+  "links": {
+    "github": "trusttoken",
+    "coingecko": "truehkd",
+    "twitter": "TrustToken",
+    "reddit": "r/TrustToken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

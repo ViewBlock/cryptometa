@@ -9,8 +9,7 @@
     "research": "https://research.binance.com/en/projects/band-protocol"
   },
   "gen": {
-    "logo": "logo.png",
-    "hasDark": false,
+    "logo": "logo.svg",
     "score": 10
   }
 }

@@ -1,0 +1,15 @@
+{
+  "name": "Generation of Yield",
+  "symbol": "YGY",
+  "web": "https://ygy.finance",
+  "explorer": "https://etherscan.io/token/0x11b0a8c0fa626627601ed518c3538a39d92d609e",
+  "links": {
+    "coingecko": "generation-of-yield",
+    "twitter": "ygygenerator"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

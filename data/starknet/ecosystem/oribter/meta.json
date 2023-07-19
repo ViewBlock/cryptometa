@@ -1,0 +1,19 @@
+{
+  "name": "Orbiter Finance",
+  "description": "A decentralized optimistic cross-rollup bridge for transferring the Ethereumnative assets, which is the infrastructure of Layer 2.",
+  "categories": [
+    "bridge",
+    "infra"
+  ],
+  "web": "https://www.orbiter.finance",
+  "links": {
+    "github": "https://github.com/OrbiterCross",
+    "twitter": "https://twitter.com/Orbiter_Finance",
+    "medium": "https://orbiter-finance.medium.com",
+    "discord": "https://discord.gg/orbiter-finance"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "oribter"
+}

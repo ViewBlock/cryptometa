@@ -1,0 +1,17 @@
+{
+  "name": "Ubex",
+  "symbol": "UBEX",
+  "web": "https://www.ubex.com",
+  "explorer": "https://etherscan.io/token/0x6704b673c70de9bf74c8fba4b4bd748f0e2190e1",
+  "links": {
+    "github": "ubex-ai",
+    "coingecko": "ubex",
+    "twitter": "ubex_ai",
+    "facebook": "UbexAl",
+    "telegram": "UbexAI"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

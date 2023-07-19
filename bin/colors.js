@@ -64,20 +64,31 @@ const getColors = (pixels, pixelCount, skip) => {
       out[name]++
       out.count++
     }
+
+    if (a && a < 124) {
+      if (!out.transparent) {
+        out.transparent = 0
+      }
+
+      out.transparent++
+      out.count++
+    }
   }
 
   return out
 }
 
-const getDominantColors = async (img, options) => {
+const getAllColors = async (img, options) => {
   const { width, height, data } = await getPixels(img, options)
 
   const count = width * height
   // Skip pixels only for big images
   const skip = count < 100 ? 1 : 10
 
-  const colors = getColors(data, count, skip)
+  return getColors(data, count, skip)
+}
 
+const getDominantColors = async colors => {
   const threshold = 1 / COLOR_COUNT
 
   const res = []
@@ -88,7 +99,7 @@ const getDominantColors = async (img, options) => {
   }
 
   for (const [key, value] of Object.entries(colors)) {
-    if (key === 'count') {
+    if (key === 'count' || key === 'transparent') {
       continue
     }
 
@@ -125,20 +136,35 @@ const getDominantColors = async (img, options) => {
   // honestly shouldn't happen too much unless we're talking
   // color samples/rainbows and it won't be relevant anyway
   return Object.keys(colors)
-    .filter(k => k !== 'count')
+    .filter(k => k !== 'count' && k !== 'transparent')
     .slice(0, 3)
 }
 
 const checkDark = async path => {
-  const colors = await getDominantColors(path)
+  try {
+    const colors = await getAllColors(path)
 
-  if (!colors.length) {
+    if (!colors.transparent) {
+      return false
+    }
+
+    if (Object.keys(colors).length > 5) {
+      return false
+    }
+
+    const dominant = await getDominantColors(colors)
+
+    if (!dominant.length) {
+      return false
+    }
+
+    return DARKS[dominant[0]] && (!dominant[1] || DARKS[dominant[1]])
+  } catch (err) {
     return false
   }
-
-  return DARKS[colors[0]] && (!colors[1] || DARKS[colors[1]])
 }
 
 module.exports = {
+  getAllColors,
   checkDark,
 }

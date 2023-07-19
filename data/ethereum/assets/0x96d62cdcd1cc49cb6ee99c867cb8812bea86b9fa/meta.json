@@ -1,0 +1,15 @@
+{
+  "name": "Yearn Finance Protocol",
+  "symbol": "YFP",
+  "web": "https://www.yfprotocol.finance",
+  "explorer": "https://etherscan.io/token/0x96d62cdcd1cc49cb6ee99c867cb8812bea86b9fa",
+  "links": {
+    "coingecko": "yearn-finance-protocol",
+    "twitter": "YFPFinance",
+    "telegram": "yfprotocolann"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Supertron",
+  "symbol": "STRO",
+  "web": "http://www.strocoin.io",
+  "explorer": "https://etherscan.io/token/0xc2e343118f937f88ee1fc3150cdc0d6f3d11bba7",
+  "links": {
+    "coingecko": "supertron",
+    "twitter": "ChainSTRO"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

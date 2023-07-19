@@ -1,0 +1,16 @@
+{
+  "name": "Unit Protocol",
+  "symbol": "COL",
+  "web": "https://unit.xyz",
+  "explorer": "https://etherscan.io/token/0xC76FB75950536d98FA62ea968E1D6B45ffea2A55",
+  "links": {
+    "github": "unitprotocol?",
+    "coingecko": "unit-protocol",
+    "twitter": "unitprotocol",
+    "telegram": "unit_en"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

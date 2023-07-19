@@ -1,0 +1,15 @@
+{
+  "name": "Blue Protocol",
+  "symbol": "BLUE",
+  "web": "https://www.blueprotocol.com",
+  "explorer": "https://etherscan.io/token/0x539efe69bcdd21a83efd9122571a64cc25e0282b",
+  "links": {
+    "github": "BlueCrypto",
+    "coingecko": "blue",
+    "twitter": "blue_protocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

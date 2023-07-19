@@ -1,0 +1,14 @@
+{
+  "name": "SAFE2",
+  "symbol": "SAFE2",
+  "web": "https://www.coverprotocol.com",
+  "explorer": "https://etherscan.io/token/0x250a3500f48666561386832f1f1f1019b89a2699",
+  "links": {
+    "coingecko": "safe2",
+    "twitter": "COVERProtocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

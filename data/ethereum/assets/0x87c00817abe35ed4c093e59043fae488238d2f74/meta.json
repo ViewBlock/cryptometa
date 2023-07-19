@@ -1,0 +1,15 @@
+{
+  "name": "Yoink",
+  "symbol": "YNK",
+  "web": "https://yoink.rocks",
+  "explorer": "https://etherscan.io/token/0x87c00817abe35ed4c093e59043fae488238d2f74",
+  "links": {
+    "coingecko": "yoink",
+    "twitter": "yoinknetwork",
+    "telegram": "yoinkofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

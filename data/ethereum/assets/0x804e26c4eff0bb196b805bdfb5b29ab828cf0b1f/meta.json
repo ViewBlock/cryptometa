@@ -1,0 +1,16 @@
+{
+  "name": "Whale Coin",
+  "symbol": "WHALE",
+  "web": "http://whaleco.in",
+  "explorer": "https://etherscan.io/token/0x804e26c4eff0bb196b805bdfb5b29ab828cf0b1f",
+  "links": {
+    "github": "pibouv",
+    "coingecko": "whale-coin",
+    "twitter": "WhaleCoiners",
+    "telegram": "whalecoiners"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

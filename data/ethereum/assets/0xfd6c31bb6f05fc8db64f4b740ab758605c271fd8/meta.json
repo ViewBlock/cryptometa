@@ -1,0 +1,16 @@
+{
+  "name": "Contracoin",
+  "symbol": "CTCN",
+  "web": "https://contracoin.asia",
+  "explorer": "https://etherscan.io/token/0xfd6c31bb6f05fc8db64f4b740ab758605c271fd8",
+  "links": {
+    "coingecko": "contracoin",
+    "twitter": " https://twitter.com/InfoContracoin",
+    "facebook": "contracoinofficial",
+    "telegram": "contracoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

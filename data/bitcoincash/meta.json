@@ -1,0 +1,15 @@
+{
+  "name": "Bitcoin Cash",
+  "symbol": "BCH",
+  "web": "https://bch.info",
+  "explorer": "https://explorer.bitcoin.com/bch",
+  "links": {
+    "github": "gcash",
+    "coingecko": "bitcoin-cash",
+    "telegram": "bchchannel",
+    "reddit": "r/btc"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

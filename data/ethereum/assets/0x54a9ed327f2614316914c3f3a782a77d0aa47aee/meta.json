@@ -1,0 +1,19 @@
+{
+  "name": "Connect",
+  "symbol": "CNCT",
+  "web": "https://connectplatformlimited.com",
+  "explorer": "https://etherscan.io/token/0x54a9ed327f2614316914c3f3a782a77d0aa47aee",
+  "links": {
+    "github": "Connecttoken",
+    "coingecko": "connect",
+    "twitter": "connecttoken",
+    "facebook": "connecttoken",
+    "telegram": "connecttokenchat",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

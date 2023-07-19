@@ -1,0 +1,15 @@
+{
+  "name": "uUSDwETH Synthetic Token Expiring 31 December 2020",
+  "symbol": "UUSDWETH-DEC",
+  "web": "https://umaproject.org",
+  "explorer": "https://etherscan.io/token/0xd16c79c8a39d44b2f3eb45d2019cd6a42b03e2a9",
+  "links": {
+    "github": "UMAprotocol",
+    "coingecko": "yusd-synthetic-token-expiring-31-december-2020",
+    "twitter": "UMAprotocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

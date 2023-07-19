@@ -1,0 +1,16 @@
+{
+  "name": "Panvala Pan",
+  "symbol": "PAN",
+  "web": "https://www.panvala.com",
+  "explorer": "https://etherscan.io/token/0xD56daC73A4d6766464b38ec6D91eB45Ce7457c44",
+  "links": {
+    "github": "ConsenSys",
+    "coingecko": "panvala-pan",
+    "twitter": "PanvalaHQ",
+    "telegram": "panvala"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

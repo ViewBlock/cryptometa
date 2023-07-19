@@ -1,0 +1,16 @@
+{
+  "name": "Comining",
+  "description": "A mining protocol where users can also mine ZIL.",
+  "web": "https://comining.io",
+  "links": {
+    "telegram": "https://t-do.ru/comining",
+    "discord": "https://discord.gg/RekcF35"
+  },
+  "categories": [
+    "mining"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "comining"
+}

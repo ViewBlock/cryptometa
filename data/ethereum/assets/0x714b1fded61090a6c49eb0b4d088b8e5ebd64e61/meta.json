@@ -1,0 +1,13 @@
+{
+  "name": "To The Moon",
+  "symbol": "TTM",
+  "web": "http://www.ttm.ltd",
+  "explorer": "https://etherscan.io/token/0x714B1fDed61090a6C49Eb0B4D088B8e5EBd64e61",
+  "links": {
+    "coingecko": "tothe-moon"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

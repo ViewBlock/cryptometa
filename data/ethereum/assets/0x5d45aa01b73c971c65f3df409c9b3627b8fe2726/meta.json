@@ -1,0 +1,17 @@
+{
+  "name": "Timecoin Protocol",
+  "symbol": "TMCN",
+  "web": "https://timecoinprotocol.com",
+  "explorer": "https://etherscan.io/token/0x5D45AA01b73c971c65f3DF409c9b3627b8FE2726",
+  "links": {
+    "github": "TimeCoinProtocol",
+    "coingecko": "timecoin-protocol",
+    "twitter": "_TimeCoin_",
+    "facebook": "TimeCoinProtocol",
+    "telegram": "TimeCoinProtocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

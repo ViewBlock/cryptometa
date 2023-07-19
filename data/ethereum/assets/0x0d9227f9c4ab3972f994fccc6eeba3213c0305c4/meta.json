@@ -1,0 +1,15 @@
+{
+  "name": "SERGS Governance",
+  "symbol": "SSL",
+  "web": "https://app.sergs.link",
+  "explorer": "https://etherscan.io/token/0x0d9227f9c4ab3972f994fccc6eeba3213c0305c4",
+  "links": {
+    "coingecko": "sergey-save-link",
+    "twitter": "SERGSNFT",
+    "telegram": "sergsfam"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

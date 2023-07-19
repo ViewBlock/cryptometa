@@ -1,0 +1,16 @@
+{
+  "name": "DegenVC",
+  "symbol": "DGVC",
+  "web": "https://www.degen.vc",
+  "explorer": "https://etherscan.io/token/0x26E43759551333e57F073bb0772F50329A957b30",
+  "links": {
+    "github": "degen-vc",
+    "coingecko": "degenvc",
+    "twitter": "degen_vc",
+    "telegram": "degenvc"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

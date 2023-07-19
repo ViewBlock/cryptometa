@@ -1,0 +1,15 @@
+{
+  "name": "OIN Finance",
+  "symbol": "OIN",
+  "web": "https://oin.finance",
+  "explorer": "https://etherscan.io/token/0x9aeB50f542050172359A0e1a25a9933Bc8c01259",
+  "links": {
+    "coingecko": "oin-finance",
+    "twitter": "FinanceOin",
+    "telegram": "OIN_Finance_Eng"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "PAX Gold",
+  "symbol": "PAXG",
+  "web": "https://www.paxos.com/paxgold",
+  "explorer": "https://etherscan.io/token/0x45804880de22913dafe09f4980848ece6ecbaf78",
+  "links": {
+    "github": "paxosglobal",
+    "coingecko": "pax-gold",
+    "twitter": "paxosglobal",
+    "facebook": "paxosglobal"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

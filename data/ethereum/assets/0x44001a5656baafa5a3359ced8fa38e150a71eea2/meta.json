@@ -1,0 +1,16 @@
+{
+  "name": "VN.Finance",
+  "symbol": "VFI",
+  "web": "https://vn.finance",
+  "explorer": "https://etherscan.io/token/0x44001a5656baafa5a3359ced8fa38e150a71eea2",
+  "links": {
+    "coingecko": "vn-finance",
+    "twitter": "vn99_trade",
+    "facebook": "vntoken",
+    "telegram": "vn99_trade_chatrom"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "FC Bitcoin",
+  "symbol": "FCBTC",
+  "web": "https://fcbitcoin.com",
+  "explorer": "https://etherscan.io/token/0x4c6e796Bbfe5EB37F9E3E0f66C009C8Bf2A5f428",
+  "links": {
+    "github": "fcbitcoin",
+    "coingecko": "fc-bitcoin",
+    "twitter": "fcbitcoin",
+    "facebook": "fcbitcoin",
+    "telegram": "fcbitcoinvspremierleague"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

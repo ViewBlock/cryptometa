@@ -1,0 +1,15 @@
+{
+  "name": "LNX Protocol",
+  "symbol": "LNX",
+  "web": "https://lnxprotocol.io",
+  "explorer": "https://etherscan.io/token/0x5e3845a1d78db544613edbe43dc1ea497266d3b8",
+  "links": {
+    "coingecko": "linix",
+    "twitter": "lnxprotocol",
+    "telegram": "lnxprotocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

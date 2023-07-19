@@ -1,0 +1,15 @@
+{
+  "name": "Alpha5",
+  "symbol": "A5T",
+  "web": "https://www.alpha5.io",
+  "explorer": "https://etherscan.io/token/0xe8272210954ea85de6d2ae739806ab593b5d9c51",
+  "links": {
+    "coingecko": "alpha5",
+    "twitter": "alpha5_io",
+    "telegram": "Alpha5_en"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

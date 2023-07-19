@@ -1,0 +1,15 @@
+{
+  "name": "Klondike Finance",
+  "symbol": "KLON",
+  "web": "https://klondike.finance",
+  "explorer": "https://etherscan.io/token/0xB97D5cF2864FB0D08b34a484FF48d5492B2324A0",
+  "links": {
+    "coingecko": "klondike-finance",
+    "twitter": "KlondikeFinance",
+    "telegram": "klondike_discussion"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

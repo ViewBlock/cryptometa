@@ -1,0 +1,15 @@
+{
+  "name": "veCRV-DAO yVault",
+  "symbol": "YVE-CRVDAO",
+  "web": "https://crv.ape.tax",
+  "explorer": "https://etherscan.io/token/0xc5bddf9843308380375a611c18b50fb9341f502a",
+  "links": {
+    "coingecko": "vecrv-dao-yvault",
+    "twitter": "iearnfinance",
+    "telegram": "yearnfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

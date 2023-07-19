@@ -1,0 +1,15 @@
+{
+  "name": "DMme",
+  "symbol": "DMME",
+  "web": "https://dmme.app",
+  "explorer": "https://etherscan.io/token/0x9556f8ee795d991ff371f547162d5efb2769425f",
+  "links": {
+    "coingecko": "dmme-app",
+    "twitter": "DMmecoin",
+    "telegram": "Dmmeproject"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

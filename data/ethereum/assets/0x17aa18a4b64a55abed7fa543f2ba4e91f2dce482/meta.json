@@ -1,0 +1,16 @@
+{
+  "name": "Insight Chain",
+  "symbol": "INB",
+  "web": "http://www.insightchain.io",
+  "explorer": "https://etherscan.io/token/0x17aa18a4b64a55abed7fa543f2ba4e91f2dce482",
+  "links": {
+    "coingecko": "insight-chain",
+    "twitter": "InsightChain",
+    "facebook": "Insight-Chain-210150206429393",
+    "telegram": "InsightChain"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

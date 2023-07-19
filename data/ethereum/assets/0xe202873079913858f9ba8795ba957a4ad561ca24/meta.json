@@ -1,0 +1,16 @@
+{
+  "name": "Wifi Coin",
+  "symbol": "WIFI",
+  "web": "https://wifi-coins.com",
+  "explorer": "https://etherscan.io/token/0xe202873079913858f9Ba8795BA957A4Ad561ca24",
+  "links": {
+    "coingecko": "wifi-coin",
+    "twitter": "w_wificoin",
+    "facebook": "WIFI-Coin-100160615326455",
+    "telegram": "w_wificoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

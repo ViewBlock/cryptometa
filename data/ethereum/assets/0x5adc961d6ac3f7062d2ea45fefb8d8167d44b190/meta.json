@@ -1,0 +1,18 @@
+{
+  "name": "Dether",
+  "symbol": "DTH",
+  "web": "https://dether.io",
+  "explorer": "https://etherscan.io/token/0x5adc961d6ac3f7062d2ea45fefb8d8167d44b190",
+  "links": {
+    "github": "dethertech",
+    "coingecko": "dether",
+    "twitter": "dether_io",
+    "facebook": "dether.io",
+    "telegram": "Dether_io",
+    "reddit": "r/Dether"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

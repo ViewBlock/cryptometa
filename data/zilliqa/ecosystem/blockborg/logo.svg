@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Gravit.io -->
+
+<svg
+   style="isolation:isolate"
+   viewBox="0 0 320 320.00003"
+   width="320pt"
+   height="320pt"
+   version="1.1"
+   id="svg31"
+   sodipodi:docname="blockborg-logo.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview33"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:zoom="1.4100083"
+     inkscape:cx="187.94215"
+     inkscape:cy="191.13362"
+     inkscape:window-width="1920"
+     inkscape:window-height="950"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg31"
+     width="1210pt" />
+  <defs
+     id="defs5">
+    <clipPath
+       id="_clipPath_nKpdKKNNIqzkNsFu6HPwCMHyeyV2rzzV">
+      <rect
+         width="2153.4099"
+         height="1663.8199"
+         id="rect2"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#_clipPath_nKpdKKNNIqzkNsFu6HPwCMHyeyV2rzzV)"
+     id="g29"
+     transform="matrix(0.24865313,0,0,0.24865313,-103.45995,-49.097274)">
+    <g
+       id="g27">
+      <path
+         d="m 525.72,668.82 c 82.23,0 164.47,0 246.7,0"
+         fill="#fa5ea2"
+         id="path7" />
+      <path
+         d="m 772.42,674.61 c 0.04,11.18 -9.33,20.14 -20.51,20.14 H 546.27 c -11.18,0 -20.55,-8.96 -20.51,-20.14 0.01,-2.07 0.34,-3.92 0.99,-5.77 2.43,-8.27 10.14,-14.33 19.19,-14.33 h 206.3 c 9.04,0 16.76,6.06 19.19,14.33 0.65,1.85 0.98,3.7 0.99,5.77 z"
+         fill="#fa5ea2"
+         id="path9" />
+      <path
+         d="m 803.56,755.27 v 0 c 0,11.13 -9.03,20.16 -20.16,20.16 H 585.31 c -11.13,0 -20.16,-9.03 -20.16,-20.16 v 0 c 0,-11.13 9.03,-20.16 20.16,-20.16 H 783.4 c 11.13,0 20.16,9.03 20.16,20.16 z"
+         fill="#fa5ea2"
+         id="path11" />
+      <path
+         d="m 803.56,945.02 v 0 c 0,11.13 -9.03,20.16 -20.16,20.16 H 585.31 c -11.13,0 -20.16,-9.03 -20.16,-20.16 v 0 c 0,-11.13 9.03,-20.16 20.16,-20.16 H 783.4 c 11.13,0 20.16,9.03 20.16,20.16 z"
+         fill="#fa5ea2"
+         id="path13" />
+      <path
+         d="m 772.4,1026.4 c -0.4,10.93 -9.72,19.43 -20.65,19.43 H 546.43 c -10.94,0 -20.25,-8.5 -20.65,-19.43 -0.42,-11.48 8.78,-20.93 20.16,-20.93 h 206.3 c 11.39,0 20.58,9.45 20.16,20.93 z"
+         fill="#fa5ea2"
+         id="path15" />
+      <path
+         d="m 1131.1,316.32 c -208.18,0 -388.9,119.86 -476.89,294.07 h 75.64 C 793.36,504.32 897.78,425.48 1021.06,395.6 v 214.02 l -156.35,88.87 v 303.44 l 156.35,88.76 v 214.02 C 897.79,1274.84 793.37,1196 729.86,1089.93 H 654.22 C 742.21,1264.26 923.04,1384 1131.11,1384 1425.51,1384 1665,1144.51 1665,850.11 1665,555.82 1425.51,316.32 1131.1,316.32 Z m 110.16,79.28 c 194.61,47.08 342.04,216.23 356.37,421.43 H 1397.39 V 698.5 l -156.13,-88.76 z m -154.04,-11.02 c 14.45,-1.43 29.11,-2.1 43.88,-2.1 14.77,0 29.55,0.66 43.99,2.1 v 187.55 l -43.99,-25.03 -43.88,24.92 z m 87.88,931.17 c -14.45,1.43 -29.22,2.1 -43.99,2.1 -14.77,0 -29.44,-0.66 -43.88,-2.1 V 1128.3 l 43.88,24.92 43.99,-25.03 z m -44,-226.26 -43.88,-24.92 -66.16,-37.6 -100.78,-57.23 V 730.69 l 100.78,-57.34 66.16,-37.71 43.88,-24.92 43.99,25.03 66.16,37.6 100.56,57.34 v 239.05 l -100.56,57.23 -66.16,37.49 z m 110.16,215.23 v -214.13 l 156.13,-88.65 V 883.19 h 200.24 c -14.34,205.31 -161.76,374.45 -356.37,421.53 z"
+         fill="#3877c7"
+         id="path17" />
+      <path
+         d="m 956.71,762.59 164.14,93.3 v 189.94 L 956.71,950.84 Z"
+         fill="#fa5ea2"
+         id="path19" />
+      <path
+         d="m 1296.77,743.96 -165.68,94.18 -165.67,-94.18 165.67,-95.87 z"
+         fill="#fa5ea2"
+         id="path21" />
+      <path
+         d="m 1305.48,762.58 v 188.26 l -164.14,94.99 V 855.89 Z"
+         fill="#fa5ea2"
+         id="path23" />
+      <path
+         d="M 886.58,883.22 H 465.4 c -3.81,0 -6.9,-3.09 -6.9,-6.9 v -52.35 c 0,-3.81 3.09,-6.9 6.9,-6.9 h 421.18 z"
+         fill="#3877c7"
+         id="path25" />
+    </g>
+  </g>
+</svg>

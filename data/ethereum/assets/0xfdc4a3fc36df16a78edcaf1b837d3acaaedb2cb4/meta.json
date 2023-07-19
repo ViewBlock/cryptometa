@@ -1,0 +1,15 @@
+{
+  "name": "Scifi.Finance",
+  "symbol": "SCIFI",
+  "web": "https://scifi.finance",
+  "explorer": "https://etherscan.io/token/0xfdc4a3fc36df16a78edcaf1b837d3acaaedb2cb4",
+  "links": {
+    "coingecko": "scifi-finance",
+    "twitter": "sci_finance",
+    "telegram": "scifinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

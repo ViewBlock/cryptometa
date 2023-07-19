@@ -1,0 +1,11 @@
+{
+  "name": "Bignite",
+  "symbol": "BIGNITE",
+  "web": "https://bignitecash.xyz",
+  "explorer": "https://bscscan.com/token/0x0cf2b5aabf844b49480dbf5e6192b873a865fae4",
+  "links": {
+    "coingecko": "bignite",
+    "twitter": "IgniteCash",
+    "telegram": "bignitetoken"
+  }
+}

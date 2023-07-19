@@ -1,0 +1,15 @@
+{
+  "name": "Woyager",
+  "symbol": "WYX",
+  "web": "https://www.woyagertoken.com",
+  "explorer": "https://etherscan.io/token/0x05edffbda103d90d5040829a105f687443e0ca3e",
+  "links": {
+    "coingecko": "woyager",
+    "twitter": "woyagertoken",
+    "telegram": "woyagertoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Yield Farming Known as Ash",
+  "symbol": "YFKA",
+  "web": "https://www.burnthestate.com",
+  "explorer": "https://etherscan.io/token/0x4086692d53262b2be0b13909d804f0491ff6ec3e",
+  "links": {
+    "coingecko": "yield-farming-known-as-ash",
+    "twitter": "burn_the_state",
+    "telegram": "burn_the_state"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

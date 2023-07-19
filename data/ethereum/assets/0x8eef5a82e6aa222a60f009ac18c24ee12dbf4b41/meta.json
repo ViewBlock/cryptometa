@@ -1,0 +1,17 @@
+{
+  "name": "Tixl",
+  "symbol": "TXL",
+  "web": "https://tixl.org",
+  "explorer": "https://etherscan.io/token/0x8eEF5a82E6Aa222a60F009ac18c24EE12dBf4b41",
+  "links": {
+    "github": "tixl",
+    "coingecko": "tixl-new",
+    "twitter": "TixlOrg",
+    "telegram": "tixlOrg",
+    "reddit": "r/tixl"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "BitZ Token",
+  "symbol": "BZ",
+  "web": "https://www.bitz.top",
+  "explorer": "https://etherscan.io/token/0x4375e7ad8a01b8ec3ed041399f62d9cd120e0063",
+  "links": {
+    "coingecko": "bit-z-token",
+    "twitter": "BitZExchange",
+    "facebook": "BitZAgency",
+    "telegram": "bitzEN"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

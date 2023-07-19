@@ -1,0 +1,19 @@
+{
+  "name": "UNIFEES DEX TOKEN",
+  "symbol": "DXFEES",
+  "web": "https://unifees.io",
+  "supply": "500000",
+  "links": {
+    "telegram": "https://t.me/unifees",
+    "linkedin": "https://www.linkedin.com/company/unifees",
+    "twitter": "https://twitter.com/unifeesdex",
+    "github": "https://github.com/Unifees",
+    "instagram": "https://www.instagram.com/unifeestoken",
+    "facebook": "https://www.facebook.com/unifeestoken"
+  },
+  "whitepaper": "https://unifees.io/Unifees-Whitepaper.pdf",
+  "gen": {
+    "logo": "logo.png",
+    "score": 33
+  }
+}

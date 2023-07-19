@@ -1,0 +1,16 @@
+{
+  "name": "StarBlock",
+  "symbol": "STB",
+  "web": "https://www.starblockofficial.io",
+  "explorer": "https://etherscan.io/token/0xc48b1ac1417db27c4e2c2ed3dae5a3d2fbb07dc5",
+  "links": {
+    "github": "starblockdevteam",
+    "coingecko": "starblock",
+    "facebook": "StarblockCoin",
+    "telegram": "starblock"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Ultiledger",
+  "symbol": "ULT",
+  "web": "https://www.ultiledger.io",
+  "explorer": "https://etherscan.io/token/0xe884cc2795b9c45beeac0607da9539fd571ccf85",
+  "links": {
+    "github": "ultiledger",
+    "coingecko": "ultiledger",
+    "twitter": "Ultiledgerio",
+    "telegram": "ultiledger"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

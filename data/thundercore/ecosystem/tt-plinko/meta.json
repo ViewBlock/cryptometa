@@ -1,0 +1,16 @@
+{
+  "name": "TT-Plinko",
+  "description": "Plinko is extremely simple and easy game. You just watch a ball from the top of a pyramid until it bounces to the bottom.",
+  "web": "https://scgames.io/plinko",
+  "addresses": [
+    "0xfc957F63fce70df19406428D94DB8aFa9e17B6E0",
+    "0xB0BA855e3b52F5171C750B89Ec78063C52A92a66"
+  ],
+  "categories": [
+    "gambling"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "tt-plinko"
+}

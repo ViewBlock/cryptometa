@@ -1,0 +1,11 @@
+{
+  "name": "SigmasheepNFT",
+  "symbol": "SSDD",
+  "links": {
+    "twitter": "https://twitter.com/sigmasheep"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

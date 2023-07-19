@@ -1,0 +1,16 @@
+{
+  "name": "Redline",
+  "description": "Giant robot NFT racing and engineering on StarkNet and UE5.Deep Strategy and Drama Game.",
+  "categories": [
+    "gamefi"
+  ],
+  "web": "http://redline.game",
+  "links": {
+    "twitter": "https://twitter.com/PlayRedline",
+    "discord": "https://discord.com/invite/UKmSwPrKjw"
+  },
+  "gen": {
+    "logo": "logo.jpeg"
+  },
+  "key": "redline"
+}

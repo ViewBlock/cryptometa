@@ -1,0 +1,16 @@
+{
+  "name": "YFMoonshot",
+  "symbol": "YFMS",
+  "web": "https://www.yfmoonshot.com",
+  "explorer": "https://etherscan.io/token/0xfef3bef71a5eb97e097039038776fd967ae5b106",
+  "links": {
+    "github": "yfmoonshot",
+    "coingecko": "yfmoonshot",
+    "twitter": "YFMoonshot",
+    "telegram": "YFMOONSHOTCHAT"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

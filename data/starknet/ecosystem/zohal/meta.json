@@ -1,0 +1,15 @@
+{
+  "name": "Zohal",
+  "description": "Swap becomes easy with next generation AMM on Starknet.",
+  "categories": [
+    "defi"
+  ],
+  "links": {
+    "twitter": "https://twitter.com/zohal_starknet",
+    "medium": "https://medium.com/@zohal.starknet"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "zohal"
+}

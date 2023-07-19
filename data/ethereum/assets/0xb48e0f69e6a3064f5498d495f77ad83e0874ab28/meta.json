@@ -1,0 +1,16 @@
+{
+  "name": "CXN Network",
+  "symbol": "CXN",
+  "web": "https://cxn.network",
+  "explorer": "https://etherscan.io/token/0xb48E0F69e6A3064f5498D495F77AD83e0874ab28",
+  "links": {
+    "github": "https:",
+    "coingecko": "cxn-network",
+    "twitter": "CxnNetwork",
+    "telegram": "CXNNetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

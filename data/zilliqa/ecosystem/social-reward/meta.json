@@ -1,0 +1,14 @@
+{
+  "name": "Social Reward",
+  "description": "Social Reward is a platform for companies to market and incentivise users for promoting their campaigns",
+  "web": "https://socialpay.app",
+  "links": {},
+  "categories": [
+    "app",
+    "dapp"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "social-reward"
+}

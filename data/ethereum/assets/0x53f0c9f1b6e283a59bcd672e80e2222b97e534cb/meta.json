@@ -1,0 +1,16 @@
+{
+  "name": "X-Block",
+  "symbol": "IX",
+  "web": "https://x-block.io",
+  "explorer": "https://etherscan.io/token/0x53f0C9F1b6e283A59bCD672e80e2222b97E534Cb",
+  "links": {
+    "coingecko": "x-block",
+    "twitter": "XBlockOfficial",
+    "facebook": "XBlockChain",
+    "telegram": "XblockOfficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

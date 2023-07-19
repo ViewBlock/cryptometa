@@ -1,0 +1,15 @@
+{
+  "name": "VersoView",
+  "symbol": "VVT",
+  "web": "https://versoview.com",
+  "explorer": "https://etherscan.io/token/0x755be920943ea95e39ee2dc437b268917b580d6e",
+  "links": {
+    "coingecko": "versoview",
+    "twitter": "VersoView",
+    "telegram": "versoview"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

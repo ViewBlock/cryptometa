@@ -1,0 +1,15 @@
+{
+  "name": "3XT",
+  "symbol": "3XT",
+  "web": "https://3x.exchange",
+  "explorer": "https://etherscan.io/token/0x96cf107e446a6e528ffd045f4eb6dff3cdb6a666",
+  "links": {
+    "coingecko": "3xt",
+    "twitter": "my3xt",
+    "telegram": "my3xt"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "StarDEX",
+  "symbol": "XSTAR",
+  "web": "https://stardex.io",
+  "explorer": "https://etherscan.io/token/0xc0e47007e084eef3ee58eb33d777b3b4ca98622f",
+  "links": {
+    "github": "stardexio",
+    "coingecko": "starcurve",
+    "twitter": "stardexio",
+    "telegram": "stardexio"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Bifrost",
+  "symbol": "BFC",
+  "web": "https://thebifrost.io",
+  "explorer": "https://etherscan.io/token/0x0c7D5ae016f806603CB1782bEa29AC69471CAb9c",
+  "links": {
+    "github": "bifrost-platform",
+    "coingecko": "bifrost",
+    "twitter": "BIFROSTio",
+    "facebook": "theBifrost.io",
+    "telegram": "Bifrost_Global"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

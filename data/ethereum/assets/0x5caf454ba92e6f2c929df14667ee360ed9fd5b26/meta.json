@@ -1,0 +1,16 @@
+{
+  "name": "Dev Protocol",
+  "symbol": "DEV",
+  "web": "https://devprotocol.xyz",
+  "explorer": "https://etherscan.io/token/0x5caf454ba92e6f2c929df14667ee360ed9fd5b26",
+  "links": {
+    "github": "dev-protocol",
+    "coingecko": "dev-protocol",
+    "twitter": "devprtcl",
+    "telegram": "devprtcl"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

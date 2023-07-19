@@ -1,0 +1,15 @@
+{
+  "name": "Piction Network",
+  "symbol": "PXL",
+  "web": "https://piction.network/en",
+  "explorer": "https://etherscan.io/token/0xf88951d7b676798705fd3a362ba5b1dbca2b233b",
+  "links": {
+    "github": "piction-protocol",
+    "coingecko": "piction-network",
+    "telegram": "pictionnetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

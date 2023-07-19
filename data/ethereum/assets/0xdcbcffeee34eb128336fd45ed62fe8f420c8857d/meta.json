@@ -1,0 +1,17 @@
+{
+  "name": "Davies",
+  "symbol": "DVS",
+  "web": "https://daviescoin.io",
+  "explorer": "https://etherscan.io/token/0xdcbcffeee34eb128336fd45ed62fe8f420c8857d",
+  "links": {
+    "github": "devdavies",
+    "coingecko": "davies",
+    "twitter": "daviescoin",
+    "facebook": "daviescoin.ou",
+    "telegram": "daviescoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

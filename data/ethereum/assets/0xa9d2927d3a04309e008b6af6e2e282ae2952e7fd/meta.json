@@ -1,0 +1,15 @@
+{
+  "name": "Zipper Network",
+  "symbol": "ZIP",
+  "web": "http://zipper.io",
+  "explorer": "https://etherscan.io/token/0xa9d2927d3a04309e008b6af6e2e282ae2952e7fd",
+  "links": {
+    "coingecko": "zip",
+    "twitter": "ZipperInfo",
+    "telegram": "ZipperEN"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

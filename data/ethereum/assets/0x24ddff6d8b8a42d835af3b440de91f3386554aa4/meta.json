@@ -1,0 +1,18 @@
+{
+  "name": "Iungo",
+  "symbol": "ING",
+  "web": "https://iungo.network",
+  "explorer": "https://etherscan.io/token/0x24ddff6d8b8a42d835af3b440de91f3386554aa4",
+  "links": {
+    "github": "iungonetwork",
+    "coingecko": "iungo",
+    "twitter": "IUNGOnetwork",
+    "facebook": "IUNGOnetwork",
+    "telegram": "IUNGO",
+    "reddit": "r/iungo"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

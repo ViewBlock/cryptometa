@@ -1,0 +1,14 @@
+{
+  "name": "CSP DAO Network",
+  "symbol": "NEBO",
+  "web": "https://cspdao.network",
+  "explorer": "https://etherscan.io/token/0x7f0c8b125040f707441cad9e5ed8a8408673b455",
+  "links": {
+    "coingecko": "csp-dao-network",
+    "twitter": "csp_dao"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

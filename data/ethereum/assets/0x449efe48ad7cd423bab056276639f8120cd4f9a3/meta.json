@@ -1,0 +1,15 @@
+{
+  "name": "LibreFreelencer",
+  "symbol": "LIBREF",
+  "web": "https://www.librefree.allbestico.com",
+  "explorer": "https://etherscan.io/token/0x449efe48ad7cd423bab056276639f8120cd4f9a3",
+  "links": {
+    "coingecko": "librefreelencer",
+    "twitter": "_onLEXpa_LibreF",
+    "telegram": "ALLBESTICO"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

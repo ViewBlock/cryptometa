@@ -1,0 +1,14 @@
+{
+  "name": "Anti-Fraud Chain",
+  "symbol": "AFC",
+  "web": "http://www.afcchina.co",
+  "explorer": "https://etherscan.io/token/0x14dffd4f515d4c43493c6c512c78fbc59a8af254",
+  "links": {
+    "coingecko": "anti-fraud-chain",
+    "facebook": "AFCantifraudchain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "3X Short Ethereum Token",
+  "symbol": "ETHBEAR",
+  "web": "https://ftx.com/tokens/ETHBEAR",
+  "explorer": "https://etherscan.io/token/0x2f5e2c9002c058c063d21a06b6cabb50950130c8",
+  "links": {
+    "coingecko": "3x-short-ethereum-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

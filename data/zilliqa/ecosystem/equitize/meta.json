@@ -1,0 +1,16 @@
+{
+  "name": "Equitize",
+  "description": "An equity-based crowdfunding platform on Zilliqa for angel investors, retail investors and startups to invest and fundraise with security token offerings.",
+  "web": "https://capstone2021.sutd.edu.sg/projects/equitize",
+  "links": {},
+  "categories": [
+    "defi",
+    "fund"
+  ],
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg"
+  },
+  "key": "equitize"
+}

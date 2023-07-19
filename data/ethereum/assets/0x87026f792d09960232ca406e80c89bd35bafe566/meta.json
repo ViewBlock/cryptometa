@@ -1,0 +1,16 @@
+{
+  "name": "Commerce Data Connection",
+  "symbol": "CDC",
+  "web": "http://www.cdc.tech",
+  "explorer": "https://etherscan.io/token/0x87026f792d09960232ca406e80c89bd35bafe566",
+  "links": {
+    "github": "cdcchain",
+    "coingecko": "cdc-foundation",
+    "twitter": "cdc_kr",
+    "facebook": "CDCKorea"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

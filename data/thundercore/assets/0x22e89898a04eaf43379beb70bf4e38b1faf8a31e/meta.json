@@ -1,9 +1,8 @@
 {
-  "name": "TT-USDC",
+  "name": "USD Coin",
   "trusted": true,
   "gen": {
     "logo": "logo.png",
-    "hasDark": false,
     "score": 100
   }
 }

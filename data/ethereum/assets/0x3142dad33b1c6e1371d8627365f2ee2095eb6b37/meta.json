@@ -1,0 +1,13 @@
+{
+  "name": "Hauteclere Shards",
+  "symbol": "HAUT",
+  "web": "https://www.niftex.com/fullExchange/HAUT",
+  "explorer": "https://etherscan.io/token/0x3142dad33b1c6e1371d8627365f2ee2095eb6b37",
+  "links": {
+    "coingecko": "hauteclere-shards-2"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

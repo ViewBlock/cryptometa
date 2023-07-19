@@ -1,0 +1,15 @@
+{
+  "name": "Firdaos",
+  "symbol": "FDO",
+  "web": "https://firdaos.com",
+  "explorer": "https://etherscan.io/token/0x361887c1d1b73557018c47c8001711168128cf69",
+  "links": {
+    "github": "ZelaaPayUAE",
+    "coingecko": "firdaos",
+    "twitter": "zelaapay"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

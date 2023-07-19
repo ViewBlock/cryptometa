@@ -1,0 +1,17 @@
+{
+  "name": "DeXe",
+  "symbol": "DEXE",
+  "web": "https://dexe.network",
+  "explorer": "https://etherscan.io/token/0xde4EE8057785A7e8e800Db58F9784845A5C2Cbd6",
+  "links": {
+    "github": "dexe-network",
+    "coingecko": "dexe",
+    "twitter": "DexeNetwork",
+    "facebook": "dexe.network",
+    "telegram": "Dexe_network"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

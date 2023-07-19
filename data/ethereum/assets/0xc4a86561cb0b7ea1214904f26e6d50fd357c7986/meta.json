@@ -1,0 +1,17 @@
+{
+  "name": "Charg Coin",
+  "symbol": "CHG",
+  "web": "https://chgcoin.org",
+  "explorer": "https://etherscan.io/token/0xc4a86561cb0b7ea1214904f26e6d50fd357c7986",
+  "links": {
+    "github": "ChargCoinLLC",
+    "coingecko": "charg-coin",
+    "twitter": "chgcoin",
+    "facebook": "ChargCoin",
+    "telegram": "ChargChat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

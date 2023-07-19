@@ -1,0 +1,13 @@
+{
+  "name": "Ciupek Capital Coin",
+  "symbol": "CCC",
+  "web": "https://ciupekcapitalcoin.com",
+  "explorer": "https://etherscan.io/token/0x0bc2149d073f62510c99d908f52d0d703da1f135",
+  "links": {
+    "coingecko": "ciupek-capital-coin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

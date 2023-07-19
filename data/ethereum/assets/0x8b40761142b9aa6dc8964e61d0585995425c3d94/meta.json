@@ -1,0 +1,16 @@
+{
+  "name": "Tripio",
+  "symbol": "TRIO",
+  "web": "https://trip.io",
+  "explorer": "https://etherscan.io/token/0x8b40761142b9aa6dc8964e61d0585995425c3d94",
+  "links": {
+    "github": "thetripio",
+    "coingecko": "tripio",
+    "twitter": "thetripio",
+    "telegram": "tripioglobal"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

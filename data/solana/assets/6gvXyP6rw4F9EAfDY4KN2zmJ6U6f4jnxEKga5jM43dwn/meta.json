@@ -1,0 +1,10 @@
+{
+  "name": "Chess Players Community Coin",
+  "symbol": "CHESS",
+  "decimals": "8",
+  "supply": "6400000000000000000",
+  "gen": {
+    "logo": "logo.png",
+    "score": 0
+  }
+}

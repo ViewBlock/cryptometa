@@ -1,0 +1,15 @@
+{
+  "name": "Hyve",
+  "symbol": "HYVE",
+  "web": "https://hyve.works",
+  "explorer": "https://etherscan.io/token/0xd794DD1CAda4cf79C9EebaAb8327a1B0507ef7d4",
+  "links": {
+    "coingecko": "hyve",
+    "twitter": "join_hyve",
+    "telegram": "hyveworks"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

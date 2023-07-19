@@ -1,0 +1,16 @@
+{
+  "name": "XSwap",
+  "symbol": "XSP",
+  "web": "https://xswap.app",
+  "explorer": "https://etherscan.io/token/0x9b06d48e0529ecf05905ff52dd426ebec0ea3011",
+  "links": {
+    "github": "xfinance",
+    "coingecko": "xswap",
+    "twitter": "xfinance_io",
+    "telegram": "nowex_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Ezil",
+  "description": "The fast growing US-based cryptocurrency mining pool. Ezil allows users to mine both Zilliqa and Ethereum",
+  "web": "https://ezil.me",
+  "links": {
+    "twitter": "https://twitter.com/ezil_me",
+    "telegram": "https://t.me/ezil_me"
+  },
+  "categories": [
+    "mining"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "ezil"
+}

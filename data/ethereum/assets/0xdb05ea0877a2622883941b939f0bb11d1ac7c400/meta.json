@@ -1,0 +1,17 @@
+{
+  "name": "Opacity",
+  "symbol": "OPCT",
+  "web": "https://www.opacity.io",
+  "explorer": "https://etherscan.io/token/0xDb05EA0877A2622883941b939f0bb11d1ac7c400",
+  "links": {
+    "github": "opacity",
+    "coingecko": "opacity",
+    "twitter": "Opacity_Storage",
+    "telegram": "OpacityStorage",
+    "reddit": "r/Opacity"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

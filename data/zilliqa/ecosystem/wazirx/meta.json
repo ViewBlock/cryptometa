@@ -1,0 +1,16 @@
+{
+  "name": "WazirX",
+  "description": "India's most trusted Bitcoin and cryptocurrency exchange platform.",
+  "web": "https://wazirx.com",
+  "links": {
+    "twitter": "https://twitter.com/WazirxIndia",
+    "telegram": "https://t.me/wazirx"
+  },
+  "categories": [
+    "exchange"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "wazirx"
+}

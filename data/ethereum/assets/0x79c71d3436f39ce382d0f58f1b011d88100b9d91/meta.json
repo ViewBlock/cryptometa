@@ -1,0 +1,18 @@
+{
+  "name": "Xeonbit Token",
+  "symbol": "XNS",
+  "web": "https://xeonbit.com",
+  "explorer": "https://etherscan.io/token/0x79c71d3436f39ce382d0f58f1b011d88100b9d91",
+  "links": {
+    "github": "xeonbit-project",
+    "coingecko": "xeonbit-token",
+    "twitter": "xeonbit",
+    "facebook": "xeonbit",
+    "telegram": "xeonbitgroup",
+    "reddit": "r/xeonbit"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

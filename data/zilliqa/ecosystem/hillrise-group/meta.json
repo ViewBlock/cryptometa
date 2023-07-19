@@ -1,0 +1,16 @@
+{
+  "name": "Hillrise Group",
+  "description": "An early-stage venture capital fund supporting web3 start ups.",
+  "web": "https://hillrise.group",
+  "links": {
+    "twitter": "https://twitter.com/hillrisegroup",
+    "telegram": "https://t.me/hillrisegroupchat"
+  },
+  "categories": [
+    "fund"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "hillrise-group"
+}

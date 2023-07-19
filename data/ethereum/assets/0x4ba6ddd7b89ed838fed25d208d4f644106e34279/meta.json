@@ -1,0 +1,16 @@
+{
+  "name": "Vether",
+  "symbol": "VETH",
+  "web": "https://vetherasset.io",
+  "explorer": "https://etherscan.io/token/0x4Ba6dDd7b89ed838FEd25d208D4f644106E34279",
+  "links": {
+    "github": "vetherasset",
+    "coingecko": "vether",
+    "twitter": "strictly_scarce",
+    "telegram": "vetherasset"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

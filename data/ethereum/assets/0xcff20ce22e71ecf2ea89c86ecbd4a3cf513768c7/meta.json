@@ -1,0 +1,17 @@
+{
+  "name": "Makes",
+  "symbol": "MKS",
+  "web": "https://coinmakes.com",
+  "explorer": "https://etherscan.io/token/0xcff20ce22e71ecf2ea89c86ecbd4a3cf513768c7",
+  "links": {
+    "coingecko": "makes",
+    "twitter": "coinmakes",
+    "facebook": "makescoin",
+    "telegram": "CoinMakes",
+    "reddit": "r/CoinMakes_MKS"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

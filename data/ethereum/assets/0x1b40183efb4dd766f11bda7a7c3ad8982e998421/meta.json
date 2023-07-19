@@ -1,0 +1,16 @@
+{
+  "name": "Vesper Finance",
+  "symbol": "VSP",
+  "web": "https://vesper.finance",
+  "explorer": "https://etherscan.io/token/0x1b40183efb4dd766f11bda7a7c3ad8982e998421",
+  "links": {
+    "github": "vesperfi",
+    "coingecko": "vesper-finance",
+    "twitter": "VesperFi",
+    "telegram": "vesperfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

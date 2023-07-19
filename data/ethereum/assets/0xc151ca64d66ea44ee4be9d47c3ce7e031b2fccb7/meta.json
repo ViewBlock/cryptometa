@@ -1,0 +1,16 @@
+{
+  "name": "YFET",
+  "symbol": "YFET",
+  "web": "https://www.yfet.finance",
+  "explorer": "https://etherscan.io/token/0xc151ca64D66eA44EE4BE9D47c3ce7E031b2fccb7",
+  "links": {
+    "coingecko": "yfet",
+    "twitter": "YFETFinance",
+    "facebook": "YFETFinance",
+    "telegram": "YFETFinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

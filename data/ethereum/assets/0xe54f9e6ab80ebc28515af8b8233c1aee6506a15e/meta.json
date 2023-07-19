@@ -1,0 +1,15 @@
+{
+  "name": "Spaghetti",
+  "symbol": "PASTA",
+  "web": "https://spaghetti.money",
+  "explorer": "https://etherscan.io/token/0xe54f9e6ab80ebc28515af8b8233c1aee6506a15e",
+  "links": {
+    "coingecko": "spaghetti",
+    "twitter": "SpaghettiMoney",
+    "telegram": "SpaghettiMoney"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

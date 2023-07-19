@@ -1,0 +1,15 @@
+{
+  "name": "Molten",
+  "symbol": "MOL",
+  "web": "https://www.molten.finance",
+  "explorer": "https://etherscan.io/token/0x1443e7c1cce72662545d94779120c59251447e91",
+  "links": {
+    "coingecko": "molten",
+    "twitter": "moltentoken",
+    "telegram": "moltenfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

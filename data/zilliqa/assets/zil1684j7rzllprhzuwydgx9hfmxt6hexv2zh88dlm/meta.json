@@ -1,0 +1,17 @@
+{
+  "name": "Metasportz city",
+  "symbol": "MSZC",
+  "web": "https://metasportz.city",
+  "supply": "420000000",
+  "decimals": 6,
+  "email": "admin@metasportz.city",
+  "publicTeam": true,
+  "links": {
+    "twitter": "https://twitter.com/metasportzcity",
+    "instagram": "https://www.instagram.com/metasportzcity"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 29
+  }
+}

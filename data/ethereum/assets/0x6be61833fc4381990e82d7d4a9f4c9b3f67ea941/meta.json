@@ -1,0 +1,16 @@
+{
+  "name": "Hotbit Token",
+  "symbol": "HTB",
+  "web": "https://www.hotbit.io",
+  "explorer": "https://etherscan.io/token/0x6be61833fc4381990e82d7d4a9f4c9b3f67ea941",
+  "links": {
+    "coingecko": "hotbit-token",
+    "twitter": "Hotbit_io",
+    "facebook": "Hotbit.io",
+    "telegram": "Hotbit_English"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Dark.Build",
+  "symbol": "DB",
+  "web": "https://dark.build",
+  "explorer": "https://explorer-mainnet.maticvigil.com/tokens/0x0e59D50adD2d90f5111aca875baE0a72D95B4762/token-transfers",
+  "links": {
+    "coingecko": "darkbuild-v2",
+    "twitter": "DarkBuild1",
+    "telegram": "darkbuildANN"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

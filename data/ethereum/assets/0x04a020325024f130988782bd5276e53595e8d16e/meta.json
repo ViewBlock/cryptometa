@@ -1,0 +1,16 @@
+{
+  "name": "Herbalist Token",
+  "symbol": "HERB",
+  "web": "http://www.herbalisttoken.com",
+  "explorer": "https://etherscan.io/token/0x04a020325024f130988782bd5276e53595e8d16e",
+  "links": {
+    "coingecko": "herbalist-token",
+    "twitter": "herbalistoken",
+    "facebook": "herbalist.token.5",
+    "telegram": "Herbalist_Token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

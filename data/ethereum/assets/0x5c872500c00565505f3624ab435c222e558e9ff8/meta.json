@@ -1,0 +1,18 @@
+{
+  "name": "CoTrader",
+  "symbol": "COT",
+  "web": "https://cotrader.com",
+  "explorer": "https://etherscan.io/token/0x5c872500c00565505f3624ab435c222e558e9ff8",
+  "links": {
+    "github": "CoTraderCore",
+    "coingecko": "cotrader",
+    "twitter": "cotrader_com",
+    "facebook": "cotrader",
+    "telegram": "cotrader",
+    "reddit": "r/cotrader"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Evermore",
+  "description": "Cutting edge data storage solutions that allow you to store your data safely and securely online",
+  "web": "https://www.evermoredata.store",
+  "categories": [
+    "storage"
+  ],
+  "addresses": [],
+  "links": {
+    "github": "MikeHibbert/evermore"
+  },
+  "developers": [
+    {
+      "name": "Mike Hibbert",
+      "github": "MikeHibbert",
+      "twitter": "mickeysofine"
+    }
+  ],
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true
+  },
+  "key": "evermore"
+}

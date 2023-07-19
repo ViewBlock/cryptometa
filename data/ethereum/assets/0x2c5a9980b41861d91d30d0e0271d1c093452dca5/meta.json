@@ -1,0 +1,15 @@
+{
+  "name": "ETH 12 Day EMA Crossover Set",
+  "symbol": "ETH12EMACO",
+  "web": "https://www.tokensets.com/set/eth12emaco",
+  "explorer": "https://etherscan.io/token/0x2c5a9980B41861D91D30d0E0271d1c093452DcA5",
+  "links": {
+    "github": "SetProtocol",
+    "coingecko": "eth-12-day-ema-crossover-set",
+    "twitter": "SetProtocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

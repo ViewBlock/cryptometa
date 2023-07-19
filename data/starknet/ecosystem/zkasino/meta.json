@@ -1,0 +1,17 @@
+{
+  "name": "ZKasino",
+  "description": "zKasino is a decentralized casino built on Layer 2 ZK-Rollups technology.",
+  "categories": [
+    "gamefi"
+  ],
+  "web": "https://zkasino.io",
+  "links": {
+    "twitter": "https://twitter.com/ZKasino_io",
+    "medium": "https://zkasino.medium.com",
+    "discord": "https://discord.com/invite/zkasino"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "zkasino"
+}

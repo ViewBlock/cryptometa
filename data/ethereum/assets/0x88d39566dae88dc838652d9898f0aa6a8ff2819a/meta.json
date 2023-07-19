@@ -1,0 +1,15 @@
+{
+  "name": "HypeBurn",
+  "symbol": "HBURN",
+  "explorer": "https://etherscan.io/token/0x88d39566dae88dc838652d9898f0aa6a8ff2819a",
+  "links": {
+    "github": "raptorelitedev",
+    "coingecko": "hypeburn",
+    "twitter": "HypeburnF",
+    "telegram": "hypeburn_finance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

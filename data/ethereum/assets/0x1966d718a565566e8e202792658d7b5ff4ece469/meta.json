@@ -1,0 +1,17 @@
+{
+  "name": "nDEX",
+  "symbol": "NDX",
+  "web": "https://ndexnetwork.com",
+  "explorer": "https://etherscan.io/token/0x1966d718A565566e8E202792658D7b5Ff4ECe469",
+  "links": {
+    "github": "ndexnetwork",
+    "coingecko": "ndex",
+    "twitter": "NdexOfficial",
+    "facebook": "ndexnetwork",
+    "telegram": "ndexofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

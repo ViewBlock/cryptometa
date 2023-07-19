@@ -1,0 +1,15 @@
+{
+  "name": "Hubii Network",
+  "symbol": "HBT",
+  "web": "https://www.hubii.com",
+  "explorer": "https://etherscan.io/token/0xdd6c68bb32462e01705011a4e2ad1a60740f217f",
+  "links": {
+    "coingecko": "hubii-network",
+    "twitter": "hubiinetwork",
+    "reddit": "r/hubiinetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

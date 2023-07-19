@@ -1,0 +1,14 @@
+{
+  "name": "B91",
+  "symbol": "B91",
+  "web": "http://www.b91.com",
+  "explorer": "https://etherscan.io/token/0x1519aff03b3e23722511d2576c769a77baf09580",
+  "links": {
+    "coingecko": "b91",
+    "twitter": "B91official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

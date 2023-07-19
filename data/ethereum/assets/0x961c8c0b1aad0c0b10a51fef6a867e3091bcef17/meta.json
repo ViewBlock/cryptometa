@@ -1,0 +1,16 @@
+{
+  "name": "DeFi Yield Protocol",
+  "symbol": "DYP",
+  "web": "https://dyp.finance/#/home",
+  "explorer": "https://etherscan.io/token/0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17",
+  "links": {
+    "github": "dypfinance",
+    "coingecko": "defi-yield-protocol",
+    "twitter": "dypfinance",
+    "telegram": "dypfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

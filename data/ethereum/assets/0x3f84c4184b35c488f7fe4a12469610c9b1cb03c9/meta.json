@@ -1,0 +1,16 @@
+{
+  "name": "PoolStake",
+  "symbol": "PSK",
+  "web": "https://psk.peetdecentralized.finance",
+  "explorer": "https://etherscan.io/token/0x3f84c4184b35c488f7fe4a12469610c9b1cb03c9",
+  "links": {
+    "github": "PeetFinanceDefi",
+    "coingecko": "poolstake",
+    "twitter": "peet_fi",
+    "telegram": "peetdefi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

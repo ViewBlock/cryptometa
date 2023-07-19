@@ -1,0 +1,17 @@
+{
+  "name": "aXpire",
+  "symbol": "AXPR",
+  "web": "http://axpire.io",
+  "explorer": "https://etherscan.io/token/0xC39E626A04C5971D770e319760D7926502975e47",
+  "links": {
+    "coingecko": "axpire",
+    "twitter": "aXpire_official",
+    "facebook": "Axpire-537274833301303",
+    "telegram": "AxpireOfficial",
+    "reddit": "r/aXpire"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

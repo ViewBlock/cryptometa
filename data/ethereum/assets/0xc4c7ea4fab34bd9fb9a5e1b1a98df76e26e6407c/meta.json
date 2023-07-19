@@ -1,0 +1,17 @@
+{
+  "name": "COCOS BCX",
+  "symbol": "COCOS",
+  "web": "http://www.cocosbcx.io/en",
+  "explorer": "https://etherscan.io/token/0xc4c7ea4fab34bd9fb9a5e1b1a98df76e26e6407c",
+  "links": {
+    "github": "Cocos-BCX",
+    "coingecko": "cocos-bcx",
+    "twitter": "cocosbcx",
+    "telegram": "cocosbcxen",
+    "reddit": "r/cocosbcx"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

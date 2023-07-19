@@ -1,0 +1,17 @@
+{
+  "name": "Polka City",
+  "symbol": "POLC",
+  "web": "https://www.polkacity.io",
+  "explorer": "https://etherscan.io/token/0xaA8330FB2B4D5D07ABFE7A72262752a8505C6B37",
+  "links": {
+    "github": "POLKACITY",
+    "coingecko": "polka-city",
+    "twitter": "PolkaCity",
+    "telegram": "Polkacity",
+    "reddit": "r/polkacity"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

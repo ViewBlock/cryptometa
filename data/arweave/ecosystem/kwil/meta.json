@@ -1,0 +1,22 @@
+{
+  "name": "Kwil",
+  "description": "Kwil is the first permissionless SQL database for the decentralized internet",
+  "web": "https://www.kwil.com",
+  "categories": [
+    "database"
+  ],
+  "addresses": [],
+  "links": {
+    "github": "kwilteam",
+    "twitter": "KwilTeam",
+    "medium": "kwildb",
+    "discord": "https://discord.com/invite/HzRPZ59Kay",
+    "youtube": "https://www.youtube.com/channel/UC7byhahd6AZ0zPSjFX5NTlQ/featured"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg"
+  },
+  "key": "kwil"
+}

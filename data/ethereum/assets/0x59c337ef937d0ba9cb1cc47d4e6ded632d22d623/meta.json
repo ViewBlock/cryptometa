@@ -1,0 +1,14 @@
+{
+  "name": "Tchain",
+  "symbol": "TCH",
+  "web": "http://tchain.cloud",
+  "explorer": "https://etherscan.io/token/0x59c337ef937d0ba9cb1cc47d4e6ded632d22d623",
+  "links": {
+    "coingecko": "tchain",
+    "telegram": "blockchaincccc"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 5
+  }
+}

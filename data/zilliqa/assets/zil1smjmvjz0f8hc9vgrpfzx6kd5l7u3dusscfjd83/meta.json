@@ -1,0 +1,18 @@
+{
+  "name": "Zilliqa-bridged TRAXX",
+  "symbol": "zTRAXX",
+  "web": "https://www.tokentraxx.com/",
+  "email": "contact@tokentraxx.com",
+  "links": {
+    "linkedin": "https://www.linkedin.com/company/tokentraxx/",
+    "twitter": "https://twitter.com/TokenTraxx",
+    "discord": "https://discord.com/invite/JyA7H4DyjG",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/traxx/",
+    "coingecko": "https://www.coingecko.com/en/coins/traxx"
+  },
+  "publicTeam": true,
+  "gen": {
+    "logo": "logo.png",
+    "score": 33
+  }
+}

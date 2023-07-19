@@ -1,0 +1,16 @@
+{
+  "name": "CoinUs",
+  "symbol": "CNUS",
+  "web": "https://www.coinus.io",
+  "explorer": "https://etherscan.io/token/0x722f2f3eac7e9597c73a593f7cf3de33fbfc3308",
+  "links": {
+    "coingecko": "coinus",
+    "twitter": "CoinUs_Official",
+    "facebook": "CoinUsOfficial",
+    "telegram": "CoinUs_KOR"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

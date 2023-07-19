@@ -1,0 +1,15 @@
+{
+  "name": "AGA Token",
+  "symbol": "AGA",
+  "web": "https://agatoken.com",
+  "explorer": "https://etherscan.io/token/0x2d80f5f5328fdcb6eceb7cacf5dd8aedaec94e20",
+  "links": {
+    "coingecko": "aga-token",
+    "twitter": "agatkn",
+    "telegram": "agatokengroup"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

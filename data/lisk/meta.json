@@ -1,0 +1,17 @@
+{
+  "name": "Lisk",
+  "symbol": "LSK",
+  "web": "https://lisk.io",
+  "explorer": "https://explorer.lisk.io",
+  "links": {
+    "github": "LiskHQ",
+    "coingecko": "lisk",
+    "twitter": "LiskHQ",
+    "facebook": "LiskHQ",
+    "reddit": "r/Lisk"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Aura Protocol",
+  "symbol": "AURA",
+  "web": "https://auraprotocol.io",
+  "explorer": "https://etherscan.io/token/0x6417e8673dedd7a0471a87804bf85a559fd8bcc2",
+  "links": {
+    "github": "DevMontyA",
+    "coingecko": "aura-protocol",
+    "twitter": "auraprotocol",
+    "telegram": "auraprotocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

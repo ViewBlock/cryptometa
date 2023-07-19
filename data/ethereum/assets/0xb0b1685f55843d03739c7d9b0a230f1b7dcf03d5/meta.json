@@ -1,0 +1,17 @@
+{
+  "name": "Lynchpin Token",
+  "symbol": "LYN",
+  "web": "https://www.lyntoken.com",
+  "explorer": "https://etherscan.io/token/0xb0b1685f55843d03739c7d9b0a230f1b7dcf03d5",
+  "links": {
+    "github": "LynchpinToken",
+    "coingecko": "lynchpin_token",
+    "twitter": "LynToken",
+    "facebook": "lyntoken",
+    "telegram": "lynchpintoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Coweye",
+  "symbol": "COW",
+  "web": "http://coweye.io",
+  "explorer": "https://etherscan.io/token/0xc3d6dda603fc15fd4bf9303150fe11c7cd6059dc",
+  "links": {
+    "coingecko": "coweye"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

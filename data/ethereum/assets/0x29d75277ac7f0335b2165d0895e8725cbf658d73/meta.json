@@ -1,0 +1,16 @@
+{
+  "name": "BitDice",
+  "symbol": "CSNO",
+  "web": "https://www.bitdice.me",
+  "explorer": "https://etherscan.io/token/0x29d75277ac7f0335b2165d0895e8725cbf658d73",
+  "links": {
+    "github": "bitdice",
+    "coingecko": "bitdice",
+    "twitter": "bitdice",
+    "reddit": "r/BitDiceCasino"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

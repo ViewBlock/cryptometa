@@ -1,0 +1,16 @@
+{
+  "name": "BidiPass",
+  "symbol": "BDP",
+  "web": "https://bidipass.org",
+  "explorer": "https://etherscan.io/token/0x593114f03a0a575aece9ed675e52ed68d2172b8c",
+  "links": {
+    "github": "BidiPassCompany",
+    "coingecko": "bidipass",
+    "twitter": "bidipass",
+    "facebook": "bidipass"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

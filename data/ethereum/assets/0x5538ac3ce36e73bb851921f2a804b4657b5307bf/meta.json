@@ -1,0 +1,15 @@
+{
+  "name": "Wrapped Shuttleone",
+  "symbol": "WSZO",
+  "web": "https://shuttleone.network/2020",
+  "explorer": "https://etherscan.io/token/0x5538ac3ce36e73bb851921f2a804b4657b5307bf",
+  "links": {
+    "github": "shuttle-one",
+    "coingecko": "wrapped-shuttleone",
+    "twitter": "shuttle_one"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

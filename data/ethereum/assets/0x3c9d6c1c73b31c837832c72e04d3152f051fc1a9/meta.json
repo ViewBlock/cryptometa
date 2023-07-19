@@ -1,0 +1,16 @@
+{
+  "name": "BoringDAO",
+  "symbol": "BOR",
+  "web": "https://www.boringdao.com",
+  "explorer": "https://etherscan.io/token/0x3c9d6c1c73b31c837832c72e04d3152f051fc1a9",
+  "links": {
+    "github": "BoringDAO",
+    "coingecko": "boringdao",
+    "twitter": "TheBoringDAO",
+    "telegram": "boringDAO"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

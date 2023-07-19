@@ -1,0 +1,15 @@
+{
+  "name": "THECASH",
+  "symbol": "TCH",
+  "web": "https://thecash.asia",
+  "explorer": "https://etherscan.io/token/0xcd475371e39c0d94e82fccc9dd0ea710d0dc0c0b",
+  "links": {
+    "github": "thenode-foundation",
+    "coingecko": "thecash",
+    "telegram": "damda365"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 14
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Thisoption",
+  "symbol": "TONS",
+  "web": "https://extons.io",
+  "explorer": "https://tronscan.org/#/token20/THgLniqRhDg5zePSrDTdU9QwY8FjD9nLYt",
+  "links": {
+    "github": "ThisoptionLimited",
+    "coingecko": "thisoption",
+    "twitter": "thisoption",
+    "facebook": "thisoptionexchange",
+    "telegram": "thisoption"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

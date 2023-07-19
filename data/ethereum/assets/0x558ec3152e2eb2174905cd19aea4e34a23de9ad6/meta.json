@@ -1,0 +1,17 @@
+{
+  "name": "Bread",
+  "symbol": "BRD",
+  "web": "https://token.breadapp.com/en",
+  "explorer": "https://etherscan.io/token/0x558ec3152e2eb2174905cd19aea4e34a23de9ad6",
+  "links": {
+    "github": "breadwallet",
+    "coingecko": "bread",
+    "twitter": "breadapp",
+    "facebook": "breadapp",
+    "reddit": "r/breadwallet"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

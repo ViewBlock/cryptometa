@@ -1,0 +1,14 @@
+{
+  "name": "Ethereum Cloud",
+  "symbol": "ETY",
+  "web": "http://www.etheryun.net",
+  "explorer": "https://etherscan.io/token/0x5acd07353106306a6530ac4d49233271ec372963",
+  "links": {
+    "coingecko": "ethereum-cloud",
+    "telegram": "EthereumCloud"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

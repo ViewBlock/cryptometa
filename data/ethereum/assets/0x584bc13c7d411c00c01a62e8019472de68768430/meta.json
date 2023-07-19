@@ -1,0 +1,16 @@
+{
+  "name": "Hegic",
+  "symbol": "HEGIC",
+  "web": "https://www.hegic.co",
+  "explorer": "https://etherscan.io/token/0x584bc13c7d411c00c01a62e8019472de68768430",
+  "links": {
+    "github": "hegic",
+    "coingecko": "hegic",
+    "twitter": "HegicOptions",
+    "telegram": "HegicOptions"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Vanilla Network",
+  "symbol": "VNLA",
+  "web": "https://vanilla.network",
+  "explorer": "https://etherscan.io/token/0xb97faf860045483e0c7f08c56acb31333084a988",
+  "links": {
+    "github": "vanilla-network",
+    "coingecko": "vanilla-network",
+    "twitter": "VanillaNetwork1",
+    "telegram": "Vanillafinance",
+    "reddit": "r/vanillatoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

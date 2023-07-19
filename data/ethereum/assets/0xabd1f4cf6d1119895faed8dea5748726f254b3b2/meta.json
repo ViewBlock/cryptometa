@@ -1,0 +1,15 @@
+{
+  "name": "MessengerBank",
+  "symbol": "MBIT",
+  "web": "https://www.messengerbank.io",
+  "explorer": "https://etherscan.io/token/0xabd1f4cf6d1119895faed8dea5748726f254b3b2",
+  "links": {
+    "coingecko": "messengerbank",
+    "twitter": "messengerbank1",
+    "facebook": "messengerbank.io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

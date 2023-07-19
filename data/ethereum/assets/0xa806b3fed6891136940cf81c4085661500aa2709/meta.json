@@ -1,0 +1,15 @@
+{
+  "name": "Sport and Leisure",
+  "symbol": "SNL",
+  "web": "https://www.snltoken.io",
+  "explorer": "https://etherscan.io/token/0xa806b3fed6891136940cf81c4085661500aa2709",
+  "links": {
+    "coingecko": "sport-and-leisure",
+    "twitter": "snltoken",
+    "telegram": "snlgroup"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

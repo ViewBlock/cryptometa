@@ -1,0 +1,15 @@
+{
+  "name": "Meme",
+  "symbol": "MEME",
+  "web": "https://dontbuymeme.com",
+  "explorer": "https://etherscan.io/token/0xd5525d397898e5502075ea5e830d8914f6f0affe",
+  "links": {
+    "coingecko": "degenerator",
+    "twitter": "DontBuyMeme",
+    "telegram": "thedegenerator"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

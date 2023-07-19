@@ -1,0 +1,11 @@
+{
+  "name": "Tesla Token",
+  "symbol": "Tesla",
+  "web": "https://teslatoken.company/",
+  "decimals": "4",
+  "supply": "10000",
+  "gen": {
+    "logo": "logo.svg",
+    "score": 5
+  }
+}

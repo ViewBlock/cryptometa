@@ -1,0 +1,15 @@
+{
+  "name": "Cryptid",
+  "symbol": "CID",
+  "web": "https://crypt-id.com",
+  "explorer": "https://etherscan.io/token/0x4599836c212CD988EAccc54C820Ee9261cdaAC71",
+  "links": {
+    "coingecko": "cryptid",
+    "twitter": "id_crypt",
+    "telegram": "CryptidOfficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

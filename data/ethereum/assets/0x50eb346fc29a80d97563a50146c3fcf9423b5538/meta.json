@@ -1,0 +1,13 @@
+{
+  "name": "Skull Candy Shards",
+  "symbol": "CANDY",
+  "web": "https://www.niftex.com/launches/details/CANDY",
+  "explorer": "https://etherscan.io/token/0x50eb346fc29a80d97563a50146c3fcf9423b5538",
+  "links": {
+    "coingecko": "skull-candy-shards"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "MXC",
+  "symbol": "MXC",
+  "web": "https://www.mxc.org",
+  "explorer": "https://etherscan.io/token/0x5ca381bbfb58f0092df149bd3d243b08b9a8386e",
+  "links": {
+    "github": "mxc-foundation",
+    "coingecko": "mxc",
+    "twitter": "MXCfoundation",
+    "facebook": "MXCfoundation",
+    "telegram": "mxcfoundation",
+    "reddit": "r/MXCFoundation"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

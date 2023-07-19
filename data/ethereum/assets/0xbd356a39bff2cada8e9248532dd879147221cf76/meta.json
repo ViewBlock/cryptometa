@@ -1,0 +1,15 @@
+{
+  "name": "WOM Protocol",
+  "symbol": "WOM",
+  "web": "https://womprotocol.io",
+  "explorer": "https://etherscan.io/token/0xBd356a39BFf2cAda8E9248532DD879147221Cf76",
+  "links": {
+    "coingecko": "wom-token",
+    "twitter": "WOMProtocol",
+    "telegram": "WOMProtocolChat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

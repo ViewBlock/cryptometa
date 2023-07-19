@@ -1,0 +1,17 @@
+{
+  "name": "Hummingbot",
+  "description": "A community-driven open source project that aims to democratise algorithmic trading.",
+  "web": "https://hummingbot.io",
+  "links": {
+    "twitter": "https://twitter.com/hummingbot_io",
+    "discord": "https://discord.hummingbot.io/"
+  },
+  "categories": [
+    "tools",
+    "opfi"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "hummingbot"
+}

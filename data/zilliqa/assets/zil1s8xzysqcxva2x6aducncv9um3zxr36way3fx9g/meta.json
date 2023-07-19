@@ -1,0 +1,19 @@
+{
+  "name": "ZilChess",
+  "symbol": "ZCH",
+  "description": "The first decentralized chess platform running on the Zilliqa blockchain",
+  "web": "https://www.zilchess.com",
+  "decimals": "6",
+  "supply": "500000",
+  "whitepaper": "https://www.zilchess.com/whitepaper",
+  "links": {
+    "github": "https://github.com/ZilliqaDuke/ZilChess",
+    "twitter": "https://twitter.com/zilchess",
+    "telegram": "https://t.me/zilchess"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "score": 29
+  }
+}

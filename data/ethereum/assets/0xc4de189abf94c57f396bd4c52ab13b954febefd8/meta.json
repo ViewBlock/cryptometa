@@ -1,0 +1,13 @@
+{
+  "name": "B20",
+  "symbol": "B20",
+  "web": "https://b20.whalestreet.xyz",
+  "explorer": "https://etherscan.io/token/0xc4de189abf94c57f396bd4c52ab13b954febefd8",
+  "links": {
+    "coingecko": "b20"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

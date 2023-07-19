@@ -1,0 +1,13 @@
+{
+  "name": "Cherry Token",
+  "symbol": "YT",
+  "web": "https://mycherry.io",
+  "explorer": "https://etherscan.io/token/0x5c89736e9454200141b80c37eb28eaceca2ce8cb",
+  "links": {
+    "coingecko": "cherry-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

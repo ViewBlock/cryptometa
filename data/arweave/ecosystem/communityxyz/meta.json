@@ -1,0 +1,23 @@
+{
+  "name": "CommunityXYZ",
+  "description": "A fully decentralized website and smartweave contract built on top of Arweave.",
+  "web": "http://community.xyz",
+  "categories": [
+    "social"
+  ],
+  "addresses": [],
+  "links": {
+    "github": "CommunityXYZ"
+  },
+  "developers": [
+    {
+      "name": "Cedrik Boudreau",
+      "github": "cedriking",
+      "twitter": "cedriking"
+    }
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "communityxyz"
+}

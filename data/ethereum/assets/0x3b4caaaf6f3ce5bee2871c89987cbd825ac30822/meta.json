@@ -1,0 +1,16 @@
+{
+  "name": "OFIN TOKEN",
+  "symbol": "ON",
+  "web": "https://ofin.io",
+  "explorer": "https://etherscan.io/token/0x3b4cAAAF6F3ce5Bee2871C89987cbd825Ac30822",
+  "links": {
+    "github": "Ofinio",
+    "coingecko": "ofin-token",
+    "twitter": "ofinprotocol",
+    "telegram": "ofin_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

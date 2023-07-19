@@ -1,0 +1,16 @@
+{
+  "name": "Relevant",
+  "symbol": "REL",
+  "web": "https://relevant.community",
+  "explorer": "https://etherscan.io/token/0xb6c4267c4877bb0d6b1685cfd85b0fbe82f105ec",
+  "links": {
+    "github": "relevant-community",
+    "coingecko": "relevant",
+    "twitter": "relevantfeed"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

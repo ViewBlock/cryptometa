@@ -1,0 +1,16 @@
+{
+  "name": "Spheroid Universe",
+  "symbol": "SPH",
+  "web": "https://www.spheroiduniverse.io",
+  "explorer": "https://etherscan.io/token/0xa0cf46eb152656c7090e769916eb44a138aaa406",
+  "links": {
+    "coingecko": "spheroid-universe",
+    "twitter": "Spheroid_io",
+    "facebook": "spheroiduniverse",
+    "telegram": "spheroiduniverseio"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

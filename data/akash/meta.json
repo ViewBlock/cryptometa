@@ -1,0 +1,17 @@
+{
+  "name": "Akash Network",
+  "symbol": "AKT",
+  "web": "https://akash.network",
+  "explorer": "https://akash.bigdipper.live",
+  "links": {
+    "github": "ovrclk",
+    "coingecko": "akash-network",
+    "twitter": "akashnet_",
+    "facebook": "akashnw",
+    "telegram": "akashnw",
+    "reddit": "r/akashnetwork"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

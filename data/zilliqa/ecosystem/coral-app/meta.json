@@ -1,0 +1,17 @@
+{
+  "name": "Coral App",
+  "description": "A next generation fitness and wellness app built on Zilliqa.",
+  "web": "https://mycoralapp.com",
+  "links": {
+    "twitter": "https://twitter.com/mycoralapp",
+    "telegram": "https://t.me/coraltribe"
+  },
+  "categories": [
+    "app",
+    "dapp"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "coral-app"
+}

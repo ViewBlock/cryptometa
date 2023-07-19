@@ -1,0 +1,16 @@
+{
+  "name": "DEA",
+  "symbol": "DEA",
+  "web": "https://deus.finance",
+  "explorer": "https://etherscan.io/token/0x80ab141f324c3d6f2b18b030f1c4e95d4d658778",
+  "links": {
+    "github": "deusfinance",
+    "coingecko": "dea",
+    "twitter": "DeusDao",
+    "telegram": "deusfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

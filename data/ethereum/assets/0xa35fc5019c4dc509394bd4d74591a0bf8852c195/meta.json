@@ -1,0 +1,15 @@
+{
+  "name": "BTC ETH 75%/25% Weight Set",
+  "symbol": "BTCETH7525",
+  "web": "https://www.tokensets.com/set/btceth7525",
+  "explorer": "https://etherscan.io/token/0xA35Fc5019C4dc509394Bd4d74591a0bF8852c195",
+  "links": {
+    "github": "SetProtocol",
+    "coingecko": "btc-eth-75-25-weight-set",
+    "twitter": "SetProtocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "VIBE",
+  "symbol": "VIBE",
+  "web": "https://www.vibehub.io",
+  "explorer": "https://etherscan.io/token/0xe8ff5c9c75deb346acac493c463c8950be03dfba",
+  "links": {
+    "github": "amack2u",
+    "coingecko": "vibe",
+    "twitter": "VibeHubVR",
+    "facebook": "vibehubvr",
+    "telegram": "VIBEHub2"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

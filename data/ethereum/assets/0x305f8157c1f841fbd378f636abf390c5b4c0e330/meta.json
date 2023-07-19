@@ -1,0 +1,16 @@
+{
+  "name": "Bitcoin Galaxy Warp",
+  "symbol": "BTCGW",
+  "web": "https://www.bitcoingalaxy.io",
+  "explorer": "https://etherscan.io/token/0x305F8157C1f841fBD378f636aBF390c5b4C0e330",
+  "links": {
+    "github": "bitcoingalaxy",
+    "coingecko": "bitcoin-galaxy-warp",
+    "twitter": "bitcoin_galaxy",
+    "telegram": "thebitcoingalaxy"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

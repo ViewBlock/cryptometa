@@ -1,0 +1,14 @@
+{
+  "name": "XChain Token",
+  "symbol": "NXCT",
+  "web": "http://www.nxct.io",
+  "explorer": "https://etherscan.io/token/0x41ab75435668919bb507f871dd01e9762c2d173a",
+  "links": {
+    "coingecko": "xchain-token",
+    "twitter": "XChainOfficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

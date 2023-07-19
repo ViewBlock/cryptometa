@@ -1,0 +1,18 @@
+{
+  "name": "Centric",
+  "symbol": "CNS",
+  "web": "https://www.joincentric.com",
+  "explorer": "https://tronscan.org/#/contract/TMJWuBDvwvcm6QUWXDaC6GqTyq3FgEmWEt",
+  "links": {
+    "github": "Centric-Org",
+    "coingecko": "centric-cash",
+    "twitter": "JoinCentricApp",
+    "facebook": "JoinCentric",
+    "telegram": "centric",
+    "reddit": "r/joincentric"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "DefiCliq",
+  "symbol": "CLIQ",
+  "web": "https://www.deficliq.com",
+  "explorer": "https://etherscan.io/token/0x0Def8d8addE14c9eF7c2a986dF3eA4Bd65826767",
+  "links": {
+    "coingecko": "deficliq",
+    "twitter": "deficliq",
+    "telegram": "deficliq"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

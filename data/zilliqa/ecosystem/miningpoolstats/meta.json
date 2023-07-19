@@ -1,0 +1,16 @@
+{
+  "name": "MiningPoolStats",
+  "description": "A dapp providing a comprehensive list of known PoW mining pools with realtime pool hashrate distribution.",
+  "web": "https://miningpoolstats.stream/zilliqa",
+  "links": {
+    "twitter": "https://twitter.com/miningpoolstats"
+  },
+  "categories": [
+    "mining",
+    "api"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "miningpoolstats"
+}

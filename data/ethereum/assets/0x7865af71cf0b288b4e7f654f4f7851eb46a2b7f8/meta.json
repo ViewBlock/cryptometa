@@ -1,0 +1,18 @@
+{
+  "name": "Sentivate",
+  "symbol": "SNTVT",
+  "web": "https://sentivate.com",
+  "explorer": "https://etherscan.io/token/0x7865af71cf0b288b4e7f654f4f7851eb46a2b7f8",
+  "links": {
+    "github": "sentivate",
+    "coingecko": "sentivate",
+    "twitter": "sentivate",
+    "facebook": "sentivate",
+    "telegram": "sentivate",
+    "reddit": "r/sentivate"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

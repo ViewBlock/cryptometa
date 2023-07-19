@@ -1,0 +1,17 @@
+{
+  "name": "Verify",
+  "symbol": "CRED",
+  "web": "https://verify.as",
+  "explorer": "https://etherscan.io/token/0x672a1ad4f667fb18a333af13667aa0af1f5b5bdd",
+  "links": {
+    "github": "verifyas",
+    "coingecko": "verify",
+    "twitter": "verif_yas",
+    "facebook": "verifyas",
+    "reddit": "r/verifyas"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

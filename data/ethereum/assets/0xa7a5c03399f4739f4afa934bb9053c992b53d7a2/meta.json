@@ -1,0 +1,17 @@
+{
+  "name": "AI Crypto",
+  "symbol": "AIC",
+  "web": "https://aicrypto.ai",
+  "explorer": "https://etherscan.io/token/0xa7a5c03399f4739f4afa934bb9053c992b53d7a2",
+  "links": {
+    "coingecko": "ai-crypto",
+    "twitter": "aicryptoai",
+    "facebook": "aicrypto",
+    "telegram": "aicryptoai",
+    "reddit": "r/aicrypto"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

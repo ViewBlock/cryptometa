@@ -1,0 +1,15 @@
+{
+  "name": "DEGEN Index",
+  "symbol": "DEGEN",
+  "web": "https://indexed.finance",
+  "explorer": "https://etherscan.io/token/0x126c121f99e1e211df2e5f8de2d96fa36647c855",
+  "links": {
+    "github": "indexed-finance",
+    "coingecko": "degen-index",
+    "twitter": "ndxfi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

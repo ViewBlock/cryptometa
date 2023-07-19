@@ -1,0 +1,17 @@
+{
+  "name": "Neuromorphic.io",
+  "symbol": "NMP",
+  "web": "https://neuromorphic.io",
+  "explorer": "https://etherscan.io/token/0x4D6b9f281AF31916a0f16D1cEA2ec7384851EAAb",
+  "links": {
+    "github": "NeuromorphicIO",
+    "coingecko": "neuromorphic-io",
+    "twitter": "Neuromorphic_io",
+    "facebook": "Neuromorphic.io",
+    "telegram": "neuromorphic_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

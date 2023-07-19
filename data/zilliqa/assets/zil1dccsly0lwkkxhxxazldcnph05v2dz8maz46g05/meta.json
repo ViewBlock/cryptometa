@@ -1,0 +1,12 @@
+{
+  "name": "REWARD",
+  "symbol": "RWD",
+  "supply": "1000",
+  "links": {
+    "twitter": "https://twitter.com/RewardZilliqa"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

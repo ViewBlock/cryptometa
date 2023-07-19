@@ -1,0 +1,17 @@
+{
+  "name": "Ripio Credit Network",
+  "symbol": "RCN",
+  "web": "https://ripiocredit.network",
+  "explorer": "https://etherscan.io/token/0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6",
+  "links": {
+    "github": "ripio",
+    "coingecko": "ripio-credit-network",
+    "twitter": "RCN_token",
+    "telegram": "RCNtalk",
+    "reddit": "r/RipioCreditNetwork"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

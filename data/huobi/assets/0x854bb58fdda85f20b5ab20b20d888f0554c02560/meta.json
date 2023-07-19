@@ -1,0 +1,11 @@
+{
+  "name": "Decentralized Mining Exchange",
+  "symbol": "DMC",
+  "web": "https://dmex.finance",
+  "explorer": "https://scan.hecochain.com/token/0x854bb58fdda85f20b5ab20b20d888f0554c02560",
+  "links": {
+    "coingecko": "decentralized-mining-exchange",
+    "twitter": "DMEX_finance",
+    "telegram": "DMEX_Chat"
+  }
+}

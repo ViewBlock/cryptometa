@@ -1,0 +1,18 @@
+{
+  "name": "Starknet.id",
+  "description": "Identity and naming service for starknet",
+  "categories": [
+    "id",
+    "nft",
+    "tools"
+  ],
+  "web": "https://starknet.id",
+  "links": {
+    "github": "https://github.com/starknet-id",
+    "twitter": "https://twitter.com/starknet_id"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "starknet-id"
+}

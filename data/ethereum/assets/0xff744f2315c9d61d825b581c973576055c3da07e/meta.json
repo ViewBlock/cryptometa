@@ -1,0 +1,16 @@
+{
+  "name": "HPLUS",
+  "symbol": "HPLUS",
+  "web": "https://hightech-wallet.net",
+  "explorer": "https://etherscan.io/token/0xff744f2315c9d61d825b581c973576055c3da07e",
+  "links": {
+    "github": "HTW-HPLUS",
+    "coingecko": "hplus",
+    "twitter": "HLAND_swap",
+    "telegram": "hlandchat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

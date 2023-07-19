@@ -1,0 +1,15 @@
+{
+  "name": "Ethanol",
+  "symbol": "ENOL",
+  "web": "https://www.ethanoltoken.com",
+  "explorer": "https://etherscan.io/token/0x63d0eea1d7c0d1e89d7e665708d7e8997c0a9ed6",
+  "links": {
+    "coingecko": "ethanol",
+    "twitter": "TokenEthanol",
+    "telegram": "ethanoltoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

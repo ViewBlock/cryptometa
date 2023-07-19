@@ -1,0 +1,16 @@
+{
+  "name": "ZB Token",
+  "symbol": "ZB",
+  "web": "https://www.zb.com",
+  "explorer": "https://etherscan.io/token/0xbd0793332e9fb844a52a205a233ef27a5b34b927",
+  "links": {
+    "coingecko": "zb-token",
+    "twitter": "ZB_Group",
+    "facebook": "ZBGlobalGroup",
+    "telegram": "ZB_English"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "007 BOND",
+  "symbol": "007",
+  "web": "https://mambo.li/stablecoins/007-bond",
+  "decimals": "12",
+  "supply": "10000",
+  "whitepaper": "https://mambo.li/downloads/007bond-whitepaper.pdf",
+  "links": {
+    "telegram": "https://t.me/MamboToken",
+    "twitter": "https://twitter.com/MrCryptoMambo",
+    "github": "https://github.com/Mambo-Token",
+    "youtube": "https://www.youtube.com/channel/UCMyUi6s550wtK7sNVvNmQbQ",
+    "medium": "https://medium.com/@tokenmanufactory"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 29
+  }
+}

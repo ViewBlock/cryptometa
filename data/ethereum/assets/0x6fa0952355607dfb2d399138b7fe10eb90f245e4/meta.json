@@ -1,0 +1,16 @@
+{
+  "name": "Clash Token",
+  "symbol": "SCT",
+  "web": "https://www.spiritclash.com",
+  "explorer": "https://etherscan.io/token/0x6fa0952355607dfb2d399138b7fe10eb90f245e4",
+  "links": {
+    "coingecko": "clash-token",
+    "twitter": "spiritclashccg",
+    "facebook": "spiritclash",
+    "telegram": "SpiritClash"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

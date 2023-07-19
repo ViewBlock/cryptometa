@@ -1,0 +1,15 @@
+{
+  "name": "The Famous Token",
+  "symbol": "TFT",
+  "web": "https://thefamoustoken.com",
+  "explorer": "https://etherscan.io/token/0xaef4f02e31cdbf007f8d98da4ae365188a0e9ecc",
+  "links": {
+    "coingecko": "the-famous-token",
+    "twitter": "TheFamousToken",
+    "telegram": "TheFamousToken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "SiaCashCoin",
+  "symbol": "SCC",
+  "web": "https://www.siacashcoin.com",
+  "explorer": "https://etherscan.io/token/0x74fd51a98a4a1ecbef8cc43be801cce630e260bd",
+  "links": {
+    "github": "SiaCashCoin",
+    "coingecko": "siacashcoin",
+    "twitter": "Siacashcoin",
+    "telegram": "SiaCashCoinChat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

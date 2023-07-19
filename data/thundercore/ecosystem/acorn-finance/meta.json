@@ -1,0 +1,29 @@
+{
+  "name": "Acorn Finance",
+  "description": "Acorn Finance is a decentralized exchange designed to deliver low-slippage and low-fees trades with optimized earning strategies.",
+  "web": "https://acornstable.fi",
+  "addresses": [
+    "0x6E690DaC861fE7441770f84146F263d1CFBE909C",
+    "0x6B2Ab61A8319Cd7363ca112a045a1fF551808A29",
+    "0x51dAe6236FBd0C93D203C57193587261f76B58aA",
+    "0xCa03165AAa1fD48652487720bfd649e7450D5DD7",
+    "0xfc9733C2e5ee38b3dd2459DFa119FcdB33Bc7793",
+    "0x301a1779730A355ea0F922b90B6a7db6614E735a",
+    "0xccda6dC2B1DE0Ca7cCf702F40e52b8321b8be0e7",
+    "0xb4097D3310642540970feb579a9Efd188EeeCc23",
+    "0xBfdC974D1Ee064413acC2e27467dFED22728b28c",
+    "0x33d0b60166526C4D70851E0dE74477FFf3E9bD65",
+    "0x04054417093Fad38347BfbbA048fbEfd95466723",
+    "0x049558c2f7F11094F72Ff04B02b0AdE4a3fe1706",
+    "0x6b84a01Cd5934f7183799a5057257a42420C5365",
+    "0x8f4FdFE357DE7d0478286052F400FB5Fb94294aF"
+  ],
+  "categories": [
+    "defi",
+    "featured"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "acorn-finance"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Zero Carbon Project",
+  "symbol": "ZCC",
+  "web": "https://www.zerocarbonproject.com",
+  "explorer": "https://etherscan.io/token/0x6737fe98389ffb356f64ebb726aa1a92390d94fb",
+  "links": {
+    "coingecko": "zero-carbon-project",
+    "twitter": "ZeroCarbonPrjct",
+    "facebook": "zerocarbonproject",
+    "telegram": "ZeroCarbonAnnouncements",
+    "reddit": "r/ZeroCarbonProject"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

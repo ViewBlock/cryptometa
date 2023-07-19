@@ -1,0 +1,12 @@
+{
+  "name": "JulSwap",
+  "symbol": "JULD",
+  "web": "https://info.julswap.com ",
+  "explorer": "https://bscscan.com/token/0x5a41f637c3f7553dba6ddc2d3ca92641096577ea",
+  "links": {
+    "github": "justliquidity",
+    "coingecko": "julswap",
+    "twitter": "JulSwap",
+    "telegram": "justliquidity"
+  }
+}

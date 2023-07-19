@@ -1,0 +1,17 @@
+{
+  "name": "Bitmap Box",
+  "description": "Bitmap Box is an on-chain block-building game. Assemble and disassemble your creations, create new games on top of its open protocol.",
+  "categories": [
+    "nft"
+  ],
+  "web": "https://www.bitmapbox.xyz",
+  "links": {
+    "github": "https://github.com/bitmap-box",
+    "twitter": "https://twitter.com/bitmapbox",
+    "discord": "https://discord.com/invite/EBn3Vu9cu2"
+  },
+  "gen": {
+    "logo": "logo.jpeg"
+  },
+  "key": "bitmap-box"
+}

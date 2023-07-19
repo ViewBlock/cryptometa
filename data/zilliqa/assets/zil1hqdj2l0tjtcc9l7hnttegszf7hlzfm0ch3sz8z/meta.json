@@ -1,0 +1,14 @@
+{
+  "name": "Crazy Monsters Club",
+  "symbol": "Monsters ",
+  "links": {
+    "twitter": "https://twitter.com/crazymonsterscl"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

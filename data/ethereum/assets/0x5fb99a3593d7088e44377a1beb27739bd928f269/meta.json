@@ -1,0 +1,14 @@
+{
+  "symbol": "uCM",
+  "name": "CM Collection",
+  "decimals": 18,
+  "description": "Genesis Collection by National Geographic Award Winning Photographer, Chris McCann.",
+  "website": "https://chrismccann.photography/",
+  "links": {
+    "twitter": "https://twitter.com/mccannatron"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 5
+  }
+}

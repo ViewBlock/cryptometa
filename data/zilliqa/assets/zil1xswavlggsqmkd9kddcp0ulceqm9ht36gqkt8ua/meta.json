@@ -1,0 +1,15 @@
+{
+  "name": "ZilWall",
+  "symbol": "ZWALL",
+  "web": "https://zilwall.com",
+  "whitepaper": "https://zilwall.com/whitepaper",
+  "publicTeam": true,
+  "links": {
+    "twitter": "https://twitter.com/zwall_zpaint",
+    "telegram": "https://t.me/zilwall"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 38
+  }
+}

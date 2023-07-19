@@ -1,0 +1,17 @@
+{
+  "name": "YOLOCash",
+  "symbol": "YLC",
+  "web": "https://www.yolocash.co",
+  "explorer": "https://etherscan.io/token/0x21d5678a62dfe63a47062469ebb2fac2817d8832",
+  "links": {
+    "github": "YOLOCASH",
+    "coingecko": "yolo-cash",
+    "twitter": "YoloWorldorg",
+    "facebook": "YoloWorldio",
+    "telegram": "YOLO_World"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

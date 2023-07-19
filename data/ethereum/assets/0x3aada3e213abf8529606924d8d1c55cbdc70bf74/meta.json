@@ -1,0 +1,16 @@
+{
+  "name": "XMON",
+  "symbol": "XMON",
+  "web": "https://0xmons.xyz",
+  "explorer": "https://etherscan.io/token/0x3aaDA3e213aBf8529606924d8D1c55CbDc70Bf74",
+  "links": {
+    "github": "0xmons",
+    "coingecko": "xmon",
+    "twitter": "0xmons",
+    "telegram": "nft000"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

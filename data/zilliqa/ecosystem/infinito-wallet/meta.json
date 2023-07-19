@@ -1,0 +1,16 @@
+{
+  "name": "Infinito Wallet",
+  "description": "The easiest and safest way to buy, invest, trade, store and earn crypto.",
+  "web": "https://www.infinitowallet.io",
+  "links": {
+    "twitter": "https://twitter.com/Infinito_Ltd",
+    "telegram": "https://t.me/infinitowallet"
+  },
+  "categories": [
+    "wallet"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "infinito-wallet"
+}

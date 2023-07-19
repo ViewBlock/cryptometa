@@ -1,0 +1,15 @@
+{
+  "name": "TOPBTC Token",
+  "symbol": "TOPB",
+  "web": "http://www.topbtc.one",
+  "explorer": "https://etherscan.io/token/0xf6317dd9b04097a9e7b016cd23dcaa7cfe19d9c6",
+  "links": {
+    "coingecko": "topb",
+    "twitter": "topbtc_com",
+    "telegram": "topbtc_ENG"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

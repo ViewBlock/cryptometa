@@ -1,0 +1,16 @@
+{
+  "name": "808TA Token",
+  "symbol": "808TA",
+  "web": "https://808exchange.net",
+  "explorer": "https://etherscan.io/token/0x5b535edfa75d7cb706044da0171204e1c48d00e8",
+  "links": {
+    "github": "808TA",
+    "coingecko": "808ta-token",
+    "twitter": "808TA_",
+    "telegram": "ETH808TA"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

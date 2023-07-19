@@ -1,0 +1,16 @@
+{
+  "name": "ZAC Finance",
+  "symbol": "ZAC",
+  "web": "https://zac.finance",
+  "explorer": "https://etherscan.io/token/0x98a90499b62Ae48E151a66B0F647570b5a473B1c",
+  "links": {
+    "github": "ZAC-FINANCE",
+    "coingecko": "zac-finance",
+    "twitter": "FinanceZac",
+    "telegram": "ZACFinanceP"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ThunderCore Scan",
+  "description": "Blockchain explorer for users to lookup, confirm and validate transactions and data on ThunderCore.",
+  "web": "https://scan.thundercore.com",
+  "addresses": [],
+  "categories": [
+    "tools"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "thundercore-scan"
+}

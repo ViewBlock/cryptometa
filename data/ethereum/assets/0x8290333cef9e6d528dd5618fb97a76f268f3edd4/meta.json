@@ -1,0 +1,16 @@
+{
+  "name": "Ankr",
+  "symbol": "ANKR",
+  "web": "https://www.ankr.com",
+  "explorer": "https://etherscan.io/token/0x8290333cef9e6d528dd5618fb97a76f268f3edd4",
+  "links": {
+    "github": "Ankr-network",
+    "coingecko": "ankr",
+    "twitter": "ankr",
+    "telegram": "ankrnetwork"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

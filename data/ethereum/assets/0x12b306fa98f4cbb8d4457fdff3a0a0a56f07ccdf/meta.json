@@ -1,0 +1,17 @@
+{
+  "name": "Spectre.ai Dividend Token",
+  "symbol": "SXDT",
+  "web": "http://www.spectre.ai",
+  "explorer": "https://etherscan.io/token/0x12b306fa98f4cbb8d4457fdff3a0a0a56f07ccdf",
+  "links": {
+    "github": "spectre-ai",
+    "coingecko": "spectre-dividend-token",
+    "twitter": "SpectreAI",
+    "facebook": "spectrepage",
+    "reddit": "r/Spectre_ai"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

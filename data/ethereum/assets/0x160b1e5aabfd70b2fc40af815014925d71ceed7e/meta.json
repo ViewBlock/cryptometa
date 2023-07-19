@@ -1,0 +1,15 @@
+{
+  "name": "StakedFIRO",
+  "symbol": "STFIRO",
+  "web": "https://stakehound.com",
+  "explorer": "https://etherscan.io/token/0x160b1e5aabfd70b2fc40af815014925d71ceed7e",
+  "links": {
+    "coingecko": "stakehound",
+    "twitter": "stakedTokens",
+    "telegram": "stakehound"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

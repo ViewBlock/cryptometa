@@ -1,0 +1,17 @@
+{
+  "name": "Curio",
+  "symbol": "CUR",
+  "web": "https://curioinvest.com",
+  "explorer": "https://etherscan.io/token/0x13339fd07934cd674269726edf3b5ccee9dd93de",
+  "links": {
+    "github": "CurioTeam",
+    "coingecko": "curio",
+    "twitter": "curio_invest",
+    "facebook": "Curioinvest",
+    "telegram": "CurioInvestCommunity"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

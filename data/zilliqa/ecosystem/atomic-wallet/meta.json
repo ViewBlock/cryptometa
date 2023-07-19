@@ -1,0 +1,17 @@
+{
+  "name": "Atomic Wallet",
+  "description": "A secure cryptocurrency wallet that allows users to buy and exchange crypto for USD with credit cards in seconds.",
+  "web": "https://atomicwallet.io",
+  "links": {
+    "twitter": "https://twitter.com/atomicwallet",
+    "telegram": "https://t.me/AtomicWalletNews"
+  },
+  "categories": [
+    "wallet",
+    "staking"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "atomic-wallet"
+}

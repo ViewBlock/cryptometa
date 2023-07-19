@@ -1,0 +1,15 @@
+{
+  "name": "SDUSD",
+  "symbol": "SDUSD",
+  "web": "https://neo.alchemint.io",
+  "explorer": "https://neotracker.io/asset/7146278a76c33fc6bb870fcaa428e3cdb16809ac",
+  "links": {
+    "github": "Alchemint",
+    "coingecko": "sdusd",
+    "telegram": "alchemint"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

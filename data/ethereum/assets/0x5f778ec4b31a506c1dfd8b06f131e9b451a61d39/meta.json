@@ -1,0 +1,17 @@
+{
+  "name": "UDAP",
+  "symbol": "UPX",
+  "web": "https://www.udap.io",
+  "explorer": "https://etherscan.io/token/0x5f778ec4b31a506c1dfd8b06f131e9b451a61d39",
+  "links": {
+    "github": "udap",
+    "coingecko": "udap",
+    "twitter": "udapfoundation",
+    "facebook": "udapfoundation",
+    "telegram": "udapcommunity"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

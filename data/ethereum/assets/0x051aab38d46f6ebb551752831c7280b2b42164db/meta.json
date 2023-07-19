@@ -1,0 +1,16 @@
+{
+  "name": "FreelancerChain",
+  "symbol": "FCN",
+  "web": "https://freelancerchain.com",
+  "explorer": "https://etherscan.io/token/0x051aAB38D46f6ebB551752831C7280b2b42164Db",
+  "links": {
+    "github": "FreelancerChain",
+    "coingecko": "freelancerchain",
+    "twitter": "FreelancerChain",
+    "telegram": "freelancerchain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

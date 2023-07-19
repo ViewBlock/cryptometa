@@ -1,0 +1,15 @@
+{
+  "name": "Golden Goose",
+  "symbol": "GOLD",
+  "web": "https://goldengoose.io",
+  "explorer": "https://etherscan.io/token/0x40d1f63b5d2048e67e9bedb1b4c2f1a9fb4b6817",
+  "links": {
+    "coingecko": "golden-goose",
+    "twitter": "GoldenGooseNews",
+    "telegram": "goldengoosefarm"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

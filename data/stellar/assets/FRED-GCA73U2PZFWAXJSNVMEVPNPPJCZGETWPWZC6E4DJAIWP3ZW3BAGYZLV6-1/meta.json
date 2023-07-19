@@ -1,0 +1,17 @@
+{
+  "name": "FRED Energy",
+  "symbol": "FRED",
+  "web": "http://fredenergy.org",
+  "explorer": "https://stellar.expert/explorer/public/asset/FRED-GCA73U2PZFWAXJSNVMEVPNPPJCZGETWPWZC6E4DJAIWP3ZW3BAGYZLV6-1",
+  "links": {
+    "github": "fredenrg",
+    "coingecko": "fredenergy",
+    "twitter": "energy_fred",
+    "facebook": "TheFredProjectOfficial",
+    "telegram": "FREDEnergycommunity"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

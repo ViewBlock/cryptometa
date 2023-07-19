@@ -1,0 +1,16 @@
+{
+  "name": "MEDIBIT",
+  "symbol": "MEDIBIT",
+  "web": "https://www.medibit.org",
+  "explorer": "https://etherscan.io/token/0x737fa0372c8d001904ae6acaf0552d4015f9c947",
+  "links": {
+    "coingecko": "medibit",
+    "twitter": "OfficialMedibit",
+    "facebook": "MediBitOfficial",
+    "telegram": "MediBit_EN"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

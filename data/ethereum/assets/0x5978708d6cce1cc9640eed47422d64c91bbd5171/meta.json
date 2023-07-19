@@ -1,0 +1,17 @@
+{
+  "name": "LOLTOKEN",
+  "symbol": "LOL",
+  "web": "https://loleiu.io",
+  "explorer": "https://etherscan.io/token/0x5978708d6ccE1CC9640Eed47422D64c91BbD5171",
+  "links": {
+    "coingecko": "loltoken",
+    "twitter": "PARIS_EIU",
+    "facebook": "EIUParis",
+    "telegram": "LOLEIU",
+    "reddit": "r/LOLEIUofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

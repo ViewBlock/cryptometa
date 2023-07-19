@@ -1,0 +1,15 @@
+{
+  "name": "Dream Swap",
+  "symbol": "DREAM",
+  "web": "https://zzz.finance",
+  "explorer": "https://etherscan.io/token/0xa93D5Cfaa41193b13321c035b4bDD2B534172762",
+  "links": {
+    "coingecko": "dream-swap",
+    "twitter": "zzzfinance",
+    "telegram": "zzzfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

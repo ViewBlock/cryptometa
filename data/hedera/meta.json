@@ -1,0 +1,17 @@
+{
+  "name": "Hedera Hashgraph",
+  "symbol": "HBAR",
+  "web": "https://www.hedera.com",
+  "explorer": "https://hash-hash.info",
+  "links": {
+    "github": "hashgraph",
+    "coingecko": "hedera-hashgraph",
+    "twitter": "hedera",
+    "facebook": "hashgraph",
+    "telegram": "hederahashgraph",
+    "reddit": "r/hashgraph"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

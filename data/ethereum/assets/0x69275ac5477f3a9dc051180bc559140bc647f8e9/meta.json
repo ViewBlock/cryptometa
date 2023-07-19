@@ -1,0 +1,16 @@
+{
+  "name": "Apple Finance",
+  "symbol": "APLP",
+  "web": "https://applefi.farm",
+  "explorer": "https://etherscan.io/token/0x69275aC5477F3A9DC051180BC559140Bc647F8E9",
+  "links": {
+    "github": "AppleFi",
+    "coingecko": "apple-finance",
+    "twitter": "AppleFiofficial",
+    "telegram": "applefi_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

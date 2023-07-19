@@ -1,0 +1,15 @@
+{
+  "name": "Zelda Elastic Cash",
+  "symbol": "ZELDA ELASTIC CASH",
+  "web": "https://zelda.cash/elastic_3m",
+  "explorer": "https://etherscan.io/token/0xcf55a7f92d5e0c6683debbc1fc20c0a6e056df13",
+  "links": {
+    "coingecko": "zelda-elastic-cash",
+    "twitter": "youmychicfila"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

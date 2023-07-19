@@ -1,0 +1,15 @@
+{
+  "name": "Fyooz NFT",
+  "symbol": "FYZNFT",
+  "web": "https://www.fyooz.io/fyznft",
+  "explorer": "https://etherscan.io/token/0x19a2cf2a1b2f76e52e2b0c572bd80a95b4fa8643",
+  "links": {
+    "coingecko": "fyznft",
+    "twitter": "fyoozapp",
+    "telegram": "fyoozcommunity"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

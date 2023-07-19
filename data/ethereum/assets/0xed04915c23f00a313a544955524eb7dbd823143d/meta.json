@@ -1,0 +1,17 @@
+{
+  "name": "Alchemy Pay",
+  "symbol": "ACH",
+  "web": "https://www.alchemytech.io",
+  "explorer": "https://etherscan.io/token/0xed04915c23f00a313a544955524eb7dbd823143d",
+  "links": {
+    "coingecko": "alchemy-pay",
+    "twitter": "AlchemyPay",
+    "facebook": "AlchemyGPS",
+    "telegram": "Alchemy_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

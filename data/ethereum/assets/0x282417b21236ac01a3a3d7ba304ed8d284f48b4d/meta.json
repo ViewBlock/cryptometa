@@ -1,0 +1,15 @@
+{
+  "name": "Super CoinView Token",
+  "symbol": "SCV",
+  "web": "https://en.coinjinja.com/coinview",
+  "explorer": "https://etherscan.io/token/0x282417b21236ac01a3a3d7ba304ed8d284f48b4d",
+  "links": {
+    "coingecko": "super-coinview-token",
+    "twitter": "coinjinja",
+    "facebook": "coinjinja"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

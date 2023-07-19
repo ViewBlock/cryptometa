@@ -1,0 +1,16 @@
+{
+  "name": "Tokoin",
+  "symbol": "TOKO",
+  "web": "https://www.tokoin.io",
+  "explorer": "https://etherscan.io/token/0x0c963a1b52eb97c5e457c7d76696f8b95c3087ed",
+  "links": {
+    "coingecko": "toko",
+    "twitter": "TokoinOfficial",
+    "facebook": "TokoinOfficial",
+    "telegram": "tokoinglobal"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

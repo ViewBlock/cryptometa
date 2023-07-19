@@ -1,0 +1,16 @@
+{
+  "name": "Base Protocol",
+  "symbol": "BASE",
+  "web": "https://www.baseprotocol.org",
+  "explorer": "https://etherscan.io/token/0x07150e919b4de5fd6a63de1f9384828396f25fdc",
+  "links": {
+    "github": "Base-Protocol",
+    "coingecko": "base-protocol",
+    "twitter": "baseprotocol",
+    "telegram": "baseprotocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Dai If Trump Loses The 2020 Election",
+  "symbol": "NOTRUMP",
+  "web": "https://omen.eth.link",
+  "explorer": "https://etherscan.io/token/0x40ce0a1d8f4999807b92ec266a025f071814b15d",
+  "links": {
+    "github": "gnosis",
+    "coingecko": "dai-if-trump-loses-the-2020-election",
+    "twitter": "omeneth",
+    "telegram": "omen_eth"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

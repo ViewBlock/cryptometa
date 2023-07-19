@@ -1,0 +1,15 @@
+{
+  "name": "Yup",
+  "symbol": "YUP",
+  "web": "https://yup.io",
+  "explorer": "https://etherscan.io/token/0x69bBC3F8787d573F1BBDd0a5f40C7bA0Aee9BCC9",
+  "links": {
+    "github": "yup-io",
+    "coingecko": "yup",
+    "twitter": "yup_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

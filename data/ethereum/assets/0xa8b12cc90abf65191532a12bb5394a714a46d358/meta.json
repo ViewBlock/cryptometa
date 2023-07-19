@@ -1,0 +1,16 @@
+{
+  "name": "pBTC35A",
+  "symbol": "PBTC35A",
+  "web": "https://mars.poolin.fi/#",
+  "explorer": "https://etherscan.io/token/0xA8b12Cc90AbF65191532a12bb5394A714A46d358",
+  "links": {
+    "github": "MarsFi",
+    "coingecko": "pbtc35a",
+    "twitter": "MarsProject2020",
+    "telegram": "marsproject1"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

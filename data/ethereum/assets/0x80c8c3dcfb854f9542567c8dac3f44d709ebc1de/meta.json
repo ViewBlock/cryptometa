@@ -1,0 +1,16 @@
+{
+  "name": "MILK2",
+  "symbol": "MILK2",
+  "web": "https://spaceswap.app",
+  "explorer": "https://etherscan.io/token/0x80c8c3dcfb854f9542567c8dac3f44d709ebc1de",
+  "links": {
+    "github": "spaceswap",
+    "coingecko": "milk2",
+    "twitter": "spaceswapdefi",
+    "telegram": "spaceswap"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

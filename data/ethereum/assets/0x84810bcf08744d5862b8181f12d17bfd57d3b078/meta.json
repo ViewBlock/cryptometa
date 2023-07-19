@@ -1,0 +1,16 @@
+{
+  "name": "SharedStake Governance Token",
+  "symbol": "SGT",
+  "web": "https://www.sharedstake.org",
+  "explorer": "https://etherscan.io/token/0x84810bcf08744d5862b8181f12d17bfd57d3b078",
+  "links": {
+    "github": "SharedStake",
+    "coingecko": "sharedstake-governance-token",
+    "twitter": "SharedStake",
+    "reddit": "r/SharedStake"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

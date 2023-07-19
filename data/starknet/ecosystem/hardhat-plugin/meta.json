@@ -1,0 +1,16 @@
+{
+  "name": "Hardhat Plugin",
+  "description": "Hardhat Plugin",
+  "categories": [
+    "tools"
+  ],
+  "links": {
+    "github": "https://github.com/Shard-Labs/starknet-hardhat-plugin",
+    "twitter": "https://twitter.com/shard_labs",
+    "discord": "https://discordapp.com/channels/793094838509764618/912735106899275856"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "hardhat-plugin"
+}

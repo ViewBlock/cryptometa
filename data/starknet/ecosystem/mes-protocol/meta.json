@@ -1,0 +1,16 @@
+{
+  "name": "MES Protocol",
+  "description": "MES Protocol is an orderbook-based DEX built on zkRollups. Hybrid liquidity mechanism is adopted to guarantee the best trading experience and LPs' rewards.",
+  "categories": [
+    "defi"
+  ],
+  "web": "https://mesprotocol.com",
+  "links": {
+    "twitter": "https://twitter.com/mesprotocol",
+    "medium": "https://medium.com/@mesprotocol"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "mes-protocol"
+}

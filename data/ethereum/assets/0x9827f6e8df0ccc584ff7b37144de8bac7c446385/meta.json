@@ -1,0 +1,13 @@
+{
+  "name": "Kitcoin",
+  "symbol": "KTC",
+  "web": "http://www.kitcoin.info",
+  "explorer": "https://etherscan.io/token/0x9827f6e8df0ccc584ff7b37144de8bac7c446385",
+  "links": {
+    "coingecko": "kitcoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

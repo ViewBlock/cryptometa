@@ -1,0 +1,34 @@
+{
+  "name": "ArDrive",
+  "description": "A private, secure, decentralized, censorship-resistant and permanent data storage solution, for everyone.",
+  "web": "https://ardrive.io",
+  "categories": [
+    "storage"
+  ],
+  "addresses": [
+    "-8A6RexFkpfWwuyVO98wzSFZh0d6VJuI-buTJvlwOJQ"
+  ],
+  "links": {
+    "github": "ardriveapp",
+    "linkedin": "ardrive",
+    "twitter": "ardriveapp",
+    "blog": "https://ardrive.io/blog",
+    "discord": "https://discord.gg/ya4hf2H"
+  },
+  "developers": [
+    {
+      "name": "Phil Mataras",
+      "github": "vilenarios",
+      "twitter": "vilenarios"
+    },
+    {
+      "name": "Ariel Melendez",
+      "github": "arielmelendez",
+      "twitter": "amelendeztweets"
+    }
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "ardrive"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Overlords",
+  "links": {
+    "twitter": "diabolixx2"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

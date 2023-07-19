@@ -1,0 +1,16 @@
+{
+  "name": "Helper Search Token",
+  "symbol": "HSN",
+  "web": "https://helpersearch.network",
+  "explorer": "https://etherscan.io/token/0x567300e14f8d67e1f6720a95291dce2511a86723",
+  "links": {
+    "github": "Helpersearch",
+    "coingecko": "helper-search-token",
+    "twitter": "HSNtoken",
+    "telegram": "HSNOfficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "LINK/ETH Growth Alpha Set",
+  "symbol": "LEGA",
+  "web": "https://www.tokensets.com/set/lega",
+  "explorer": "https://etherscan.io/token/0xc166f976ce9926a3205b145af104eb0e4b38b5c0",
+  "links": {
+    "coingecko": "link-eth-growth-alpha-set",
+    "twitter": "SetProtocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

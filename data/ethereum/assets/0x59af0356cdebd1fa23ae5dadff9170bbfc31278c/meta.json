@@ -1,0 +1,16 @@
+{
+  "name": "Two Prime FF1 Token",
+  "symbol": "FF1",
+  "web": "https://www.twoprime.io",
+  "explorer": "https://etherscan.io/token/0x59af0356cdebd1fa23ae5dadff9170bbfc31278c",
+  "links": {
+    "coingecko": "two-prime-ff1-token",
+    "twitter": "two_prime",
+    "facebook": "TwoPrimeAbundance",
+    "telegram": "twoprimediscuss"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

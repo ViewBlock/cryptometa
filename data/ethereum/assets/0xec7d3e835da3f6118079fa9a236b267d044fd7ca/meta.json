@@ -1,0 +1,16 @@
+{
+  "name": "Crypto Rewards Studio",
+  "symbol": "CRS",
+  "web": "https://cryptorewardsstudio.com",
+  "explorer": "https://etherscan.io/token/0xEc7D3E835dA3F6118079fA9a236b267D044FD7cA",
+  "links": {
+    "coingecko": "cryptorewards",
+    "twitter": "CRS_Platform",
+    "facebook": "CryptoRewardsStudio",
+    "telegram": "cryptorewards2021"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

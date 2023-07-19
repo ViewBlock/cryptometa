@@ -1,0 +1,14 @@
+{
+  "name": "LADZ",
+  "symbol": "LADZ",
+  "web": "https://www.layer1crypto.com",
+  "explorer": "https://etherscan.io/token/0x1287c0509df9a475ef178471ab2132b9dfd312b3",
+  "links": {
+    "coingecko": "ladz",
+    "twitter": "layer1crypto"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

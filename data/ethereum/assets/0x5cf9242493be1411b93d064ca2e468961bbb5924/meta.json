@@ -1,0 +1,16 @@
+{
+  "name": "Empty Set Gold",
+  "symbol": "ESG",
+  "web": "https://emptyset.gold",
+  "explorer": "https://etherscan.io/token/0x5cf9242493be1411b93d064ca2e468961bbb5924",
+  "links": {
+    "github": "https:",
+    "coingecko": "empty-set-gold",
+    "twitter": "emptysetgold",
+    "telegram": "emptysetgoldcommunity"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

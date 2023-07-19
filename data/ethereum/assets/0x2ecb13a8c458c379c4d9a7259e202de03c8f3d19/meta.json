@@ -1,0 +1,16 @@
+{
+  "name": "Block-chain.com",
+  "symbol": "BC",
+  "web": "https://block-chain.com",
+  "explorer": "https://etherscan.io/token/0x2ecb13a8c458c379c4d9a7259e202de03c8f3d19",
+  "links": {
+    "coingecko": "block-chain-com",
+    "twitter": "Block_Chain_com",
+    "facebook": "blockchaincom",
+    "telegram": "blockchaincomgroup"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

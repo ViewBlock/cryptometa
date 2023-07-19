@@ -1,0 +1,16 @@
+{
+  "name": "Horizen",
+  "symbol": "ZEN",
+  "web": "https://horizen.global",
+  "explorer": "https://explorer.zensystem.io",
+  "links": {
+    "github": "HorizenOfficial",
+    "coingecko": "zencash",
+    "twitter": "horizenglobal",
+    "facebook": "zencash",
+    "reddit": "r/Horizen"
+  },
+  "gen": {
+    "logo": "logo.png"
+  }
+}

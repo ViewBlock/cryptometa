@@ -1,0 +1,19 @@
+{
+  "name": "FOAM",
+  "symbol": "FOAM",
+  "web": "https://www.foam.space",
+  "explorer": "https://etherscan.io/token/0x4946fcea7c692606e8908002e55a582af44ac121",
+  "links": {
+    "github": "f-o-a-m",
+    "coingecko": "foam-protocol",
+    "twitter": "foamspace",
+    "facebook": "foamprotocol",
+    "telegram": "foamspace",
+    "reddit": "r/foamprotocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

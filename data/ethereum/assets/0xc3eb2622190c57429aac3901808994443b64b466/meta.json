@@ -1,0 +1,15 @@
+{
+  "name": "ORO",
+  "symbol": "ORO",
+  "web": "https://opendefi.finance",
+  "explorer": "https://etherscan.io/token/0xc3Eb2622190c57429aac3901808994443b64B466",
+  "links": {
+    "coingecko": "oro",
+    "twitter": "oropocket",
+    "telegram": "oropocket"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Hacken Token",
+  "symbol": "HAI",
+  "web": "https://hacken.ai",
+  "explorer": "https://explore.vechain.org/accounts/0xacc280010b2ee0efc770bce34774376656d8ce14",
+  "links": {
+    "coingecko": "hackenai",
+    "twitter": "hackenclub",
+    "telegram": "hackenclub"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

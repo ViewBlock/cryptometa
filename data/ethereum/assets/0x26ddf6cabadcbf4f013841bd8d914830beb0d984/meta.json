@@ -1,0 +1,14 @@
+{
+  "name": "Kuai Token",
+  "symbol": "KT",
+  "web": "https://www.kuaitoken.com",
+  "explorer": "https://etherscan.io/token/0x26DDF6CabADcBF4F013841BD8d914830BeB0d984",
+  "links": {
+    "github": "FeeiCN",
+    "coingecko": "kuaitoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

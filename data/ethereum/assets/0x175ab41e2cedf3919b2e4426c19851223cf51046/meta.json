@@ -1,0 +1,14 @@
+{
+  "name": "BaconSwap",
+  "symbol": "BACON",
+  "web": "https://www.baconswap.org",
+  "explorer": "https://etherscan.io/token/0x175ab41e2cedf3919b2e4426c19851223cf51046",
+  "links": {
+    "coingecko": "baconswap",
+    "twitter": "Bacon_Swap"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

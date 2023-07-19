@@ -1,0 +1,15 @@
+{
+  "name": "Liquid DeFi",
+  "symbol": "LIQ",
+  "web": "https://liquidefi.co",
+  "explorer": "https://etherscan.io/token/0x72ca0501427bb8f089c1c4f767cb17d017e803a9",
+  "links": {
+    "coingecko": "liquid-defi",
+    "twitter": "TokenLiquid",
+    "telegram": "LIQofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

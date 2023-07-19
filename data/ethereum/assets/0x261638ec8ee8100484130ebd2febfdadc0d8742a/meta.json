@@ -1,0 +1,17 @@
+{
+  "name": "LVX",
+  "symbol": "LVX",
+  "web": "https://level01.io",
+  "explorer": "https://etherscan.io/token/0x261638EC8ee8100484130EBD2fEBfDAdC0D8742a",
+  "links": {
+    "github": "Level01Technologies",
+    "coingecko": "level01-derivatives-exchange",
+    "twitter": "level01io",
+    "facebook": "level01platform",
+    "telegram": "level01io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

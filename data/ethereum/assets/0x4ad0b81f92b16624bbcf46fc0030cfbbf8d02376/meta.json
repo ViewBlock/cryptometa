@@ -1,0 +1,16 @@
+{
+  "name": "Unagii Dai",
+  "symbol": "UDAI",
+  "web": "https://www.unagii.com",
+  "explorer": "https://etherscan.io/token/0x4ad0b81f92b16624bbcf46fc0030cfbbf8d02376",
+  "links": {
+    "coingecko": "unagii-dai",
+    "twitter": "unagiidotcom",
+    "telegram": "unagiidotcom",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

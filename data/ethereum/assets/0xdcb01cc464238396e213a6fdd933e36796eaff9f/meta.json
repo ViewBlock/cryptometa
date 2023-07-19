@@ -1,0 +1,15 @@
+{
+  "name": "Yield",
+  "symbol": "YLD",
+  "web": "http://yield.credit",
+  "explorer": "https://etherscan.io/token/0xdcb01cc464238396e213a6fdd933e36796eaff9f",
+  "links": {
+    "coingecko": "yield",
+    "twitter": "YieldCredit",
+    "telegram": "yieldchat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

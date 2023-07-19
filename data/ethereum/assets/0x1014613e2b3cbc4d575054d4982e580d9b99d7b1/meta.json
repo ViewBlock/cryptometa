@@ -1,0 +1,17 @@
+{
+  "name": "BitCapitalVendor",
+  "symbol": "BCV",
+  "web": "https://www.bitcv.com",
+  "explorer": "https://etherscan.io/token/0x1014613e2b3cbc4d575054d4982e580d9b99d7b1",
+  "links": {
+    "github": "bitcv",
+    "coingecko": "bcv",
+    "twitter": "BCVofficial",
+    "facebook": "BitCapitalVendor",
+    "telegram": "bitcvglobal"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

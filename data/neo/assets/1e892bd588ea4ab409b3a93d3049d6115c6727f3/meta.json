@@ -1,0 +1,17 @@
+{
+  "name": "Novem Gold Token",
+  "symbol": "NNN",
+  "web": "https://novemgold.com",
+  "explorer": "https://neotracker.io/asset/1e892bd588ea4ab409b3a93d3049d6115c6727f3",
+  "links": {
+    "coingecko": "novem-gold-token",
+    "twitter": "NovemGold",
+    "facebook": "NovemGoldAG",
+    "telegram": "NovemGold",
+    "reddit": "r/NovemGold"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

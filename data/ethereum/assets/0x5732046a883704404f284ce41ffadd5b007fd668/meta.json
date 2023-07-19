@@ -1,0 +1,17 @@
+{
+  "name": "Bluzelle",
+  "symbol": "BLZ",
+  "web": "https://bluzelle.com",
+  "explorer": "https://etherscan.io/token/0x5732046a883704404f284ce41ffadd5b007fd668",
+  "links": {
+    "github": "njmurarka",
+    "coingecko": "bluzelle",
+    "twitter": "BluzelleHQ",
+    "telegram": "bluzelle",
+    "reddit": "r/Bluzelle"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

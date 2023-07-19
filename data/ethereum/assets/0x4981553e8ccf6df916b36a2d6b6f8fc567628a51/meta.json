@@ -1,0 +1,16 @@
+{
+  "name": "Betnomi",
+  "symbol": "BNI",
+  "web": "http://betnomi.com",
+  "explorer": "https://etherscan.io/token/0x4981553e8ccf6df916b36a2d6b6f8fc567628a51",
+  "links": {
+    "github": "Betnomi",
+    "coingecko": "betnomi-2",
+    "twitter": "betnomi1",
+    "telegram": "betnomi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

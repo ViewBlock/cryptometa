@@ -1,0 +1,13 @@
+{
+  "name": "Microchain",
+  "symbol": "MB",
+  "web": "http://wlrmb.com",
+  "explorer": "https://etherscan.io/token/0x7aB1fc79F319718690e9c883BaC910f8E289ce8f",
+  "links": {
+    "coingecko": "microchain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

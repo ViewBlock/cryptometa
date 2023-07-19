@@ -1,0 +1,15 @@
+{
+  "name": "StarkBoard",
+  "description": "Find all the latest Starknet data that you are looking for.",
+  "categories": [
+    "tools"
+  ],
+  "web": "https://www.starkboard.io",
+  "links": {
+    "twitter": "https://twitter.com/starkboard",
+    "medium": "https://medium.com/@starkboard",
+    "discord": "https://discord.com/invite/starkboard"
+  },
+  "gen": {},
+  "key": "starkboard"
+}

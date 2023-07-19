@@ -1,0 +1,17 @@
+{
+  "name": "Rizubot",
+  "symbol": "RZB",
+  "web": "http://rizubot.com",
+  "explorer": "https://etherscan.io/token/0x429ac77f069bff489e2d78f9479e1e933305c528",
+  "links": {
+    "github": "rizubot",
+    "coingecko": "rizubot",
+    "twitter": "rizubot",
+    "facebook": "rizubot",
+    "telegram": "koinrizubot"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

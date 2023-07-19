@@ -1,0 +1,14 @@
+{
+  "name": "Friends With Benefits",
+  "symbol": "FWB",
+  "web": "https://fwb.help",
+  "explorer": "https://etherscan.io/token/0x7d91e637589ec3bb54d8213a9e92dc6e8d12da91",
+  "links": {
+    "coingecko": "friends-with-benefits",
+    "twitter": "whatdotcd"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

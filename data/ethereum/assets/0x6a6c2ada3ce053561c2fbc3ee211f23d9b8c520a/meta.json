@@ -1,0 +1,16 @@
+{
+  "name": "TONToken",
+  "symbol": "TON",
+  "web": "https://toncommunity.org",
+  "explorer": "https://etherscan.io/token/0x6a6c2ada3ce053561c2fbc3ee211f23d9b8c520a",
+  "links": {
+    "github": "ton-blockchain",
+    "coingecko": "tontoken",
+    "twitter": "TONCommunity",
+    "telegram": "ton_en"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

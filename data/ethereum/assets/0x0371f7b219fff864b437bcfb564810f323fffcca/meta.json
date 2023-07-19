@@ -1,0 +1,17 @@
+{
+  "name": "Bitcurate",
+  "symbol": "BTCR",
+  "web": "https://www.bitcurate.com",
+  "explorer": "https://etherscan.io/token/0x0371f7b219fff864b437bcfb564810f323fffcca",
+  "links": {
+    "coingecko": "bitcurate",
+    "twitter": "bitcurate",
+    "facebook": "bitcurate",
+    "telegram": "bitcuratecommunity",
+    "reddit": "r/Bitcurate"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

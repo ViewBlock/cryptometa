@@ -1,0 +1,14 @@
+{
+  "name": "SAINT FAME: Genesis Shirt",
+  "symbol": "FAME",
+  "web": "https://www.saintfame.com/fame",
+  "explorer": "https://www.etherscan.io/token/0x06f65b8cfcb13a9fe37d836fe9708da38ecb29b2",
+  "links": {
+    "coingecko": "saint-fame",
+    "twitter": "SAINTFAMEdao"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

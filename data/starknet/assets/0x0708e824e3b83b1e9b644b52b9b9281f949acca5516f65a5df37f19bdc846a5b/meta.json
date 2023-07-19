@@ -1,0 +1,12 @@
+{
+  "name": "Early Starkers",
+  "symbol": "ESTARK",
+  "type": "erc721",
+  "links": {
+    "market": "https://aspect.co/asset/0x0708e824e3b83b1e9b644b52b9b9281f949acca5516f65a5df37f19bdc846a5b"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 0
+  }
+}

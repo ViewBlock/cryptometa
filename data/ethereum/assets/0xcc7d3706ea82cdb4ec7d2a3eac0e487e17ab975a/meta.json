@@ -1,0 +1,10 @@
+{
+  "symbol": "uAPE",
+  "name": "Bored Ape Yacht Club",
+  "decimals": 18,
+  "description": "A fractionalized collection of 100+ apes from the Bored Ape yacht Club.",
+  "gen": {
+    "logo": "logo.svg",
+    "score": 0
+  }
+}

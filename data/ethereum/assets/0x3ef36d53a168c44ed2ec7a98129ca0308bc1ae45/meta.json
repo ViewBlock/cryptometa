@@ -1,0 +1,17 @@
+{
+  "name": "DigiDinar StableToken",
+  "symbol": "DDRST",
+  "web": "https://www.digidinar.com",
+  "explorer": "https://etherscan.io/token/0x3ef36D53A168c44ed2Ec7a98129CA0308BC1AE45",
+  "links": {
+    "github": "DigiDinar-Project",
+    "coingecko": "digidinar-stabletoken",
+    "twitter": "DigiDinars",
+    "facebook": "digidinar",
+    "telegram": "DigiDinarKuwait"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

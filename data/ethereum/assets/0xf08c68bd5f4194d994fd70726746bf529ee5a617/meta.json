@@ -1,0 +1,15 @@
+{
+  "name": "Thorenext",
+  "symbol": "THX",
+  "web": "https://www.thorenext.com",
+  "explorer": "https://etherscan.io/token/0xf08c68bd5f4194d994fd70726746bf529ee5a617",
+  "links": {
+    "coingecko": "thorenext",
+    "twitter": "Thr_Official",
+    "telegram": "Thoregroup"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

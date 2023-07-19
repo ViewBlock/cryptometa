@@ -1,0 +1,16 @@
+{
+  "name": "Xfinance",
+  "symbol": "XFI",
+  "web": "https://xfinance.io",
+  "explorer": "https://etherscan.io/token/0x5BEfBB272290dD5b8521D4a938f6c4757742c430",
+  "links": {
+    "github": "xfinance",
+    "coingecko": "xfinance",
+    "twitter": "xfinance_io",
+    "telegram": "nowex_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

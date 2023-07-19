@@ -1,0 +1,16 @@
+{
+  "symbol": "uWAIFU",
+  "name": "WAIFU NFT Collection",
+  "decimals": 18,
+  "description": "The Official WAIFU NFT Collection, featuring regular additions.",
+  "links": {
+    "discord": "https://discord.gg/gBSbXBae3P",
+    "medium": "https://waifutoken.medium.com",
+    "twitter": "https://twitter.com/WaifuToken",
+    "telegram": "t.me/WAIFUToken"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 5
+  }
+}

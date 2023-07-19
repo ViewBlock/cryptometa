@@ -1,0 +1,30 @@
+{
+  "name": "Ram Protocol",
+  "description": "Ram is a non-custodial liquidity protocol for earning interest on deposits and borrowing assets on the ThunderCore chain.",
+  "web": "https://rammer.finance",
+  "addresses": [
+    "0x0d4fe8832857Bb557d8CFCf3737cbFc8aE784106",
+    "0xfe146d5710015d4075355fb7be8d133346ec63c2",
+    "0xc7C5E0888d6e61BEa803308465efB4f2f6aC74FA",
+    "0xef5a0ce54a519b1db3f350eb902c4cfbf7671d88",
+    "0xbD5e194e63383b815460D1E2b56A942a4901855A",
+    "0xD58a1209BF4028b95386ad4Ff70142EB77264030",
+    "0x897d622aB744B0A9464a89166f47C644F5c1cC4C",
+    "0xC4542742cA19538400D6eAa52481306174Fb36c3",
+    "0x3592a87627f362934adfDc923601B5BFa8e62367",
+    "0x9daEc6B1bE6cC593B4796801E98A7e1442569c1d",
+    "0xA8c173b4666F2cb08b9E7AE0f555724D92049Ea3",
+    "0x604Da56279d2674DacFbcA3422E14eD351C5B2ED",
+    "0x4Abf4cEB4970918103bd4D6FB76e7969aC606497",
+    "0xceCa8C84c9d4Dd6D45b209dE68b8979Cd7f2121D",
+    "0x75b494cE606401555aFAc6bC3378d5f9cDDcF438"
+  ],
+  "categories": [
+    "defi",
+    "featured"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "ram-protocol"
+}

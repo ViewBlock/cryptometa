@@ -1,0 +1,17 @@
+{
+  "name": "Relex",
+  "symbol": "RLX",
+  "web": "https://relex.io",
+  "explorer": "https://etherscan.io/token/0x4a42d2c580f83dce404acad18dab26db11a1750e",
+  "links": {
+    "coingecko": "relex",
+    "twitter": "RelexTalk",
+    "facebook": "RelexTalk",
+    "telegram": "relex_core",
+    "reddit": "r/RelexRLX"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

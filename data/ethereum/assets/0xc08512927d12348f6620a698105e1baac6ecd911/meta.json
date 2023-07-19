@@ -1,0 +1,15 @@
+{
+  "name": "GYEN",
+  "symbol": "GYEN",
+  "web": "https://stablecoin.z.com/gyen",
+  "explorer": "https://etherscan.io/token/0xC08512927D12348F6620a698105e1BAac6EcD911",
+  "links": {
+    "github": "trust-zcom",
+    "coingecko": "gyen",
+    "twitter": "GMOTrust"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

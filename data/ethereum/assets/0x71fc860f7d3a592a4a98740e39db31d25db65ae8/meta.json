@@ -1,0 +1,16 @@
+{
+  "name": "Aave USDT v1",
+  "symbol": "AUSDT",
+  "web": "https://aave.com/atokens",
+  "explorer": "https://etherscan.io/token/0x71fc860F7D3A592A4a98740e39dB31d25db65ae8",
+  "links": {
+    "coingecko": "aave-usdt",
+    "twitter": "aaveaave",
+    "telegram": "Aavesome",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

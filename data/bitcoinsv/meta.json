@@ -1,0 +1,13 @@
+{
+  "name": "Bitcoin SV",
+  "symbol": "BSV",
+  "web": "https://bitcoinsv.com",
+  "explorer": "https://blockchair.com/bitcoin-sv",
+  "links": {
+    "github": "bitcoin-sv",
+    "coingecko": "bitcoin-cash-sv"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

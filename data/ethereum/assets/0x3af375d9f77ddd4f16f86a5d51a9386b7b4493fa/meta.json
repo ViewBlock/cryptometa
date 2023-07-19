@@ -1,0 +1,14 @@
+{
+  "name": "YES Trump Augur Prediction Token",
+  "symbol": "YTRUMP",
+  "web": "https://catnip.exchange",
+  "explorer": "https://etherscan.io/token/0x3af375d9f77ddd4f16f86a5d51a9386b7b4493fa",
+  "links": {
+    "github": "yashnaman",
+    "coingecko": "yes-trump-augur-prediction-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

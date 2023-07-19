@@ -1,0 +1,17 @@
+{
+  "name": "Kind Ads Token",
+  "symbol": "KIND",
+  "web": "https://kindads.io",
+  "explorer": "https://etherscan.io/token/0x4618519de4c304f3444ffa7f812dddc2971cc688",
+  "links": {
+    "github": "kindads",
+    "coingecko": "kind-ads-token",
+    "twitter": "KindAdsNetwork",
+    "telegram": "kindads",
+    "reddit": "r/KindAds"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

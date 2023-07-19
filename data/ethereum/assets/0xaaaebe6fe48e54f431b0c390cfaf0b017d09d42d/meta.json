@@ -1,0 +1,18 @@
+{
+  "name": "Celsius Network",
+  "symbol": "CEL",
+  "web": "https://celsius.network",
+  "explorer": "https://etherscan.io/token/0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d",
+  "links": {
+    "coingecko": "celsius-degree-token",
+    "twitter": "celsiusnetwork",
+    "facebook": "CelsiusNetwork",
+    "telegram": "celsiusnetwork",
+    "reddit": "r/CelsiusNetwork"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "score": 10
+  }
+}

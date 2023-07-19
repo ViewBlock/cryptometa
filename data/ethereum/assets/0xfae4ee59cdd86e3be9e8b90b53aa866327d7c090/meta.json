@@ -1,0 +1,16 @@
+{
+  "name": "CPChain",
+  "symbol": "CPC",
+  "web": "http://www.cpchain.io",
+  "explorer": "https://etherscan.io/token/0xfae4ee59cdd86e3be9e8b90b53aa866327d7c090",
+  "links": {
+    "github": "CPChain",
+    "coingecko": "cpchain",
+    "twitter": "cpchain_io",
+    "telegram": "cpchain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

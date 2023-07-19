@@ -1,0 +1,15 @@
+{
+  "name": "Our Pay",
+  "symbol": "OUR",
+  "web": "https://www.our-pay.org",
+  "explorer": "https://etherscan.io/token/0xdff3d69a00759449f091561a0af99a218982bd7f",
+  "links": {
+    "coingecko": "our-pay",
+    "twitter": "OURPAY1",
+    "facebook": "our.pay.3"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

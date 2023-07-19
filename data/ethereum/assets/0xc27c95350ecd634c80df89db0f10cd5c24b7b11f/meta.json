@@ -1,0 +1,16 @@
+{
+  "name": "Pixie Coin",
+  "symbol": "PXC",
+  "web": "http://pixiecoin.io",
+  "explorer": "https://etherscan.io/token/0xc27c95350ecd634c80df89db0f10cd5c24b7b11f",
+  "links": {
+    "github": "PixieCoinFoundation",
+    "coingecko": "pixie-coin",
+    "twitter": "coin_pixie",
+    "telegram": "pixiecoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Coinpost",
+  "description": "CoinPost is a Japanese cryptocurrency & blockchain media platform.",
+  "web": "https://coinpost.jp",
+  "links": {},
+  "categories": [
+    "platform"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "coinpost"
+}

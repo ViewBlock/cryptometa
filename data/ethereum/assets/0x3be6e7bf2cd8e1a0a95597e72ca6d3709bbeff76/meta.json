@@ -1,0 +1,17 @@
+{
+  "name": "Demeter Chain",
+  "symbol": "DMTC",
+  "web": "https://dmtc.io",
+  "explorer": "https://etherscan.io/token/0x3be6e7bf2cd8e1a0a95597e72ca6d3709bbeff76",
+  "links": {
+    "github": "dmtc-chain",
+    "coingecko": "dmtc-token",
+    "twitter": "DemeterChain",
+    "facebook": "dmtc.io",
+    "telegram": "dmtc_en"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

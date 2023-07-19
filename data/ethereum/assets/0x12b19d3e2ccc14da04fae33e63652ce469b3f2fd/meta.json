@@ -1,0 +1,16 @@
+{
+  "name": "GridPlus",
+  "symbol": "GRID",
+  "web": "https://gridplus.io",
+  "explorer": "https://etherscan.io/token/0x12b19d3e2ccc14da04fae33e63652ce469b3f2fd",
+  "links": {
+    "github": "GridPlus",
+    "coingecko": "grid",
+    "twitter": "gridplus",
+    "reddit": "r/GridPlus"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

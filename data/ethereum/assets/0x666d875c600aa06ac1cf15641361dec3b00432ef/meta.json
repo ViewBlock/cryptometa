@@ -1,0 +1,17 @@
+{
+  "name": "BTSE Token",
+  "symbol": "BTSE",
+  "web": "https://www.btse.com/en/token",
+  "explorer": "https://etherscan.io/token/0x666d875c600aa06ac1cf15641361dec3b00432ef",
+  "links": {
+    "coingecko": "btse-token",
+    "twitter": "btsecom",
+    "facebook": "btsecom",
+    "telegram": "btsecom",
+    "reddit": "r/btsecom"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

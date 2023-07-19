@@ -1,0 +1,17 @@
+{
+  "name": "StormX",
+  "symbol": "STMX",
+  "web": "https://stormx.io",
+  "explorer": "https://etherscan.io/token/0xbE9375C6a420D2eEB258962efB95551A5b722803",
+  "links": {
+    "coingecko": "storm",
+    "twitter": "stormxio",
+    "facebook": "stormxio",
+    "telegram": "stormxapp",
+    "reddit": "r/stormxio"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

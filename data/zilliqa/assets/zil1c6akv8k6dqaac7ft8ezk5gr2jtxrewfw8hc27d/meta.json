@@ -1,0 +1,19 @@
+{
+  "name": "DuckDuck",
+  "symbol": "Duck",
+  "whitepaper": "https://duck.community/papers/DUCK%20-%20Widepaper.pdf",
+  "web": "https://app.duck.community/index",
+  "supply": "420.69",
+  "email": "duck@duck.community",
+  "links": {
+    "twitter": "https://twitter.com/zilduck",
+    "medium": "https://duckduckzil.medium.com",
+    "telegram": "https://t.me/zilduck",
+    "discord": "https://discord.gg/rm936388X7",
+    "github": "https://github.com/ZilDuck"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 29
+  }
+}

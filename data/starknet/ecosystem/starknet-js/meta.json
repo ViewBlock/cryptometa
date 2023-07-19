@@ -1,0 +1,16 @@
+{
+  "name": "StarkNet.js",
+  "description": "Javascript library for StarkNet. Build your dapp or any other StarkNet web project today.",
+  "categories": [
+    "tools"
+  ],
+  "web": "https://www.starknetjs.com",
+  "links": {
+    "github": "https://github.com/0xs34n/starknet.js",
+    "discord": "https://discordapp.com/channels/793094838509764618/927918707613786162"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "starknet-js"
+}

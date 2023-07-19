@@ -1,0 +1,16 @@
+{
+  "name": "Qcore.Finance",
+  "symbol": "QCORE",
+  "web": "https://qcore.finance",
+  "explorer": "https://etherscan.io/token/0x82866b4a71ba9d930fe338c386b6a45a7133eb36",
+  "links": {
+    "github": "qcore-finance",
+    "coingecko": "qcore-finance",
+    "twitter": "qcore_finance",
+    "telegram": "qcore_finance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

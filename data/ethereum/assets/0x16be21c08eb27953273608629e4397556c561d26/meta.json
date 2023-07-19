@@ -1,0 +1,16 @@
+{
+  "name": "Yearn20Moon.Finance",
+  "symbol": "YMF20",
+  "web": "https://yearn20moon.finance",
+  "explorer": "https://etherscan.io/token/0x16be21c08eb27953273608629e4397556c561d26",
+  "links": {
+    "github": "Yearn20Moon",
+    "coingecko": "yearn20moonfinance",
+    "twitter": "ymoonfinance",
+    "telegram": "yearnmoon_finance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

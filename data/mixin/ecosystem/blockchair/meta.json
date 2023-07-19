@@ -1,0 +1,12 @@
+{
+  "name": "Blockchair",
+  "description": "Blockchain explorer, analytics and web services",
+  "web": "https://blockchair.com",
+  "categories": [
+    "tools"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "blockchair"
+}

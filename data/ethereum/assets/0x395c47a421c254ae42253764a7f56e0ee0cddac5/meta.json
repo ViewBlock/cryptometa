@@ -1,0 +1,16 @@
+{
+  "name": "RealToken 20200 Lesure Street Detroit MI",
+  "symbol": "REALTOKEN-20200-LESURE-ST-DETROIT-MI",
+  "web": "https://realt.co/product/20200-lesure-st-detroit-mi-48235",
+  "explorer": "https://etherscan.io/token/0x395c47a421c254ae42253764a7f56e0ee0cddac5",
+  "links": {
+    "github": "RealT-Community",
+    "coingecko": "realtoken-20200-lesure-st-detroit-mi",
+    "twitter": "RealTPlatform",
+    "telegram": "RealT_Platform"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

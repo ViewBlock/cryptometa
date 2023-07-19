@@ -1,0 +1,17 @@
+{
+  "name": "Travala",
+  "description": "Travala is a travel booking website that accepts payment in various cryptocurrencies, including Zilliqa.",
+  "web": "https://www.travala.com/payment/zilliqa-zil",
+  "links": {
+    "twitter": "https://twitter.com/travalacom"
+  },
+  "categories": [
+    "app"
+  ],
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg"
+  },
+  "key": "travala"
+}

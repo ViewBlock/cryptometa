@@ -1,0 +1,16 @@
+{
+  "name": "GokuMarket Credit",
+  "symbol": "GMC",
+  "web": "https://www.gokumarket.com",
+  "explorer": "https://etherscan.io/token/0xa6272359bc37f61AF398071B65C8934ACA744d53",
+  "links": {
+    "coingecko": "gokumarket-credit",
+    "twitter": "GokuMarket",
+    "facebook": "gokumarket",
+    "telegram": "gokumarket_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

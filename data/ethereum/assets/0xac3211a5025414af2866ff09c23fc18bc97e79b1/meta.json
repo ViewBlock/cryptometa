@@ -1,0 +1,17 @@
+{
+  "name": "Dovu",
+  "symbol": "DOV",
+  "web": "https://dovu.io",
+  "explorer": "https://etherscan.io/token/0xac3211a5025414af2866ff09c23fc18bc97e79b1",
+  "links": {
+    "github": "TokenMarketNet",
+    "coingecko": "dovu",
+    "twitter": "dovuofficial",
+    "telegram": "dovuofficial",
+    "reddit": "r/DOVU"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

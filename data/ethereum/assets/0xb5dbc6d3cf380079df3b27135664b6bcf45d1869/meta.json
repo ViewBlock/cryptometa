@@ -1,0 +1,17 @@
+{
+  "name": "Project SHIVOM",
+  "symbol": "OMX",
+  "web": "https://shivom.io",
+  "explorer": "https://etherscan.io/token/0xb5dbc6d3cf380079df3b27135664b6bcf45d1869",
+  "links": {
+    "coingecko": "project-shivom",
+    "twitter": "projectshivom",
+    "facebook": "ProjectShivom",
+    "telegram": "projshivom",
+    "reddit": "r/Shivom"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

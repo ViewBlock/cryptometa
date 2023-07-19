@@ -1,0 +1,16 @@
+{
+  "name": "Alpaca",
+  "symbol": "ALPA",
+  "web": "https://alpaca.city",
+  "explorer": "https://etherscan.io/token/0x7ca4408137eb639570f8e647d9bd7b7e8717514a",
+  "links": {
+    "github": "AlpacaCity",
+    "coingecko": "alpaca",
+    "twitter": "CityAlpaca",
+    "telegram": "AlpacaCity"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

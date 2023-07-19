@@ -1,0 +1,17 @@
+{
+  "name": "Doch Coin",
+  "symbol": "DCH",
+  "web": "https://dochcoin.com",
+  "explorer": "https://etherscan.io/token/0x4a73e60adbb8575500ffc6aaea6128954011c8af",
+  "links": {
+    "github": "Govind13100",
+    "coingecko": "doch-coin",
+    "twitter": "CoinDoch",
+    "facebook": "dochcoin1",
+    "telegram": "dochcoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

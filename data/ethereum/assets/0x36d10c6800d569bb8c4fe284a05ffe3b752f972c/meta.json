@@ -1,0 +1,16 @@
+{
+  "name": "WeShow Token",
+  "symbol": "WET",
+  "web": "https://www.we.show",
+  "explorer": "https://etherscan.io/token/0x36d10c6800d569bb8c4fe284a05ffe3b752f972c",
+  "links": {
+    "github": "we-token",
+    "coingecko": "weshow",
+    "twitter": "WeShowGroup",
+    "telegram": "weshow"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

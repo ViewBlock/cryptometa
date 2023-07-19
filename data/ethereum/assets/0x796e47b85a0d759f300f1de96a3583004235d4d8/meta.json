@@ -1,0 +1,15 @@
+{
+  "name": "Electrum Dark",
+  "symbol": "ELD",
+  "web": "https://electrumdark.com",
+  "explorer": "https://etherscan.io/token/0x796e47b85a0d759f300f1de96a3583004235d4d8",
+  "links": {
+    "github": "electrumdark",
+    "coingecko": "electrum-dark",
+    "twitter": "electrumdark"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

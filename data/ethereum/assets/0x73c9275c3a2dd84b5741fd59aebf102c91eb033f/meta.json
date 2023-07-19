@@ -1,0 +1,14 @@
+{
+  "name": "Bitball Treasure",
+  "symbol": "BTRS",
+  "web": "https://bitball-btb.com",
+  "explorer": "https://etherscan.io/token/0x73C9275c3a2Dd84b5741fD59AEbF102C91Eb033F",
+  "links": {
+    "coingecko": "bitball-treasure",
+    "twitter": "BitBallTreasure"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

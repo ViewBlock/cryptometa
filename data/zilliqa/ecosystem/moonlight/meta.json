@@ -1,0 +1,17 @@
+{
+  "name": "Moonlight",
+  "description": "An ecosystem partner who has helped Zilliqa protocol improve access to cross-chain decentralised self-sovereign identity (DSSI) tools",
+  "web": "https://moonlight.io",
+  "links": {
+    "twitter": "https://twitter.com/moonlightdotio"
+  },
+  "categories": [
+    "api",
+    "sdk"
+  ],
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true
+  },
+  "key": "moonlight"
+}

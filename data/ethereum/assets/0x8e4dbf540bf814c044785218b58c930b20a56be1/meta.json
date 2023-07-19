@@ -1,0 +1,14 @@
+{
+  "name": "Holistic ETH Set",
+  "symbol": "TCAPETHDAI",
+  "web": "https://www.tokensets.com/set/tcapethdai",
+  "explorer": "https://etherscan.io/token/0x8e4dbf540bf814c044785218b58c930b20a56be1",
+  "links": {
+    "coingecko": "holistic-eth-set",
+    "twitter": "SetProtocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

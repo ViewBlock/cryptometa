@@ -1,0 +1,17 @@
+{
+  "name": "THEKEY",
+  "symbol": "TKY",
+  "web": "http://www.thekey.vip",
+  "explorer": "https://neotracker.io/asset/132947096727c84c7f9e076c90f08fec3bc17f18",
+  "links": {
+    "github": "thekeygithub",
+    "coingecko": "thekey",
+    "twitter": "thekeyvip",
+    "facebook": "TheKey-1439094662870680",
+    "reddit": "r/THEKEYOFFICIAL"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

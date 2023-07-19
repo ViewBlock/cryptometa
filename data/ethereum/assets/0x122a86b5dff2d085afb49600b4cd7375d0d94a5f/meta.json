@@ -1,0 +1,14 @@
+{
+  "name": "Italian Lira",
+  "symbol": "ITL",
+  "web": "https://www.italianlira.ws",
+  "explorer": "https://etherscan.io/token/0x122A86b5DFF2D085AfB49600b4cd7375D0d94A5f",
+  "links": {
+    "coingecko": "italian-lira",
+    "twitter": "ItalianliraWs"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

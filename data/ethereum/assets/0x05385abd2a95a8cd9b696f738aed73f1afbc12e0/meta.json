@@ -1,0 +1,14 @@
+{
+  "name": "Fompound",
+  "symbol": "FOMP",
+  "web": "https://www.fompound.com",
+  "explorer": "https://etherscan.io/token/0x05385abD2a95a8cd9B696F738aed73f1AFbc12E0",
+  "links": {
+    "coingecko": "fompound",
+    "twitter": "fompound1"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

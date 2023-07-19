@@ -1,0 +1,18 @@
+{
+  "name": "renDOGE",
+  "symbol": "RENDOGE",
+  "web": "https://renproject.io/ ",
+  "explorer": "https://etherscan.io/token/0x3832d2F059E55934220881F831bE501D180671A7",
+  "links": {
+    "github": "renproject",
+    "coingecko": "rendoge",
+    "twitter": "renprotocol",
+    "telegram": "renproject",
+    "reddit": "r/RenProject"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

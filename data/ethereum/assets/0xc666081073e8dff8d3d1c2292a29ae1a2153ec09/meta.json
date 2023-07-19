@@ -1,0 +1,17 @@
+{
+  "name": "Digitex Token",
+  "symbol": "DGTX",
+  "web": "https://www.digitexfutures.com",
+  "explorer": "https://etherscan.io/token/0xc666081073e8dff8d3d1c2292a29ae1a2153ec09",
+  "links": {
+    "coingecko": "digitex-futures-exchange",
+    "twitter": "_DigitexFutures",
+    "facebook": "DigitexFutures",
+    "telegram": "digitexfutureschat",
+    "reddit": "r/DigitexCity"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

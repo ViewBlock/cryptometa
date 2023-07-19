@@ -1,0 +1,13 @@
+{
+  "name": "NSS Coin",
+  "symbol": "NSS",
+  "web": "http://www.nsscoin.net",
+  "explorer": "https://etherscan.io/token/0x4e3bddd468abfc6c88bc25daa5d894380ced5bc8",
+  "links": {
+    "coingecko": "nss-coin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

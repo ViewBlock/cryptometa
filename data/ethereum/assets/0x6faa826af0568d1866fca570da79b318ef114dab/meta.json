@@ -1,0 +1,18 @@
+{
+  "name": "B21",
+  "symbol": "B21",
+  "web": "http://www.b21.io/#/ico",
+  "explorer": "https://etherscan.io/token/0x6faa826af0568d1866fca570da79b318ef114dab",
+  "links": {
+    "coingecko": "b21",
+    "twitter": "B21Official",
+    "facebook": "B21Official",
+    "telegram": "B21Official",
+    "reddit": "r/B21Official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

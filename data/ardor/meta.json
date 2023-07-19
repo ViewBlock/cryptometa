@@ -1,0 +1,15 @@
+{
+  "name": "Ardor",
+  "symbol": "ARDR",
+  "web": "https://www.ardorplatform.org",
+  "explorer": "https://ardor.tools",
+  "links": {
+    "coingecko": "ardor",
+    "twitter": "ArdorPlatform",
+    "facebook": "ardorplatform",
+    "reddit": "r/Ardor"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

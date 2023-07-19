@@ -1,0 +1,16 @@
+{
+  "name": "One Cash",
+  "symbol": "ONC",
+  "web": "https://onecash.finance",
+  "explorer": "https://etherscan.io/token/0xD90E69f67203EBE02c917B5128629E77B4cd92dc",
+  "links": {
+    "github": "onecash",
+    "coingecko": "one-cash",
+    "twitter": "AckmanMisa",
+    "telegram": "onecashfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

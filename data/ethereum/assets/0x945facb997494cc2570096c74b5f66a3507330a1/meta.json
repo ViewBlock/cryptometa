@@ -1,0 +1,15 @@
+{
+  "name": "mStable BTC",
+  "symbol": "MBTC",
+  "web": "http://mstable.org",
+  "explorer": "https://etherscan.io/token/0x945facb997494cc2570096c74b5f66a3507330a1",
+  "links": {
+    "coingecko": "mstable-btc",
+    "twitter": "mstable_",
+    "telegram": "mstableofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

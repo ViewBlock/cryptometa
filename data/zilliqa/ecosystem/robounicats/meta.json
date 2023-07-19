@@ -1,0 +1,17 @@
+{
+  "name": "RoboUniCats",
+  "description": "A MMORPG that integrates with the Zilliqa blockchain through the creation of ZRC-1 NFTs as in-game characters and items.",
+  "web": "https://robounicats.com",
+  "links": {
+    "twitter": "https://twitter.com/robounicats",
+    "telegram": "https://t.me/ruc_shards"
+  },
+  "categories": [
+    "gaming",
+    "nft"
+  ],
+  "gen": {
+    "logo": "logo.jpg"
+  },
+  "key": "robounicats"
+}

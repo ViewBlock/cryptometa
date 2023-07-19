@@ -1,0 +1,15 @@
+{
+  "name": "Aloha",
+  "symbol": "ALOHA",
+  "web": "https://alohadefi.io",
+  "explorer": "https://etherscan.io/token/0x455f7ef6d8bcfc35f9337e85aee1b0600a59fabe",
+  "links": {
+    "github": "Aloha-Open-Wifi",
+    "coingecko": "aloha",
+    "twitter": "AlohaDefi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

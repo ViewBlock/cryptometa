@@ -1,0 +1,17 @@
+{
+  "name": "Pillar Protocol",
+  "description": "Protocol for collateral-backed stablecoin soft pegged to USD on Zilliqa.",
+  "web": "https://pillarprotocol.com",
+  "links": {
+    "twitter": "https://twitter.com/DevPillar",
+    "telegram": "https://t.me/PillarProtocol",
+    "discord": "https://discord.gg/mQtFW5GGKZ"
+  },
+  "categories": [
+    "defi"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "pillar-protocol"
+}

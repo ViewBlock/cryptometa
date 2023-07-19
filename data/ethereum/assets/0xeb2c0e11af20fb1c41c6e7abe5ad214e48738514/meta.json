@@ -1,0 +1,15 @@
+{
+  "name": "Sinelock",
+  "symbol": "SINE",
+  "web": "https://sinelock.com",
+  "explorer": "https://etherscan.io/token/0xeb2c0e11af20fb1c41c6e7abe5ad214e48738514",
+  "links": {
+    "coingecko": "sinelock",
+    "twitter": "sinelock",
+    "telegram": "sinelockofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

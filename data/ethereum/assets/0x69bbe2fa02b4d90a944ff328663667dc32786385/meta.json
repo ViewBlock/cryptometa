@@ -1,0 +1,14 @@
+{
+  "name": "Punk Basic",
+  "symbol": "PUNK-BASIC",
+  "web": "https://nftx.org/#/fund/0",
+  "explorer": "https://etherscan.io/token/0x69BbE2FA02b4D90A944fF328663667DC32786385",
+  "links": {
+    "coingecko": "punk-basic",
+    "twitter": "NFTX_"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

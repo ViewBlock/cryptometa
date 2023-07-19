@@ -1,0 +1,16 @@
+{
+  "name": "RioDeFi",
+  "symbol": "RFUEL",
+  "web": "https://riodefi.com",
+  "explorer": "https://etherscan.io/token/0xaf9f549774ecedbd0966c52f250acc548d3f36e5",
+  "links": {
+    "coingecko": "rio-defi",
+    "twitter": "riodefiofficial",
+    "facebook": "riodefiofficial",
+    "telegram": "riodefiofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

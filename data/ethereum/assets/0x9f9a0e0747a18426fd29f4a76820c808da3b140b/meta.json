@@ -1,0 +1,17 @@
+{
+  "name": "ETHBOLD",
+  "symbol": "ETBOLD",
+  "web": "https://ethbold.org",
+  "explorer": "https://etherscan.io/token/0x9f9a0e0747a18426fd29f4a76820c808da3b140b",
+  "links": {
+    "coingecko": "ethbold",
+    "twitter": "ETHBOLD2",
+    "facebook": "ethbold.ethbold.52",
+    "telegram": "ETHBOLD_Official",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

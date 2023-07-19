@@ -1,0 +1,13 @@
+{
+  "name": "CoinView",
+  "description": "CoinView is a free app combining the best cryptocurrency market monitoring and portfolio management tools.",
+  "web": "https://zh.coinjinja.com/coinview",
+  "links": {},
+  "categories": [
+    "platform"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "coinview"
+}

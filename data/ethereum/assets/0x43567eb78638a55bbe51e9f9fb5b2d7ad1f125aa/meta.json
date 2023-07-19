@@ -1,0 +1,16 @@
+{
+  "name": "Hackspace Capital",
+  "symbol": "HAC",
+  "web": "https://hackspace.capital",
+  "explorer": "https://etherscan.io/token/0x43567eb78638A55bbE51E9f9FB5B2D7AD1F125aa",
+  "links": {
+    "coingecko": "hackspace-capital",
+    "twitter": "hackspacecap",
+    "facebook": "hackspacecapital"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

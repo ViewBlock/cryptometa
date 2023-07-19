@@ -1,0 +1,17 @@
+{
+  "name": "Wabi",
+  "symbol": "WABI",
+  "web": "https://wabi.io",
+  "explorer": "https://etherscan.io/token/0x286bda1413a2df81731d4930ce2f862a35a609fe",
+  "links": {
+    "coingecko": "wabi",
+    "twitter": "wabitoken",
+    "facebook": "wabiico",
+    "telegram": "wabi_ico",
+    "reddit": "r/WabiToken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

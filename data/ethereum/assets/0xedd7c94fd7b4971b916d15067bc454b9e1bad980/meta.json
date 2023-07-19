@@ -1,0 +1,18 @@
+{
+  "name": "Zippie",
+  "symbol": "ZIPT",
+  "web": "https://zippie.org",
+  "explorer": "https://etherscan.io/token/0xedd7c94fd7b4971b916d15067bc454b9e1bad980",
+  "links": {
+    "github": "zippiehq",
+    "coingecko": "zippie",
+    "twitter": "zippiehq",
+    "facebook": "zippiehq",
+    "telegram": "zippiehq",
+    "reddit": "r/Zippie"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

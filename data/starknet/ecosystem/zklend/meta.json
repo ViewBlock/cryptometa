@@ -1,0 +1,15 @@
+{
+  "name": "zkLend",
+  "description": "zkLend is an L2 money-market protocol built on StarkNet, combining zk-rollup scalability, superior transaction speed, and cost-savings with Ethereum’s security. The protocol offers a dual solution: a permissioned and compliance-focused solution for institutional clients, and a permissionless service for DeFi users - all without sacrificing decentralisation.",
+  "categories": [
+    "defi"
+  ],
+  "web": "https://zklend.com",
+  "links": {
+    "twitter": "https://twitter.com/zkLend"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "zklend"
+}

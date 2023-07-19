@@ -1,0 +1,15 @@
+{
+  "name": "VirgoX Token",
+  "symbol": "VXT",
+  "web": "VirgoX.com",
+  "explorer": "https://etherscan.io/token/0x8Ba009Cad493C7646e31D69428AB9A54F47B3779",
+  "links": {
+    "coingecko": "virgox-token",
+    "twitter": "VirgoX_Exchange",
+    "telegram": "VirgoX_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

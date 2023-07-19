@@ -1,0 +1,15 @@
+{
+  "name": "ProChain",
+  "symbol": "PRA",
+  "web": "https://chain.pro",
+  "explorer": "https://etherscan.io/token/0x9041Fe5B3FDEA0f5e4afDC17e75180738D877A01",
+  "links": {
+    "github": "prochain",
+    "coingecko": "prochain",
+    "twitter": "prochaintech"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

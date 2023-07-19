@@ -1,0 +1,18 @@
+{
+  "name": "RYG Labs",
+  "description": "RYG.Labs is a project that focuses on building and developing utilities of NFT; we also provide blockchain application solutions for individual users and businesses. Hence, heighten the blue-chip NFTs liquidity and create the playground for NFT DAOs are also our objectives.",
+  "categories": [
+    "nft",
+    "dao"
+  ],
+  "web": "https://www.itsryg.com",
+  "links": {
+    "github": "https://github.com/RYG-Labs",
+    "twitter": "https://twitter.com/RYG_Labs",
+    "discord": "https://discord.gg/rEVCAYjq"
+  },
+  "gen": {
+    "logo": "logo.jpg"
+  },
+  "key": "ryg-labs"
+}

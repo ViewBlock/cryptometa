@@ -1,0 +1,18 @@
+{
+  "name": "Ethorse",
+  "symbol": "HORSE",
+  "web": "https://ethorse.com",
+  "explorer": "https://etherscan.io/token/0x5b0751713b2527d7f002c0c4e2a37e1219610a6b",
+  "links": {
+    "github": "ethorse",
+    "coingecko": "ethorse",
+    "twitter": "EthorseTeam",
+    "facebook": "Ethorse-137754290239208",
+    "telegram": "ethorse",
+    "reddit": "r/ethorse"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

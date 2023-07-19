@@ -1,0 +1,13 @@
+{
+  "name": "3X Long Bitcoin SV Token",
+  "symbol": "BSVBULL",
+  "web": "https://ftx.com/tokens/BSVBULL",
+  "explorer": "https://etherscan.io/token/0x6e13a9e4ae3d0678e511fb6d2ad531fcf0e247bf",
+  "links": {
+    "coingecko": "3x-long-bitcoin-sv-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

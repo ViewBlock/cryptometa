@@ -1,0 +1,17 @@
+{
+  "name": "TICOEX Token (Formerly TopInvestmentCoin)",
+  "symbol": "TICO",
+  "web": "https://www.ticoex.io",
+  "explorer": "https://etherscan.io/token/0x36B60a425b82483004487aBc7aDcb0002918FC56",
+  "links": {
+    "github": "TICOEX",
+    "coingecko": "topinvestmentcoin",
+    "twitter": "TICOEXCHANGE",
+    "facebook": "TICOEXCHANGE",
+    "telegram": "TICO_GROUP"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

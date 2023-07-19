@@ -1,0 +1,17 @@
+{
+  "name": "Lambda",
+  "symbol": "LAMB",
+  "web": "https://www.lambdastorage.com/en",
+  "explorer": "https://etherscan.io/token/0x8971f9fd7196e5cee2c1032b50f656855af7dd26",
+  "links": {
+    "github": "LambdaIM",
+    "coingecko": "lambda",
+    "twitter": "Lambdaim",
+    "facebook": "Lambdaim",
+    "telegram": "HelloLambda"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

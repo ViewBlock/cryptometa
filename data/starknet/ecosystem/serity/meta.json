@@ -1,0 +1,16 @@
+{
+  "name": "Serity",
+  "description": "Serity is a PCV-based protocol for the minting and trading of yield-backed synthetic assets.",
+  "categories": [
+    "defi"
+  ],
+  "web": "https://serity.finance",
+  "links": {
+    "github": "https://github.com/Serity-Finance",
+    "twitter": "https://twitter.com/SerityFinance"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "serity"
+}

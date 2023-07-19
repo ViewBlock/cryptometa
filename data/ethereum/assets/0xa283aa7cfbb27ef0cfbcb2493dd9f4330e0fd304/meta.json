@@ -1,0 +1,16 @@
+{
+  "name": "MM Token",
+  "symbol": "MM",
+  "web": "https://mushrooms.finance",
+  "explorer": "https://etherscan.io/token/0xa283aa7cfbb27ef0cfbcb2493dd9f4330e0fd304",
+  "links": {
+    "github": "mushroomsforest",
+    "coingecko": "mm-token",
+    "twitter": "MushroomsFinan1",
+    "telegram": "mushroomsfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

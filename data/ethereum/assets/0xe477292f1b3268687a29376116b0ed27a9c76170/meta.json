@@ -1,0 +1,17 @@
+{
+  "name": "HEROcoin",
+  "symbol": "PLAY",
+  "web": "https://www.herocoin.io",
+  "explorer": "https://etherscan.io/token/0xe477292f1b3268687a29376116b0ed27a9c76170",
+  "links": {
+    "github": "byteheroes",
+    "coingecko": "herocoin",
+    "twitter": "HEROcoinio",
+    "facebook": "HEROcoinio",
+    "reddit": "r/HEROcoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

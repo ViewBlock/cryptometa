@@ -1,0 +1,16 @@
+{
+  "name": "BTour Chain",
+  "symbol": "BTOUR",
+  "web": "http://btour.io",
+  "explorer": "https://etherscan.io/token/0xFAA965D80D956de59808974E33AdA054F7696de5",
+  "links": {
+    "coingecko": "btour-chain",
+    "twitter": "btour9",
+    "facebook": "btourglobal",
+    "telegram": "btourofficial_KR"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

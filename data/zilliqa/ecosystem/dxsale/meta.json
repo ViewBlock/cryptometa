@@ -1,0 +1,15 @@
+{
+  "name": "DxSALE",
+  "description": "Mint and launch your tokens with no coding required in minutes.",
+  "web": "https://dx.app",
+  "links": {
+    "twitter": "https://twitter.com/dxsale"
+  },
+  "categories": [
+    "tools"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "dxsale"
+}

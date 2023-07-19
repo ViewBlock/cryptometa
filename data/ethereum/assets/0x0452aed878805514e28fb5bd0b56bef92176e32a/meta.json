@@ -1,0 +1,13 @@
+{
+  "name": "BPOP",
+  "symbol": "BPOP",
+  "web": "http://www.bpop.io",
+  "explorer": "https://etherscan.io/token/0x0452aeD878805514e28Fb5BD0B56Bef92176E32A",
+  "links": {
+    "coingecko": "bpop"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

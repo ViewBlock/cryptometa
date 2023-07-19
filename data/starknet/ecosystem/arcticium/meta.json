@@ -1,0 +1,15 @@
+{
+  "name": "Arcticium",
+  "description": "We are building ecosystem and community for NFTs on StarkNet by StarkWareLtd.",
+  "categories": [
+    "nft"
+  ],
+  "web": "http://arcticium.com",
+  "links": {
+    "twitter": "https://twitter.com/arcticiumm"
+  },
+  "gen": {
+    "logo": "logo.jpg"
+  },
+  "key": "arcticium"
+}

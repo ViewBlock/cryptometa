@@ -1,0 +1,13 @@
+{
+  "name": "1X Short BNB Token",
+  "symbol": "BNBHEDGE",
+  "web": "https://ftx.com/tokens/BNBHEDGE",
+  "explorer": "https://etherscan.io/token/0x2840aD41cf25Ad58303Ba24C416E79dCe4161b4F",
+  "links": {
+    "coingecko": "1x-short-bnb-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

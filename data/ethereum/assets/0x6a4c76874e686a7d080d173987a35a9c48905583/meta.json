@@ -1,0 +1,16 @@
+{
+  "name": "Luxurious Pro Network Token",
+  "symbol": "LPNT",
+  "web": "https://lpntoken.io",
+  "explorer": "https://etherscan.io/token/0x6a4c76874e686a7d080d173987a35a9c48905583",
+  "links": {
+    "github": "LPNTOKEN",
+    "coingecko": "luxurious-pro-network-token",
+    "facebook": "LpnTokenPro",
+    "telegram": "LPNT_Official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

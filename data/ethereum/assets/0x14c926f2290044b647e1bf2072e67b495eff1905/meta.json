@@ -1,0 +1,18 @@
+{
+  "name": "Bethereum",
+  "symbol": "BETHER",
+  "web": "https://www.bethereum.com/?utm_source=coingecko&utm_medium=listing",
+  "explorer": "https://etherscan.io/token/0x14C926F2290044B647e1Bf2072e67B495eff1905",
+  "links": {
+    "github": "bethereumproject",
+    "coingecko": "bethereum",
+    "twitter": "bethereumteam",
+    "facebook": "bethereumproject",
+    "telegram": "bethereum",
+    "reddit": "r/bethereum"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

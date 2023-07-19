@@ -1,0 +1,15 @@
+{
+  "name": "CyberFi",
+  "symbol": "CFI",
+  "web": "https://cyberfi.tech",
+  "explorer": "https://etherscan.io/token/0x63b4f3e3fa4e438698ce330e365e831f7ccd1ef4",
+  "links": {
+    "coingecko": "cyberfi",
+    "twitter": "cyberfi_tech",
+    "telegram": "cyberfi_tech"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

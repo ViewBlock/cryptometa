@@ -1,0 +1,17 @@
+{
+  "name": "Compounder",
+  "symbol": "CP3R",
+  "web": "https://compounder.finance",
+  "explorer": "https://etherscan.io/token/0x7ef1081ecc8b5b5b130656a41d4ce4f89dbbcc8c",
+  "links": {
+    "github": "CP3R-Finance",
+    "coingecko": "compounder",
+    "twitter": "gocompounder",
+    "telegram": "gocompounder"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

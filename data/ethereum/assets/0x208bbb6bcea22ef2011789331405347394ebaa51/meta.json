@@ -1,0 +1,17 @@
+{
+  "name": "1AI",
+  "symbol": "1AI",
+  "web": "https://www.1ai.io",
+  "explorer": "https://etherscan.io/token/0x208bbb6bCEA22ef2011789331405347394EbAa51",
+  "links": {
+    "github": "1aigo",
+    "coingecko": "1ai",
+    "twitter": "1aigo",
+    "facebook": "1aigo",
+    "telegram": "oneaigo"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

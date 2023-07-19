@@ -1,0 +1,15 @@
+{
+  "name": "SmartMesh",
+  "symbol": "SMT",
+  "web": "https://smartmesh.io",
+  "explorer": "https://etherscan.io/token/0x21f15966e07a10554c364b988e91dab01d32794a",
+  "links": {
+    "github": "SmartMeshFoundation",
+    "coingecko": "smartmesh",
+    "twitter": "smart_mesh"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

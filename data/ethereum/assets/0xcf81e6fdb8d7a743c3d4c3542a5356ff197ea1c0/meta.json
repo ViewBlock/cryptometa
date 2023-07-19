@@ -1,0 +1,17 @@
+{
+  "name": "Global Gaming",
+  "symbol": "GMNG",
+  "web": "https://globalgaming.io",
+  "explorer": "https://etherscan.io/token/0xcf81e6fdb8d7a743c3d4c3542a5356ff197ea1c0",
+  "links": {
+    "github": "crobinsonoc",
+    "coingecko": "global-gaming",
+    "twitter": "GlobalGaming19",
+    "facebook": "globalgamingllc",
+    "telegram": "globalgamingplatform"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

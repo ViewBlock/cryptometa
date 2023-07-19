@@ -1,0 +1,15 @@
+{
+  "name": "YFI Credits Group",
+  "symbol": "YFICG",
+  "web": "https://yficredits.com",
+  "explorer": "https://etherscan.io/token/0x9080e92296a176883aab1d7d1b7e50bc055b0caa",
+  "links": {
+    "github": "YFICREDITS",
+    "coingecko": "yfi-credits-group",
+    "telegram": "Techmrjofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

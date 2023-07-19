@@ -1,0 +1,16 @@
+{
+  "name": "Voyager",
+  "description": "Voyager is a block explorer for StarkNet ecosystem, providing all the capabilities needed in navigating through this ecosystem. It includes not only read-only data but also supports interaction with Starknet contracts.",
+  "categories": [
+    "tools"
+  ],
+  "web": "https://voyager.online",
+  "links": {
+    "twitter": "https://twitter.com/nethermindeth",
+    "discord": "https://discord.com/channels/793094838509764618/912410047236149298"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "voyager"
+}

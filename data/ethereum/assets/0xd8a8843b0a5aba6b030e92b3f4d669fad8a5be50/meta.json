@@ -1,0 +1,16 @@
+{
+  "name": "AfroDex Labs Token",
+  "symbol": "AFDLT",
+  "web": "http://afrodexlabs.com",
+  "explorer": "https://etherscan.io/token/0xd8a8843b0a5aba6b030e92b3f4d669fad8a5be50",
+  "links": {
+    "coingecko": "afrodex-labs-token",
+    "twitter": "DexAfro",
+    "facebook": "AfroDex1",
+    "telegram": "AfroDex"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

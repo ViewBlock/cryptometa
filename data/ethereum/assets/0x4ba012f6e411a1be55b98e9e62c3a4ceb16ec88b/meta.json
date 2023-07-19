@@ -1,0 +1,15 @@
+{
+  "name": "Cybercoin",
+  "symbol": "CBR",
+  "web": "https://www.cybercoin.site",
+  "explorer": "https://etherscan.io/token/0x4ba012f6e411a1be55b98e9e62c3a4ceb16ec88b",
+  "links": {
+    "coingecko": "cybercoin",
+    "twitter": "_cybercoin",
+    "telegram": "cybercoinchat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

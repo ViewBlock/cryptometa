@@ -1,0 +1,14 @@
+{
+  "name": "sCEX",
+  "symbol": "SCEX",
+  "web": "https://www.synthetix.io/tokens",
+  "explorer": "https://etherscan.io/token/0xeABACD844A196D7Faf3CE596edeBF9900341B420",
+  "links": {
+    "coingecko": "scex",
+    "twitter": "synthetix_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

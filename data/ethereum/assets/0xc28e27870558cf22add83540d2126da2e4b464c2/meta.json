@@ -1,0 +1,13 @@
+{
+  "name": "Sashimi",
+  "symbol": "SASHIMI",
+  "web": "https://sashimi.cool",
+  "explorer": "https://etherscan.io/token/0xC28E27870558cF22ADD83540d2126da2e4b464c2",
+  "links": {
+    "coingecko": "sashimi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

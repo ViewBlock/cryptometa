@@ -1,0 +1,17 @@
+{
+  "name": "Flowchain",
+  "symbol": "FLC",
+  "web": "https://flowchain.co",
+  "explorer": " https://etherscan.io/token/0x32C4ADB9cF57f972bc375129de91C897b4F364F1",
+  "links": {
+    "github": "flowchain",
+    "coingecko": "flowchaincoin",
+    "twitter": "jollen",
+    "facebook": "flowchain",
+    "telegram": "Flowchain_Overseas_Group"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

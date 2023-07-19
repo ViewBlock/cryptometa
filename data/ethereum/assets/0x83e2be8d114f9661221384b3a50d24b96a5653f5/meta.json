@@ -1,0 +1,18 @@
+{
+  "name": "0xcert",
+  "symbol": "ZXC",
+  "web": "https://0xcert.org",
+  "explorer": "https://etherscan.io/token/0x83e2be8d114f9661221384b3a50d24b96a5653f5",
+  "links": {
+    "github": "0xcert",
+    "coingecko": "0xcert",
+    "twitter": "0xcert",
+    "facebook": "0xcert",
+    "telegram": "zeroxcert",
+    "reddit": "r/0xcert"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

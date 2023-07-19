@@ -1,0 +1,15 @@
+{
+  "name": "Axie Infinity",
+  "symbol": "AXS",
+  "web": "https://axieinfinity.com",
+  "explorer": "https://etherscan.io/token/0xF5D669627376EBd411E34b98F19C868c8ABA5ADA",
+  "links": {
+    "coingecko": "axie-infinity",
+    "twitter": "axieinfinity",
+    "telegram": "axieinfinity"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

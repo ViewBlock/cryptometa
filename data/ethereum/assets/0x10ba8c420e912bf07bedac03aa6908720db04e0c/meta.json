@@ -1,0 +1,18 @@
+{
+  "name": "Raise Token",
+  "symbol": "RAISE",
+  "web": "https://raise.it",
+  "explorer": "https://etherscan.io/token/0x10ba8c420e912bf07bedac03aa6908720db04e0c",
+  "links": {
+    "github": "raisehq",
+    "coingecko": "hero-token",
+    "twitter": "raise_hq",
+    "facebook": "RaiseitHQ",
+    "telegram": "raisehq",
+    "reddit": "r/HeroToken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

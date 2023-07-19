@@ -1,0 +1,17 @@
+{
+  "name": "Mirrored Twitter",
+  "symbol": "MTWTR",
+  "web": "https://mirror.finance",
+  "explorer": "https://etherscan.io/token/0xEdb0414627E6f1e3F082DE65cD4F9C693D78CCA9",
+  "links": {
+    "github": "mirror-protocol",
+    "coingecko": "mirrored-twitter",
+    "twitter": "mirror_protocol",
+    "telegram": "mirror_protocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

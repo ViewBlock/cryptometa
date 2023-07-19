@@ -1,0 +1,16 @@
+{
+  "name": "IDL Token",
+  "symbol": "IDL",
+  "web": "https://idlswap.io",
+  "explorer": "https://etherscan.io/token/0x6febd6be8fa45be6a5eeb61a17c82d33b9addd41",
+  "links": {
+    "github": "IDLSwap",
+    "coingecko": "idl-token",
+    "twitter": "idlswap",
+    "telegram": "IDLSwapEnglish"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

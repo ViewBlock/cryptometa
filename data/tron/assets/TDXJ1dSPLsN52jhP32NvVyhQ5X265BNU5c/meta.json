@@ -1,0 +1,17 @@
+{
+  "name": "Rich Lab Token",
+  "symbol": "RLE",
+  "web": "https://richlabexchange.com",
+  "explorer": "https://tronscan.org/#/token20/TDXJ1dSPLsN52jhP32NvVyhQ5X265BNU5c",
+  "links": {
+    "github": "blockchainforfuture",
+    "coingecko": "rich-lab-token",
+    "twitter": "Richlabexchange",
+    "facebook": "RichLabExChange",
+    "telegram": "RLEswap"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

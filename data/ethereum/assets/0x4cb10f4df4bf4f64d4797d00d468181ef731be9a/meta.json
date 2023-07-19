@@ -1,0 +1,17 @@
+{
+  "name": "Dimension",
+  "symbol": "EON",
+  "web": "http://dimensionchain.io",
+  "explorer": "https://etherscan.io/token/0x4cb10f4df4bf4f64d4797d00d468181ef731be9a",
+  "links": {
+    "github": "dimensionofficial",
+    "coingecko": "dimension",
+    "twitter": "DimensionChain",
+    "facebook": "dimensionEON",
+    "telegram": "dimensionofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

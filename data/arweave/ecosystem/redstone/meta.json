@@ -1,0 +1,35 @@
+{
+  "name": "RedStone",
+  "description": "Data ecosystem for decentralised finance, offering a solution for financial data storage and processing with efficient querying, and permanent availability",
+  "web": "https://redstone.finance",
+  "categories": [
+    "tools"
+  ],
+  "addresses": [],
+  "links": {
+    "github": "redstone-finance"
+  },
+  "developers": [
+    {
+      "name": "Jakub Wojciechowski",
+      "github": "jakub-wojciechowski",
+      "twitter": "kuba_eth"
+    },
+    {
+      "name": "Alex Suvorov",
+      "github": "hatskier"
+    },
+    {
+      "name": "Peter Pedziwiatr",
+      "github": "ppedziwiatr"
+    },
+    {
+      "name": "Peter Duda",
+      "github": "piotruda"
+    }
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "redstone"
+}

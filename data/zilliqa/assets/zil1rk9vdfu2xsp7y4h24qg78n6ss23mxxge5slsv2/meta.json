@@ -1,0 +1,14 @@
+{
+  "name": "AXtoken",
+  "symbol": "AXT",
+  "whitepaper": "https://axholding.medium.com/axt-tokenomics-6d32d0f3b20a",
+  "links": {
+    "twitter": "AxValidator",
+    "telegram": "AXvalidator",
+    "blog": "https://axholding.medium.com"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 14
+  }
+}

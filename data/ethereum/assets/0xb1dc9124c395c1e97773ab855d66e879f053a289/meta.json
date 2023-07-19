@@ -1,0 +1,16 @@
+{
+  "name": "yAxis",
+  "symbol": "YAX",
+  "web": "https://yaxis.io",
+  "explorer": "https://etherscan.io/token/0xb1dc9124c395c1e97773ab855d66e879f053a289",
+  "links": {
+    "github": "yaxis-project",
+    "coingecko": "yaxis",
+    "twitter": "yaxis_project",
+    "telegram": "yaxisannouncem"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

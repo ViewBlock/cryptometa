@@ -1,0 +1,16 @@
+{
+  "name": "Combo",
+  "symbol": "COMB",
+  "web": "https://www.comboos.com",
+  "explorer": "https://etherscan.io/token/0x7C81542ED859A2061538FEE22B6544a235B9557D",
+  "links": {
+    "coingecko": "combo-2",
+    "twitter": "DefiCombo",
+    "facebook": "DeFiComboGlobal",
+    "telegram": "Combo6688"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

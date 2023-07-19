@@ -1,0 +1,16 @@
+{
+  "name": "zilSurvey.com",
+  "symbol": "SRV",
+  "web": "https://zilsurvey.com",
+  "supply": "1000000",
+  "publicTeam": true,
+  "whitepaper": "https://zilsurvey.com/whitepaper.pdf",
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/arthur-hoeke-170691103/",
+    "twitter": "https://twitter.com/zilSurvey"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 43
+  }
+}

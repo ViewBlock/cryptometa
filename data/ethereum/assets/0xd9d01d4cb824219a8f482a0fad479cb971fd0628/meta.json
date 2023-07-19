@@ -1,0 +1,16 @@
+{
+  "name": "EnterCoin",
+  "symbol": "ENTRC",
+  "web": "https://entercoin.net",
+  "explorer": "https://etherscan.io/token/0xd9d01d4cb824219a8f482a0fad479cb971fd0628",
+  "links": {
+    "coingecko": "entercoin",
+    "twitter": "enter_coin",
+    "facebook": "entrcoin",
+    "telegram": "entercoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "AirSwap",
+  "symbol": "AST",
+  "web": "https://www.airswap.io",
+  "explorer": "https://etherscan.io/token/0x27054b13b1b798b345b591a4d22e6562d47ea75a",
+  "links": {
+    "github": "airswap",
+    "coingecko": "airswap",
+    "twitter": "airswap",
+    "reddit": "r/AirSwap"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

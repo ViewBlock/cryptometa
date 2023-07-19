@@ -1,0 +1,15 @@
+{
+  "name": "Yield Farming Token",
+  "symbol": "YFT",
+  "web": "https://yft.finance",
+  "explorer": "https://etherscan.io/token/0x26B3038a7Fc10b36c426846a9086Ef87328dA702",
+  "links": {
+    "coingecko": "yield-farming-token",
+    "twitter": "yftfinance",
+    "telegram": "YFT_Finance_Official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

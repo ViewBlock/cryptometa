@@ -1,0 +1,17 @@
+{
+  "name": "Camp",
+  "symbol": "CAMP",
+  "web": "https://www.camp-global.com",
+  "explorer": "https://etherscan.io/token/0xE9E73E1aE76D17A16cC53E3e87a9a7dA78834d37",
+  "links": {
+    "github": "JoshepJang",
+    "coingecko": "camp",
+    "twitter": "camp_global?s=09",
+    "facebook": "CAMP-GLOBAL-107839080680846",
+    "telegram": "CAMPKOR"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "sTSLA",
+  "symbol": "STSLA",
+  "web": "https://synthetix.io",
+  "explorer": "https://etherscan.io/token/0x918da91ccbc32b7a6a0cc4ecd5987bbab6e31e6d",
+  "links": {
+    "github": "Synthetixio",
+    "coingecko": "stsla",
+    "twitter": "synthetix_io",
+    "reddit": "r/synthetix_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

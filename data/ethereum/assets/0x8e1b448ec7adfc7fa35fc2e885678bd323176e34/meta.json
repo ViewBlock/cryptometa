@@ -1,0 +1,18 @@
+{
+  "name": "Egretia",
+  "symbol": "EGT",
+  "web": "http://egretia.io",
+  "explorer": "https://etherscan.io/token/0x8e1b448ec7adfc7fa35fc2e885678bd323176e34",
+  "links": {
+    "github": "Egretia",
+    "coingecko": "egretia",
+    "twitter": "Egretia_io",
+    "facebook": "Egretia.io",
+    "telegram": "Egretia",
+    "reddit": "r/Egretia"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

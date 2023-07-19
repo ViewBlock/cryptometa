@@ -1,0 +1,14 @@
+{
+  "name": "Topology",
+  "description": "Building Fountain engine, solve2mint framework, svg/html/midi libraries and other infrastructure for onchain gaming, art, and decentralized innovation protocol",
+  "categories": [
+    "infra"
+  ],
+  "web": "https://www.topology.gg",
+  "links": {
+    "github": "https://github.com/topology-gg",
+    "twitter": "https://twitter.com/topology_gg"
+  },
+  "gen": {},
+  "key": "topology"
+}

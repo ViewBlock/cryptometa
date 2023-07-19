@@ -1,0 +1,16 @@
+{
+  "name": "tBTC",
+  "symbol": "TBTC",
+  "web": "https://tbtc.network",
+  "explorer": "https://etherscan.io/token/0x8daebade922df735c38c80c7ebd708af50815faa",
+  "links": {
+    "github": "keep-network",
+    "coingecko": "tbtc"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg",
+    "score": 14
+  }
+}

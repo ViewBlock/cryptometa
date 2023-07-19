@@ -1,0 +1,15 @@
+{
+  "name": "UniLayer",
+  "symbol": "LAYER",
+  "web": "https://unilayer.com",
+  "explorer": "https://etherscan.io/token/0x0fF6ffcFDa92c53F615a4A75D982f399C989366b",
+  "links": {
+    "coingecko": "unilayer",
+    "twitter": "unilayer_",
+    "telegram": "Unilayer"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "PICK",
+  "symbol": "PICK",
+  "web": "https://theglobridge.com",
+  "explorer": "https://etherscan.io/token/0x287609A15A683640A5bbC4d93D4D5f4Ed6bAD3A0",
+  "links": {
+    "coingecko": "pick",
+    "twitter": "theglobridge"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

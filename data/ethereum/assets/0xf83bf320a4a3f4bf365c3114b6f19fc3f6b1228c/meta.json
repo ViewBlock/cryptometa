@@ -1,0 +1,14 @@
+{
+  "name": "FXT Token",
+  "symbol": "FXT",
+  "web": "https://ico.fxttoken.com",
+  "explorer": "https://etherscan.io/token/0xf83bf320a4a3f4bf365c3114b6f19fc3f6b1228c",
+  "links": {
+    "coingecko": "fxt-token",
+    "twitter": "TokenFxt"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

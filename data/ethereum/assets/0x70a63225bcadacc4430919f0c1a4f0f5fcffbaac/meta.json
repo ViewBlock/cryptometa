@@ -1,0 +1,17 @@
+{
+  "name": "VEY",
+  "symbol": "VEY",
+  "web": "https://vey.io",
+  "explorer": "https://etherscan.io/token/0x70a63225bcadacc4430919f0c1a4f0f5fcffbaac",
+  "links": {
+    "github": "Mandil",
+    "coingecko": "vey",
+    "twitter": "Vey_io",
+    "telegram": "Vey_io",
+    "reddit": "r/vey_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

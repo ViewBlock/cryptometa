@@ -1,0 +1,16 @@
+{
+  "name": "Farming Bad",
+  "symbol": "METH",
+  "web": "https://farmingbad.finance",
+  "explorer": "https://etherscan.io/token/0x11003e410ca3fcd220765b3d2f343433a0b2bffd",
+  "links": {
+    "github": "gitfarmingbad",
+    "coingecko": "farming-bad",
+    "twitter": "FarmingBad",
+    "telegram": "FarmingBad"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

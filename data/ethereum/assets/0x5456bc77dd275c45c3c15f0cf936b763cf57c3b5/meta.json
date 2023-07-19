@@ -1,0 +1,17 @@
+{
+  "name": "Anchor",
+  "symbol": "ANCT",
+  "web": "https://theanchor.io",
+  "explorer": "https://etherscan.io/token/0x5456bc77dd275c45c3c15f0cf936b763cf57c3b5",
+  "links": {
+    "github": "AnchorProject",
+    "coingecko": "anchor",
+    "twitter": "theanchor_io",
+    "facebook": "theanchorio",
+    "telegram": "theanchorprojectcommunity"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

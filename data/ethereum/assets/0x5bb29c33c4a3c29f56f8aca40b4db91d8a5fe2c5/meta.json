@@ -1,0 +1,16 @@
+{
+  "name": "One Share",
+  "symbol": "ONS",
+  "web": "https://onecash.finance",
+  "explorer": "https://etherscan.io/token/0x5BB29c33C4A3C29f56F8ACa40B4dB91d8a5fe2c5",
+  "links": {
+    "github": "onecash",
+    "coingecko": "one-share",
+    "twitter": "AckmanMisa",
+    "telegram": "onecashfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

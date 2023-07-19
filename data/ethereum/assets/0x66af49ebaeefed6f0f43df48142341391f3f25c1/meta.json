@@ -1,0 +1,17 @@
+{
+  "name": "Mangu",
+  "symbol": "MNGUZ",
+  "web": "https://mangucorp.com",
+  "explorer": "https://etherscan.io/token/0x66af49ebaeefed6f0f43df48142341391f3f25c1",
+  "links": {
+    "github": "MNGUZ",
+    "coingecko": "mangu",
+    "twitter": "ManguCorporati1",
+    "facebook": "mangu.uz",
+    "telegram": "manguuzbank"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

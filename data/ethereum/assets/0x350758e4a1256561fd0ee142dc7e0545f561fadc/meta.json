@@ -1,0 +1,17 @@
+{
+  "name": "B2U Coin",
+  "symbol": "B2U",
+  "web": "https://b2ucoin.com",
+  "explorer": "https://etherscan.io/token/0x350758e4a1256561fd0ee142dc7e0545f561fadc",
+  "links": {
+    "github": "Bitcointoyou",
+    "coingecko": "b2u-coin",
+    "twitter": "CoinB2u",
+    "facebook": "b2ucoin",
+    "telegram": "comunidade_b2u"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

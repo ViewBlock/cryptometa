@@ -1,0 +1,17 @@
+{
+  "name": "VeThor Token",
+  "symbol": "VTHO",
+  "web": "https://www.vechain.org",
+  "explorer": "https://explore.vechain.org/accounts/0x0000000000000000000000000000456e65726779",
+  "links": {
+    "github": "vechain",
+    "coingecko": "vethor-token",
+    "twitter": "vechainofficial",
+    "telegram": "vechain_official_english",
+    "reddit": "r/Vechain"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

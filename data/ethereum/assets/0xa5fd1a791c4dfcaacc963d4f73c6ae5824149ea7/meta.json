@@ -1,0 +1,17 @@
+{
+  "name": "Jibrel Network",
+  "symbol": "JNT",
+  "web": "https://jibrel.network",
+  "explorer": "https://etherscan.io/token/0xa5fd1a791c4dfcaacc963d4f73c6ae5824149ea7",
+  "links": {
+    "github": "jibrelnetwork",
+    "coingecko": "jibrel",
+    "twitter": "JibrelNetwork",
+    "facebook": "jibrelnetwork",
+    "telegram": "jibrel_network"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

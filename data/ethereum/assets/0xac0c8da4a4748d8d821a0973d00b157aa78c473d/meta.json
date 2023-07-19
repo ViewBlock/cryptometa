@@ -1,0 +1,16 @@
+{
+  "name": "YFIONE",
+  "symbol": "YFO",
+  "web": "https://yfione.finance",
+  "explorer": "https://etherscan.io/token/0xac0c8da4a4748d8d821a0973d00b157aa78c473d",
+  "links": {
+    "github": "yfi-one",
+    "coingecko": "yfione",
+    "twitter": "yfione",
+    "telegram": "yfi_one"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

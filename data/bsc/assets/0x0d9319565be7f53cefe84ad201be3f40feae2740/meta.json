@@ -1,0 +1,12 @@
+{
+  "name": "bDollar Share",
+  "symbol": "SBDO",
+  "web": "https://bdollar.fi",
+  "explorer": "https://bscscan.com/token/0x0d9319565be7f53CeFE84Ad201Be3f40feAE2740",
+  "links": {
+    "github": "bearn-defi",
+    "coingecko": "bdollar-share",
+    "twitter": "bDollar_Fi",
+    "telegram": "Bearn_Fi"
+  }
+}

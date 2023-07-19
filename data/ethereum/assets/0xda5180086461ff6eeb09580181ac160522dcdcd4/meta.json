@@ -1,0 +1,15 @@
+{
+  "name": "Braziliex Token",
+  "symbol": "BRZX",
+  "web": "https://braziliex.com",
+  "explorer": "https://etherscan.io/token/0xda5180086461ff6eeb09580181ac160522dcdcd4",
+  "links": {
+    "coingecko": "braziliexs-token",
+    "twitter": "braziliextrades",
+    "facebook": "braziliex"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

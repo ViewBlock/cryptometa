@@ -1,0 +1,13 @@
+{
+  "name": "COTI",
+  "symbol": "COTI-CBB",
+  "explorer": "https://explorer.binance.org/asset/COTI-CBB",
+  "web": "https://coti.io",
+  "links": {
+    "twitter": "COTInetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

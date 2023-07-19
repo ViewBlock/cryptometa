@@ -1,0 +1,17 @@
+{
+  "name": "BitMart Token",
+  "symbol": "BMX",
+  "web": "https://www.bitmart.com/trade/en?symbol=AKT_USDT",
+  "explorer": "https://etherscan.io/token/0x986EE2B944c42D017F52Af21c4c69B84DBeA35d8",
+  "links": {
+    "coingecko": "bitmart-token",
+    "twitter": "BitMartExchange",
+    "facebook": "bitmartexchange",
+    "telegram": "BitMartExchange",
+    "reddit": "r/BitMartExchange"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

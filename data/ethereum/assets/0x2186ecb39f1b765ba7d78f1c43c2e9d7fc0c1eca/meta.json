@@ -1,0 +1,15 @@
+{
+  "name": "My Crypto Play",
+  "symbol": "MCP",
+  "web": "https://mycryptoplay.com",
+  "explorer": "https://etherscan.io/token/0x2186ecb39f1b765ba7d78f1c43c2e9d7fc0c1eca",
+  "links": {
+    "coingecko": "my-crypto-play",
+    "twitter": "mycryptoplay",
+    "telegram": "mycryptoplay"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Cornichon",
+  "symbol": "CORN",
+  "web": "https://cornichon.ape.tax",
+  "explorer": "https://etherscan.io/token/0xa456b515303b2ce344e9d2601f91270f8c2fea5e",
+  "links": {
+    "github": "banteg",
+    "coingecko": "cornichon"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

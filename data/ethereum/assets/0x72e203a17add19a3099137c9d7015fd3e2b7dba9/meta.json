@@ -1,0 +1,15 @@
+{
+  "name": "BlockchainPoland",
+  "symbol": "BCP",
+  "web": "https://www.bcp24.io",
+  "explorer": "https://etherscan.io/token/0x72e203a17add19a3099137c9d7015fd3e2b7dba9",
+  "links": {
+    "coingecko": "blockchainpoland",
+    "twitter": "bcp24pl",
+    "facebook": "BlockchainPoland"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

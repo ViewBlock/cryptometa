@@ -1,0 +1,15 @@
+{
+  "name": "ALL BEST ICO",
+  "symbol": "ALLBI",
+  "web": "https://allbestico.com",
+  "explorer": "https://etherscan.io/address/0xa22525aad7a794d5b923ecb036ced9eb66d7d5ed",
+  "links": {
+    "coingecko": "all-best-ico",
+    "twitter": "allbestico",
+    "facebook": "ALLbestico"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

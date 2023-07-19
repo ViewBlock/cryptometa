@@ -1,0 +1,16 @@
+{
+  "name": "KIRA Network",
+  "symbol": "KEX",
+  "web": "https://kira.network",
+  "explorer": "https://etherscan.io/token/0x16980b3b4a3f9d89e33311b5aa8f80303e5ca4f8",
+  "links": {
+    "github": "kiracore",
+    "coingecko": "kira-network",
+    "twitter": "kira_core",
+    "telegram": "kirainterex"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

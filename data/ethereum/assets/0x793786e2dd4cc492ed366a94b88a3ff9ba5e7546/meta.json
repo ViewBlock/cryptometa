@@ -1,0 +1,16 @@
+{
+  "name": "Axia",
+  "symbol": "AXIAV3",
+  "web": "https://axiaprotocol.io",
+  "explorer": "https://etherscan.io/token/0x793786e2dd4Cc492ed366a94B88a3Ff9ba5E7546",
+  "links": {
+    "github": "axiaprotocol",
+    "coingecko": "axia",
+    "twitter": "axiaprotocol",
+    "telegram": "axiaprotocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

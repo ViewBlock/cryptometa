@@ -1,0 +1,16 @@
+{
+  "name": "AfroDex",
+  "symbol": "AFROX",
+  "web": "http://afrodexlabs.com",
+  "explorer": "https://etherscan.io/token/0x08130635368AA28b217a4dfb68E1bF8dC525621C",
+  "links": {
+    "github": "AfroDex",
+    "coingecko": "afrodex",
+    "facebook": "AfroDex1",
+    "telegram": "AfroDex"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "CashBackPro",
+  "symbol": "CBP",
+  "web": "https://cashbackpro.net",
+  "explorer": "https://etherscan.io/token/0x6F4ee03Ca6c942c9397D2ba5f8F83eA58f918f47",
+  "links": {
+    "github": "cashbackpro-cbp",
+    "coingecko": "cashbackpro",
+    "telegram": "cashbackprocommunity"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

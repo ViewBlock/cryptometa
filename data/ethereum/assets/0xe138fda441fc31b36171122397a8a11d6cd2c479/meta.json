@@ -1,0 +1,17 @@
+{
+  "name": "Global Trust Coin",
+  "symbol": "GTC",
+  "web": "https://gtibcoin.com",
+  "explorer": "https://etherscan.io/token/0xe138fda441fc31b36171122397a8a11d6cd2c479",
+  "links": {
+    "github": "GTIBCOIN",
+    "coingecko": "global-trust-coin",
+    "twitter": "globaltrustcoin",
+    "facebook": "globaltrustcoin",
+    "telegram": "globaltrustcoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

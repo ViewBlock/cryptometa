@@ -1,0 +1,13 @@
+{
+  "name": "DragonZIL",
+  "symbol": "DZT",
+  "web": "https://dragonzil.xyz",
+  "links": {
+    "telegram": "https://t.me/Deep_Dragons",
+    "github": "https://github.com/DeepDragons"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 14
+  }
+}

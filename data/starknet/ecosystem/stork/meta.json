@@ -1,0 +1,15 @@
+{
+  "name": "Stork Oracle Network",
+  "description": "Stork is an oracle network for StarkEx and StarkNet, optimized for DeFi and providing low latency off-chain price quotes from trusted sources.",
+  "categories": [
+    "defi"
+  ],
+  "web": "https://stork.network",
+  "links": {
+    "medium": "https://medium.com/@stork-oracle"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "stork"
+}

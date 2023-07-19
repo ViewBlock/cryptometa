@@ -1,0 +1,16 @@
+{
+  "name": "BITSCOIN",
+  "symbol": "BTCX",
+  "web": "http://bitscointoken.com",
+  "explorer": "https://etherscan.io/token/0x9388f54fa978aa9e24395a8b69033304eccea4df",
+  "links": {
+    "github": "ammar4243",
+    "coingecko": "bitscoin",
+    "twitter": "bitscoin_token",
+    "telegram": "BitsoinToken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

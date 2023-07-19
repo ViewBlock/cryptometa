@@ -1,0 +1,13 @@
+{
+  "name": "FormulA",
+  "symbol": "FML",
+  "web": "http://fml-x.org",
+  "explorer": "https://etherscan.io/token/0xde522a2778e4554707e6a8df36a4871ce9967bb5",
+  "links": {
+    "coingecko": "formula"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

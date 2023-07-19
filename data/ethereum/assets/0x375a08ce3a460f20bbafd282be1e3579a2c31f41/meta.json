@@ -1,0 +1,16 @@
+{
+  "name": "Thaler Group Company",
+  "symbol": "TGCO",
+  "web": "https://www.thalergroup.com",
+  "explorer": "https://etherscan.io/token/0x375a08ce3a460f20bbafd282be1e3579a2c31f41",
+  "links": {
+    "coingecko": "thaler",
+    "twitter": "TokenThaler",
+    "facebook": "thalertokenfollow",
+    "telegram": "ThalerGroupChat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

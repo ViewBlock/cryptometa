@@ -1,0 +1,17 @@
+{
+  "name": "Quadrant Protocol",
+  "symbol": "EQUAD",
+  "web": "https://www.quadrantprotocol.com/#",
+  "explorer": "https://etherscan.io/token/0xc28e931814725bbeb9e670676fabbcb694fe7df2",
+  "links": {
+    "coingecko": "quadrant-protocol",
+    "twitter": "explorequadrant",
+    "facebook": "quadrantprotocol",
+    "telegram": "quadrantprotocol",
+    "reddit": "r/quadrantprotocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Katalyo",
+  "symbol": "KTLYO",
+  "web": "https://www.katalyo.com",
+  "explorer": "https://etherscan.io/token/0x24e3794605c84e580eea4972738d633e8a7127c8",
+  "links": {
+    "coingecko": "katalyo",
+    "twitter": "katalyo",
+    "telegram": "katalyo"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

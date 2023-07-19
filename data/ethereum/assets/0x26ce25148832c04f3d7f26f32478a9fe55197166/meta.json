@@ -1,0 +1,15 @@
+{
+  "name": "DexTools",
+  "symbol": "DEXT",
+  "web": "https://www.dextools.io",
+  "explorer": "https://etherscan.io/token/0x26CE25148832C04f3d7F26F32478a9fe55197166",
+  "links": {
+    "coingecko": "idextools",
+    "twitter": "DEXToolsApp",
+    "telegram": "DEXToolsCommunity"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

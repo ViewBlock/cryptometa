@@ -1,0 +1,15 @@
+{
+  "name": "GNY",
+  "symbol": "GNY",
+  "web": "http://www.gny.io",
+  "explorer": "https://etherscan.io/token/0xb1f871ae9462f1b2c6826e88a7827e76f86751d4",
+  "links": {
+    "coingecko": "gny",
+    "twitter": "gny_io",
+    "telegram": "GNYioBlockchain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

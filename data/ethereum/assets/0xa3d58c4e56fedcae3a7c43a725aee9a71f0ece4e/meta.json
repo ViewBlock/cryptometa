@@ -1,0 +1,18 @@
+{
+  "name": "Metronome",
+  "symbol": "MET",
+  "web": "https://metronome.io",
+  "explorer": "https://etherscan.io/token/0xa3d58c4e56fedcae3a7c43a725aee9a71f0ece4e",
+  "links": {
+    "github": "autonomoussoftware",
+    "coingecko": "metronome",
+    "twitter": "MTNToken",
+    "facebook": "MetronomeToken",
+    "telegram": "metronometoken",
+    "reddit": "r/MetronomeToken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

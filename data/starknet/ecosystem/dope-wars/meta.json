@@ -1,0 +1,18 @@
+{
+  "name": "Dope Wars",
+  "description": "Modular and extendable game system inspired by calculator game nostalgia.",
+  "categories": [
+    "nft",
+    "gamefi",
+    "dao"
+  ],
+  "web": "https://dopewars.gg",
+  "links": {
+    "twitter": "https://twitter.com/TheDopeWars",
+    "discord": "https://discord.com/invite/uVxuZjK6Mb"
+  },
+  "gen": {
+    "logo": "logo.jpeg"
+  },
+  "key": "dope-wars"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Serenity",
+  "symbol": "SRNT",
+  "web": "https://serenity-financial.io",
+  "explorer": "https://etherscan.io/token/0xbc7942054f77b82e8a71ace170e4b00ebae67eb6",
+  "links": {
+    "github": "Serenity-Financial",
+    "coingecko": "serenity",
+    "twitter": "serenity_io",
+    "facebook": "SerenityFinancial",
+    "telegram": "SerenityFinancial",
+    "reddit": "r/SerenityFinancial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

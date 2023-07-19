@@ -1,0 +1,15 @@
+{
+  "name": "SEEN",
+  "symbol": "SEEN",
+  "web": "https://seen.haus",
+  "explorer": "https://etherscan.io/token/0xCa3FE04C7Ee111F0bbb02C328c699226aCf9Fd33",
+  "links": {
+    "coingecko": "seen",
+    "twitter": "seen_haus",
+    "telegram": "seenhaus"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

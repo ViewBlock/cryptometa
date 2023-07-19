@@ -1,0 +1,13 @@
+{
+  "name": "FOX Token",
+  "symbol": "FOX",
+  "web": "https://shapeshift.com/fox-token",
+  "explorer": "https://etherscan.io/token/0xc770eefad204b5180df6a14ee197d99d808ee52d",
+  "links": {
+    "coingecko": "fox-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

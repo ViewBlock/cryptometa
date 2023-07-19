@@ -1,0 +1,18 @@
+{
+  "name": "StockChain",
+  "symbol": "SCC",
+  "web": "http://stockchain.co",
+  "explorer": "https://etherscan.io/token/0x355a458d555151d3b27f94227960ade1504e526a",
+  "links": {
+    "github": "StockChainScc",
+    "coingecko": "stockchain",
+    "twitter": "StockChain_Ltd",
+    "facebook": "StockChainco-1839562622721602",
+    "telegram": "SCCstockchainAres",
+    "reddit": "user/stockchain_scc"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

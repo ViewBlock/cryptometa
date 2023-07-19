@@ -1,0 +1,14 @@
+{
+  "name": "Content Value Network",
+  "symbol": "CVNT",
+  "web": "http://cvn.io",
+  "explorer": "https://etherscan.io/token/0x6400b5522f8d448c0803e6245436dd1c81df09ce",
+  "links": {
+    "coingecko": "content-value-network",
+    "twitter": "CvnOfficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Noiz Chain",
+  "symbol": "NOIZ",
+  "web": "https://noizchain.com",
+  "explorer": "https://etherscan.io/token/0x36151737b45017234e9570cf9a1cac97138953c2",
+  "links": {
+    "coingecko": "noiz-chain",
+    "twitter": "NOIZchain",
+    "facebook": "NOIZchain",
+    "telegram": "noizchainenglish",
+    "reddit": "r/NOIZ"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

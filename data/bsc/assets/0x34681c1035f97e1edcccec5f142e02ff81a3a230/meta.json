@@ -1,0 +1,12 @@
+{
+  "name": "Cubiex",
+  "symbol": "CBIX",
+  "web": "https://www.cubiex.com",
+  "explorer": "https://bscscan.com/token/0x34681C1035F97E1eDcccec5f142e02FF81a3A230",
+  "links": {
+    "coingecko": "cubiex",
+    "twitter": "CubiexEsports",
+    "facebook": "CubiexEsports",
+    "telegram": "cubiexesports"
+  }
+}

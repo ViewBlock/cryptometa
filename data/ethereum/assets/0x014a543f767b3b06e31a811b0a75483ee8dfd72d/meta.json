@@ -1,0 +1,16 @@
+{
+  "name": "BonezYard",
+  "symbol": "BNZ",
+  "web": "https://bonezyard.com",
+  "explorer": "https://etherscan.io/token/0x014a543f767b3b06e31a811b0a75483ee8dfd72d",
+  "links": {
+    "github": "Bonezyard",
+    "coingecko": "bonezyard",
+    "twitter": "bonezyard",
+    "telegram": "BonezYard"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

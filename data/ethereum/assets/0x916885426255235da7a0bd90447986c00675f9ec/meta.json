@@ -1,0 +1,16 @@
+{
+  "name": "GoalTime N",
+  "symbol": "GTX",
+  "web": "https://goaltimen.com",
+  "explorer": "https://etherscan.io/token/0x916885426255235DA7a0BD90447986c00675f9EC",
+  "links": {
+    "coingecko": "goaltime-n",
+    "twitter": "GoalTimeN",
+    "facebook": "GoalTimeN",
+    "telegram": "GoalTimeNGlobal"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

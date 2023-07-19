@@ -1,0 +1,17 @@
+{
+  "name": "Zilliqa Royale",
+  "description": "Play the first blockchain powered battle royale game running on Minecraft!",
+  "web": "https://zilliqaroyale.com",
+  "links": {
+    "telegram": "https://t.me/zilliqaroyale_discussion"
+  },
+  "categories": [
+    "app",
+    "gaming",
+    "nft"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "zilliqa-royale"
+}

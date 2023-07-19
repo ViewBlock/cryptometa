@@ -1,0 +1,15 @@
+{
+  "name": "Falconswap",
+  "symbol": "FSW",
+  "web": "https://falconswap.com",
+  "explorer": "https://etherscan.io/token/0xfffffffff15abf397da76f1dcc1a1604f45126db",
+  "links": {
+    "coingecko": "fsw-token",
+    "twitter": "Falcon_Swap",
+    "telegram": "Falcon_Swap"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

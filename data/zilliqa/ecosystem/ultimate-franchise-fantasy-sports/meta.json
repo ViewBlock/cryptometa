@@ -1,0 +1,17 @@
+{
+  "name": "Ultimate Franchise Fantasy Sports ",
+  "description": "The world’s first fantasy sports ecosystem offering ownership of franchises and players as digital NFTs on the Zilliqa blockchain.",
+  "web": "https://uffsports.com",
+  "links": {
+    "twitter": "https://twitter.com/uffsports",
+    "telegram": "https://t.me/joinchat/Go5RhA8PS6j5DKvzXjXGmw"
+  },
+  "categories": [
+    "gaming",
+    "dapp"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "ultimate-franchise-fantasy-sports"
+}

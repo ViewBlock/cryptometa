@@ -1,0 +1,15 @@
+{
+  "name": "Distributed Energy Coin",
+  "symbol": "DEC",
+  "web": "https://www.decpower.io",
+  "explorer": "https://etherscan.io/token/0x58379bF685ea2e251AE63d3eE26269c7c3848A17",
+  "links": {
+    "coingecko": "distributed-energy-coin",
+    "twitter": "DecPower2",
+    "facebook": "dec.power.7"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

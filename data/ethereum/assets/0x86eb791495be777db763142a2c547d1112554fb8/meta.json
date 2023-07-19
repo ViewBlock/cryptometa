@@ -1,0 +1,13 @@
+{
+  "name": "3X Short Huobi Token Token",
+  "symbol": "HTBEAR",
+  "web": "https://ftx.com/tokens/HTBEAR",
+  "explorer": "https://etherscan.io/token/0x86eb791495be777db763142a2c547d1112554fb8",
+  "links": {
+    "coingecko": "3x-short-huobi-token-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

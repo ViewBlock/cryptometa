@@ -1,0 +1,18 @@
+{
+  "name": "Xank",
+  "symbol": "XANK",
+  "web": "https://xank.io",
+  "explorer": "https://etherscan.io/token/0x0e7f79e89ba8c4a13431129fb2db0d4f444b5b9a",
+  "links": {
+    "github": "xankmoney",
+    "coingecko": "xank",
+    "twitter": "xankmoney",
+    "facebook": "XankMoney",
+    "telegram": "XankCrypto",
+    "reddit": "r/xankmoney"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

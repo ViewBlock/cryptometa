@@ -1,0 +1,19 @@
+{
+  "name": "Ecclesia",
+  "description": "An uncensorable social media platform",
+  "categories": [
+    "social"
+  ],
+  "addresses": [],
+  "links": {},
+  "developers": [
+    {
+      "name": "Brennan Lamey",
+      "twitter": "brennan_lamey"
+    }
+  ],
+  "gen": {
+    "logo": "logo.jpeg"
+  },
+  "key": "ecclesia"
+}

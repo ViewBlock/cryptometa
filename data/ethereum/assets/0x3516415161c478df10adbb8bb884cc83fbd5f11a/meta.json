@@ -1,0 +1,16 @@
+{
+  "name": "AlphaDex",
+  "symbol": "DEX",
+  "web": "https://www.kitten.finance",
+  "explorer": "https://etherscan.io/token/0x3516415161c478df10adbb8bb884cc83fbd5f11a",
+  "links": {
+    "github": "zfinanceapp",
+    "coingecko": "alphadex",
+    "twitter": "KittenFinance",
+    "telegram": "kitten_finance_group"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Kebab Token",
+  "symbol": "KEBAB",
+  "web": "https://kebabfinance.com",
+  "explorer": "https://bscscan.com/token/0x7979f6c54eba05e18ded44c4f986f49a5de551c2",
+  "links": {
+    "github": "chefkebab",
+    "coingecko": "kebab-token",
+    "twitter": "kebabfinance",
+    "telegram": "kebabfinance"
+  }
+}

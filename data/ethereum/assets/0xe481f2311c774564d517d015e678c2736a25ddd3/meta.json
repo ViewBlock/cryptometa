@@ -1,0 +1,15 @@
+{
+  "name": "DefHold",
+  "symbol": "DEFO",
+  "web": "https://defhold.com",
+  "explorer": "https://etherscan.io/token/0xe481f2311c774564d517d015e678c2736a25ddd3",
+  "links": {
+    "coingecko": "defhold",
+    "twitter": "DefHold",
+    "telegram": "DefHold"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "DET Token",
+  "symbol": "DET",
+  "web": "https://detplatform.net",
+  "explorer": "https://etherscan.io/token/0xF4e4F9E5BA2B0892c289ef2de60ca44e1f6B2527",
+  "links": {
+    "coingecko": "neodiamond",
+    "twitter": "Detplatform",
+    "telegram": "Detplatform"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

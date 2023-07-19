@@ -1,0 +1,15 @@
+{
+  "name": "MegaCryptoPolis",
+  "symbol": "MEGA",
+  "web": "https://mcp3d.com",
+  "explorer": "https://etherscan.io/token/0x3218A02F8F8B5c3894ce30EB255F10Bcba13E654",
+  "links": {
+    "coingecko": "megacryptopolis",
+    "twitter": "megacryptopolis",
+    "telegram": "megacryptopolis"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

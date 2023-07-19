@@ -1,0 +1,17 @@
+{
+  "name": "Cryptosolartech",
+  "symbol": "CST",
+  "web": "https://cryptosolartech.org",
+  "explorer": "https://etherscan.io/token/0xbb49a51ee5a66ca3a8cbe529379ba44ba67e6771",
+  "links": {
+    "github": "cryptosolartech",
+    "coingecko": "cryptosolartech",
+    "twitter": "cryptosolartech",
+    "facebook": "cryptosolartech",
+    "telegram": "cryptosolartech"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

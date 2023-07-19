@@ -1,0 +1,16 @@
+{
+  "name": "Umbrella Network",
+  "symbol": "UMB",
+  "web": "https://www.umb.network",
+  "explorer": "https://etherscan.io/token/0x6fC13EACE26590B80cCCAB1ba5d51890577D83B2",
+  "links": {
+    "github": "umbrella-network",
+    "coingecko": "umbrella-network",
+    "twitter": "UmbNetwork",
+    "telegram": "umbrellanet"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

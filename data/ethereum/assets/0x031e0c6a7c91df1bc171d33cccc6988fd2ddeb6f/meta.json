@@ -1,0 +1,14 @@
+{
+  "name": "TopCoinFX",
+  "symbol": "TCFX",
+  "web": "https://topcoinfx.com/tcfx-token",
+  "explorer": "https://etherscan.io/token/0x031e0c6a7c91df1bc171d33cccc6988fd2ddeb6f",
+  "links": {
+    "coingecko": "topcoinfx",
+    "twitter": "TopcoinFx"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

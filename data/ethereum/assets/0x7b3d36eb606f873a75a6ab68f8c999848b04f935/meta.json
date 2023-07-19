@@ -1,0 +1,17 @@
+{
+  "name": "NFTLootBox",
+  "symbol": "LOOT",
+  "web": "https://www.nftlootbox.com",
+  "explorer": "https://etherscan.io/token/0x7b3d36eb606f873a75a6ab68f8c999848b04f935",
+  "links": {
+    "github": "NFTLootBox",
+    "coingecko": "nftlootbox",
+    "twitter": "NFTLootBox",
+    "telegram": "nftlootboxchat",
+    "reddit": "r/NFTLootBox"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

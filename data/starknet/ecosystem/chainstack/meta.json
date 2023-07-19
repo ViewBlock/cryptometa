@@ -1,0 +1,19 @@
+{
+  "name": "Chainstack",
+  "description": "Chainstack is a managed node provider for the StarkNet mainnet and testnet.",
+  "categories": [
+    "infra"
+  ],
+  "web": "https://chainstack.com/build-better-with-starknet",
+  "links": {
+    "github": "https://github.com/chainstack",
+    "twitter": "https://twitter.com/chainstackhq",
+    "medium": "https://chainstack.com/blog",
+    "discord": "https://discord.gg/Cymtg2f7pX",
+    "telegram": "https://t.me/chainstack"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "chainstack"
+}

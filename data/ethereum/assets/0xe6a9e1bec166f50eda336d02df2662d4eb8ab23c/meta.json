@@ -1,0 +1,16 @@
+{
+  "name": "Liquid Bank",
+  "symbol": "LIQ",
+  "web": "https://liquidbank.io",
+  "explorer": "https://etherscan.io/token/0xe6a9e1bec166f50eda336d02df2662d4eb8ab23c",
+  "links": {
+    "coingecko": "liquid-bank",
+    "twitter": "myliquidbank",
+    "facebook": "myLiquidBank",
+    "telegram": "liquidbank"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

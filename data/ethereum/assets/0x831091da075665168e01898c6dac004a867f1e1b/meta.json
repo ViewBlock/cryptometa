@@ -1,0 +1,15 @@
+{
+  "name": "Gains V2",
+  "symbol": "GFARM2",
+  "web": "https://gains.farm",
+  "explorer": "https://etherscan.io/token/0x831091dA075665168E01898c6DAC004A867f1e1B",
+  "links": {
+    "coingecko": "gains-v2",
+    "twitter": "gfarmv2",
+    "telegram": "GFarmTrading"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

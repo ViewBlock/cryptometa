@@ -1,0 +1,16 @@
+{
+  "name": "Cryptonits",
+  "symbol": "CRT",
+  "web": "https://cryptonits.com",
+  "explorer": "https://etherscan.io/token/0x36a28c7c9b3dea22f07f4df67833cbe764feeeb4",
+  "links": {
+    "coingecko": "cryptonits",
+    "twitter": "cryptonits",
+    "facebook": "CryptonitsCRT",
+    "telegram": "CryptonitsCRT"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "INLOCK",
+  "symbol": "ILK",
+  "web": "https://inlock.io",
+  "explorer": "https://etherscan.io/token/0xf784682c82526e245f50975190ef0fff4e4fc077",
+  "links": {
+    "github": "IncomeLocker",
+    "coingecko": "inlock-token",
+    "twitter": "inlock_token",
+    "telegram": "inlock",
+    "reddit": "r/INLOCK"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

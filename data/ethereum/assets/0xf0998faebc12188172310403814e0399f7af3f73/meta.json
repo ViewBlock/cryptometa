@@ -1,0 +1,16 @@
+{
+  "name": "HavEtherToken",
+  "symbol": "HET",
+  "web": "https://havether.org",
+  "explorer": "https://etherscan.io/token/0xf0998faebc12188172310403814e0399f7af3f73",
+  "links": {
+    "github": "HavEther",
+    "coingecko": "havethertoken",
+    "twitter": "HavEther",
+    "telegram": "HavEther"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Atlas Network",
+  "symbol": "ATLS",
+  "web": "https://atlas.world",
+  "explorer": "https://etherscan.io/token/0xd36e9f8f194a47b10af16c7656a68eba1dfe88e4",
+  "links": {
+    "coingecko": "atlas",
+    "twitter": "AtlasEcosystem",
+    "facebook": "atlasecosystem",
+    "telegram": "AtlasEcosystem",
+    "reddit": "r/AtlasEcosystem"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Ace Entertainment",
+  "symbol": "ACE",
+  "web": "https://www.aceentertainment.io",
+  "explorer": "https://etherscan.io/token/0xe17e41ACD4caa3CeC048837bfd1918b3c4141767",
+  "links": {
+    "coingecko": "ace-casino",
+    "twitter": "ACECasinoChain",
+    "facebook": "ACECoin.io",
+    "telegram": "ACEEntertainment",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Thunder Manager",
+  "description": "Thunder Manager here to help.",
+  "web": "https://thundermanager.com",
+  "addresses": [],
+  "categories": [
+    "defi",
+    "featured"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "thunder-manager"
+}

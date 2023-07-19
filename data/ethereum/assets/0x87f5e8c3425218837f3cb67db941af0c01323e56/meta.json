@@ -1,0 +1,17 @@
+{
+  "name": "BitCoin One",
+  "symbol": "BTCONE",
+  "web": "https://www.bitcoinone.io",
+  "explorer": "https://etherscan.io/token/0x87f5e8c3425218837f3cb67db941af0c01323e56",
+  "links": {
+    "github": "BitCoinONE1",
+    "coingecko": "bitcoin-one",
+    "twitter": "THEBITCOINONE",
+    "facebook": "bitcoinone.io",
+    "telegram": "TheBitCoinONE"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

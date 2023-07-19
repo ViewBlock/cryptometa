@@ -1,0 +1,19 @@
+{
+  "name": "Staking Rewards",
+  "description": "A data provider for staking and crypto-growth tool.",
+  "web": "https://www.stakingrewards.com/earn/zilliqa",
+  "links": {
+    "twitter": "https://twitter.com/StakingRewards",
+    "telegram": "https://t.me/stakingrewards",
+    "discord": "https://discord.com/invite/EqDF9GF"
+  },
+  "categories": [
+    "staking"
+  ],
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg"
+  },
+  "key": "staking-rewards"
+}

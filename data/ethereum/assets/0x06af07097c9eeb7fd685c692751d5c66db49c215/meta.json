@@ -1,0 +1,14 @@
+{
+  "name": "Chai",
+  "symbol": "CHAI",
+  "web": "https://chai.money",
+  "explorer": "https://etherscan.io/token/0x06af07097c9eeb7fd685c692751d5c66db49c215",
+  "links": {
+    "github": "dapphub",
+    "coingecko": "chai"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

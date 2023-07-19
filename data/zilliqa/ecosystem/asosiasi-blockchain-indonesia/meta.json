@@ -1,0 +1,15 @@
+{
+  "name": "Asosiasi Blockchain Indonesia ",
+  "description": "Zilliqa is a member of the Asosiasi Blockchain Indonesia (ABI).",
+  "web": "https://asosiasiblockchain.co.id",
+  "links": {
+    "twitter": "https://twitter.com/BlockchainIndo"
+  },
+  "categories": [
+    "education"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "asosiasi-blockchain-indonesia"
+}

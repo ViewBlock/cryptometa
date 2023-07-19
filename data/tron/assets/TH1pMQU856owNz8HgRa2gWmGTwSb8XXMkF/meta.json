@@ -1,0 +1,17 @@
+{
+  "name": "Ztranzit Coin",
+  "symbol": "ZTNZ",
+  "web": "https://ztranzit.io",
+  "explorer": "https://tronscan.io/#/token20/TH1pMQU856owNz8HgRa2gWmGTwSb8XXMkF",
+  "links": {
+    "github": "Ztranzit",
+    "coingecko": "ztranzit-coin",
+    "twitter": "ztranzit",
+    "facebook": "aiDeliver",
+    "telegram": "ai_Delivery_Z_tranz_token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

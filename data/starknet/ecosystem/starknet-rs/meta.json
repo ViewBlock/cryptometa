@@ -1,0 +1,15 @@
+{
+  "name": "StarkNet-rs",
+  "description": "StarkNet client library in Rust",
+  "categories": [
+    "tools"
+  ],
+  "web": "https://crates.io/crates/starknet",
+  "links": {
+    "github": "https://github.com/xJonathanLEI/starknet-rs"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "starknet-rs"
+}

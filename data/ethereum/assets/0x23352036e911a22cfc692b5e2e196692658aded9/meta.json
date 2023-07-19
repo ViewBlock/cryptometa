@@ -1,0 +1,16 @@
+{
+  "name": "Friendz",
+  "symbol": "FDZ",
+  "web": "https://friendz.io",
+  "explorer": "https://etherscan.io/token/0x23352036e911a22cfc692b5e2e196692658aded9",
+  "links": {
+    "coingecko": "friendz",
+    "twitter": "Friendz_ICO",
+    "facebook": "friendzglobal",
+    "reddit": "r/FriendzICO"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

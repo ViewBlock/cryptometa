@@ -1,0 +1,17 @@
+{
+  "name": "Node Runners",
+  "symbol": "NDR",
+  "web": "https://noderunners.io",
+  "explorer": "https://etherscan.io/token/0x739763a258640919981F9bA610AE65492455bE53",
+  "links": {
+    "github": "none",
+    "coingecko": "noderunners",
+    "twitter": "Node_Runners",
+    "telegram": "noderunners_channel",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

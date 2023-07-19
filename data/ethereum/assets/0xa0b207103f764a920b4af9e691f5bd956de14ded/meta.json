@@ -1,0 +1,16 @@
+{
+  "name": "Abitshadow Token",
+  "symbol": "ABST",
+  "web": "https://www.abitshadow.com",
+  "explorer": "https://etherscan.io/token/0xa0b207103f764a920b4af9e691f5bd956de14ded",
+  "links": {
+    "github": "Abitshadow",
+    "coingecko": "abitshadow-token",
+    "twitter": "ABSTOKEN",
+    "facebook": "BITSHADOWCOIN"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

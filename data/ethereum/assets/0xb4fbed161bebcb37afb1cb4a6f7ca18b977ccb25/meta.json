@@ -1,0 +1,15 @@
+{
+  "name": "Dogeswap",
+  "symbol": "DOGES",
+  "web": "https://doge-finance.com",
+  "explorer": "https://etherscan.io/token/0xb4FBed161bEbcb37afB1Cb4a6F7cA18b977cCB25",
+  "links": {
+    "coingecko": "dogeswap",
+    "twitter": "dogeswap_",
+    "telegram": "dogeswap"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "sKLAY",
+  "symbol": "SKLAY",
+  "web": "https://klaystation.io",
+  "explorer": "https://scope.klaytn.com/token/0xa323d7386b671e8799dca3582d6658fdcdcd940a?tabId=kctTransfer",
+  "links": {
+    "coingecko": "sklay",
+    "twitter": "Orbit_Chain",
+    "telegram": "Orbit_Chain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

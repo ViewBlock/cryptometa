@@ -1,0 +1,14 @@
+{
+  "name": "OILage",
+  "symbol": "OIL",
+  "web": "https://oilage.net",
+  "explorer": "https://etherscan.io/token/0xa29a8e360c0cba25a3719763fde43a1ee570271d",
+  "links": {
+    "coingecko": "oilage",
+    "telegram": "OILage_Korea"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "The Ninth",
+  "description": "The Ninth is a metaverse world built with Starkware technology. The world is truly owned by users, and land owners can generate various in-game elements and have various gameplay. Various elements such as multi-epoch iterations, trading markets, DAOs, game guilds, and virtual buildings constitute this metaverse with a grand worldview",
+  "categories": [
+    "gamefi"
+  ],
+  "web": "https://ninth.gg",
+  "links": {
+    "twitter": "https://twitter.com/ninth_gg",
+    "discord": "https://discord.com/invite/8aehWQPFyE"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "the-ninth"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Armours",
+  "symbol": "ARM",
+  "web": "https://armors.io",
+  "explorer": "https://etherscan.io/token/0xa9ff725189fe00da9c5f27a580dc67fea61e3fb2",
+  "links": {
+    "github": "armors",
+    "coingecko": "armours",
+    "twitter": "LabsArmors",
+    "facebook": "ArmorsLabs",
+    "telegram": "ArmorsLabs"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

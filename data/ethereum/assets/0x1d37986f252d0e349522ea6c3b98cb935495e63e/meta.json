@@ -1,0 +1,16 @@
+{
+  "name": "ChartEx",
+  "symbol": "CHART",
+  "web": "https://chartex.pro",
+  "explorer": "https://etherscan.io/token/0x1d37986f252d0e349522ea6c3b98cb935495e63e",
+  "links": {
+    "github": "chartexpro",
+    "coingecko": "chartex",
+    "twitter": "ChartExPro",
+    "telegram": "ChartExCommunity"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

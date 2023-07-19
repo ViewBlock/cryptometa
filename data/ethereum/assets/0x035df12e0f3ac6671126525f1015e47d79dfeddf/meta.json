@@ -1,0 +1,15 @@
+{
+  "name": "0xMonero",
+  "symbol": "0XMR",
+  "web": "https://0xmonero.com",
+  "explorer": "https://etherscan.io/token/0x035dF12E0F3ac6671126525f1015E47D79dFEDDF",
+  "links": {
+    "coingecko": "0xmonero",
+    "twitter": "0xMonero",
+    "telegram": "Monero0xMR"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

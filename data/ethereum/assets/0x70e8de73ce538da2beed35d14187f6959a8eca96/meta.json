@@ -1,0 +1,16 @@
+{
+  "name": "XSGD",
+  "symbol": "XSGD",
+  "web": "https://xfers.com/sg/stablecoin",
+  "explorer": "https://etherscan.io/token/0x70e8de73ce538da2beed35d14187f6959a8eca96",
+  "links": {
+    "github": "Xfers",
+    "coingecko": "xsgd",
+    "twitter": "xfers",
+    "facebook": "Xfers"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "GLEX",
+  "symbol": "GLEX",
+  "web": "https://glexcoin.com",
+  "explorer": "https://etherscan.io/token/0x0A0DB74Ef8b4480cc29b7D68647727fEeB1ea4eC",
+  "links": {
+    "coingecko": "glex"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

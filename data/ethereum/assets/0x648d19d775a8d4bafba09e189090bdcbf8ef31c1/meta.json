@@ -1,0 +1,15 @@
+{
+  "name": "Safari",
+  "symbol": "SFR",
+  "web": "https://www.safaritoken.online",
+  "explorer": "https://etherscan.io/token/0x648d19d775a8d4bafba09e189090bdcbf8ef31c1",
+  "links": {
+    "coingecko": "safari",
+    "twitter": "Safari_Official",
+    "telegram": "safari_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

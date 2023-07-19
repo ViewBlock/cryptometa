@@ -1,0 +1,16 @@
+{
+  "name": "StealthEX",
+  "description": "Instant cryptocurrency exchange for limitless swaps of ZIL & 400+ assets without registration",
+  "web": "https://stealthex.io",
+  "links": {
+    "twitter": "https://twitter.com/StealthEX_io",
+    "telegram": "https://t.me/StealthEX_io"
+  },
+  "categories": [
+    "exchange"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "stealthex"
+}

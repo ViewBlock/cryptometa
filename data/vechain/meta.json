@@ -1,0 +1,16 @@
+{
+  "name": "VeChain",
+  "symbol": "VET",
+  "web": "https://www.vechain.org",
+  "explorer": "https://explore.vechain.org",
+  "links": {
+    "github": "vechain",
+    "coingecko": "vechain",
+    "twitter": "vechainofficial",
+    "telegram": "vechain_official_english",
+    "reddit": "r/Vechain"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

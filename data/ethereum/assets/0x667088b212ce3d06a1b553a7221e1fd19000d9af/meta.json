@@ -1,0 +1,17 @@
+{
+  "name": "Wings",
+  "symbol": "WINGS",
+  "web": "https://wings.ai",
+  "explorer": "https://etherscan.io/token/0x667088b212ce3d06a1b553a7221E1fD19000d9aF",
+  "links": {
+    "coingecko": "wings",
+    "twitter": "wingsplatform",
+    "facebook": "WingsDAO",
+    "telegram": "wingschat",
+    "reddit": "r/WingsDAO"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

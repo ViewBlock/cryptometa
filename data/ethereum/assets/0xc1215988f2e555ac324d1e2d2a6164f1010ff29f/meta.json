@@ -1,0 +1,16 @@
+{
+  "name": "Nyantereum Int",
+  "symbol": "NYANTE",
+  "web": "https://nyantereum.com",
+  "explorer": "https://etherscan.io/token/0xC1215988f2e555AC324D1E2d2A6164f1010Ff29f",
+  "links": {
+    "github": "Nyantereum",
+    "coingecko": "nyantereum",
+    "twitter": "Nyantereum",
+    "telegram": "NyantereumTrade"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

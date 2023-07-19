@@ -1,0 +1,16 @@
+{
+  "name": "ERC20",
+  "symbol": "ERC20",
+  "web": "https://index-erc20.io",
+  "explorer": "https://etherscan.io/token/0xc3761eb917cd790b30dad99f6cc5b4ff93c4f9ea",
+  "links": {
+    "github": "Belance",
+    "coingecko": "erc20",
+    "twitter": "erc20_",
+    "telegram": "erc20coin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

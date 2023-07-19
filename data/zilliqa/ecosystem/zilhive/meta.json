@@ -1,0 +1,15 @@
+{
+  "name": "ZilHive",
+  "description": "ZILHive is Zilliqa's ecosystem growth arm committed in supporting the growth of all projects built on Zilliqa.",
+  "web": "https://zilhive.org",
+  "links": {
+    "twitter": "https://twitter.com/zilhive"
+  },
+  "categories": [
+    "fund"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "zilhive"
+}

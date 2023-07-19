@@ -1,0 +1,16 @@
+{
+  "name": "Digital Wallet",
+  "symbol": "DWC",
+  "web": "https://www.dwcproject.com",
+  "explorer": "https://etherscan.io/token/0xc626c9e2247c8a0c863ad6daa97ed939e12786de",
+  "links": {
+    "coingecko": "digital-wallet",
+    "twitter": "DWCProject",
+    "facebook": "smiles.wallet.global",
+    "telegram": "dwcproject"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

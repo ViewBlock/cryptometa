@@ -1,0 +1,14 @@
+{
+  "name": "Keep3rV1",
+  "symbol": "KP3R",
+  "web": "https://keep3r.network",
+  "explorer": "https://etherscan.io/token/0x1ceb5cb57c4d4e2b2433641b95dd330a33185a44",
+  "links": {
+    "coingecko": "keep3rv1",
+    "twitter": "AndreCronjeTech"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

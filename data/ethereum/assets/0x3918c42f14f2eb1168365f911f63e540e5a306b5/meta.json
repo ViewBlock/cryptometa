@@ -1,0 +1,17 @@
+{
+  "name": "Neural Protocol",
+  "symbol": "NRP",
+  "web": "https://www.nrp.world",
+  "explorer": "https://etherscan.io/token/0x3918c42f14f2eb1168365f911f63e540e5a306b5",
+  "links": {
+    "github": "neuralprotocol",
+    "coingecko": "neural-protocol",
+    "twitter": "neuralprotocol",
+    "facebook": "neuralprotocol",
+    "telegram": "neuralprotocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Set of Sets Trailblazer Fund",
+  "symbol": "MQSS",
+  "web": "https://www.tokensets.com/set/mqss",
+  "explorer": "https://etherscan.io/token/0x77b1465b0e01ba085e515324e30fee6555c623ea",
+  "links": {
+    "coingecko": "set-of-sets-trailblazer-fund",
+    "twitter": "SetProtocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

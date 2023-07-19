@@ -1,0 +1,15 @@
+{
+  "name": "ZKSwap",
+  "symbol": "ZKS",
+  "web": "https://zks.org/en",
+  "explorer": "https://etherscan.io/token/0xe4815ae53b124e7263f08dcdbbb757d41ed658c6",
+  "links": {
+    "coingecko": "zkswap",
+    "twitter": "ZKSwapOfficial",
+    "telegram": "zkswapofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

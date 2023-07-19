@@ -1,0 +1,15 @@
+{
+  "name": "GivingToServices",
+  "symbol": "SVCS",
+  "web": "givingtoservices.com ",
+  "explorer": "https://etherscan.io/token/0x9cec686ba6f07d6135b2091140c795166ef5b761",
+  "links": {
+    "coingecko": "givingtoservices",
+    "twitter": "GiveServices",
+    "telegram": "svcsnews"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

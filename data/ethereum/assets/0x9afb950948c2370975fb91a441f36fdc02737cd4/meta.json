@@ -1,0 +1,13 @@
+{
+  "name": "Huobi Fil",
+  "symbol": "HFIL",
+  "web": "https://www.htokens.finance/en-us",
+  "explorer": "https://etherscan.io/token/0x9AFb950948c2370975fb91a441F36FDC02737cD4",
+  "links": {
+    "coingecko": "huobi-fil"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

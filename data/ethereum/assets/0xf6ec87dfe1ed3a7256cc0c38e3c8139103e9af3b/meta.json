@@ -1,0 +1,15 @@
+{
+  "name": "Gene",
+  "symbol": "GENE",
+  "web": "https://gene.finance",
+  "explorer": "https://etherscan.io/token/0xf6ec87dfe1ed3a7256cc0c38e3c8139103e9af3b",
+  "links": {
+    "github": "genefinance",
+    "coingecko": "gene",
+    "twitter": "genefinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

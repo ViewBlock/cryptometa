@@ -1,0 +1,16 @@
+{
+  "name": "Crypto Candy",
+  "symbol": "CANDY",
+  "web": "https://crypto-candy.io",
+  "explorer": "https://etherscan.io/token/0x540d3087b21f31f9a810385c94627a067cfd0b08",
+  "links": {
+    "github": "BabyFriends-Dev",
+    "coingecko": "crypto-candy",
+    "twitter": "cryptocandy19",
+    "telegram": "CRYPTOCANDY_EN"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

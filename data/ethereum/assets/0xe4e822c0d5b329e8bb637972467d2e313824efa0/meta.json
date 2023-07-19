@@ -1,0 +1,16 @@
+{
+  "name": "Dfinance",
+  "symbol": "XFI",
+  "web": "https://dfinance.co",
+  "explorer": "https://etherscan.io/token/0xe4e822c0d5b329e8bb637972467d2e313824efa0",
+  "links": {
+    "github": "dfinance",
+    "coingecko": "dfinance",
+    "twitter": "dfinance_co",
+    "telegram": "dfinance_co"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

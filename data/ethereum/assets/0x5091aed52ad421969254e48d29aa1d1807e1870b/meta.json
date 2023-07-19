@@ -1,0 +1,16 @@
+{
+  "name": "ZOM",
+  "symbol": "ZOM",
+  "web": "https://zom.health",
+  "explorer": "https://etherscan.io/token/0x5091aed52ad421969254e48d29aa1d1807e1870b",
+  "links": {
+    "coingecko": "zom",
+    "twitter": "zomhealth",
+    "telegram": "ZOM_Official",
+    "reddit": "r/zom"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

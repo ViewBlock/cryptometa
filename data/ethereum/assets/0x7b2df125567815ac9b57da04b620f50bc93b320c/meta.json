@@ -1,0 +1,16 @@
+{
+  "name": "Archetypal Network",
+  "symbol": "ACTP",
+  "web": "https://archetypal.network",
+  "explorer": "https://etherscan.io/token/0x7b2df125567815ac9b57da04b620f50bc93b320c",
+  "links": {
+    "github": "ACTP",
+    "coingecko": "archetypal-network",
+    "twitter": "ArchetypalNet",
+    "telegram": "ArchetypalNetwork_Group"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

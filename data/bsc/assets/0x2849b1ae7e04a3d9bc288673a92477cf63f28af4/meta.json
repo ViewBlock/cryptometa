@@ -1,0 +1,12 @@
+{
+  "name": "SaltSwap",
+  "symbol": "SALT",
+  "web": "https://www.saltswap.finance",
+  "explorer": "https://bscscan.com/token/0x2849b1aE7E04A3D9Bc288673A92477CF63F28aF4",
+  "links": {
+    "github": "saltswap",
+    "coingecko": "saltswap",
+    "twitter": "saltswap",
+    "telegram": "saltswap"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "FREE coin",
+  "symbol": "FREE",
+  "web": "https://www.FREEcoin.technology",
+  "explorer": "https://etherscan.io/token/0x2f141ce366a2462f02cea3d12cf93e4dca49e4fd",
+  "links": {
+    "coingecko": "free-coin",
+    "twitter": "THE_FREE_COIN",
+    "facebook": "theFREEcoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

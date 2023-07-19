@@ -1,0 +1,16 @@
+{
+  "name": "TosDis",
+  "symbol": "DIS",
+  "web": "https://www.tosdis.finance",
+  "explorer": "https://etherscan.io/token/0x220b71671b649c03714da9c621285943f3cbcdc6",
+  "links": {
+    "github": "tosdis",
+    "coingecko": "tosdis",
+    "twitter": "TosdisFinance",
+    "telegram": "Tosdis"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

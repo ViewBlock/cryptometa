@@ -1,0 +1,17 @@
+{
+  "name": "Custom contract network",
+  "symbol": "CCN",
+  "web": "https://www.customcontract.network",
+  "explorer": "https://etherscan.io/token/0x17b26400621695c2d8c2d8869f6259e82d7544c4",
+  "links": {
+    "github": "ccndevelopers",
+    "coingecko": "custom-contract-network",
+    "twitter": "ccntoken",
+    "facebook": "ccntoken",
+    "telegram": "ccntoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

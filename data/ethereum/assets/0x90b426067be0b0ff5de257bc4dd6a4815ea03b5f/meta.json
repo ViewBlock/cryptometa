@@ -1,0 +1,15 @@
+{
+  "name": "Strain",
+  "symbol": "STRN",
+  "web": "https://strainnft.com",
+  "explorer": "https://etherscan.io/token/0x90b426067be0b0ff5de257bc4dd6a4815ea03b5f",
+  "links": {
+    "github": "StrainNft",
+    "coingecko": "strain",
+    "twitter": "StrainNFT"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

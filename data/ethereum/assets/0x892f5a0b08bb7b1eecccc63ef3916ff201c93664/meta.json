@@ -1,0 +1,15 @@
+{
+  "name": "Bloody Token",
+  "symbol": "BLOODY",
+  "web": "https://bloodyfi.org",
+  "explorer": "https://etherscan.io/token/0x892F5A0B08BB7B1eeCCCC63EF3916fF201c93664",
+  "links": {
+    "coingecko": "bloody-token",
+    "twitter": "TheTimTempleton",
+    "telegram": "bloodyfi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

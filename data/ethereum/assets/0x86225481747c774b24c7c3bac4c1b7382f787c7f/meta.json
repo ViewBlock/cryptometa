@@ -1,0 +1,15 @@
+{
+  "name": "WIIX Coin",
+  "symbol": "WXC",
+  "web": "https://www.wiix.io",
+  "explorer": "https://etherscan.io/token/0x86225481747c774b24c7c3bac4c1b7382f787c7f",
+  "links": {
+    "coingecko": "wiix-coin",
+    "twitter": "WiixCoin",
+    "facebook": "WIIX-Project-152747015383901"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

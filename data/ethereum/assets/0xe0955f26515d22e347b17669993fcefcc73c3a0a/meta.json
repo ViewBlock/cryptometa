@@ -1,0 +1,15 @@
+{
+  "name": "Stacker Ventures",
+  "symbol": "STACK",
+  "web": "https://stacker.vc",
+  "explorer": "https://etherscan.io/token/0xe0955f26515d22e347b17669993fcefcc73c3a0a",
+  "links": {
+    "coingecko": "stacker-ventures",
+    "twitter": "StackerVentures",
+    "telegram": "StackerVentures"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

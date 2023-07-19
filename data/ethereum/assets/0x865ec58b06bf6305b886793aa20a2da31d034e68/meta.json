@@ -1,0 +1,18 @@
+{
+  "name": "Mossland",
+  "symbol": "MOC",
+  "web": "http://moss.land",
+  "explorer": "https://etherscan.io/token/0x865ec58b06bf6305b886793aa20a2da31d034e68",
+  "links": {
+    "github": "realityreflection",
+    "coingecko": "mossland",
+    "twitter": "TheMossland",
+    "facebook": "TheMossland",
+    "telegram": "mossland",
+    "reddit": "r/Mossland"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

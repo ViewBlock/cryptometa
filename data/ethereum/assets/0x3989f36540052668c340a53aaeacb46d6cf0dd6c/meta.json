@@ -1,0 +1,17 @@
+{
+  "name": "Valireum",
+  "symbol": "VLM",
+  "web": "https://www.valireum.net",
+  "explorer": "https://etherscan.io/token/0x3989F36540052668c340a53aaeAcB46D6cF0Dd6C",
+  "links": {
+    "github": "Valireum",
+    "coingecko": "valireum",
+    "twitter": "valireum",
+    "facebook": "Valireum",
+    "reddit": "r/Valireum"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

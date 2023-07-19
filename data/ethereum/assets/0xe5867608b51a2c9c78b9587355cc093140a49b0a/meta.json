@@ -1,0 +1,16 @@
+{
+  "name": "Speed Mining Service",
+  "symbol": "SMS",
+  "web": "https://smscoin.jp/?q=en",
+  "explorer": "https://etherscan.io/token/0x39013f961c378f02c2b82a6e1d31e9812786fd9d",
+  "links": {
+    "github": "Speed-Mining",
+    "coingecko": "speed-mining-service",
+    "twitter": "Speed_Mining",
+    "facebook": "SPEEDMINING"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

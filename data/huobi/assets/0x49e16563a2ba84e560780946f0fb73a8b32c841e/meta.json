@@ -1,0 +1,12 @@
+{
+  "name": "Sovi Token",
+  "symbol": "SOVI",
+  "web": "https://sovi.finance",
+  "explorer": "https://hecoinfo.com/token/0x49e16563a2ba84e560780946f0fb73a8b32c841e",
+  "links": {
+    "github": "Sovi-Finance",
+    "coingecko": "sovi-token",
+    "twitter": "SoviFinance",
+    "telegram": "sovi_finance"
+  }
+}

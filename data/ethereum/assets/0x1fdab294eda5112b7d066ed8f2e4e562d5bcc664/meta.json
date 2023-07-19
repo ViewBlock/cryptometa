@@ -1,0 +1,16 @@
+{
+  "name": "SPICE",
+  "symbol": "SPICE",
+  "web": "https://scifi.finance",
+  "explorer": "https://etherscan.io/token/0x1fdab294eda5112b7d066ed8f2e4e562d5bcc664",
+  "links": {
+    "github": "spicedao",
+    "coingecko": "spice-finance",
+    "twitter": "sci_finance",
+    "telegram": "sci_finance_trading"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "RING X PLATFORM",
+  "symbol": "RINGX",
+  "web": "http://ringx.io",
+  "explorer": "https://etherscan.io/token/0x7f86c782ec802ac402e0369d2e6d500256f7abc5",
+  "links": {
+    "github": "RINGXPlatform",
+    "coingecko": "ring-x-platform",
+    "twitter": "PlatformRing",
+    "facebook": "platform.ring.1",
+    "telegram": "ringplat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

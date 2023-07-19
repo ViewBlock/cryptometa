@@ -1,0 +1,15 @@
+{
+  "name": "Matic Aave Interest Bearing AAVE",
+  "symbol": "MAAAVE",
+  "web": "https://www.aavegotchi.com",
+  "explorer": "https://explorer-mainnet.maticvigil.com/tokens/0x823CD4264C1b951C9209aD0DeAea9988fE8429bF/token-transfers",
+  "links": {
+    "github": "aavegotchi",
+    "coingecko": "matic-aave-aave",
+    "twitter": "aavegotchi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

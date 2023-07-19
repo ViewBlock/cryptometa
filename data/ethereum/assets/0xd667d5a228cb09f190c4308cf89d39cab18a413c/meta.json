@@ -1,0 +1,16 @@
+{
+  "name": "GES",
+  "symbol": "GES",
+  "web": "https://gesglobal.io",
+  "explorer": "https://etherscan.io/token/0xd667d5a228cb09f190c4308cf89d39cab18a413c",
+  "links": {
+    "coingecko": "ges",
+    "twitter": "gesglobal1",
+    "facebook": "gesglobal.io",
+    "telegram": "GesGlobalGroup2020"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Cyclops Treasure",
+  "symbol": "CYTR",
+  "web": "https://cyclops.finance",
+  "explorer": "https://etherscan.io/token/0xbd05cee8741100010d8e93048a80ed77645ac7bf",
+  "links": {
+    "github": "CyclopsFinance",
+    "coingecko": "cyclops-treasure",
+    "twitter": "CyclopsFinance",
+    "telegram": "CyclopsFinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

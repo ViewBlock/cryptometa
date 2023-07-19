@@ -1,0 +1,10 @@
+{
+  "symbol": "uPETS",
+  "name": "Polkapets Collection (private)",
+  "decimals": 18,
+  "description": "A small collection of Polkapets for a test run. If you like it, I will add all of them! :)",
+  "gen": {
+    "logo": "logo.svg",
+    "score": 0
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "What Is The Point",
+  "symbol": "WTP",
+  "links": {
+    "twitter": "sr1harry"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

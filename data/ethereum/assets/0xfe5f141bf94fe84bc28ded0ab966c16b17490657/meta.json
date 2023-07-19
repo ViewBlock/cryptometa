@@ -1,0 +1,18 @@
+{
+  "name": "LibraToken",
+  "symbol": "LBA",
+  "web": "https://www.mycred.io",
+  "explorer": "https://etherscan.io/token/0xfe5f141bf94fe84bc28ded0ab966c16b17490657",
+  "links": {
+    "github": "libracredit",
+    "coingecko": "libra-credit",
+    "twitter": "ihavecred",
+    "facebook": "191105808142986",
+    "telegram": "ihavecred",
+    "reddit": "r/Libra_Credit"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Binance USD",
+  "symbol": "BUSD",
+  "trusted": true,
+  "gen": {
+    "logo": "logo.png",
+    "score": 100
+  }
+}

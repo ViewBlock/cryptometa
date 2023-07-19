@@ -1,0 +1,16 @@
+{
+  "name": "KIMEX",
+  "symbol": "KMX",
+  "web": "https://kimex.io",
+  "explorer": "https://etherscan.io/token/0x9b8c184439245b7bb24a5b2ec51ec81c39589e8a",
+  "links": {
+    "coingecko": "kimex",
+    "twitter": "Kimex_Official",
+    "facebook": "kimexofficial",
+    "telegram": "KimexOfficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Rapidz",
+  "symbol": "RPZX",
+  "web": "https://www.rapidz.io",
+  "explorer": "https://etherscan.io/token/0x68350d30d9f58c81aaaa41929f1bfc52fff4ea49",
+  "links": {
+    "github": "RapidzPay",
+    "coingecko": "rapidz",
+    "twitter": "rapidzpay",
+    "facebook": "Rapidz.io",
+    "telegram": "RapidzCommunity"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

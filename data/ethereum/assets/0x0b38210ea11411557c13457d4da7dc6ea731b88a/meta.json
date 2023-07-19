@@ -1,0 +1,17 @@
+{
+  "name": "API3",
+  "symbol": "API3",
+  "web": "https://api3.org",
+  "explorer": "https://etherscan.io/token/0x0b38210ea11411557c13457D4dA7dC6ea731B88a",
+  "links": {
+    "github": "api3dao",
+    "coingecko": "api3",
+    "twitter": "API3DAO",
+    "telegram": "API3DAO",
+    "reddit": "r/API3"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

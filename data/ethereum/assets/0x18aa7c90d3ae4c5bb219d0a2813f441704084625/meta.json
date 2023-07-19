@@ -1,0 +1,17 @@
+{
+  "name": "Decentralize Currency",
+  "symbol": "DCA",
+  "web": "https://decentralizecurrency.net",
+  "explorer": "https://etherscan.io/token/0x18aa7c90d3ae4c5bb219d0a2813f441704084625",
+  "links": {
+    "github": "DCA2019",
+    "coingecko": "decentralized-currency-assets",
+    "twitter": "DCAtokenService",
+    "facebook": "DCAcommunity1",
+    "telegram": "DCAcommunity"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "BonFi",
+  "symbol": "BNF",
+  "web": "https://www.bon.finance",
+  "explorer": "https://etherscan.io/token/0x1DE5e000C41C8d35b9f1f4985C23988f05831057",
+  "links": {
+    "coingecko": "bonfi",
+    "twitter": "bon_finance",
+    "telegram": "bonfiorg",
+    "reddit": "r/BonFi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Mirrored Google",
+  "symbol": "MGOOGL",
+  "web": "https://mirror.finance",
+  "explorer": "https://etherscan.io/token/0x59A921Db27Dd6d4d974745B7FfC5c33932653442",
+  "links": {
+    "github": "mirror-protocol",
+    "coingecko": "mirrored-google",
+    "twitter": "mirror_protocol",
+    "telegram": "mirror_protocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

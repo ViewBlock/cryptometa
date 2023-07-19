@@ -1,0 +1,11 @@
+{
+  "name": "Sparda Wallet",
+  "symbol": "SPW",
+  "web": "https://spardawallet.com",
+  "supply": "100000000",
+  "links": {},
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Polkastarter",
+  "symbol": "POLS",
+  "web": "https://www.polkastarter.com/token",
+  "explorer": "https://etherscan.io/token/0x83e6f1E41cdd28eAcEB20Cb649155049Fac3D5Aa",
+  "links": {
+    "coingecko": "polkastarter",
+    "twitter": "polkastarter",
+    "telegram": "polkastarter"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

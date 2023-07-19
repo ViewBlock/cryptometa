@@ -1,0 +1,16 @@
+{
+  "name": "USDQ",
+  "symbol": "USDQ",
+  "web": "https://usdq.platinum.fund",
+  "explorer": "https://etherscan.io/token/0x4954db6391f4feb5468b6b943d4935353596aec9",
+  "links": {
+    "github": "Platinumengineering",
+    "coingecko": "usdq",
+    "twitter": "platinumqdao",
+    "telegram": "platinumfund"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

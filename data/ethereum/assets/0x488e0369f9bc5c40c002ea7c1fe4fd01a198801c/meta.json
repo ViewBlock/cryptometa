@@ -1,0 +1,15 @@
+{
+  "name": "Golff",
+  "symbol": "GOF",
+  "web": "https://www.golff.finance",
+  "explorer": "https://etherscan.io/token/0x488E0369f9BC5C40C002eA7c1fe4fd01A198801c",
+  "links": {
+    "coingecko": "golff",
+    "twitter": "GolffProtocol",
+    "telegram": "GolffProtocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

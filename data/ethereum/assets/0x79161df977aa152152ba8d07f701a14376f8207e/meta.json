@@ -1,0 +1,11 @@
+{
+  "name": "UnicGallery",
+  "symbol": "xUNIC",
+  "decimals": 18,
+  "web": "https://www.app.unic.ly",
+  "trusted": true,
+  "gen": {
+    "logo": "logo.svg",
+    "score": 100
+  }
+}

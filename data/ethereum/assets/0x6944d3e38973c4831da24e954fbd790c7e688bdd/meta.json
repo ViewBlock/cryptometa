@@ -1,0 +1,15 @@
+{
+  "name": "IZE",
+  "symbol": "IZE",
+  "web": "http://izeholdings.io/en",
+  "explorer": "https://etherscan.io/token/0x6944d3e38973C4831dA24E954fbD790c7E688bDd",
+  "links": {
+    "coingecko": "ize",
+    "twitter": "izeholdings"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

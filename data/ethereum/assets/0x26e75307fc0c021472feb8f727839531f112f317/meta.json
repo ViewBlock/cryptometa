@@ -1,0 +1,17 @@
+{
+  "name": "CRYPTO20",
+  "symbol": "C20",
+  "web": "https://crypto20.com/en",
+  "explorer": "https://etherscan.io/token/0x26e75307fc0c021472feb8f727839531f112f317",
+  "links": {
+    "github": "cryptotwenty",
+    "coingecko": "crypto20",
+    "twitter": "CRYPTOtwenty",
+    "facebook": "cryptotwenty",
+    "telegram": "crypto20"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

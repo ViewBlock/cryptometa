@@ -1,0 +1,14 @@
+{
+  "name": "HeyGoNFT Contract",
+  "symbol": "HGZ",
+  "web": "https://discover.heygo.me",
+  "links": {
+    "twitter": "https://twitter.com/HeyGoNFT",
+    "instagram": "https://instagram.com/HeyGoNFT",
+    "telegram": "https://t.me/HeyGoNFT"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

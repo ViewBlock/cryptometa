@@ -1,0 +1,18 @@
+{
+  "name": "ugChain",
+  "symbol": "UGC",
+  "web": "http://www.ugchain.com",
+  "explorer": "https://etherscan.io/token/0xf485c5e679238f9304d986bb2fc28fe3379200e5",
+  "links": {
+    "github": "ugchain",
+    "coingecko": "ugchain",
+    "twitter": "ugChain",
+    "facebook": "ugChain",
+    "telegram": "ugChainOfficial",
+    "reddit": "r/ugChain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Divi",
+  "symbol": "DIVI",
+  "web": "https://www.diviproject.org",
+  "explorer": "https://chainz.cryptoid.info/divi",
+  "links": {
+    "github": "Divicoin",
+    "coingecko": "divi",
+    "twitter": "diviproject",
+    "facebook": "diviproject",
+    "telegram": "diviproject",
+    "reddit": "r/diviproject"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "CNNS",
+  "symbol": "CNNS",
+  "web": "https://cnns.io",
+  "explorer": "https://etherscan.io/token/0x6c3be406174349cfa4501654313d97e6a31072e1",
+  "links": {
+    "coingecko": "cnns",
+    "twitter": "CNNSIO",
+    "facebook": "CoinNessCom",
+    "telegram": "coinnessofficial",
+    "reddit": "r/CoinNessOfficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

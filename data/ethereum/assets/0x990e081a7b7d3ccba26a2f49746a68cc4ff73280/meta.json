@@ -1,0 +1,15 @@
+{
+  "name": "KStarCoin",
+  "symbol": "KSC",
+  "web": "https://kstarcoin.com",
+  "explorer": "https://etherscan.io/token/0x990e081a7b7d3ccba26a2f49746a68cc4ff73280",
+  "links": {
+    "coingecko": "kstarcoin",
+    "twitter": "kstarlivecom",
+    "facebook": "kstarlive"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "KwhCoin",
+  "symbol": "KWH",
+  "web": "https://kwhcoin.com",
+  "explorer": "https://etherscan.io/token/0xb8ddc930c2bab6c71610a2be639036e829f9c10b",
+  "links": {
+    "github": "gobitfly",
+    "coingecko": "kwhcoin",
+    "twitter": "KwhCoin",
+    "facebook": "KWHCoin",
+    "telegram": "KWHCoinCommunityChannel "
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

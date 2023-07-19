@@ -1,0 +1,15 @@
+{
+  "name": "Mithril Cash",
+  "symbol": "MIC",
+  "web": "https://mith.cash",
+  "explorer": "https://etherscan.io/token/0xeed0c8d2da6d243329a6f4a8c2ac61a59ecbfa02",
+  "links": {
+    "coingecko": "mith-cash",
+    "twitter": "mithcash",
+    "telegram": "mithcash"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

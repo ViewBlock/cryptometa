@@ -1,0 +1,15 @@
+{
+  "name": "Ally",
+  "symbol": "ALY",
+  "web": "https://getally.io",
+  "explorer": "https://etherscan.io/token/0xf2cdf38e24738ba379ffa38d47bc88a941df5627",
+  "links": {
+    "coingecko": "ally",
+    "twitter": "getally_io",
+    "telegram": "allyecosystem"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

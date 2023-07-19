@@ -1,0 +1,12 @@
+{
+  "name": "Storage Proofs",
+  "description": "Verifying Storage Proofs from Ethereum",
+  "categories": [
+    "infra"
+  ],
+  "links": {
+    "github": "https://github.com/OilerNetwork/fossil/tree/master/contracts/starknet"
+  },
+  "gen": {},
+  "key": "storage-proofs"
+}

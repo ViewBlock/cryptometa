@@ -1,0 +1,24 @@
+{
+  "name": "Metaweave",
+  "description": "The public place for arweavers (🐘 , 🕊)",
+  "web": "https://metaweave.xyz",
+  "categories": [
+    "social"
+  ],
+  "addresses": [],
+  "links": {
+    "github": "MetaweaveTeam",
+    "twitter": "MetaweaveTeam"
+  },
+  "developers": [
+    {
+      "name": "Axel",
+      "github": "cromatikap",
+      "twitter": "cromatikap"
+    }
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "argora"
+}

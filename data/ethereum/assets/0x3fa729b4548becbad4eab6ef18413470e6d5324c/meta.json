@@ -1,0 +1,16 @@
+{
+  "name": "Holyheld",
+  "symbol": "HH",
+  "web": "https://holyheld.com",
+  "explorer": "https://etherscan.io/token/0x3FA729B4548beCBAd4EaB6EF18413470e6D5324C",
+  "links": {
+    "github": "Holyheld",
+    "coingecko": "holyheld-2",
+    "twitter": "holyheld",
+    "telegram": "holyheld "
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

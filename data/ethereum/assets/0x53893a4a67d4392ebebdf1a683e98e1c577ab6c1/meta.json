@@ -1,0 +1,14 @@
+{
+  "name": "MicroBloodScience",
+  "symbol": "MBS",
+  "web": "https://mbsico.com/en",
+  "explorer": "https://etherscan.io/token/0x53893a4a67d4392ebebdf1a683e98e1c577ab6c1",
+  "links": {
+    "coingecko": "micro-blood-science",
+    "twitter": "mbs_ico"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

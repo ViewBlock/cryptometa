@@ -1,0 +1,16 @@
+{
+  "name": "BYZBIT",
+  "symbol": "BYT",
+  "web": "https://www.byzbit.com",
+  "explorer": "https://etherscan.io/token/0xb089db4cebbf0618b295d9defc7feb00f56da033",
+  "links": {
+    "coingecko": "byzbit",
+    "twitter": "Byzbit1",
+    "facebook": "Byzbit",
+    "telegram": "byzbit"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

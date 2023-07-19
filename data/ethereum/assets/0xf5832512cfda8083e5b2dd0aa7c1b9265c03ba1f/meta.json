@@ -1,0 +1,16 @@
+{
+  "name": "Zugacoin",
+  "symbol": "SZC",
+  "web": "https://zugacoin.com",
+  "explorer": "https://etherscan.io/token/0xf5832512CFDa8083E5b2dd0aA7C1B9265c03BA1F",
+  "links": {
+    "github": "judgeidoko",
+    "coingecko": "zugacoin",
+    "twitter": "zugacoins",
+    "facebook": "zugacoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

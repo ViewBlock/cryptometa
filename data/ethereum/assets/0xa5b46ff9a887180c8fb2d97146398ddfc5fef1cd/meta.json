@@ -1,0 +1,16 @@
+{
+  "name": "SuperSkyNet",
+  "symbol": "SSN",
+  "web": "https://tnb.fund",
+  "explorer": "https://etherscan.io/token/0xa5b46ff9a887180c8fb2d97146398ddfc5fef1cd",
+  "links": {
+    "github": "superskynetio",
+    "coingecko": "superskynet",
+    "twitter": "SuperSkyNet1",
+    "telegram": "superskynetglobal"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

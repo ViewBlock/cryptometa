@@ -1,0 +1,17 @@
+{
+  "name": "Aave MANA v1",
+  "symbol": "AMANA",
+  "web": "https://aave.com/atokens",
+  "explorer": "https://etherscan.io/token/0x6FCE4A401B6B80ACe52baAefE4421Bd188e76F6f",
+  "links": {
+    "github": "aave",
+    "coingecko": "aave-mana",
+    "twitter": "aaveaave",
+    "telegram": "Aavesome",
+    "reddit": "r/Aave_Official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

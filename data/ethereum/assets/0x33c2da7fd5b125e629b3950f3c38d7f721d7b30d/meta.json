@@ -1,0 +1,16 @@
+{
+  "name": "Seal Finance",
+  "symbol": "SEAL",
+  "web": "https://seal.finance",
+  "explorer": "https://etherscan.io/token/0x33c2DA7Fd5B125E629B3950f3c38d7f721D7B30D",
+  "links": {
+    "github": "sealfinance",
+    "coingecko": "seal-finance",
+    "twitter": "seal_finance",
+    "telegram": "SealFinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

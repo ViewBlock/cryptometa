@@ -1,0 +1,16 @@
+{
+  "name": "Tutor's Diary",
+  "symbol": "TUDA",
+  "web": "https://www.tutorsdiary.io",
+  "explorer": "https://etherscan.io/token/0x5e3002dff591c5e75bb9dedae268049742e6b13a",
+  "links": {
+    "github": "tutorsdiary",
+    "coingecko": "tutors-diary",
+    "twitter": "TudaOfficial",
+    "telegram": "tudacommunity"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

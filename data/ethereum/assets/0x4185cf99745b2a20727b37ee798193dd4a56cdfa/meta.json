@@ -1,0 +1,15 @@
+{
+  "name": "DEUS Synthetic Coinbase IOU",
+  "symbol": "WCOINBASE-IOU",
+  "web": "https://deus.finance",
+  "explorer": "https://etherscan.io/token/0x4185cf99745b2a20727b37ee798193dd4a56cdfa",
+  "links": {
+    "coingecko": "deus-synthetic-coinbase-iou",
+    "twitter": "DeusDao",
+    "telegram": "deusfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

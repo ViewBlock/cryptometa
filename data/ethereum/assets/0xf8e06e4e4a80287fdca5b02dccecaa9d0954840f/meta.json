@@ -1,0 +1,17 @@
+{
+  "name": "Truegame",
+  "symbol": "TGAME",
+  "web": "https://ico.truegame.io",
+  "explorer": "https://etherscan.io/token/0xf8e06e4e4a80287fdca5b02dccecaa9d0954840f",
+  "links": {
+    "github": "truegame",
+    "coingecko": "truegame",
+    "twitter": "truegameSRL",
+    "facebook": "truegame.io",
+    "telegram": "truegame_chat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

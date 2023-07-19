@@ -1,0 +1,15 @@
+{
+  "name": "Ethverse",
+  "symbol": "ETHV",
+  "web": "https://ethverse.com",
+  "explorer": "https://etherscan.io/token/0xeeeeeeeee2af8d0e1940679860398308e0ef24d6",
+  "links": {
+    "coingecko": "ethverse",
+    "twitter": "ethverse",
+    "telegram": "ethverse"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

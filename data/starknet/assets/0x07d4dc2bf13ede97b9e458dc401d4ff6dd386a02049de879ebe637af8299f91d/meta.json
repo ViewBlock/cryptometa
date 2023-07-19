@@ -1,0 +1,12 @@
+{
+  "name": "AlmanacNFT",
+  "symbol": "ALMANAC",
+  "type": "erc721",
+  "links": {
+    "market": "https://aspect.co/asset/0x07d4dc2bf13ede97b9e458dc401d4ff6dd386a02049de879ebe637af8299f91d"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 0
+  }
+}

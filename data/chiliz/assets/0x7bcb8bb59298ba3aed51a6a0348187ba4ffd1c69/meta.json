@@ -1,0 +1,11 @@
+{
+  "name": "OG Fan Token",
+  "symbol": "OG",
+  "web": "https://ogs.gg",
+  "explorer": "https://explorer.chiliz.com/tokens/0x7bcb8bb59298ba3aed51a6a0348187ba4ffd1c69/token-transfers",
+  "links": {
+    "coingecko": "og-fan-token",
+    "twitter": "OGesports",
+    "facebook": "OGDota2"
+  }
+}

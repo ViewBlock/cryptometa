@@ -1,0 +1,16 @@
+{
+  "name": "SiamBitcoin",
+  "symbol": "SBTC",
+  "web": "https://www.siambitcoin.com",
+  "explorer": "https://etherscan.io/token/0xb8e103b60a33597136ea9511f46b6dbeb643a3a5",
+  "links": {
+    "coingecko": "siambitcoin",
+    "twitter": "siambitcoin",
+    "facebook": "SiamBitcoin",
+    "telegram": "siambitcoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

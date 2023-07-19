@@ -1,0 +1,17 @@
+{
+  "name": "Smartlands Network",
+  "symbol": "SLT",
+  "web": "https://smartlands.network",
+  "explorer": "https://stellar.expert/explorer/public/asset/SLT-GCKA6K5PCQ6PNF5RQBF7PQDJWRHO6UOGFMRLK3DYHDOI244V47XKQ4GP",
+  "links": {
+    "github": "Smartlands-Platform",
+    "coingecko": "smartlands",
+    "twitter": "SmartlandsNet",
+    "telegram": "smartlandschat",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

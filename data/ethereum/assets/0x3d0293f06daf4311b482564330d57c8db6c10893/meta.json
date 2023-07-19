@@ -1,0 +1,15 @@
+{
+  "name": "Y Coin",
+  "symbol": "YCO",
+  "web": "https://www.ycoin.co.uk",
+  "explorer": "https://etherscan.io/token/0x3D0293f06daF4311B482564330D57C8Db6C10893",
+  "links": {
+    "coingecko": "y-coin",
+    "telegram": "ycointelegram",
+    "reddit": "r/YCoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

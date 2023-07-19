@@ -1,0 +1,14 @@
+{
+  "name": "ilzeuz 2.0",
+  "symbol": "iLz",
+  "links": {
+    "twitter": "https://twitter.com/il_zeuz"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

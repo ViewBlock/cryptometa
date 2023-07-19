@@ -1,0 +1,15 @@
+{
+  "name": "yffc.finance",
+  "symbol": "YFFC",
+  "web": "https://yffc.finance",
+  "explorer": "https://etherscan.io/token/0xea004e8fa3701b8e58e41b78d50996e0f7176cbd",
+  "links": {
+    "coingecko": "yffc-finance",
+    "twitter": "yffc_finance",
+    "telegram": "yffcfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

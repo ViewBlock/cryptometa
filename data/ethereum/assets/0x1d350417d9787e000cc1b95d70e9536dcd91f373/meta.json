@@ -1,0 +1,16 @@
+{
+  "name": "Mirrored iShares Gold Trust",
+  "symbol": "MIAU",
+  "web": "https://mirror.finance",
+  "explorer": "https://etherscan.io/token/0x1d350417d9787E000cc1b95d70E9536DcD91F373",
+  "links": {
+    "coingecko": "mirrored-ishares-gold-trust",
+    "twitter": "mirror_protocol",
+    "telegram": "mirror_protocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

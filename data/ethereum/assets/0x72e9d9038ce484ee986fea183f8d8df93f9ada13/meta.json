@@ -1,0 +1,15 @@
+{
+  "name": "SmartCredit Token",
+  "symbol": "SMARTCREDIT",
+  "web": "https://smartcredit.io",
+  "explorer": "https://etherscan.io/token/0x72e9d9038ce484ee986fea183f8d8df93f9ada13",
+  "links": {
+    "coingecko": "smartcredit-token",
+    "twitter": "smartcredit_io",
+    "telegram": "SmartCredit_Community"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

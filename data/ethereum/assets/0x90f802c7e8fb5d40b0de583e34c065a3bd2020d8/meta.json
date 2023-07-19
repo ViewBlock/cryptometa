@@ -1,0 +1,15 @@
+{
+  "name": "YD-ETH-MAR21",
+  "symbol": "YD-ETH-MAR21",
+  "web": "https://umaproject.org",
+  "explorer": "https://etherscan.io/token/0x90f802c7e8fb5d40b0de583e34c065a3bd2020d8",
+  "links": {
+    "github": "UMAprotocol",
+    "coingecko": "yd-eth-mar21",
+    "twitter": "UMAprotocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "3X Short XRP Token",
+  "symbol": "XRPBEAR",
+  "web": "https://ftx.com/tokens/XRPBEAR",
+  "explorer": "https://etherscan.io/token/0x94fc5934cf5970e944a67de806eeb5a4b493c6e6",
+  "links": {
+    "coingecko": "3x-short-xrp-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

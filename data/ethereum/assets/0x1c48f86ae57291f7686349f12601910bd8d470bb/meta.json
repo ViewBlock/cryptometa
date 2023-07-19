@@ -1,0 +1,15 @@
+{
+  "name": "USDK",
+  "symbol": "USDK",
+  "web": "https://www.oklink.com",
+  "explorer": "https://etherscan.io/token/0x1c48f86ae57291f7686349f12601910bd8d470bb",
+  "links": {
+    "github": "oklink",
+    "coingecko": "usdk",
+    "twitter": "OKLink"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

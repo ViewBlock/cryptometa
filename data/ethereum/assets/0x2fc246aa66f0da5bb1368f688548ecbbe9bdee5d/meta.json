@@ -1,0 +1,18 @@
+{
+  "name": "TEMCO",
+  "symbol": "TEMCO",
+  "web": "https://www.temco.io",
+  "explorer": "https://etherscan.io/token/0x2fc246aa66f0da5bb1368f688548ecbbe9bdee5d",
+  "links": {
+    "github": "temcolabs",
+    "coingecko": "temco",
+    "twitter": "TEMCOLABS",
+    "facebook": "TEMCOLABS",
+    "telegram": "TEMCOLABS",
+    "reddit": "r/temcolabs"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

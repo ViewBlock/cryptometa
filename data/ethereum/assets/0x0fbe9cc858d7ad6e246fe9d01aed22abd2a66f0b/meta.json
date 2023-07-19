@@ -1,0 +1,15 @@
+{
+  "name": "Danat Coin",
+  "symbol": "DNC",
+  "web": "https://danatcoin.com",
+  "explorer": "https://etherscan.io/token/0x0fbe9cc858d7ad6e246fe9d01aed22abd2a66f0b",
+  "links": {
+    "coingecko": "danat-coin",
+    "twitter": "Danat51009061",
+    "facebook": "DanatCoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

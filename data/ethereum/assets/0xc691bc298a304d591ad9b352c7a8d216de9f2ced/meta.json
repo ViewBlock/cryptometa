@@ -1,0 +1,16 @@
+{
+  "name": "Polaris Share",
+  "symbol": "POLA",
+  "web": "https://polarishare.io",
+  "explorer": "https://etherscan.io/token/0xc691bc298a304d591Ad9b352c7A8D216dE9f2CED",
+  "links": {
+    "coingecko": "polaris-share",
+    "twitter": "Polarishare",
+    "facebook": "polarishare",
+    "telegram": "official_polarishare"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

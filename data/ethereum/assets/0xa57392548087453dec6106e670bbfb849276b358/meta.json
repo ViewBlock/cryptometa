@@ -1,0 +1,14 @@
+{
+  "name": "GemVault Coin",
+  "symbol": "GVC",
+  "web": "https://www.gemvault.io",
+  "explorer": "https://etherscan.io/token/0xa57392548087453dec6106e670bbfb849276b358",
+  "links": {
+    "github": "GemVaultCoin",
+    "coingecko": "gemvault-coin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

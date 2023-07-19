@@ -1,0 +1,17 @@
+{
+  "name": "Bitpanda Ecosystem Token",
+  "symbol": "BEST",
+  "web": "https://www.bitpanda.com/best",
+  "explorer": "https://etherscan.io/token/0x1b073382e63411e3bcffe90ac1b9a43fefa1ec6f",
+  "links": {
+    "coingecko": "bitpanda-ecosystem-token",
+    "twitter": "bitpanda",
+    "facebook": "BITPANDA",
+    "telegram": "BEST_en",
+    "reddit": "r/bitpanda"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

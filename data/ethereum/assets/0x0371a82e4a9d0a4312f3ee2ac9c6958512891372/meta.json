@@ -1,0 +1,16 @@
+{
+  "name": "bitJob",
+  "symbol": "STU",
+  "web": "https://bitjob.io",
+  "explorer": "https://etherscan.io/token/0x0371a82e4a9d0a4312f3ee2ac9c6958512891372",
+  "links": {
+    "github": "bitjobteam",
+    "coingecko": "bitjob",
+    "twitter": "BitJob_Team",
+    "telegram": "bitjob"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

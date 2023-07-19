@@ -1,0 +1,14 @@
+{
+  "name": "Olestars",
+  "symbol": "OLE",
+  "web": "https://www.ole-stars.com",
+  "explorer": "https://etherscan.io/token/0x5b19e6c244c8a3d85854398c784c4f09e6c0e00d",
+  "links": {
+    "coingecko": "olestars",
+    "facebook": "Ole-stars-253110338918888"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

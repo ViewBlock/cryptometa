@@ -1,0 +1,16 @@
+{
+  "name": "Yakuza DFO",
+  "symbol": "YKZ",
+  "web": "http://YKZ.network",
+  "explorer": "https://etherscan.io/token/0x87047986E8e4961c11d2EdcD94285E3A1331d97B",
+  "links": {
+    "github": "Yakuza-DFO",
+    "coingecko": "yakuza-dao",
+    "twitter": "yakuza_dfo",
+    "telegram": "YKZ_DFO"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

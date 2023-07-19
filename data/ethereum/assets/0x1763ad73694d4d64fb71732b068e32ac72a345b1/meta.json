@@ -1,0 +1,16 @@
+{
+  "name": "BEE Coin",
+  "symbol": "BEE",
+  "web": "https://www.beex.one",
+  "explorer": "https://etherscan.io/token/0x1763ad73694d4d64fb71732b068e32ac72a345b1",
+  "links": {
+    "coingecko": "bee-coin",
+    "twitter": "beexofficial",
+    "facebook": "BEEX.oneofficial",
+    "telegram": "BEEXoneEN"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

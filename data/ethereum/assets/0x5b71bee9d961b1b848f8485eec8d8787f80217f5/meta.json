@@ -1,0 +1,16 @@
+{
+  "name": "Bitforex Token",
+  "symbol": "BF",
+  "web": "https://bitforex.com",
+  "explorer": "https://etherscan.io/token/0x5b71bee9d961b1b848f8485eec8d8787f80217f5",
+  "links": {
+    "coingecko": "bitforex",
+    "twitter": "bitforexcom",
+    "facebook": "bitforexcom",
+    "telegram": "BitForexOfficial"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

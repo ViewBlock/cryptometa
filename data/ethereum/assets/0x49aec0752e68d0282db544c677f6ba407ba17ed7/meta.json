@@ -1,0 +1,16 @@
+{
+  "name": "Billionaire Token",
+  "symbol": "XBL",
+  "web": "https://billionairetoken.com",
+  "explorer": "https://etherscan.io/token/0x49aec0752e68d0282db544c677f6ba407ba17ed7",
+  "links": {
+    "github": "billionairetoken",
+    "coingecko": "billionaire-token",
+    "twitter": "BillionaireTkn",
+    "reddit": "r/BillionaireTkn"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

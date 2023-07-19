@@ -1,0 +1,15 @@
+{
+  "name": "APY.Finance",
+  "symbol": "APY",
+  "web": "https://apy.finance",
+  "explorer": "https://etherscan.io/token/0x95a4492F028aa1fd432Ea71146b433E7B4446611",
+  "links": {
+    "coingecko": "apy-finance",
+    "twitter": "apyfinance",
+    "telegram": "apyfinancechat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

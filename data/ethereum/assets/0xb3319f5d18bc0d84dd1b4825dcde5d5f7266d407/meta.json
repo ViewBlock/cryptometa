@@ -1,0 +1,15 @@
+{
+  "name": "c0x",
+  "symbol": "CZRX",
+  "web": "https://compound.finance",
+  "explorer": "https://etherscan.io/token/0xb3319f5d18bc0d84dd1b4825dcde5d5f7266d407",
+  "links": {
+    "coingecko": "compound-0x",
+    "twitter": "compoundfinance",
+    "reddit": "r/compound"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "HOQU",
+  "symbol": "HQX",
+  "web": "https://www.hoqu.io",
+  "explorer": "https://etherscan.io/token/0x1b957dc4aefeed3b4a2351a6a6d5cbfbba0cecfa",
+  "links": {
+    "github": "hoqu-io",
+    "coingecko": "hoqu",
+    "twitter": "HOQU_IO",
+    "facebook": "HOQUio",
+    "telegram": "HOQUIO",
+    "reddit": "r/HOQU"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Coinsbit Token",
+  "symbol": "CNB",
+  "web": "https://coinsbit.io",
+  "explorer": "https://etherscan.io/token/0xC538143202f3b11382D8606aae90a96b042a19DB",
+  "links": {
+    "coingecko": "coinsbit-token",
+    "twitter": "c0insbit",
+    "facebook": "coinsbit.io.cr",
+    "telegram": "coinsbit_chat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

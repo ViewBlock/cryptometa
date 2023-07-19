@@ -1,0 +1,16 @@
+{
+  "name": "MASQ",
+  "symbol": "MASQ",
+  "web": "https://masq.ai",
+  "explorer": "https://etherscan.io/token/0x06f3c323f0238c72bf35011071f2b5b7f43a054c",
+  "links": {
+    "github": "MASQ-Project",
+    "coingecko": "masq",
+    "twitter": "MASQ_ai",
+    "telegram": "MASQ_ai"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

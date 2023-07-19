@@ -1,0 +1,15 @@
+{
+  "name": "The Bitcoin Family",
+  "symbol": "FAMILY",
+  "web": "www.thebitcoinfamily.com",
+  "explorer": "https://etherscan.io/token/0x833E4c02c47B7e38f5b9A80b26eb07D23d1961f4",
+  "links": {
+    "coingecko": "the-bitcoin-family",
+    "twitter": "diditaihuttu",
+    "telegram": "thebitcoinfamily_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Moozicore",
+  "symbol": "MZG",
+  "web": "https://moozicore.com",
+  "explorer": "https://etherscan.io/token/0xFd0Df7B58bD53D1dd4835ecD69A703b4b26F7816",
+  "links": {
+    "github": "Moozicore",
+    "coingecko": "moozicore",
+    "twitter": "Moozicore",
+    "facebook": "Moozicore",
+    "telegram": "moozicore",
+    "reddit": "r/Moozicore"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

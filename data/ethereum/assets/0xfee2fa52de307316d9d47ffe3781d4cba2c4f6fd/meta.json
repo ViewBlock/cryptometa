@@ -1,0 +1,13 @@
+{
+  "name": "Arthur Chain",
+  "symbol": "ARC",
+  "web": "https://www.arccome.com",
+  "explorer": "https://etherscan.io/token/0xfee2fa52de307316d9d47ffe3781d4cba2c4f6fd",
+  "links": {
+    "coingecko": "arthur-chain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

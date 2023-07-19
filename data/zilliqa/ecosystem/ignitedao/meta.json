@@ -1,0 +1,15 @@
+{
+  "name": "IgniteDAO",
+  "description": "A community-run autonomous organisation building products and applications on Zilliqa.",
+  "web": "https://zillacracy.com",
+  "links": {
+    "twitter": "https://twitter.com/IgniteDAO"
+  },
+  "categories": [
+    "dao"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "ignitedao"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Opyn yCurve Insurance",
+  "symbol": "OCRV",
+  "web": "http://opyn.co",
+  "explorer": "https://etherscan.io/token/0x4ba8c6ce0e855c051e65dfc37883360efaf7c82b",
+  "links": {
+    "github": "opynfinance",
+    "coingecko": "ocrv",
+    "twitter": "opyn_"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

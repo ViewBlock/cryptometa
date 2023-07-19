@@ -1,0 +1,17 @@
+{
+  "name": "SAV3",
+  "symbol": "SAV3",
+  "web": "https://sav3.org",
+  "explorer": "https://etherscan.io/token/0x6e10aacb89a28d6fa0fe68790777fec7e7f01890",
+  "links": {
+    "github": "sav3org",
+    "coingecko": "sav3",
+    "twitter": "TheTimTempleton",
+    "telegram": "sav3org"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

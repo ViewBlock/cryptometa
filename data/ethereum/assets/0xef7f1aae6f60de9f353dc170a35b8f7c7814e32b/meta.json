@@ -1,0 +1,16 @@
+{
+  "name": "AZ Fundchain",
+  "symbol": "AZT",
+  "web": "http://azfundchain.io",
+  "explorer": "https://etherscan.io/token/0xef7f1aae6f60de9f353dc170a35b8f7c7814e32b",
+  "links": {
+    "coingecko": "az-fundchain",
+    "twitter": "azfundchain",
+    "facebook": "azfundchain",
+    "telegram": "fundchainAZ"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

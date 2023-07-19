@@ -1,0 +1,18 @@
+{
+  "name": "Nostra",
+  "description": "Nostra is the most versatile liquidity protocol for lending and borrowing. Deposit your crypto in Nostra to earn income, and borrow crypto using your deposits as collateral while taking advantage of the protocol's unique features.",
+  "categories": [
+    "defi"
+  ],
+  "web": "http://nostra.finance",
+  "links": {
+    "twitter": "https://twitter.com/nostrafinance",
+    "medium": "https://mirror.xyz/0x845605C411132BAA06024a521a85B653F3C802dF",
+    "discord": "https://discord.gg/Eqp53YafYP",
+    "telegram": "https://www.t.me/nostrafinance"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "nostra"
+}

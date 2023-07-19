@@ -1,0 +1,15 @@
+{
+  "name": "Carbon",
+  "symbol": "CRBN",
+  "web": "https://crbn.io",
+  "explorer": "https://etherscan.io/token/0xCdeee767beD58c5325f68500115d4B722b3724EE",
+  "links": {
+    "coingecko": "carbon",
+    "twitter": "crbnio",
+    "telegram": "crbnio"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

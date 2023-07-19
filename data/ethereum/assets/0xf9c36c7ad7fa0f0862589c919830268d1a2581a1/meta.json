@@ -1,0 +1,15 @@
+{
+  "name": "BOA",
+  "symbol": "BOA",
+  "web": "https://boa-token.webflow.io",
+  "explorer": "https://etherscan.io/token/0xf9c36c7ad7fa0f0862589c919830268d1a2581a1",
+  "links": {
+    "coingecko": "boa",
+    "twitter": "burn_the_state",
+    "telegram": "burn_the_state"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

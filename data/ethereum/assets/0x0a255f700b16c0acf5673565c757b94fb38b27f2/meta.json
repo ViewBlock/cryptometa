@@ -1,0 +1,14 @@
+{
+  "name": "NeoWorld Cash",
+  "symbol": "NASH",
+  "web": "https://neoworld.io",
+  "explorer": "https://etherscan.io/token/0x0a255f700b16c0acf5673565c757b94fb38b27f2",
+  "links": {
+    "coingecko": "neoworld-cash",
+    "telegram": "Neoworldio"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

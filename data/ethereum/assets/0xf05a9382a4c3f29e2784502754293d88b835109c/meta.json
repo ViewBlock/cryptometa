@@ -1,0 +1,15 @@
+{
+  "name": "Imbrex",
+  "symbol": "REX",
+  "web": "https://imbrex.io",
+  "explorer": "https://etherscan.io/token/0xf05a9382A4C3F29E2784502754293D88b835109C",
+  "links": {
+    "github": "rexmls",
+    "coingecko": "rex",
+    "twitter": "imbrex_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "BITICA COIN",
+  "symbol": "BDCC",
+  "web": "https://www.thebitica.com",
+  "explorer": "https://etherscan.io/token/0x3a3547d62e9f9e76f99d51d5ab4f07aae0db2dbb",
+  "links": {
+    "github": "biticacoin",
+    "coingecko": "bitica-coin",
+    "twitter": "thebitica",
+    "facebook": "thebitica",
+    "telegram": "BDCCTOKEN"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

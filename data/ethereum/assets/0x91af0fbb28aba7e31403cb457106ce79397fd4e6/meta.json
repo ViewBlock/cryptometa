@@ -1,0 +1,16 @@
+{
+  "name": "Aergo",
+  "symbol": "AERGO",
+  "web": "https://aergo.io",
+  "explorer": "https://etherscan.io/token/0x91af0fbb28aba7e31403cb457106ce79397fd4e6",
+  "links": {
+    "github": "aergoio",
+    "coingecko": "aergo",
+    "twitter": "AERGO_IO",
+    "telegram": "aergoofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Vid",
+  "symbol": "VI",
+  "web": "https://vid.camera",
+  "explorer": "https://etherscan.io/token/0x8b6c3b7C01D9dB4393f9aa734750F36df1543E9A",
+  "links": {
+    "coingecko": "vid",
+    "twitter": "vid_app",
+    "telegram": "Vid_app",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "InterValue",
+  "symbol": "INVE",
+  "web": "http://www.inve.one",
+  "explorer": "https://etherscan.io/token/0xDAC4AE188AcE3C8985765eDc6C9B4739D4845DdC",
+  "links": {
+    "github": "intervalue",
+    "coingecko": "intervalue",
+    "twitter": "intervaluepro",
+    "facebook": "intervalueproject",
+    "telegram": "InterValueProject"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

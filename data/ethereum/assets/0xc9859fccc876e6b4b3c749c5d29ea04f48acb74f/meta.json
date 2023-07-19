@@ -1,0 +1,17 @@
+{
+  "name": "Ino Coin",
+  "symbol": "INO",
+  "web": "https://inocoin.eu",
+  "explorer": "https://etherscan.io/token/0xc9859fccc876e6b4b3c749c5d29ea04f48acb74f",
+  "links": {
+    "github": "InoCoin",
+    "coingecko": "ino-coin",
+    "twitter": "inocoin2018",
+    "facebook": "InoCoin-352618868548773",
+    "telegram": "IniCoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

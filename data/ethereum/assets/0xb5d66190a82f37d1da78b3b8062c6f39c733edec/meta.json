@@ -1,0 +1,15 @@
+{
+  "name": "Make More Money",
+  "symbol": "M3C",
+  "web": "https://m3coin.io",
+  "explorer": "https://etherscan.io/token/0xb5d66190a82f37d1da78b3b8062c6f39c733edec",
+  "links": {
+    "github": "M3Cofficial",
+    "coingecko": "make-more-money",
+    "twitter": "M3C_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

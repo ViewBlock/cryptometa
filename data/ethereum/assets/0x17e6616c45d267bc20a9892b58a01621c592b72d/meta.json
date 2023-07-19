@@ -1,0 +1,17 @@
+{
+  "name": "Ethereum Message Search",
+  "symbol": "EMS",
+  "web": "https://ethereum.ms",
+  "explorer": "https://etherscan.io/token/0x17E6616c45d267bC20A9892b58A01621c592B72d",
+  "links": {
+    "coingecko": "ethereum-message-search",
+    "twitter": "ethereum_ms",
+    "telegram": "ems_a",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

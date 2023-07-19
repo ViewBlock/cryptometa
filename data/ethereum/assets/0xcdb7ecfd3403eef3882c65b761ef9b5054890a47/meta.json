@@ -1,0 +1,17 @@
+{
+  "name": "Hurify",
+  "symbol": "HUR",
+  "web": "https://hurify.co",
+  "explorer": "https://etherscan.io/token/0xcdb7ecfd3403eef3882c65b761ef9b5054890a47",
+  "links": {
+    "github": "HurifyPlatform",
+    "coingecko": "hurify",
+    "twitter": "Hurify_hur",
+    "facebook": "hurify",
+    "telegram": "hurifyico"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

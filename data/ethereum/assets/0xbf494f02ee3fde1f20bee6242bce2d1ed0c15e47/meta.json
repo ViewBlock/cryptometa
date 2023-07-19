@@ -1,0 +1,16 @@
+{
+  "name": "World Token",
+  "symbol": "WORLD",
+  "web": "https://worldtoken.network",
+  "explorer": "https://etherscan.io/token/0xbf494f02ee3fde1f20bee6242bce2d1ed0c15e47",
+  "links": {
+    "github": "worldtoken",
+    "coingecko": "world-token",
+    "twitter": "worldtoken_",
+    "telegram": "worldtokenofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "UniversalCoin",
+  "symbol": "UVC",
+  "web": "https://universalcoin.io",
+  "explorer": "https://blockscout.com/etc/mainnet/tokens/0x76d0184cf511788032a74a1fb91146e63f43dd53/token_transfers",
+  "links": {
+    "coingecko": "universalcoin",
+    "twitter": "Universal_Coin",
+    "telegram": "Universal_Coin",
+    "reddit": "r/universalcoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

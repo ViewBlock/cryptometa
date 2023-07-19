@@ -1,0 +1,15 @@
+{
+  "name": "Opyn cUSDC Insurance",
+  "symbol": "OCUSDC",
+  "web": "https://opyn.co/#",
+  "explorer": "https://etherscan.io/token/0x8ed9f862363ffdfd3a07546e618214b6d59f03d4",
+  "links": {
+    "github": "opynfinance",
+    "coingecko": "ocusdc",
+    "twitter": "opyn_"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "DexKit",
+  "symbol": "KIT",
+  "web": "https://dexkit.com",
+  "explorer": "https://etherscan.io/token/0x7866e48c74cbfb8183cd1a929cd9b95a7a5cb4f4",
+  "links": {
+    "github": "DexKit",
+    "coingecko": "dexkit",
+    "twitter": "dexkit",
+    "telegram": "dexkit",
+    "reddit": "r/Dexkit"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

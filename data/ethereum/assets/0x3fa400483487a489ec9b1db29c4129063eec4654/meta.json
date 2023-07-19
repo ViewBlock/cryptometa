@@ -1,0 +1,15 @@
+{
+  "name": "CryptoKek",
+  "symbol": "KEK",
+  "web": "https://cryptokek.com",
+  "explorer": "https://etherscan.io/token/0x3fa400483487A489EC9b1dB29C4129063EEC4654",
+  "links": {
+    "coingecko": "cryptokek",
+    "twitter": "kektoken",
+    "telegram": "cryptok3k"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

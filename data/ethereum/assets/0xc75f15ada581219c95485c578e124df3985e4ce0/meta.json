@@ -1,0 +1,15 @@
+{
+  "name": "zzz.finance",
+  "symbol": "ZZZ",
+  "web": "https://zzz.finance",
+  "explorer": "https://etherscan.io/token/0xc75f15ada581219c95485c578e124df3985e4ce0",
+  "links": {
+    "coingecko": "zzz-finance",
+    "twitter": "zzzfinance",
+    "telegram": "zzzfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

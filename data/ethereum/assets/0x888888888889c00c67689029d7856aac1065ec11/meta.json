@@ -1,0 +1,17 @@
+{
+  "name": "Opium",
+  "symbol": "OPIUM",
+  "web": "https://www.opium.network",
+  "explorer": "https://etherscan.io/token/0x888888888889c00c67689029d7856aac1065ec11",
+  "links": {
+    "github": "OpiumProtocol",
+    "coingecko": "opium",
+    "twitter": "Opium_Network",
+    "telegram": "opium_network",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

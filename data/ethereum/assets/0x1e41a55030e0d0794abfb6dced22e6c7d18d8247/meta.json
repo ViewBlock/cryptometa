@@ -1,0 +1,13 @@
+{
+  "name": "Android chain",
+  "symbol": "ADC",
+  "web": "https://www.androidchain66.com",
+  "explorer": "https://etherscan.io/token/0x1e41a55030e0d0794abfb6dced22e6c7d18d8247",
+  "links": {
+    "coingecko": "android-chain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

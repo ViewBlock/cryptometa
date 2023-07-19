@@ -1,0 +1,14 @@
+{
+  "name": "CAD Coin",
+  "symbol": "CADC",
+  "web": "https://paytrie.com/cadc",
+  "explorer": "https://etherscan.io/token/0xcadc0acd4b445166f12d2c07eac6e2544fbe2eef",
+  "links": {
+    "coingecko": "cad-coin",
+    "twitter": "PayTrie"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

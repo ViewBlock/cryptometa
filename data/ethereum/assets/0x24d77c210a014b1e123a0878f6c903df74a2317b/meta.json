@@ -1,0 +1,17 @@
+{
+  "name": "Bitfxt Coin",
+  "symbol": "BXT",
+  "web": "https://www.bitfxt.com",
+  "explorer": "https://etherscan.io/token/0x24d77c210a014b1e123a0878f6c903df74a2317b",
+  "links": {
+    "github": "bitfxtdev",
+    "coingecko": "bitfxt-coin",
+    "twitter": "bitfxt",
+    "facebook": "bitfxt",
+    "telegram": "bitfxt_channel"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

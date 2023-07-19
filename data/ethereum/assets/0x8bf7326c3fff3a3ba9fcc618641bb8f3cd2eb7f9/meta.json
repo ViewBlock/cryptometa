@@ -1,0 +1,14 @@
+{
+  "name": "Ghost Talk",
+  "symbol": "XSCC",
+  "web": "https://www.ghost-talk.io",
+  "explorer": "https://etherscan.io/token/0x8bf7326c3fff3a3ba9fcc618641bb8f3cd2eb7f9",
+  "links": {
+    "coingecko": "ghost-talk",
+    "telegram": "Smartcryptocurrency"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

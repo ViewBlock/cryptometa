@@ -1,0 +1,14 @@
+{
+  "name": "LINKA",
+  "symbol": "LINKA",
+  "web": "https://www.linka.io",
+  "explorer": "https://etherscan.io/token/0x578b49c45961f98d8df92854b53f1641af0a5036",
+  "links": {
+    "coingecko": "linka",
+    "telegram": "linkaofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

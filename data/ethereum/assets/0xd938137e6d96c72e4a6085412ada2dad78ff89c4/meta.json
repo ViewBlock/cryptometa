@@ -1,0 +1,17 @@
+{
+  "name": "Abulaba",
+  "symbol": "AAA",
+  "web": "https://abulaba.co",
+  "explorer": "https://etherscan.io/token/0xd938137e6d96c72e4a6085412ada2dad78ff89c4",
+  "links": {
+    "github": "abulaba",
+    "coingecko": "abulaba",
+    "twitter": "AbulabaCapital",
+    "facebook": "Abulaba-AAA-1367980696680918",
+    "telegram": "Abulaba_coin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

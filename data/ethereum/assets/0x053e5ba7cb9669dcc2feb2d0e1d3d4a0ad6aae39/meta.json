@@ -1,0 +1,13 @@
+{
+  "name": "3X Short OKB Token",
+  "symbol": "OKBBEAR",
+  "web": "https://ftx.com/tokens/OKBBEAR",
+  "explorer": "https://etherscan.io/token/0x053e5ba7cb9669dcc2feb2d0e1d3d4a0ad6aae39",
+  "links": {
+    "coingecko": "3x-short-okb-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

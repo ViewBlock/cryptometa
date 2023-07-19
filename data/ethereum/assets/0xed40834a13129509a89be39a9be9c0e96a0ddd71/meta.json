@@ -1,0 +1,17 @@
+{
+  "name": "Warp Finance",
+  "symbol": "WARP",
+  "web": "https://warp.finance",
+  "explorer": "https://etherscan.io/token/0xed40834a13129509a89be39a9be9c0e96a0ddd71",
+  "links": {
+    "github": "warpfinance",
+    "coingecko": "warp-finance",
+    "twitter": "warpfinance",
+    "telegram": "warp_official",
+    "reddit": "r/warpfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

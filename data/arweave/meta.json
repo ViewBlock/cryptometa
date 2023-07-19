@@ -3,8 +3,19 @@
   "symbol": "AR",
   "web": "https://arweave.org",
   "explorer": "https://viewblock.io/arweave",
+  "links": {
+    "github": "ArweaveTeam",
+    "coingecko": "arweave",
+    "twitter": "arweaveteam",
+    "facebook": "ArweaveTeam",
+    "telegram": "arweave"
+  },
+  "config": {
+    "manualDark": true
+  },
   "gen": {
     "logo": "logo.svg",
-    "hasDark": true
+    "hasDark": true,
+    "darkExt": "svg"
   }
 }

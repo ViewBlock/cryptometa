@@ -1,0 +1,14 @@
+{
+  "name": "Self Storage Coin",
+  "symbol": "STOR",
+  "web": "http://www.selfstoragecoin.com",
+  "explorer": "https://etherscan.io/token/0xa3ceac0aac5c5d868973e546ce4731ba90e873c2",
+  "links": {
+    "coingecko": "self-storage-coin",
+    "twitter": "storcoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

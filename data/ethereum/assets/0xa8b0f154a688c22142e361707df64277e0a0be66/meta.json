@@ -1,0 +1,15 @@
+{
+  "name": "Rake Finance",
+  "symbol": "RAK",
+  "web": "https://rake.finance",
+  "explorer": "https://etherscan.io/token/0xa8b0f154a688c22142e361707df64277e0a0be66",
+  "links": {
+    "coingecko": "rake-finance",
+    "twitter": "RakeFinance",
+    "telegram": "RakeFinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

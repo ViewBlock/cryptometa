@@ -11,8 +11,7 @@
     "medium": "https://medium.com/bolt-global"
   },
   "gen": {
-    "logo": "logo.png",
-    "hasDark": false,
+    "logo": "logo.svg",
     "score": 10
   }
 }

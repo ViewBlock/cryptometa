@@ -1,0 +1,16 @@
+{
+  "name": "TMC NiftyGotchi",
+  "symbol": "TMC",
+  "web": "https://www.niftygotchi.com",
+  "explorer": "https://etherscan.io/token/0xe13559cf6eDf84bD04bf679e251f285000B9305E",
+  "links": {
+    "github": "niftygotchi",
+    "coingecko": "tmc-niftygotchi",
+    "twitter": "niftygotchi",
+    "telegram": "niftygotchi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

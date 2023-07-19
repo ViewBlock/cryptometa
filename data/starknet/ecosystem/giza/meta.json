@@ -1,0 +1,16 @@
+{
+  "name": "Giza",
+  "description": "Giza is a Machine Learning platform built on StarkNet focused on fully on-chain model deployment scaling.",
+  "categories": [
+    "infra"
+  ],
+  "web": "https://gizatech.xyz",
+  "links": {
+    "twitter": "https://twitter.com/gizatechxyz",
+    "medium": "https://mirror.xyz/gizatech.eth"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "giza"
+}

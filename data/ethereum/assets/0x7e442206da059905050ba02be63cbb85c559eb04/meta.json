@@ -1,0 +1,16 @@
+{
+  "name": "French ICO Coin",
+  "symbol": "FICO",
+  "web": "https://www.french-ico.com",
+  "explorer": "https://etherscan.io/token/0x7e442206da059905050ba02be63cbb85c559eb04",
+  "links": {
+    "coingecko": "french-ico-coin",
+    "twitter": "IcoFrench",
+    "facebook": "FRENCHICOcom"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 10
+  }
+}

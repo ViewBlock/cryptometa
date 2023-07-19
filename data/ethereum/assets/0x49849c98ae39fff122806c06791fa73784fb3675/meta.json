@@ -1,0 +1,13 @@
+{
+  "name": "LP renBTC Curve",
+  "symbol": "RENBTCCURVE",
+  "web": "https://www.curve.fi",
+  "explorer": "https://etherscan.io/token/0x49849c98ae39fff122806c06791fa73784fb3675",
+  "links": {
+    "coingecko": "lp-renbtc-curve"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Populous",
+  "symbol": "PPT",
+  "web": "https://populous.world",
+  "explorer": "https://etherscan.io/token/0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a",
+  "links": {
+    "github": "bitpopulous",
+    "coingecko": "populous",
+    "twitter": "bitpopulous"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

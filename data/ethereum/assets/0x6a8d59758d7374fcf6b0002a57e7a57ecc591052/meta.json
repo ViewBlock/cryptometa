@@ -1,0 +1,10 @@
+{
+  "symbol": "uAAH",
+  "name": "Ahegao DAO",
+  "decimals": 18,
+  "description": "Ahegao DAO fractionalized for Unicly!",
+  "gen": {
+    "logo": "logo.png",
+    "score": 0
+  }
+}

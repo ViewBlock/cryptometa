@@ -1,0 +1,15 @@
+{
+  "name": "AlgoVest",
+  "symbol": "AVS",
+  "web": "https://algovest.fi",
+  "explorer": "https://etherscan.io/token/0x94d916873b22c9c1b53695f1c002f78537b9b3b2",
+  "links": {
+    "coingecko": "algovest",
+    "twitter": "AlgoVestAVS",
+    "telegram": "AlgoVest"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Zenfuse",
+  "symbol": "ZEFU",
+  "web": "https://zenfuse.io",
+  "explorer": "https://etherscan.io/token/0xb1e9157c2fdcc5a856c8da8b2d89b6c32b3c1229",
+  "links": {
+    "coingecko": "zenfuse",
+    "twitter": "zenfuse_io",
+    "telegram": "zenfuse_en",
+    "reddit": "r/zenfuse"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

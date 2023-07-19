@@ -1,0 +1,15 @@
+{
+  "name": "Fatcoin",
+  "symbol": "FAT",
+  "web": "https://www.fatbtc.com",
+  "explorer": "https://etherscan.io/token/0x2ec95b8eda549b79a1248335a39d299d00ed314c",
+  "links": {
+    "coingecko": "fatcoin",
+    "twitter": "fatbtc",
+    "telegram": "fatbtc"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Istardust",
+  "symbol": "ISDT",
+  "web": "https://istardust.io",
+  "explorer": "https://etherscan.io/token/0xf2354F740f31704820f6FcfBA70B9dA065459b62",
+  "links": {
+    "github": "IStardust-io",
+    "coingecko": "istardust",
+    "telegram": "istardust_global"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 14
+  }
+}

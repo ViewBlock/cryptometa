@@ -1,0 +1,19 @@
+{
+  "name": "ExinOne",
+  "description": "Start investing in digital assets such as Bitcoin in one minute",
+  "web": "https://exin.one",
+  "email": " thorb@exin.one",
+  "links": {
+    "twitter": "exin_one"
+  },
+  "extra": {
+    "mixinId": "310e1f2b-2fc7-4ae0-ae2c-2f4c189808b1"
+  },
+  "categories": [
+    "defi"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "exinone"
+}

@@ -1,0 +1,10 @@
+{
+  "symbol": "uBADGER",
+  "name": "BadgerDAO Honey Hunt",
+  "decimals": 18,
+  "description": "The complete NFT collection of BadgerDAO x MEME from the Honey Badger Hunt Airdrop 1",
+  "gen": {
+    "logo": "logo.svg",
+    "score": 0
+  }
+}

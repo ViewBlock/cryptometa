@@ -1,0 +1,16 @@
+{
+  "name": "Briq",
+  "description": "NFT building and composition protocol. Get some briqs and build the dream.",
+  "categories": [
+    "nft"
+  ],
+  "web": "https://briq.construction",
+  "links": {
+    "twitter": "https://twitter.com/briqNFT",
+    "discord": "https://discord.com/invite/kpvbDCw5pr"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "briq"
+}

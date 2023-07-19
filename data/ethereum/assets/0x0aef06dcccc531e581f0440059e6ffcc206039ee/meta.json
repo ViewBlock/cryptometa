@@ -1,0 +1,16 @@
+{
+  "name": "Intelligent Trading Foundation",
+  "symbol": "ITT",
+  "web": "http://intelligenttrading.org",
+  "explorer": "https://etherscan.io/token/0x0aef06dcccc531e581f0440059e6ffcc206039ee",
+  "links": {
+    "github": "IntelligentTrading",
+    "coingecko": "intelligent-trading-tech",
+    "twitter": "itt_token",
+    "reddit": "r/ITT_Token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

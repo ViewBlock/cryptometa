@@ -1,0 +1,22 @@
+{
+  "name": "Koii Core",
+  "symbol": "Koii",
+  "web": "https://koii.network",
+  "publicTeam": true,
+  "links": {
+    "twitter": "KoiiNetwork",
+    "discord": "https://discord.com/invite/koii",
+    "telegram": "koiinetwork",
+    "github": "koii-network",
+    "linkedin": "koii-network"
+  },
+  "config": {
+    "manualDark": true
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg",
+    "score": 43
+  }
+}

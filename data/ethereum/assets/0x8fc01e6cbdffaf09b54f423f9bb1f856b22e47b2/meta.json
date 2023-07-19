@@ -1,0 +1,16 @@
+{
+  "name": "Obitan Chain",
+  "symbol": "OBTC",
+  "web": "https://www.obitanchain.org",
+  "explorer": "https://etherscan.io/token/0x8fC01E6CbDfFaf09B54F423f9Bb1F856b22e47b2",
+  "links": {
+    "github": "obitanchain",
+    "coingecko": "obitan-chain",
+    "twitter": "ObitanChain",
+    "telegram": "obitanchainchannel"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

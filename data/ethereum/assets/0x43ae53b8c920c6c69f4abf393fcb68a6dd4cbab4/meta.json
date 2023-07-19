@@ -1,0 +1,16 @@
+{
+  "name": "RiveMont",
+  "symbol": "RVMT",
+  "web": "https://rivemont.io/rivemont.io/en/index.html",
+  "explorer": "https://etherscan.io/token/0x43ae53b8c920c6c69f4abf393fcb68a6dd4cbab4",
+  "links": {
+    "github": "rivemont",
+    "coingecko": "rivemont",
+    "twitter": "https://twitter.com/_rivemont",
+    "telegram": "rivemont_chat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

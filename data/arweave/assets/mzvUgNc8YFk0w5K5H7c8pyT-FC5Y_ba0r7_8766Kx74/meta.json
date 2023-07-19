@@ -1,0 +1,20 @@
+{
+  "name": "CommunityXYZ",
+  "symbol": "XYZ",
+  "web": "https://community.xyz",
+  "email": "community@mailthink.net",
+  "product": true,
+  "links": {
+    "github": "https://github.com/CommunityXYZ",
+    "twitter": "https://twitter.com/CommunityXyz",
+    "discord": "https://discord.gg/5SMgD9t"
+  },
+  "config": {
+    "manualDark": true
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 48
+  }
+}

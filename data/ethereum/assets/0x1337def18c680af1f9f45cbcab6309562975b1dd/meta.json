@@ -1,0 +1,15 @@
+{
+  "name": "Armor NXM",
+  "symbol": "ARNXM",
+  "web": "https://armor.fi",
+  "explorer": "https://etherscan.io/token/0x1337def18c680af1f9f45cbcab6309562975b1dd",
+  "links": {
+    "coingecko": "armor-nxm",
+    "twitter": "armorfi",
+    "telegram": "ArmorFi"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

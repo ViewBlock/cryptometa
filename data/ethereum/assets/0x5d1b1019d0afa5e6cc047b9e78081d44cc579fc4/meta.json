@@ -1,0 +1,15 @@
+{
+  "name": "yfrb.Finance",
+  "symbol": "YFRB",
+  "web": "https://www.yfrb.finance/#events",
+  "explorer": "https://etherscan.io/token/0x5d1b1019d0afa5e6cc047b9e78081d44cc579fc4",
+  "links": {
+    "coingecko": "yfrb-finance",
+    "twitter": "yfrbfinance",
+    "telegram": "yfrb_finance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

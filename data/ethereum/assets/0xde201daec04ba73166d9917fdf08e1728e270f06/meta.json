@@ -1,0 +1,15 @@
+{
+  "name": "MOJI Experience Points",
+  "symbol": "MEXP",
+  "web": "https://niftymoji.com/mint",
+  "explorer": "https://etherscan.io/token/0xde201daec04ba73166d9917fdf08e1728e270f06",
+  "links": {
+    "coingecko": "moji-experience-points",
+    "twitter": "niftymoji",
+    "telegram": "officialniftymoji"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

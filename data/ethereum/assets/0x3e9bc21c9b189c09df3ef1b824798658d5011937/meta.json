@@ -1,0 +1,16 @@
+{
+  "name": "Linear",
+  "symbol": "LINA",
+  "web": "https://linear.finance",
+  "explorer": "https://etherscan.io/token/0x3e9bc21c9b189c09df3ef1b824798658d5011937",
+  "links": {
+    "github": "Linear-finance",
+    "coingecko": "linear",
+    "twitter": "LinearFinance",
+    "telegram": "linearfinanceofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

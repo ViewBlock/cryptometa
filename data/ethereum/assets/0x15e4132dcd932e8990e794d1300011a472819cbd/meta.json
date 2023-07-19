@@ -1,0 +1,16 @@
+{
+  "name": "GRPL Finance",
+  "symbol": "GRPL",
+  "web": "https://grpl.finance",
+  "explorer": "https://etherscan.io/token/0x15E4132DcD932E8990E794d1300011A472819cBD",
+  "links": {
+    "github": "grpl-finance-git",
+    "coingecko": "grpl-finance-2",
+    "twitter": "grplfinance",
+    "telegram": "grpltalk"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

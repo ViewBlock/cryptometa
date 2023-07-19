@@ -1,0 +1,14 @@
+{
+  "name": "GUNTHY",
+  "symbol": "GUNTHY",
+  "web": "https://gunthy.org",
+  "explorer": "https://etherscan.io/token/0x3684b581db1f94b721ee0022624329feb16ab653",
+  "links": {
+    "coingecko": "gunthy",
+    "twitter": "gunbot_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Warlord Token",
+  "symbol": "WLT",
+  "web": "https://warlord.camp",
+  "explorer": "https://etherscan.io/token/0xb7bc7b0a32455f7e7a924f832ca4f0a0ac3b6b88",
+  "links": {
+    "github": "warlordtoken",
+    "coingecko": "warlord-token",
+    "twitter": "warlordtoken",
+    "facebook": "warlordtoken",
+    "telegram": "WarlordToken_Discussion"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

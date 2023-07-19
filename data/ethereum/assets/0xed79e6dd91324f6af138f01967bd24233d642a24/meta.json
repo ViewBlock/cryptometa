@@ -1,0 +1,15 @@
+{
+  "name": "King Maker Coin",
+  "symbol": "KMC",
+  "web": "https://kingmakercoin.com",
+  "explorer": "https://etherscan.io/token/0xed79e6dd91324f6af138f01967bd24233d642a24",
+  "links": {
+    "coingecko": "king-maker-coin",
+    "twitter": "KingmakerCoin",
+    "facebook": "kingmaker.coin.50"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

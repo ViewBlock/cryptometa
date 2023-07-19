@@ -1,0 +1,21 @@
+{
+  "name": "Huobi",
+  "description": "Singapore-based cryptocurrency exchange",
+  "web": "https://huobi.com",
+  "links": {
+    "twitter": "HuobiGlobal",
+    "telegram": "huobiglobalofficial",
+    "youtube": "HuobiGlobal"
+  },
+  "addresses": [
+    "zil1kag6m40qj8r8zrdzv0ct0f87jcdzkggkplgzj9"
+  ],
+  "categories": [
+    "exchange"
+  ],
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true
+  },
+  "key": "huobi"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "PlatonCoin",
+  "symbol": "PLTC",
+  "web": "https://platonfinance.com",
+  "explorer": "https://etherscan.io/token/0x429D83Bb0DCB8cdd5311e34680ADC8B12070a07f",
+  "links": {
+    "github": "platonfinance",
+    "coingecko": "platoncoin",
+    "twitter": "platonfinance",
+    "facebook": "platonfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

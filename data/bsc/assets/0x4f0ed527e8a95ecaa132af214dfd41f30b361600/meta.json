@@ -1,0 +1,12 @@
+{
+  "name": "vBSWAP",
+  "symbol": "VBSWAP",
+  "web": "https://bsc.valuedefi.io",
+  "explorer": "https://bscscan.com/token/0x4f0ed527e8A95ecAA132Af214dFd41F30b361600",
+  "links": {
+    "github": "valuedefi",
+    "coingecko": "vbswap",
+    "twitter": "value_defi",
+    "telegram": "ValueDeFi"
+  }
+}

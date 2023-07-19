@@ -1,0 +1,17 @@
+{
+  "name": "Wanchain",
+  "symbol": "WAN",
+  "web": "https://wanchain.org",
+  "explorer": "https://explorer.wanchain.org",
+  "links": {
+    "github": "wanchain",
+    "coingecko": "wanchain",
+    "twitter": "wanchain_org",
+    "facebook": "wanchainfoundation",
+    "telegram": "WanchainANN",
+    "reddit": "r/wanchain"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

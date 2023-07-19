@@ -1,0 +1,15 @@
+{
+  "name": "KingXChain",
+  "symbol": "KXC",
+  "web": "https://kingxchain.com",
+  "explorer": "https://etherscan.io/token/0x016396044709eb3edc69c44f4d5fa6996917e4e8",
+  "links": {
+    "coingecko": "kingxchain",
+    "twitter": "kingxchain",
+    "telegram": "kingxchain_community"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

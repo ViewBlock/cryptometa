@@ -1,0 +1,13 @@
+{
+  "name": "EasySwap",
+  "symbol": "ESWA",
+  "web": "https://easyswap.trade",
+  "explorer": "https://etherscan.io/token/0xa0471cdd5c0dc2614535fd7505b17a651a8f0dab",
+  "links": {
+    "coingecko": "easyswap"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

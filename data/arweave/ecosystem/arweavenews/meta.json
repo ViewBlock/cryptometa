@@ -1,0 +1,33 @@
+{
+  "name": "Arweave News",
+  "description": "A community driven news platform",
+  "web": "https://arweave.news",
+  "categories": [
+    "publishing"
+  ],
+  "addresses": [],
+  "links": {
+    "github": "Parallel-news",
+    "twitter": "ArweaveNews",
+    "discord": "https://discord.gg/YHXNNS5Upk"
+  },
+  "developers": [
+    {
+      "name": "pepe007",
+      "github": "charmful0x"
+    },
+    {
+      "name": "xylophonez",
+      "github": "xylophonez",
+      "twitter": "xylophonezy"
+    },
+    {
+      "name": "Abdalah",
+      "twitter": "Abdalahghrayeb"
+    }
+  ],
+  "gen": {
+    "logo": "logo.jpg"
+  },
+  "key": "arweavenews"
+}

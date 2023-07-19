@@ -1,0 +1,18 @@
+{
+  "name": "BunnyToken",
+  "symbol": "BUNNY",
+  "web": "https://bunnytoken.com",
+  "explorer": "https://etherscan.io/token/0x755eb14D2fefF2939EB3026f5CaD9D03775b9fF4",
+  "links": {
+    "github": "BunnyToken",
+    "coingecko": "bunnytoken",
+    "twitter": "bunnytoken",
+    "facebook": "BunnyToken",
+    "telegram": "BunnyTokenGroup",
+    "reddit": "r/BunnyToken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

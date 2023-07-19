@@ -1,0 +1,14 @@
+{
+  "name": "Antiample",
+  "symbol": "XAMP",
+  "web": "https://www.antiample.org",
+  "explorer": "https://etherscan.io/token/0xf911a7ec46a2c6fa49193212fe4a2a9b95851c27",
+  "links": {
+    "coingecko": "antiample"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 5
+  }
+}

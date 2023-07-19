@@ -1,0 +1,17 @@
+{
+  "name": "MADNetwork",
+  "symbol": "MAD",
+  "web": "https://madnetwork.io",
+  "explorer": "https://etherscan.io/token/0x5b09a0371c1da44a8e24d36bf5deb1141a84d875",
+  "links": {
+    "coingecko": "mad-network",
+    "twitter": "madnetwork_",
+    "facebook": "MAD-Network-126357984721725",
+    "telegram": "getmadnetwork",
+    "reddit": "r/madnetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

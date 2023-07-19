@@ -1,0 +1,13 @@
+{
+  "name": "Aicon",
+  "symbol": "AICO",
+  "explorer": "https://etherscan.io/token/0xE7FB3559358A99df54466d0350e4aD6DC7093da3",
+  "links": {
+    "coingecko": "aicon",
+    "telegram": "aiconproject"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 0
+  }
+}

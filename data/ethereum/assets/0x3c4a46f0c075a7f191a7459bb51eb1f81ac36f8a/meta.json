@@ -1,0 +1,13 @@
+{
+  "name": "3X Short PAX Gold Token",
+  "symbol": "PAXGBEAR",
+  "web": "https://ftx.com/tokens/PAXGBEAR",
+  "explorer": "https://etherscan.io/token/0x3C4a46F0C075A7F191A7459bb51EB1f81ac36F8A",
+  "links": {
+    "coingecko": "3x-short-pax-gold-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

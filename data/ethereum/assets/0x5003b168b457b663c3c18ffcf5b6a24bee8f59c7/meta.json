@@ -1,0 +1,15 @@
+{
+  "name": "Musk",
+  "symbol": "MUSK",
+  "web": "http://www.musk.vip",
+  "explorer": "https://etherscan.io/token/0x5003b168b457b663c3c18ffcf5b6a24bee8f59c7",
+  "links": {
+    "coingecko": "musk",
+    "twitter": "MUSK_VIP_",
+    "telegram": "muskofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

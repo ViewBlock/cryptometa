@@ -1,0 +1,16 @@
+{
+  "name": "YUKI COIN",
+  "symbol": "YUKI",
+  "web": "https://www.yukicoin.jp/en",
+  "explorer": "https://etherscan.io/token/0x5ab793e36070f0fac928ea15826b0c1bc5365119",
+  "links": {
+    "github": "YUKIproject",
+    "coingecko": "yuki-coin",
+    "twitter": "YUKI_AP_",
+    "telegram": "yukicoin_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

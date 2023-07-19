@@ -1,0 +1,18 @@
+{
+  "name": "Drep",
+  "symbol": "DREP",
+  "web": "https://www.drep.org",
+  "explorer": "https://etherscan.io/token/0x22de9912cd3d74953b1cd1f250b825133cc2c1b3",
+  "links": {
+    "github": "drep-project",
+    "coingecko": "drep",
+    "twitter": "drep_foundation",
+    "facebook": "DREPFoundation",
+    "telegram": "drep_foundation",
+    "reddit": "user/DREP-FOUNDATION"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Gold Mining Members",
+  "symbol": "GMM",
+  "web": "http://www.gmm.gold",
+  "explorer": "https://etherscan.io/token/0x7aF89c8A06719271A96e62E290Ea9Ed192E73FC1",
+  "links": {
+    "coingecko": "gold-mining-members",
+    "facebook": "Gold-Mining-Members-109805374042228",
+    "telegram": "GMM_China"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Rewardiqa",
+  "symbol": "REW",
+  "web": "https://rewardiqa.com",
+  "explorer": "https://etherscan.io/token/0x3ffffa8f3cc943e43f9f17a83cbb18f4bbb9f4ac",
+  "links": {
+    "coingecko": "rewardiqa",
+    "twitter": "rewardiqa",
+    "telegram": "rewardiqaofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

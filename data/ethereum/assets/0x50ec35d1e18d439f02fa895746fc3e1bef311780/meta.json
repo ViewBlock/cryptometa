@@ -1,0 +1,15 @@
+{
+  "name": "Epanus",
+  "symbol": "EPS",
+  "web": "https://epanus.com",
+  "explorer": "https://etherscan.io/token/0x50ec35d1e18d439f02fa895746fc3e1bef311780",
+  "links": {
+    "coingecko": "epanus",
+    "twitter": "epanustoken",
+    "telegram": "EPANUSTOKEN"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

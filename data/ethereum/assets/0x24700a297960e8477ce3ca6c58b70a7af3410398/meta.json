@@ -1,0 +1,18 @@
+{
+  "name": "Oasis City",
+  "symbol": "OSC",
+  "web": "https://www.oasiscity.io/en",
+  "explorer": "https://etherscan.io/token/0x24700a297960e8477ce3ca6c58b70a7af3410398",
+  "links": {
+    "github": "oasiscityproject",
+    "coingecko": "oasis-city",
+    "twitter": "oasiscity_io",
+    "facebook": "oasiscity.official",
+    "telegram": "oasiscity_global"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

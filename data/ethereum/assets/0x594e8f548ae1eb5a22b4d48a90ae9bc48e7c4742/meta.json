@@ -1,0 +1,13 @@
+{
+  "name": "BitTiger",
+  "symbol": "BTTR",
+  "web": "https://www.bit-tiger.io",
+  "explorer": "https://etherscan.io/token/0x594e8f548ae1eb5a22b4d48a90ae9bc48e7c4742",
+  "links": {
+    "coingecko": "bittiger"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

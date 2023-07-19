@@ -1,0 +1,16 @@
+{
+  "name": "NEM",
+  "symbol": "XEM",
+  "web": "https://nem.io",
+  "explorer": "http://chain.nem.ninja",
+  "links": {
+    "github": "nemtech",
+    "coingecko": "nem",
+    "twitter": "nemofficial",
+    "facebook": "ourNEM",
+    "reddit": "r/nem"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

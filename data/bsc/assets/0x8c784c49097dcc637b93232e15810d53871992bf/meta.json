@@ -1,0 +1,12 @@
+{
+  "name": "Monster Slayer Cash",
+  "symbol": "MSC",
+  "web": "https://www.monsterslayer.finance",
+  "explorer": "https://bscscan.com/token/0x8C784C49097Dcc637b93232e15810D53871992BF",
+  "links": {
+    "github": "monsterslayerfinance",
+    "coingecko": "monster-slayer-cash",
+    "twitter": "monsterslayerfi",
+    "telegram": "monsterslayer_community"
+  }
+}

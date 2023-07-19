@@ -1,0 +1,17 @@
+{
+  "name": "Trias [Old Token]",
+  "symbol": "TRY",
+  "web": "https://www.trias.one",
+  "explorer": "https://etherscan.io/token/0xe431a4c5db8b73c773e06cf2587da1eb53c41373",
+  "links": {
+    "github": "trias-lab",
+    "coingecko": "trias",
+    "twitter": "triaslab",
+    "telegram": "triaslab",
+    "reddit": "r/Trias_Lab"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

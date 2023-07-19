@@ -1,0 +1,16 @@
+{
+  "name": "Rotten",
+  "symbol": "ROT",
+  "web": "https://rottenswap.org/#",
+  "explorer": "https://etherscan.io/token/0xD04785C4d8195e4A54d9dEc3a9043872875ae9E2",
+  "links": {
+    "github": "rottenswap",
+    "coingecko": "rotten",
+    "twitter": "RottenSwap",
+    "telegram": "rottenswap"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

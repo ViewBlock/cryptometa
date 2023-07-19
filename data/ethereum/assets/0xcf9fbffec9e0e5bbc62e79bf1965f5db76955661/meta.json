@@ -1,0 +1,15 @@
+{
+  "name": "MeshBox",
+  "symbol": "MESH",
+  "web": "https://meshbox.network",
+  "explorer": "https://etherscan.io/token/0xcf9fbffec9e0e5bbc62e79bf1965f5db76955661",
+  "links": {
+    "coingecko": "meshbox",
+    "twitter": "Mesh_Box",
+    "facebook": "MeshBoxFoundation"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

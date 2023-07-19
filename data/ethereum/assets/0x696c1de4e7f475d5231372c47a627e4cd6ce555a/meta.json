@@ -1,0 +1,15 @@
+{
+  "name": "Impulse By FDR",
+  "symbol": "IMPULSE",
+  "web": "https://www.fdreserve.com",
+  "explorer": "https://etherscan.io/token/0x696c1de4e7f475d5231372c47a627e4cd6ce555a",
+  "links": {
+    "coingecko": "impulse-by-fdr",
+    "twitter": "FD_Reserve",
+    "telegram": "impulse_by_fdr_discussion"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Verto",
+  "symbol": "VRT",
+  "web": "https://verto.exchange",
+  "supply": 250000000,
+  "email": "tate@verto.exchange",
+  "product": true,
+  "publicTeam": true,
+  "trusted": true,
+  "links": {
+    "github": "https://github.com/useverto",
+    "twitter": "https://twitter.com/vertoexchange",
+    "blog": "https://blog.th8ta.org",
+    "discord": "https://verto.exchange/chat",
+    "linkedin": "https://www.linkedin.com/company/th8ta"
+  },
+  "config": {
+    "manualDark": true
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg",
+    "score": 100
+  }
+}

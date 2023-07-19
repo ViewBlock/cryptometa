@@ -1,0 +1,16 @@
+{
+  "name": "Partner",
+  "symbol": "PRC",
+  "web": "https://ptpa-partner.com/en/main-eng",
+  "explorer": "https://etherscan.io/token/0xcaa05e82bdcBA9e25CD1A3Bf1AfB790C1758943d",
+  "links": {
+    "github": "PTPA-Partner",
+    "coingecko": "partner",
+    "twitter": "PTPA_Partner",
+    "telegram": "ptpa_partner"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

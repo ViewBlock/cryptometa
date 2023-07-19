@@ -1,0 +1,18 @@
+{
+  "name": "Gameflip",
+  "symbol": "FLP",
+  "web": "https://fliptoken.gameflip.com",
+  "explorer": "https://etherscan.io/token/0x3a1Bda28AdB5B0a812a7CF10A1950c920F79BcD3",
+  "links": {
+    "github": "gameflip",
+    "coingecko": "gameflip",
+    "twitter": "gameflip",
+    "facebook": "Gameflipapp",
+    "telegram": "flip_token",
+    "reddit": "r/Gameflip"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

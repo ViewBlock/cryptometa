@@ -1,0 +1,18 @@
+{
+  "name": "Score",
+  "symbol": "SCO",
+  "web": "https://www.uffsports.com",
+  "supply": "100000000",
+  "email": "info@uffsports.com",
+  "whitepaper": "https://docs.google.com/document/d/1ObJ5CxOs8k9TJssLUPdWLLM0EmZngpXY/edit",
+  "publicTeam": true,
+  "links": {
+    "telegram": "https://t.me/joinchat/SDRESrh77-LavqpT",
+    "twitter": "https://twitter.com/UFFSports",
+    "linkedin": "https://www.linkedin.com/company/ultimate-franchise-fantasy-sports"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 43
+  }
+}

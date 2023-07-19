@@ -1,0 +1,16 @@
+{
+  "name": "Datamine",
+  "symbol": "DAM",
+  "web": "https://datamine.network",
+  "explorer": "https://etherscan.io/token/0xf80d589b3dbe130c270a69f1a69d050f268786df",
+  "links": {
+    "github": "Datamine-Crypto",
+    "coingecko": "datamine",
+    "twitter": "dataminenetwork",
+    "reddit": "r/dataminecrypto"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "HydraDX",
+  "symbol": "XHDX",
+  "web": "https://hydradx.io",
+  "explorer": "https://etherscan.io/token/0x6FCb6408499a7c0f242E32D77EB51fFa1dD28a7E",
+  "links": {
+    "github": "galacticcouncil?tab=repositories",
+    "coingecko": "hydradx",
+    "twitter": "hydra_dx",
+    "telegram": "hydradx"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

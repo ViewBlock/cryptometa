@@ -1,0 +1,15 @@
+{
+  "name": "Combine.finance",
+  "symbol": "COMB",
+  "web": "https://combine.finance",
+  "explorer": "https://etherscan.io/token/0x7d36cce46dd2b0d28dde12a859c2ace4a21e3678",
+  "links": {
+    "coingecko": "combine-finance",
+    "twitter": "CombineFinance",
+    "telegram": "combinefinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

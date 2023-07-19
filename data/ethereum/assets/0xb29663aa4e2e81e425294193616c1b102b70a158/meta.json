@@ -1,0 +1,17 @@
+{
+  "name": "Ludena Protocol",
+  "symbol": "LDN",
+  "web": "https://www.ludenaprotocol.io",
+  "explorer": "https://etherscan.io/token/0xb29663Aa4E2e81e425294193616c1B102B70a158",
+  "links": {
+    "github": "ludena-protocol",
+    "coingecko": "ludena-protocol",
+    "twitter": "ludenaprotocol",
+    "telegram": "ludenaprotocol",
+    "reddit": "r/LudenaProtocol"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

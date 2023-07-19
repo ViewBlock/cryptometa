@@ -1,0 +1,16 @@
+{
+  "name": "BlackFisk",
+  "symbol": "BLFI",
+  "web": "https://blackfisk.ai",
+  "explorer": "https://etherscan.io/token/0x417ffdbc285dd2c4dc00937798ab901634137caa",
+  "links": {
+    "github": "blackfisk-ai",
+    "coingecko": "blackfisk",
+    "twitter": "blackfisk_ai",
+    "telegram": "blackfiskchat"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

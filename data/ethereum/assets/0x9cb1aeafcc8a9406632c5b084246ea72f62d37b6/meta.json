@@ -1,0 +1,16 @@
+{
+  "name": "LBK",
+  "symbol": "LBK",
+  "web": "https://www.lbank.info",
+  "explorer": "https://etherscan.io/token/0x9cb1aeafcc8a9406632c5b084246ea72f62d37b6",
+  "links": {
+    "github": "LBank-exchange",
+    "coingecko": "lbk",
+    "twitter": "LBank_Exchange",
+    "telegram": "LBank_en"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

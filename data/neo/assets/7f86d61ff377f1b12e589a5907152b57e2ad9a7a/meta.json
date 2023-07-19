@@ -1,0 +1,15 @@
+{
+  "name": "Alphacat",
+  "symbol": "ACAT",
+  "web": "https://www.alphacat.io",
+  "explorer": "https://neotracker.io/asset/7f86d61ff377f1b12e589a5907152b57e2ad9a7a",
+  "links": {
+    "coingecko": "alphacat",
+    "twitter": "ACAT_Official",
+    "telegram": "alphacatglobal"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

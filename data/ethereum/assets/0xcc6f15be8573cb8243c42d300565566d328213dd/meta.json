@@ -1,0 +1,16 @@
+{
+  "name": "OWN Token",
+  "symbol": "OWN",
+  "web": "http://owntoken.xyz",
+  "explorer": "https://etherscan.io/token/0xcc6f15be8573cb8243c42d300565566d328213dd",
+  "links": {
+    "coingecko": "own-token",
+    "twitter": "OwnToken",
+    "telegram": "tokenown",
+    "reddit": "r/owntoken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "3X Short BitMax Token Token",
+  "symbol": "BTMXBEAR",
+  "web": "https://ftx.com/tokens/BTMXBEAR",
+  "explorer": "https://etherscan.io/token/0xdBF637f78624F896B92F801E81f6031b7865eD20",
+  "links": {
+    "coingecko": "3x-short-bitmax-token-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

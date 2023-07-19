@@ -1,0 +1,14 @@
+{
+  "name": "Meta_Skull",
+  "symbol": "MS",
+  "links": {
+    "twitter": "https://twitter.com/EverydayArt23"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "OpenNodes",
+  "description": "A digital nexus for key stakeholders in Singapore to drive wider blockchain adoption and foster innovation.",
+  "web": "https://opennodes.com",
+  "links": {},
+  "categories": [
+    "education"
+  ],
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg"
+  },
+  "key": "opennodes"
+}

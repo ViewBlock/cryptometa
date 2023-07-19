@@ -1,0 +1,17 @@
+{
+  "name": "extraDNA",
+  "symbol": "XDNA",
+  "web": "https://xhumanity.org",
+  "explorer": "https://etherscan.io/token/0x8e57c27761EBBd381b0f9d09Bb92CeB51a358AbB",
+  "links": {
+    "github": "xHumanityRO",
+    "coingecko": "extradna",
+    "twitter": "xHumanity1",
+    "facebook": "xHumanityofficial",
+    "reddit": "r/xHumanity"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

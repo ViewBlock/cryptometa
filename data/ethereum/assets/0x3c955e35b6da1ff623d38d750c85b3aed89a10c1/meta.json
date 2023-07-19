@@ -1,0 +1,13 @@
+{
+  "name": "3X Short LEO Token",
+  "symbol": "LEOBEAR",
+  "web": "https://ftx.com/tokens/LEOBEAR",
+  "explorer": "https://etherscan.io/token/0x3c955e35b6da1ff623d38d750c85b3aed89a10c1",
+  "links": {
+    "coingecko": "3x-short-leo-token"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Zelwin",
+  "symbol": "ZLW",
+  "web": "https://zelwin.com",
+  "explorer": "https://etherscan.io/token/0x5319e86F0e41a06E49eb37046b8c11D78bcAd68C",
+  "links": {
+    "coingecko": "zelwin",
+    "twitter": "ZELWINofficial",
+    "facebook": "zelwinofficial"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

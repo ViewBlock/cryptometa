@@ -1,0 +1,14 @@
+{
+  "name": "Zgems",
+  "symbol": "ZGEMS",
+  "web": "https://zilgems.com/",
+  "whitepaper": "https://zilgems.com/documents/Whitepaper-Zilgems.pdf",
+  "links": {
+    "twitter": "ZilGems",
+    "telegram": "zilgems"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}

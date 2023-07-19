@@ -1,0 +1,17 @@
+{
+  "name": "Maker",
+  "description": "Import Maker protocol",
+  "categories": [
+    "defi"
+  ],
+  "web": "https://makerdao.com/en",
+  "links": {
+    "github": "https://github.com/makerdao/starknet-dai-bridge",
+    "twitter": "https://twitter.com/MakerDAO",
+    "telegram": "https://t.me/makerdaoOfficial"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "maker"
+}

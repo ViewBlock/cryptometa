@@ -1,0 +1,17 @@
+{
+  "name": "VIG",
+  "symbol": "VIG",
+  "web": "https://vigor.ai",
+  "explorer": "https://bloks.io/tokens/VIG-eos-vig111111111",
+  "links": {
+    "coingecko": "vig",
+    "twitter": "vigorprotocol",
+    "facebook": "VigorDAC",
+    "telegram": "vigorprotocol",
+    "reddit": "r/vigorstablecoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

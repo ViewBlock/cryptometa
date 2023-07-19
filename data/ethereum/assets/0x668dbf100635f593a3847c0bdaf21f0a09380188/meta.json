@@ -1,0 +1,17 @@
+{
+  "name": "BNSD Finance",
+  "symbol": "BNSD",
+  "web": "https://bns.finance",
+  "explorer": "https://etherscan.io/token/0x668DbF100635f593A3847c0bDaF21f0a09380188",
+  "links": {
+    "github": "bitbns-official",
+    "coingecko": "bnsd-finance",
+    "twitter": "bitbns",
+    "telegram": "Bitbns",
+    "reddit": "r/Bitbns"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

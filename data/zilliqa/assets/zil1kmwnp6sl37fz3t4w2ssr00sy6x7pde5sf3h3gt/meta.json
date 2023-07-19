@@ -1,0 +1,14 @@
+{
+  "name": "Z-Aliens",
+  "symbol": "UFO",
+  "links": {
+    "twitter": "https://twitter.com/kaelin_12"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "YFOS.finance",
+  "symbol": "YFOS",
+  "web": "https://yfos.finance",
+  "explorer": "https://etherscan.io/token/0xCd254568EBF88f088E40f456db9E17731243cb25",
+  "links": {
+    "github": "yfosproject",
+    "coingecko": "yfos-finance",
+    "twitter": "yfosfinance",
+    "telegram": "yfosfinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

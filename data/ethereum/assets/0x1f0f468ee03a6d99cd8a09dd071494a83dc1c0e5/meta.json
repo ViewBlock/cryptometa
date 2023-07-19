@@ -1,0 +1,17 @@
+{
+  "name": "SmartX",
+  "symbol": "SAT",
+  "web": "https://smartx.one",
+  "explorer": "https://etherscan.io/token/0x1f0f468ee03a6d99cd8a09dd071494a83dc1c0e5",
+  "links": {
+    "github": "smartx-core",
+    "coingecko": "smartx",
+    "twitter": "SmartXOne",
+    "facebook": "SmartX.OneOfficial",
+    "telegram": "smartx_en"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

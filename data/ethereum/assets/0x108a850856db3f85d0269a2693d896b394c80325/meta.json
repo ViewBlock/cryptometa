@@ -1,0 +1,22 @@
+{
+  "name": "THORWallet Governance Token",
+  "symbol": "TGT",
+  "decimals": "18",
+  "explorer": "https://etherscan.io/token/0x108a850856db3f85d0269a2693d896b394c80325",
+  "web": "www.thorwallet.org",
+  "email": "info@thorwallet.org",
+  "product": true,
+  "holders": true,
+  "links": {
+    "blog": "https://thorwallet.medium.com",
+    "twitter": "https://twitter.com/ThorWallet",
+    "github": "https://github.com/THORWallet",
+    "telegram": "https://t.me/THORWalletOfficial",
+    "coingecko": "https://www.coingecko.com/en/coins/thorwallet",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/thorwallet"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 57
+  }
+}

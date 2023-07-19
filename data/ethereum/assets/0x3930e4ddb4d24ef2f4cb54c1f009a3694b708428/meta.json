@@ -1,0 +1,17 @@
+{
+  "name": "Game Fanz",
+  "symbol": "GFN",
+  "web": "https://gamefanz.io",
+  "explorer": "https://etherscan.io/token/0x3930e4ddb4d24ef2f4cb54c1f009a3694b708428",
+  "links": {
+    "github": "GameFanz",
+    "coingecko": "game-fanz",
+    "twitter": "GameFanzNews",
+    "facebook": "gamefanz.official",
+    "telegram": "gamefanz_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

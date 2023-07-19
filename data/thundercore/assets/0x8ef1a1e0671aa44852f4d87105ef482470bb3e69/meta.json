@@ -1,0 +1,9 @@
+{
+  "name": "Binance Coin",
+  "symbol": "BNB",
+  "trusted": true,
+  "gen": {
+    "logo": "logo.png",
+    "score": 100
+  }
+}

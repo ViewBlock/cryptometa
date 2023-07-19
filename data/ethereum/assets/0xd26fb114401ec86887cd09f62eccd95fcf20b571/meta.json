@@ -1,0 +1,16 @@
+{
+  "name": "Bitcoin Platinums",
+  "symbol": "BCP",
+  "web": "https://bitcoinplatinums.live",
+  "explorer": "https://etherscan.io/token/0xd26fb114401ec86887cd09f62eccd95fcf20b571",
+  "links": {
+    "coingecko": "bitcoin-platinum",
+    "twitter": "bitcoinplatinu1",
+    "facebook": "bitcoin.platinums",
+    "telegram": "RealBitcoinPlatinumsBCP"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

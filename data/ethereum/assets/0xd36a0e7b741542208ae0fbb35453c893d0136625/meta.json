@@ -1,0 +1,17 @@
+{
+  "name": "ITO Utility Token",
+  "symbol": "IUT",
+  "web": "https://ito.network",
+  "explorer": "https://etherscan.io/token/0xD36a0e7b741542208aE0fBb35453C893D0136625",
+  "links": {
+    "github": "itonetwork",
+    "coingecko": "mvg-token",
+    "facebook": "itodotnetwork",
+    "telegram": "itonetwork",
+    "reddit": "r/itonetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}

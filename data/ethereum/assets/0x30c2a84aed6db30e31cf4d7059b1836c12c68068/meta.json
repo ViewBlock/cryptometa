@@ -1,0 +1,10 @@
+{
+  "symbol": "uGOTCHI",
+  "name": "Aavegotchi Aastronauts",
+  "decimals": 18,
+  "description": "The first Aavegotchis bridged to Ethereum!",
+  "gen": {
+    "logo": "logo.svg",
+    "score": 0
+  }
+}

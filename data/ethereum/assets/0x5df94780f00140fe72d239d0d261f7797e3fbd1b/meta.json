@@ -1,0 +1,16 @@
+{
+  "name": "QChi Chain",
+  "symbol": "QHC",
+  "web": "https://www.qchichain.com",
+  "explorer": "https://etherscan.io/token/0x5df94780f00140FE72d239D0D261f7797E3Fbd1B",
+  "links": {
+    "github": "qch-qchi",
+    "coingecko": "qchi-chain",
+    "twitter": "qchichain",
+    "telegram": "qchichain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

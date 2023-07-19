@@ -1,0 +1,17 @@
+{
+  "name": "Maya Coin",
+  "symbol": "MAYA",
+  "web": "https://mayacoinico.com",
+  "explorer": "https://etherscan.io/token/0x14468ff6b324f1c5a869e62b9c442846e7d0baf1",
+  "links": {
+    "github": "MayaCoin",
+    "coingecko": "maya-coin",
+    "twitter": "mayacoinico",
+    "facebook": "mayacoinico",
+    "telegram": "mayapreferred223"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

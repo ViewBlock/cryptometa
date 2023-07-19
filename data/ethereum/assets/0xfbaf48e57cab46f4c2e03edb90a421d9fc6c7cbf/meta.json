@@ -1,0 +1,14 @@
+{
+  "name": "MIKS COIN",
+  "symbol": "MIKS",
+  "web": "https://mikscoin.ph",
+  "explorer": "https://etherscan.io/token/0xFbaf48e57CAB46F4c2E03eDB90a421D9fC6c7cBF",
+  "links": {
+    "coingecko": "miks-coin",
+    "twitter": "MIKSCOIN1"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

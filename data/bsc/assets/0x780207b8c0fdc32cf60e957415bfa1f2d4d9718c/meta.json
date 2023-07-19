@@ -1,0 +1,13 @@
+{
+  "name": "Cashaa",
+  "symbol": "CAS",
+  "web": "https://www.cashaa.com",
+  "explorer": "https://bscscan.com/token/0x780207b8c0fdc32cf60e957415bfa1f2d4d9718c",
+  "links": {
+    "github": "cashaadev",
+    "coingecko": "cashaa",
+    "twitter": "yourCashaa",
+    "facebook": "cashaaLtd",
+    "telegram": "cashaanews"
+  }
+}

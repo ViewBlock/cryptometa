@@ -1,0 +1,17 @@
+{
+  "name": "Hero Node Token",
+  "symbol": "HER",
+  "web": "https://heronode.io",
+  "explorer": "https://etherscan.io/token/0x491c9a23db85623eed455a8efdd6aba9b911c5df",
+  "links": {
+    "github": "hero-node",
+    "coingecko": "hero-node",
+    "twitter": "hero_node",
+    "telegram": "HeroNode2",
+    "reddit": "r/HeroNodeOfficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

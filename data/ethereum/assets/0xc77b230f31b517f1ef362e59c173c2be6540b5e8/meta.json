@@ -1,0 +1,18 @@
+{
+  "name": "VIDY",
+  "symbol": "VIDY",
+  "web": "https://vidy.com",
+  "explorer": "https://etherscan.io/token/0xc77b230f31b517f1ef362e59c173c2be6540b5e8",
+  "links": {
+    "github": "VIDY",
+    "coingecko": "vidy",
+    "twitter": "VidyCoin",
+    "facebook": "VidyCoin",
+    "telegram": "vidycoin",
+    "reddit": "r/Vidy"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

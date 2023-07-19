@@ -1,0 +1,16 @@
+{
+  "name": "f(x) Coin",
+  "symbol": "FX",
+  "web": "https://functionx.io/#",
+  "explorer": "https://etherscan.io/token/0x8c15ef5b4b21951d50e53e4fbda8298ffad25057",
+  "links": {
+    "coingecko": "fx-coin",
+    "twitter": "functionx_io",
+    "facebook": "functionx.io",
+    "telegram": "functionx"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

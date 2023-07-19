@@ -1,0 +1,13 @@
+{
+  "name": "Quill",
+  "description": "Quill is building a value net on the Web3 for both authors and readers.",
+  "web": "https://quill.im/",
+  "links": {},
+  "categories": [
+    "platform"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "quill"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Cloud Moolah",
+  "symbol": "XMOO",
+  "web": "https://www.cloudmoolah.io",
+  "explorer": "https://etherscan.io/token/0x221535cbced4c264e53373d81b73c29d010832a5",
+  "links": {
+    "coingecko": "cloud-moolah",
+    "twitter": "cloud_moolah",
+    "facebook": "cloudmoolah",
+    "telegram": "cloudmoolah",
+    "reddit": "r/CloudMoolah"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

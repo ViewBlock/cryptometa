@@ -1,0 +1,12 @@
+{
+  "name": "StarkNet Monsterz",
+  "symbol": "MONZ",
+  "type": "erc721",
+  "links": {
+    "market": "https://aspect.co/asset/0x059df550c89bebee3808b2256d76001e1a3703817e04781c17bd75b17b4959f2"
+  },
+  "gen": {
+    "logo": "logo.jpg",
+    "score": 0
+  }
+}

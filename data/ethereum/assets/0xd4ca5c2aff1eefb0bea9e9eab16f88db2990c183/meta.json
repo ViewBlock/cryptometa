@@ -1,0 +1,16 @@
+{
+  "name": "XRP Classic",
+  "symbol": "XRPC",
+  "web": "https://xrpclassic.io",
+  "explorer": "https://etherscan.io/token/0xd4ca5c2aff1eefb0bea9e9eab16f88db2990c183",
+  "links": {
+    "coingecko": "xrp-classic",
+    "twitter": "Xrpclassic_XRPC",
+    "telegram": "Xrpclassic_XRPC",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

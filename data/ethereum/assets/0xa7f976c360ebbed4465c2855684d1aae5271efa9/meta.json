@@ -1,0 +1,16 @@
+{
+  "name": "TrueFlip",
+  "symbol": "TFL",
+  "web": "https://trueflip.io",
+  "explorer": "https://etherscan.io/token/0xa7f976c360ebbed4465c2855684d1aae5271efa9",
+  "links": {
+    "github": "TrueFlip",
+    "coingecko": "trueflip",
+    "twitter": "TrueFlipLoto",
+    "telegram": "trueflip_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

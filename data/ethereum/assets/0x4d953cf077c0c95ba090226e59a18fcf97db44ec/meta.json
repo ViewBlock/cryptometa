@@ -1,0 +1,17 @@
+{
+  "name": "Mini",
+  "symbol": "MINI",
+  "web": "https://www.miniswap.org",
+  "explorer": "https://etherscan.io/token/0x4d953cf077c0c95ba090226e59a18fcf97db44ec",
+  "links": {
+    "github": "MiniswapOrg",
+    "coingecko": "mini",
+    "twitter": "Mini_Swap",
+    "telegram": "MiniSwapCommunity",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

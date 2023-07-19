@@ -1,0 +1,17 @@
+{
+  "name": "Eykar",
+  "description": "A decentralized game of conquest powered by StarkNet. An almost infinite territory that can be conquered through alliances and wars",
+  "categories": [
+    "nft",
+    "gamefi"
+  ],
+  "web": "https://eykar.org",
+  "links": {
+    "twitter": "https://twitter.com/AgeOfEykar",
+    "discord": "https://discord.com/invite/rpksM5uCk5"
+  },
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "eykar"
+}

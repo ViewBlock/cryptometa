@@ -1,0 +1,19 @@
+{
+  "name": "Milky BabyStable",
+  "symbol": "MILKY",
+  "web": "https://mambo.li/stablecoins/milky-babystable",
+  "decimals": "6",
+  "supply": "303000",
+  "whitepaper": "https://mambo.li/downloads/milky-babystable-whitepaper.pdf",
+  "links": {
+    "telegram": "https://t.me/MamboToken",
+    "twitter": "https://twitter.com/MrCryptoMambo",
+    "github": "https://github.com/Mambo-Token",
+    "youtube": "https://www.youtube.com/channel/UCMyUi6s550wtK7sNVvNmQbQ"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "score": 29
+  }
+}

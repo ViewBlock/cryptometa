@@ -1,0 +1,15 @@
+{
+  "name": "sLINK",
+  "symbol": "SLINK",
+  "web": "https://www.synthetix.io/tokens",
+  "explorer": "https://etherscan.io/token/0xbBC455cb4F1B9e4bFC4B73970d360c8f032EfEE6",
+  "links": {
+    "coingecko": "slink",
+    "twitter": "synthetix_io",
+    "reddit": "r/synthetix_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

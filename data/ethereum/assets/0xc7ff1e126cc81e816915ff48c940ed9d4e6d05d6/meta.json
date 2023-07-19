@@ -1,0 +1,18 @@
+{
+  "name": "IjasCoin",
+  "symbol": "IJC",
+  "web": "https://ijascoin.net",
+  "explorer": "https://etherscan.io/token/0xc7ff1e126cc81e816915ff48c940ed9d4e6d05d6",
+  "links": {
+    "github": "ijascoin",
+    "coingecko": "ijascoin",
+    "twitter": "ijascoin",
+    "facebook": "ijascode",
+    "telegram": "ijascode",
+    "reddit": "r/iJasCoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

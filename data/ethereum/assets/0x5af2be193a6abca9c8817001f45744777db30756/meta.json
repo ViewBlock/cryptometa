@@ -1,0 +1,17 @@
+{
+  "name": "Voyager Token",
+  "symbol": "VGX",
+  "web": "https://www.InvestVoyager.com",
+  "explorer": "https://etherscan.io/token/0x5af2be193a6abca9c8817001f45744777db30756",
+  "links": {
+    "coingecko": "ethos",
+    "twitter": "investvoyager",
+    "facebook": "InvestVoyager",
+    "telegram": "investvoyager",
+    "reddit": "r/Invest_Voyager"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Crypto Price Index",
+  "symbol": "CPI",
+  "web": "https://www.cpiindex.io",
+  "explorer": "https://etherscan.io/token/0x2b67d1a87a8d8b280a23e97bc55095215ee0ec53",
+  "links": {
+    "coingecko": "crypto-price-index",
+    "twitter": "Index_price",
+    "facebook": "CPIndex",
+    "telegram": "CPIndex"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "LATOKEN",
+  "symbol": "LA",
+  "web": "https://latoken.com",
+  "explorer": "https://etherscan.io/token/0xe50365f5d679cb98a1dd62d6f6e58e59321bcddf",
+  "links": {
+    "github": "ElKornacio",
+    "coingecko": "latoken",
+    "twitter": "latokens",
+    "facebook": "LiquidAssetToken",
+    "telegram": "latoken",
+    "reddit": "r/LAToken"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "score": 19
+  }
+}

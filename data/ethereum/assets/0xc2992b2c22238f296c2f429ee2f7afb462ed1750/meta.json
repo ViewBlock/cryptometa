@@ -1,0 +1,15 @@
+{
+  "name": "iXTZ",
+  "symbol": "IXTZ",
+  "web": "https://www.synthetix.io",
+  "explorer": "https://etherscan.io/token/0xc2992b2C22238F296c2f429ee2f7AfB462Ed1750",
+  "links": {
+    "coingecko": "ixtz",
+    "twitter": "synthetix_io",
+    "reddit": "r/synthetix_io"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

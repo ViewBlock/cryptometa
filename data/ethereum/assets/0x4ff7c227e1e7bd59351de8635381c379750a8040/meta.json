@@ -1,0 +1,16 @@
+{
+  "name": "Hype",
+  "symbol": "HYPE",
+  "web": "https://www.supremefinance.io",
+  "explorer": "https://etherscan.io/token/0x4ff7c227e1e7bD59351de8635381C379750A8040",
+  "links": {
+    "github": "supremefinance",
+    "coingecko": "hype",
+    "twitter": "SupremeFinance2",
+    "telegram": "supreme_finance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

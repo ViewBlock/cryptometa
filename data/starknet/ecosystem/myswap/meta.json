@@ -1,0 +1,22 @@
+{
+  "name": "mySwap",
+  "description": "An Automated Market Maker built on top of StarkNet",
+  "categories": [
+    "defi"
+  ],
+  "web": "https://www.myswap.xyz",
+  "links": {
+    "twitter": "mySwapxyz",
+    "discord": "https://discord.com/invite/gbxgWHzqE4",
+    "telegram": "mySwapxyz"
+  },
+  "addresses": [
+    "0x022b05f9396d2c48183f6deaf138a57522bcc8b35b67dee919f76403d1783136",
+    "0x07c662b10f409d7a0a69c8da79b397fd91187ca5f6230ed30effef2dceddc5b3",
+    "0x025b392609604c75d62dde3d6ae98e124a31b49123b8366d7ce0066ccb94f696"
+  ],
+  "gen": {
+    "logo": "logo.png"
+  },
+  "key": "myswap"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "KiloAmple",
+  "symbol": "KMPL",
+  "web": "https://amplesense.io",
+  "explorer": "https://etherscan.io/token/0xe8d17542dfe79ff4fbd4b850f2d39dc69c4489a2",
+  "links": {
+    "github": "AmpleSense-DAO",
+    "coingecko": "kiloample",
+    "twitter": "amplesense",
+    "telegram": "ampleforth_community",
+    "reddit": "r/AmpleSenseDAO"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}

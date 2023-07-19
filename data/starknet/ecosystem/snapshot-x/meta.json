@@ -1,0 +1,17 @@
+{
+  "name": "Snapshot X",
+  "description": "Decentralized Trusted voting",
+  "categories": [
+    "dao",
+    "governance"
+  ],
+  "web": "https://snapshot.org/#",
+  "links": {
+    "twitter": "https://twitter.com/SnapshotLabs",
+    "discord": "https://discord.gg/snapshot"
+  },
+  "gen": {
+    "logo": "logo.jpeg"
+  },
+  "key": "snapshot-x"
+}

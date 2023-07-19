@@ -1,0 +1,18 @@
+{
+  "name": "Portion",
+  "symbol": "PRT",
+  "web": "https://portion.io",
+  "explorer": "https://etherscan.io/token/0x6D0F5149c502faf215C89ab306ec3E50b15e2892",
+  "links": {
+    "github": "Portion-io",
+    "coingecko": "portion",
+    "twitter": "PortionApp",
+    "facebook": "Portion.io",
+    "telegram": "PortionOfficial",
+    "reddit": "r/PortionArt"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

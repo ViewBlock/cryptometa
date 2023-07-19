@@ -1,0 +1,15 @@
+{
+  "name": "Waltonchain",
+  "symbol": "WTC",
+  "web": "http://www.waltonchain.org",
+  "explorer": "https://etherscan.io/token/0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74",
+  "links": {
+    "coingecko": "waltonchain",
+    "twitter": "Waltonchain",
+    "reddit": "r/waltonchain"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

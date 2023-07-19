@@ -1,0 +1,17 @@
+{
+  "name": "FinTab",
+  "symbol": "FNTB",
+  "web": "https://fintab.io",
+  "explorer": "https://etherscan.io/token/0xbD4B60a138b3fce3584EA01f50c0908c18f9677A",
+  "links": {
+    "coingecko": "fintab",
+    "twitter": "fintab_io",
+    "facebook": "fintabservice",
+    "telegram": "fintab_chat_en",
+    "reddit": "r/FinTab"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

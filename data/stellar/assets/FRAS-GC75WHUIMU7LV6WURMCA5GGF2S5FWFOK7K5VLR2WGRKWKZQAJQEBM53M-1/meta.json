@@ -1,0 +1,17 @@
+{
+  "name": "Frasindo Rent",
+  "symbol": "FRAS",
+  "web": "https://frasindo.com",
+  "explorer": "https://stellar.expert/explorer/public/asset/FRAS-GC75WHUIMU7LV6WURMCA5GGF2S5FWFOK7K5VLR2WGRKWKZQAJQEBM53M-1",
+  "links": {
+    "github": "Frasindo",
+    "coingecko": "frasindo-rent",
+    "twitter": "frascoin",
+    "facebook": "frasindo",
+    "telegram": "FRASINDO"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

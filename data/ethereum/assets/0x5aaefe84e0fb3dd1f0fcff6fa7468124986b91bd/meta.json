@@ -1,0 +1,16 @@
+{
+  "name": "Evedo",
+  "symbol": "EVED",
+  "web": "https://www.evedo.co",
+  "explorer": "https://etherscan.io/token/0x5aaefe84e0fb3dd1f0fcff6fa7468124986b91bd",
+  "links": {
+    "github": "evedo-co",
+    "coingecko": "evedo",
+    "twitter": "evedotoken",
+    "facebook": "evedo.co"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

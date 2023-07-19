@@ -1,0 +1,17 @@
+{
+  "name": "Roobee",
+  "symbol": "ROOBEE",
+  "web": "https://roobee.io",
+  "explorer": "https://etherscan.io/token/0xa31b1767e09f842ecfd4bc471fe44f830e3891aa",
+  "links": {
+    "github": "roobee-platform",
+    "coingecko": "roobee",
+    "twitter": "Roobee_invest",
+    "facebook": "roobee.invest",
+    "telegram": "roobee_invest"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

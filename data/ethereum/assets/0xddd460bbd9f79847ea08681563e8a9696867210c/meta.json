@@ -1,0 +1,18 @@
+{
+  "name": "Spendcoin",
+  "symbol": "SPND",
+  "web": "https://spend.org",
+  "explorer": "https://etherscan.io/token/0xddd460bbd9f79847ea08681563e8a9696867210c",
+  "links": {
+    "github": "Spend",
+    "coingecko": "spendcoin",
+    "twitter": "Spendchain",
+    "facebook": "SpendFoundation",
+    "telegram": "SpendChat",
+    "reddit": "r/Spend"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

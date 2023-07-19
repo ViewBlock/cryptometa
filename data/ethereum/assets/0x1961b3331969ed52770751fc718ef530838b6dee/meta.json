@@ -1,0 +1,18 @@
+{
+  "name": "BitDegree",
+  "symbol": "BDG",
+  "web": "https://www.bitdegree.org",
+  "explorer": "https://etherscan.io/token/0x1961b3331969ed52770751fc718ef530838b6dee",
+  "links": {
+    "github": "bitdegree",
+    "coingecko": "bitdegree",
+    "twitter": "bitdegree_org",
+    "facebook": "bitdegree.org",
+    "telegram": "bitdegree",
+    "reddit": "r/BitDegree"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

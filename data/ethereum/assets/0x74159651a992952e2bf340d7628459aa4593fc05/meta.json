@@ -1,0 +1,15 @@
+{
+  "name": "Tenet",
+  "symbol": "TEN",
+  "web": "https://tenet.farm",
+  "explorer": "https://etherscan.io/token/0x74159651a992952e2bf340d7628459aa4593fc05",
+  "links": {
+    "coingecko": "tenet",
+    "twitter": "TenetFarm",
+    "telegram": "Tenetfarm"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

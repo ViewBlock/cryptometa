@@ -1,0 +1,17 @@
+{
+  "name": "Bonpay",
+  "symbol": "BON",
+  "web": "https://bonpay.com",
+  "explorer": "https://etherscan.io/token/0xcc34366e3842ca1bd36c1f324d15257960fcc801",
+  "links": {
+    "github": "bonpay",
+    "coingecko": "bonpay",
+    "twitter": "Bonpay_com",
+    "facebook": "bonpaycom",
+    "reddit": "r/Bonpay"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

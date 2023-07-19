@@ -1,0 +1,17 @@
+{
+  "name": "Scanetchain",
+  "symbol": "SWC",
+  "web": "https://www.scanetchain.io",
+  "explorer": "https://etherscan.io/token/0xadf8b8050639b6236915f7516d69de714672f0bf",
+  "links": {
+    "github": "Scanetchain",
+    "coingecko": "scanetchain",
+    "twitter": "Scanetchain_SWC",
+    "facebook": "Scanetchain-566992760335424",
+    "telegram": "scanetchain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

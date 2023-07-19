@@ -1,0 +1,16 @@
+{
+  "name": "UpBots",
+  "symbol": "UBXT",
+  "web": "https://www.upbots.com",
+  "explorer": "https://etherscan.io/token/0x8564653879a18C560E7C0Ea0E084c516C62F5653",
+  "links": {
+    "coingecko": "upbots",
+    "twitter": "UpBotscom",
+    "facebook": "UpBotscom",
+    "telegram": "Upbots"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Modefi",
+  "symbol": "MOD",
+  "web": "https://modefi.io",
+  "explorer": "https://etherscan.io/token/0xea1ea0972fa092dd463f2968f9bb51cc4c981d71",
+  "links": {
+    "coingecko": "modefi",
+    "twitter": "Modefi_Official",
+    "telegram": "modefi_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

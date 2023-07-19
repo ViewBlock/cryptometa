@@ -1,0 +1,16 @@
+{
+  "name": "Zipmex Token",
+  "symbol": "ZMT",
+  "web": "https://trade.zipmex.com/trade/BTCUSD",
+  "explorer": "https://etherscan.io/token/0xaa602de53347579f86b996d2add74bb6f79462b2",
+  "links": {
+    "github": "zipmex",
+    "coingecko": "zipmex-token",
+    "twitter": "zipmex",
+    "telegram": "zipmexasia"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

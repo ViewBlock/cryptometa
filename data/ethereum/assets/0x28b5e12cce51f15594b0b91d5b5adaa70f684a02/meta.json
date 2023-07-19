@@ -1,0 +1,18 @@
+{
+  "name": "Napoleon X",
+  "symbol": "NPX",
+  "web": "http://www.napoleonx.ai",
+  "explorer": "https://etherscan.io/token/0x28b5e12cce51f15594b0b91d5b5adaa70f684a02",
+  "links": {
+    "github": "ProjectNapoleonX",
+    "coingecko": "napoleon-x",
+    "twitter": "napoleonxai",
+    "facebook": "NapoleonXProject",
+    "telegram": "napoleonx_ICO",
+    "reddit": "r/NapoleonX"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

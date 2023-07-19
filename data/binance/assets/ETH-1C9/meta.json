@@ -5,12 +5,14 @@
   "web": null,
   "decimals": 18,
   "supply": 205000,
+  "trusted": true,
   "links": {
     "research": "https://research.binance.com/en/projects/ethereum"
   },
   "gen": {
-    "logo": "logo.png",
-    "hasDark": false,
-    "score": 10
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg",
+    "score": 100
   }
 }

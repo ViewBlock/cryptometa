@@ -1,0 +1,15 @@
+{
+  "name": "Mithril Share",
+  "symbol": "MIS",
+  "web": "https://mith.cash",
+  "explorer": "https://etherscan.io/token/0xb58dfbb72e648a0b035b8c85b3628123cc9bb881",
+  "links": {
+    "coingecko": "mithril-share",
+    "twitter": "mithcash",
+    "telegram": "mithcash"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

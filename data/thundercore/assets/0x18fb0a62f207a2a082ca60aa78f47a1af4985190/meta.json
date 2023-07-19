@@ -1,10 +1,10 @@
 {
-  "name": "TT-BTC",
-  "symbol": "TT-BTC",
+  "name": "Wrapped Bitcoin",
+  "symbol": "BTC",
   "trusted": true,
   "gen": {
     "logo": "logo.png",
-    "hasDark": false,
+    "hasDark": true,
     "score": 100
   }
 }

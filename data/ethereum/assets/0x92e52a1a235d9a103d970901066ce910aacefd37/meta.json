@@ -1,0 +1,16 @@
+{
+  "name": "U.CASH",
+  "symbol": "UCASH",
+  "web": "https://u.cash",
+  "explorer": "https://etherscan.io/token/0x92e52a1a235d9a103d970901066ce910aacefd37",
+  "links": {
+    "github": "udotcash",
+    "coingecko": "ucash",
+    "twitter": "udotcash",
+    "reddit": "r/ucash"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

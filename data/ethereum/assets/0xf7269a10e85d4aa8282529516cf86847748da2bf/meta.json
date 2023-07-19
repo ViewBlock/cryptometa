@@ -1,0 +1,17 @@
+{
+  "name": "Candela Coin",
+  "symbol": "CLA",
+  "web": "https://www.candelacoin.com",
+  "explorer": "https://etherscan.io/token/0xF7269a10E85d4aa8282529516cf86847748Da2Bf",
+  "links": {
+    "coingecko": "candela-coin",
+    "twitter": "candelacoin",
+    "facebook": "Candela-Coin-111118247315246",
+    "telegram": "candelacoindiscussion",
+    "reddit": "r/candelacoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

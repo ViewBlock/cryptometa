@@ -1,0 +1,16 @@
+{
+  "name": "Lattice Token",
+  "symbol": "LTX",
+  "web": "https://lattice.exchange",
+  "explorer": "https://etherscan.io/token/0xa393473d64d2F9F026B60b6Df7859A689715d092",
+  "links": {
+    "coingecko": "lattice-token",
+    "twitter": "LatticeExchange",
+    "facebook": "LatticeExchange",
+    "telegram": "Lattice_exchange"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

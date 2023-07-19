@@ -1,0 +1,14 @@
+{
+  "name": "APY.vision",
+  "symbol": "VISION",
+  "web": "https://apy.vision",
+  "explorer": "https://etherscan.io/token/0xf406f7a9046793267bc276908778b29563323996",
+  "links": {
+    "coingecko": "apy-vision",
+    "twitter": "ApyVision"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

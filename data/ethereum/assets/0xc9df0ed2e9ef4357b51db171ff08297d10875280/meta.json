@@ -1,0 +1,16 @@
+{
+  "symbol": "uGONE",
+  "name": "Gone Studio",
+  "decimals": 18,
+  "description": "Life moves pretty fast... If you don't stop and look around once in a while, you might just miss it.",
+  "gen": {
+    "logo": "logo.svg",
+    "score": 5
+  },
+  "website": "https://gone.studio",
+  "links": {
+    "medium": "https://medium.com/@gone.studio",
+    "twitter": "twitter.com/G0neStudio",
+    "telegram": "t.me/gonestudi0"
+  }
+}

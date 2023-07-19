@@ -1,0 +1,21 @@
+{
+  "name": "ZilPay",
+  "description": "A browser-based wallet extension for Zilliqa.",
+  "web": "https://zilpay.xyz",
+  "addresses": [
+    "zil1l0g8u6f9g0fsvjuu74ctyla2hltefrdyt7k5f4"
+  ],
+  "links": {
+    "twitter": "https://twitter.com/pay_zil",
+    "telegram": "https://t.me/zilpay",
+    "github": "zilpay"
+  },
+  "categories": [
+    "wallet",
+    "defi"
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "zilpay"
+}

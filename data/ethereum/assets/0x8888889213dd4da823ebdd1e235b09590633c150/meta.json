@@ -1,0 +1,17 @@
+{
+  "name": "Marblecoin",
+  "symbol": "MBC",
+  "web": "https://marble.cards",
+  "explorer": "https://etherscan.io/token/0x8888889213dd4da823ebdd1e235b09590633c150",
+  "links": {
+    "coingecko": "marblecoin",
+    "twitter": "marble_cards",
+    "facebook": "MarbleCards",
+    "telegram": "marblecards",
+    "reddit": "r/Marblecards"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

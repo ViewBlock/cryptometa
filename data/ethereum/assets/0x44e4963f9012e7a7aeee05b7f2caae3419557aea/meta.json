@@ -1,0 +1,14 @@
+{
+  "name": "AI Prediction Ecosystem",
+  "symbol": "AIPE",
+  "web": "https://aipe.io",
+  "explorer": "https://etherscan.io/token/0x44e4963f9012e7a7aeee05b7f2caae3419557aea",
+  "links": {
+    "coingecko": "ai-predicting-ecosystem",
+    "twitter": "AIPE_official"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Meridian Network",
+  "symbol": "LOCK",
+  "web": "https://meridian-network.co",
+  "explorer": "https://etherscan.io/token/0x95172ccBe8344fecD73D0a30F54123652981BD6F",
+  "links": {
+    "coingecko": "meridian-network",
+    "twitter": "networkmeridian",
+    "telegram": "meridiannetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

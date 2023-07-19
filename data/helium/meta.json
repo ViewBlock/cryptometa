@@ -1,0 +1,17 @@
+{
+  "name": "Helium",
+  "symbol": "HNT",
+  "web": "https://www.helium.com",
+  "explorer": "https://explorer.helium.com",
+  "links": {
+    "github": "helium",
+    "coingecko": "helium",
+    "twitter": "helium",
+    "facebook": "heliumsystems",
+    "telegram": "helium_network",
+    "reddit": "r/HeliumNetwork"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}

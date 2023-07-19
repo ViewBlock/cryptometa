@@ -1,0 +1,15 @@
+{
+  "name": "ARTH",
+  "symbol": "ARTH",
+  "web": "https://arthcoin.com",
+  "explorer": "https://etherscan.io/token/0x0E3cC2c4FB9252d17d07C67135E48536071735D9",
+  "links": {
+    "coingecko": "arth",
+    "twitter": "themahadao",
+    "telegram": "themahadao"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

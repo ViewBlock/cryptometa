@@ -1,0 +1,17 @@
+{
+  "name": "Hodly Heroes of Yestermorrow",
+  "symbol": "HODLY",
+  "web": "https://plvrs.online",
+  "supply": "3333",
+  "email": "hello@pelenia.online",
+  "links": {
+    "telegram": "https://t.me/EnterthePLVRS",
+    "twitter": "https://twitter.com/EnterthePLVRS",
+    "youtube": "https://www.youtube.com/channel/UCi4PEPhoZ1wsCrTLPHTDYZw",
+    "discord": "https://discord.gg/tT9BSZ5n4Z"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

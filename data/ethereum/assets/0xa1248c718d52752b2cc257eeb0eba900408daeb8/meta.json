@@ -1,0 +1,17 @@
+{
+  "name": "SWYFT",
+  "symbol": "SWYFTT",
+  "web": "https://swyft.network",
+  "explorer": "https://etherscan.io/token/0xA1248c718d52752b2cC257eeb0eBa900408dAeB8",
+  "links": {
+    "coingecko": "swyft",
+    "twitter": "OfficialSwyft",
+    "facebook": "swyftnetwork",
+    "telegram": "SWYFTCHAT",
+    "reddit": "r/SwyftNetwork"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

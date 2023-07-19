@@ -1,0 +1,15 @@
+{
+  "name": "Boosted Finance",
+  "symbol": "BOOST",
+  "web": "https://boosted.finance",
+  "explorer": "https://etherscan.io/token/0x3e780920601D61cEdb860fe9c4a90c9EA6A35E78",
+  "links": {
+    "github": "Boosted-Finance",
+    "coingecko": "boosted-finance",
+    "twitter": "BoostedFinance"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

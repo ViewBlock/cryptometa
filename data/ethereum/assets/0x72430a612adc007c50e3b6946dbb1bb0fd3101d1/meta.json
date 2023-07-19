@@ -1,0 +1,16 @@
+{
+  "name": "Thingschain",
+  "symbol": "TIC",
+  "web": "https://thingschain.network",
+  "explorer": "https://etherscan.io/token/0x72430a612adc007c50e3b6946dbb1bb0fd3101d1",
+  "links": {
+    "github": "TICnetwork",
+    "coingecko": "thingschain",
+    "twitter": "Things_chain",
+    "telegram": "thingschain_group"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

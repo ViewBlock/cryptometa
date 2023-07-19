@@ -1,0 +1,16 @@
+{
+  "name": "Lead Token",
+  "symbol": "LEAD",
+  "web": "https://www.leadwallet.io",
+  "explorer": "https://etherscan.io/token/0x1dd80016e3d4ae146ee2ebb484e8edd92dacc4ce",
+  "links": {
+    "coingecko": "lead-token",
+    "twitter": "LeadWallet",
+    "telegram": "leadwallet",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

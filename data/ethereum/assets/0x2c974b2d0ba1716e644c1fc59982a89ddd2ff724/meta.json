@@ -1,0 +1,17 @@
+{
+  "name": "Viberate",
+  "symbol": "VIB",
+  "web": "https://www.viberate.io",
+  "explorer": "https://etherscan.io/token/0x2c974b2d0ba1716e644c1fc59982a89ddd2ff724",
+  "links": {
+    "github": "viberate",
+    "coingecko": "viberate",
+    "twitter": "viberate",
+    "telegram": "ViberateOfficial",
+    "reddit": "r/viberate"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

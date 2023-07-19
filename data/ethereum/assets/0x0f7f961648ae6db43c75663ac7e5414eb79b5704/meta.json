@@ -1,0 +1,17 @@
+{
+  "name": "Blockzero Labs",
+  "symbol": "XIO",
+  "web": "https://blockzerolabs.io",
+  "explorer": "https://etherscan.io/token/0x0f7F961648aE6Db43C75663aC7E5414Eb79b5704",
+  "links": {
+    "coingecko": "xio",
+    "twitter": "blockzerolabs",
+    "facebook": "xionetwork",
+    "telegram": "xio_network",
+    "reddit": "r/XIO_Network"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "xSigma",
+  "symbol": "SIG",
+  "web": "https://xsigma.com",
+  "explorer": "https://etherscan.io/token/0x7777777777697cfeecf846a76326da79cc606517",
+  "links": {
+    "coingecko": "xsigma",
+    "twitter": "xSigma5"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

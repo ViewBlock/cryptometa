@@ -1,0 +1,16 @@
+{
+  "name": "Touch Social",
+  "symbol": "TST",
+  "web": "https://touchsocial.xyz",
+  "explorer": "https://etherscan.io/token/0xd9bae39c725a1864b1133ad0ef1640d02f79b78c",
+  "links": {
+    "coingecko": "touch-social",
+    "twitter": "Touchsocialtst",
+    "telegram": "touchsocialcommunity",
+    "reddit": "r/TouchSocial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

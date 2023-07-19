@@ -1,0 +1,16 @@
+{
+  "name": "DATx",
+  "symbol": "DATX",
+  "web": "https://www.datx.co/#home",
+  "explorer": "https://etherscan.io/token/0xabbbb6447b68ffd6141da77c18c7b5876ed6c5ab",
+  "links": {
+    "coingecko": "datx",
+    "twitter": "DATxOfficial",
+    "facebook": "DATxofficial",
+    "telegram": "datxofficial01"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

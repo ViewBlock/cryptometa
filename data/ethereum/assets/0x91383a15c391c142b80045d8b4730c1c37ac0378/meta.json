@@ -1,0 +1,15 @@
+{
+  "name": "XStable",
+  "symbol": "XST",
+  "web": "https://xstable.finance",
+  "explorer": "https://etherscan.io/token/0x91383A15C391c142b80045D8b4730C1c37ac0378",
+  "links": {
+    "coingecko": "xstable-protocol",
+    "twitter": "Xstable1",
+    "telegram": "Xstable"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

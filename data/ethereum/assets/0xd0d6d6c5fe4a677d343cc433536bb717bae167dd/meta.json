@@ -1,0 +1,16 @@
+{
+  "name": "adToken",
+  "symbol": "ADT",
+  "web": "https://adtoken.com",
+  "explorer": "https://etherscan.io/token/0xd0d6d6c5fe4a677d343cc433536bb717bae167dd",
+  "links": {
+    "github": "AdChain",
+    "coingecko": "adtoken",
+    "twitter": "ad_chain",
+    "reddit": "r/adChain"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

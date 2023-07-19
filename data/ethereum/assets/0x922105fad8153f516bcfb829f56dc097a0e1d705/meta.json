@@ -1,0 +1,15 @@
+{
+  "name": "Yee",
+  "symbol": "YEE",
+  "web": "https://yeeco.io",
+  "explorer": "https://etherscan.io/token/0x922105fad8153f516bcfb829f56dc097a0e1d705",
+  "links": {
+    "coingecko": "yee",
+    "twitter": "YeeToken",
+    "facebook": "YeeToken"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Unistake",
+  "symbol": "UNISTAKE",
+  "web": "https://unistake.com",
+  "explorer": "https://etherscan.io/token/0x9Ed8e7C9604790F7Ec589F99b94361d8AAB64E5E",
+  "links": {
+    "coingecko": "unistake",
+    "twitter": "UnistakeFinance",
+    "telegram": "Unistake"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "ZKGraph",
+  "description": "Your social graph, with limitless possibilities and uncompromised privacy, secured by StarkNet.",
+  "categories": [
+    "defi",
+    "infra"
+  ],
+  "web": "https://www.zkgraph.xyz",
+  "links": {
+    "twitter": "https://twitter.com/ZKGraph",
+    "telegram": "https://t.me/+b9d7ytd9BQ5lZDA1"
+  },
+  "gen": {
+    "logo": "logo.jpeg"
+  },
+  "key": "zkgraph"
+}

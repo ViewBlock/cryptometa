@@ -1,0 +1,16 @@
+{
+  "name": "Olyseum",
+  "symbol": "OLY",
+  "web": "https://olyseum.com/index",
+  "explorer": "https://etherscan.io/token/0x6595b8fd9c920c81500dca94e53cdc712513fb1f",
+  "links": {
+    "github": "olyseum",
+    "coingecko": "olyseum",
+    "twitter": "olyseum",
+    "telegram": "olyseum"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

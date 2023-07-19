@@ -1,0 +1,16 @@
+{
+  "name": "Golden Ratio Token",
+  "symbol": "GRT",
+  "web": "https://goldenratiotoken.site",
+  "explorer": "https://etherscan.io/token/0xb83cd8d39462b761bb0092437d38b37812dd80a2",
+  "links": {
+    "coingecko": "golden-ratio-token",
+    "twitter": "goldenratioteam",
+    "telegram": "the_goldenratio",
+    "reddit": "https://www.reddit.com"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

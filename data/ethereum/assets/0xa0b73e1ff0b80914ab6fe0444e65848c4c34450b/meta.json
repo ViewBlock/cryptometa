@@ -1,0 +1,17 @@
+{
+  "name": "Crypto.com Coin",
+  "symbol": "CRO",
+  "web": "https://www.crypto.com/en/chain",
+  "explorer": "https://etherscan.io/token/0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
+  "links": {
+    "coingecko": "crypto-com-chain",
+    "twitter": "cryptocom",
+    "facebook": "CryptoComOfficial",
+    "telegram": "CryptoComOfficial",
+    "reddit": "r/Crypto_com"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

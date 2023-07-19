@@ -1,0 +1,14 @@
+{
+  "name": "Harrison First",
+  "symbol": "FIRST",
+  "web": "https://app.tryroll.com/token/FIRST",
+  "explorer": "https://etherscan.io/token/0x9903a4cd589da8e434f264deafc406836418578e",
+  "links": {
+    "coingecko": "harrison-first",
+    "twitter": "harrisonfirst"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

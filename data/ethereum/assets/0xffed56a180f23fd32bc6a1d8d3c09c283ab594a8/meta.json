@@ -1,0 +1,15 @@
+{
+  "name": "Freeliquid",
+  "symbol": "FL",
+  "web": "https://freeliquid.io",
+  "explorer": "https://etherscan.io/token/0xfFED56a180f23fD32Bc6A1d8d3c09c283aB594A8",
+  "links": {
+    "coingecko": "freeliquid",
+    "twitter": "freeliquidUSDFL",
+    "telegram": "freeliquid"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

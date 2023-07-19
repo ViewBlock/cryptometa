@@ -1,0 +1,17 @@
+{
+  "name": "PieDAO DOUGH v2",
+  "symbol": "DOUGH",
+  "web": "https://www.piedao.org",
+  "explorer": "https://etherscan.io/token/0xad32A8e6220741182940c5aBF610bDE99E737b2D",
+  "links": {
+    "github": "pie-dao",
+    "coingecko": "piedao-dough-v2",
+    "twitter": "PieDAO_DeFi",
+    "telegram": "piedao",
+    "reddit": "r/PieDAO"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

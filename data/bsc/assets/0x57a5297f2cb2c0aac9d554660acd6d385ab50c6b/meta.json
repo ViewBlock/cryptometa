@@ -1,0 +1,11 @@
+{
+  "name": "Venus LTC",
+  "symbol": "VLTC",
+  "web": "https://venus.io",
+  "explorer": "https://bscscan.com/token/0x57a5297f2cb2c0aac9d554660acd6d385ab50c6b",
+  "links": {
+    "coingecko": "venus-ltc",
+    "twitter": "VenusProtocol",
+    "telegram": "VenusProtocol"
+  }
+}

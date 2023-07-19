@@ -1,0 +1,17 @@
+{
+  "name": "Cryptassist",
+  "symbol": "CTAT",
+  "web": "https://www.cryptassist.io/en",
+  "explorer": "https://etherscan.io/token/0xf7461c8d8e469e9c41a9013dc09ba8abed66ef65",
+  "links": {
+    "coingecko": "cryptassist",
+    "twitter": "cryptassistcoin",
+    "facebook": "CryptAssistCoin",
+    "telegram": "cryptassistcoin",
+    "reddit": "r/CryptAssist"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

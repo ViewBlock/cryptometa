@@ -1,0 +1,18 @@
+{
+  "name": "CoronaCoin",
+  "symbol": "NCOV",
+  "web": "https://CoronaCoinOfficial.com ",
+  "explorer": "https://etherscan.io/token/0xb80112E516DAbcaC6Ab4665f1BD650996403156C",
+  "links": {
+    "github": "cryptovo1ce",
+    "coingecko": "coronacoin",
+    "twitter": "corona_token",
+    "facebook": "CoronaCoin-103104017960729/",
+    "telegram": "CoronaCoinOfficial",
+    "reddit": "r/CoronaCoin"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}

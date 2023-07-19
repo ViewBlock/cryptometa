@@ -1,0 +1,17 @@
+{
+  "name": "Dentacoin",
+  "symbol": "DCN",
+  "web": "https://www.dentacoin.com",
+  "explorer": "https://etherscan.io/token/0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6",
+  "links": {
+    "github": "Dentacoin",
+    "coingecko": "dentacoin",
+    "twitter": "dentacoin",
+    "reddit": "r/Dentacoin"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "score": 19
+  }
+}

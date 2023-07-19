@@ -1,0 +1,19 @@
+{
+  "name": "Devery",
+  "symbol": "EVE",
+  "web": "https://devery.io",
+  "explorer": "https://etherscan.io/token/0x923108a439c4e8c2315c4f6521e5ce95b44e9b4c",
+  "links": {
+    "github": "devery",
+    "coingecko": "devery",
+    "twitter": "deveryofficial",
+    "facebook": "devery.io",
+    "telegram": "deverychat",
+    "reddit": "r/deveryofficial"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": true,
+    "score": 19
+  }
+}
