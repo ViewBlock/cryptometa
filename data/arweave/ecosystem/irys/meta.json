@@ -1,7 +1,7 @@
 {
-  "name": "Bundlr",
+  "name": "Irys",
   "description": "A network supporting infinite scale on Arweave, supporting storage payment in any crypto.",
-  "web": "https://bundlr.network",
+  "web": "https://irys.xyz",
   "categories": [
     "storage"
   ],
@@ -10,9 +10,9 @@
     "ZE0N-8P9gXkhtK-07PQu9d8me5tGDxa_i4Mee5RzVYg"
   ],
   "links": {
-    "twitter": "BundlrNetwork",
-    "discord": "invite/xwsTEZv6DU",
-    "github": "Bundlr-Network"
+    "twitter": "irys_xyz",
+    "discord": "invite/sGEP5qqTQK",
+    "github": "Irys-xyz"
   },
   "developers": [],
   "gen": {
@@ -20,5 +20,5 @@
     "hasDark": true,
     "darkExt": "svg"
   },
-  "key": "bundlr"
+  "key": "irys"
 }
