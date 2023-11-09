@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 540 540)" id="2e71773b-ed6e-4afc-9c01-67feb14a297c"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="33af0513-e0b0-4224-92d4-2dda0888c481"  >
+</g>
+<g transform="matrix(1.95 0 0 1.95 324.48 540)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(5,0,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-849.44, -601.37)" d="M 738.71 423.41 L 960.1600000000001 351.11 L 960.1600000000001 851.63 C 801.98 784.89 738.71 656.98 738.71 584.69 L 738.71 423.4100000000001 Z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1.95 0 0 1.95 755.52 540)"  >
+<linearGradient id="SVGID_linear-gradient_3" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 -1 0 2182)"  x1="1123.26" y1="1865.78" x2="954.61" y2="1337.5">
+<stop offset="2%" style="stop-color:rgb(0,0,255);stop-opacity: 1"/>
+<stop offset="8%" style="stop-color:rgb(0,148,255);stop-opacity: 1"/>
+<stop offset="16%" style="stop-color:rgb(72,255,145);stop-opacity: 1"/>
+<stop offset="42%" style="stop-color:rgb(0,148,255);stop-opacity: 1"/>
+<stop offset="68%" style="stop-color:rgb(0,56,255);stop-opacity: 1"/>
+<stop offset="90%" style="stop-color:rgb(5,0,255);stop-opacity: 1"/>
+</linearGradient>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_linear-gradient_3); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-1070.89, -601.37)" d="M 1181.62 423.41 L 960.1699999999998 351.11 L 960.1699999999998 851.63 C 1118.35 784.89 1181.62 656.98 1181.62 584.69 L 1181.62 423.4100000000001 Z" stroke-linecap="round" />
+</g>
+</svg>

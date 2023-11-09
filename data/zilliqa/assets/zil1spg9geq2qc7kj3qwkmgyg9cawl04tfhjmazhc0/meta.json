@@ -1,0 +1,16 @@
+{
+  "name": "ZilShard",
+  "symbol": "ZSC",
+  "web": "https://zilshard.com/",
+  "email": "zsc@zilshard.com",
+  "whitepaper": "https://zilshard.com/zilliqa/files/whitepaper.pdf",
+  "explorer": "https://viewblock.io/zilliqa/address/zil1spg9geq2qc7kj3qwkmgyg9cawl04tfhjmazhc0",
+  "links": {
+    "telegram": "https://t.me/ZilShard",
+    "twitter": "https://twitter.com/ZilShard"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
+  }
+}

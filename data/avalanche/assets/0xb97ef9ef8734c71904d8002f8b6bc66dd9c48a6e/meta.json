@@ -1,0 +1,21 @@
+{
+  "name": "USD Coin",
+  "symbol": "USDC",
+  "decimals": 6,
+  "description": "USDC is a fully collateralized US Dollar stablecoin developed by CENTRE, the open source project with Circle being the first of several forthcoming issuers.",
+  "web": "https://www.centre.io",
+  "explorer": "https://snowtrace.io/token/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+  "whitepaper": "https://f.hubspotusercontent30.net/hubfs/9304636/PDF/centre-whitepaper.pdf",
+  "links": {
+    "twitter": "centre_io",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/usd-coin",
+    "coingecko": "https://coingecko.com/en/coins/usd-coin"
+  },
+  "tags": [
+    "stablecoin"
+  ],
+  "gen": {
+    "logo": "logo.svg",
+    "score": 19
+  }
+}
