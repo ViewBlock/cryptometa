@@ -4,6 +4,7 @@
   "web": "https://home.zlinkchain.io",
   "email": "anastal2001@yahoo.com",
   "explorer": "https://viewblock.io/zilliqa/address/zil1spk6kk2hrzkfsg4scx4gk03z8ln0rvny5fgks8",
+  "publicTeam": true,
   "links": {
     "telegram": "https://t.me/grphzil",
     "twitter": "https://twitter.com/grphzil",
@@ -12,6 +13,6 @@
   },
   "gen": {
     "logo": "logo.png",
-    "score": 30
+    "score": 50
   }
 }
