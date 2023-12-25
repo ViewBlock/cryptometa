@@ -2,13 +2,16 @@
   "name": "cryptometa",
   "version": "0.1.7",
   "main": "src",
-  "files": ["src"],
+  "files": [
+    "src"
+  ],
   "scripts": {
     "gen": "node bin/generate",
     "test": "ava",
     "clean": "git checkout data/{**/,}**/logo-white.png"
   },
   "dependencies": {
+    "canvas": "^2.11.2",
     "isomorphic-fetch": "^3.0.0"
   },
   "devDependencies": {

@@ -1,0 +1,18 @@
+{
+  "name": "Graphene",
+  "symbol": "GRPH",
+  "web": "https://home.zlinkchain.io",
+  "email": "anastal2001@yahoo.com",
+  "explorer": "https://viewblock.io/zilliqa/address/zil1spk6kk2hrzkfsg4scx4gk03z8ln0rvny5fgks8",
+  "publicTeam": true,
+  "links": {
+    "telegram": "https://t.me/grphzil",
+    "twitter": "https://twitter.com/grphzil",
+    "linkedin": "https://www.linkedin.com/in/anas-saber-4033b018b",
+    "github": "https://github.com/Anas2001"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 43
+  }
+}

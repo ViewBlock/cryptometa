@@ -1,0 +1,19 @@
+{
+  "name": "whw.cash",
+  "symbol": "WHW",
+  "web": "https://whw.cash/",
+  "decimals": "18",
+  "supply": "10000000000",
+  "description": "Token from Humanity for Humanity on the Zilliqa blockchain",
+  "email": "matt@whw.cash",
+  "whitepaper": "https://whw.cash/f/tokenomics-whitepaper",
+  "explorer": "https://viewblock.io/zilliqa/address/zil1zxxp9f5yjzjf7atvpx7n44h833efj72s4dt6yx",
+  "links": {
+    "twitter": "whw_cash",
+    "telegram": "mattwhwcash"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 19
+  }
+}
