@@ -1,0 +1,12 @@
+{
+  "name": "Godzilla",
+  "symbol": "GDZ",
+  "web": "https://memegodzilla.com",
+  "links": {
+    "telegram": "https://t.me/Godzilla_Zil",
+    "twitter": "https://twitter.com/Godzilla_Zil"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}
