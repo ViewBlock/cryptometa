@@ -1,0 +1,10 @@
+{
+    "name": "DopeCoin",
+    "symbol": "DOPE",
+    "web": "https://dopecrew.xyz/",
+    "supply": "9999999990000000",
+    "gen": {
+      "logo": "logo.png",
+      "score": 5
+    }
+  }
