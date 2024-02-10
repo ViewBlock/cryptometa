@@ -1,10 +1,10 @@
 {
-    "name": "Sandra",
-    "symbol": "SANDRA",
-    "web": "https://sandracoin.meme/",
-    "supply": "",
-    "gen": {
-      "logo": "logo.png",
-      "score": 5
-    }
+  "name": "Sandra",
+  "symbol": "SANDRA",
+  "web": "https://sandracoin.meme/",
+  "supply": "",
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
   }
+}
