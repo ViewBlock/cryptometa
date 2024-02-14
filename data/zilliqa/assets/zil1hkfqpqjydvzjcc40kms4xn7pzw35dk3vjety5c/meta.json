@@ -1,0 +1,12 @@
+{
+  "name": "LoveBiteBark",
+  "symbol": "LBB",
+  "web": "https://lovebitebark.com/",
+  "links": {
+    "telegram": "https://t.me/LoveBiteBark",
+    "twitter": "twitter.com/MrvalentineLBB"
+  },
+  "gen": {
+    "logo": "logo.png"
+  }
+}
