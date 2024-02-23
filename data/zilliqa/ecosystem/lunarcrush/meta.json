@@ -3,7 +3,9 @@
   "description": "LunarCrush is a platform transforming the landscape of digital asset analysis with cutting-edge social media intelligence and market insight.",
   "web": "https://lunarcrush.com",
   "links": {},
-  "categories": ["app"],
+  "categories": [
+    "app"
+  ],
   "gen": {
     "logo": "logo.svg"
   },
