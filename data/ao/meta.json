@@ -1,0 +1,19 @@
+{
+  "name": "AO",
+  "symbol": "AO",
+  "web": "https://ao.arweave.dev",
+  "explorer": "https://aoscan.net",
+  "links": {
+    "github": "https://github.com/permaweb/ao",
+    "discord": "https://discord.com/invite/M2FcKZRGrC",
+    "twitter": "aoTheComputer"
+  },
+  "config": {
+    "manualDark": true
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg"
+  }
+}

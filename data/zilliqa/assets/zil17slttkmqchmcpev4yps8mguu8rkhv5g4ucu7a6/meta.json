@@ -1,0 +1,12 @@
+{
+  "name": "Stellar Void",
+  "symbol": "VOID",
+  "decimals": 12,
+  "links": {
+    "twitter": "https://twitter.com/stellar_void"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

@@ -1,6 +1,6 @@
 {
-  "name": "Dai Stablecoin",
-  "symbol": "DAI v0",
+  "name": "Starknet Token",
+  "symbol": "STRK",
   "trusted": true,
   "gen": {
     "logo": "logo.svg",
