@@ -1,11 +1,11 @@
 {
   "name": "WEB3WAR Token",
   "symbol": "FPS",
-  "web": "https://www.w3w.game/",
+  "web": "https://www.w3w.game",
   "decimals": "12",
   "supply": "150000000",
   "description": "Token from Web3 war game on the Zilliqa blockchain",
-  "explorer": "https://viewblock.io/zilliqa/address/zil1zxxp9f5yjzjf7atvpx7n44h833efj72s4dt6yx",
+  "explorer": "https://viewblock.io/zilliqa/address/zil1j2wrzjljwyjelspmtr63vfl34c467ype2w3mjl",
   "links": {
     "twitter": "https://twitter.com/web3war_game",
     "telegram": "https://t.me/WEB3WAR",
@@ -14,8 +14,9 @@
     "facebook": "https://www.facebook.com/people/Web3war/100087392791941/",
     "instagram": "https://www.instagram.com/web3war_game/"
   },
+  "trusted": true,
   "gen": {
     "logo": "logo.png",
-    "score": 10
+    "score": 100
   }
 }

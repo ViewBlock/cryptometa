@@ -1,0 +1,9 @@
+{
+  "name": "Starknet Token",
+  "symbol": "STRK",
+  "trusted": true,
+  "gen": {
+    "logo": "logo.svg",
+    "score": 100
+  }
+}
