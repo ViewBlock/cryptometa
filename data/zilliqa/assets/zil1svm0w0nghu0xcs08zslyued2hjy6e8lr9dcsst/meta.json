@@ -1,10 +1,10 @@
 {
-    "name": "Baby Zhib",
-    "symbol": "BZHIB",
-    "web": "https://zhib-coin.xyz/",
-    "supply": "84000000",
-    "gen": {
-      "logo": "logo.png",
-      "score": 5
-    }
+  "name": "Baby Zhib",
+  "symbol": "BZHIB",
+  "web": "https://zhib-coin.xyz/",
+  "supply": "84000000",
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
   }
+}
