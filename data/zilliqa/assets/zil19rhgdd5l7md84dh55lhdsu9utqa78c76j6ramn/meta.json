@@ -1,0 +1,13 @@
+{
+  "name": "MattTheMan",
+  "symbol": "MATT",
+  "decimals": 5,
+  "links": {
+    "twitter": "https://twitter.com/the_man_matt7",
+    "website": "https://zilzilzilmattmattmatt.com/",
+    "telegram": "https://t.me/mattthemanzilliqa",
+  },
+  "gen": {
+    "logo": "logo.png",
+  }
+}
