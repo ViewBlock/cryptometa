@@ -1,17 +1,18 @@
 {
-    "name": "Kalijo",
-    "description": "The new Digital Reserve Asset for the Zilliqa community.",
-    "symbol": "SEED",
-    "web": "https://kalijo.io/",
-    "decimals": 18,
-    "supply": 10000000,
-    "whitepaper": "https://kalijo.io/litepaper.html",
-    "links": {
-      "twitter": "https://twitter.com/Kalijo_Zil",
-      "github": "https://github.com/Plunderswap",
-      "telegram": "https://t.me/KalijoSEED"
-    },
-    "gen": {
-      "logo": "logo.svg"
-    }
+  "name": "Kalijo",
+  "description": "The new Digital Reserve Asset for the Zilliqa community.",
+  "symbol": "SEED",
+  "web": "https://kalijo.io/",
+  "decimals": 18,
+  "supply": 10000000,
+  "whitepaper": "https://kalijo.io/litepaper.html",
+  "links": {
+    "twitter": "https://twitter.com/Kalijo_Zil",
+    "github": "https://github.com/Plunderswap",
+    "telegram": "https://t.me/KalijoSEED"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 29
   }
+}
