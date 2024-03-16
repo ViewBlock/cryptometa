@@ -1,0 +1,20 @@
+{
+  "name": "vTHOR",
+  "symbol": "vTHOR",
+  "decimals": 18,
+  "web": "https://thorswap.finance",
+  "whitepaper": "https://docs.thorswap.finance/",
+  "email": "admin@thorswap.finance",
+  "links": {
+    "twitter": "https://twitter.com/thorswap",
+    "github": "https://github.com/thorswap",
+    "discord": "https://discord.gg/thorswap",
+    "telegram": "https://t.me/thorswap_ann",
+    "medium": "https://thorswap.medium.com"
+  },
+  "trusted": true,
+  "gen": {
+    "logo": "logo.png",
+    "score": 100
+  }
+}
