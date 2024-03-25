@@ -1,0 +1,10 @@
+{
+    "name": "Capybara Coin",
+    "symbol": "CBAR",
+    "web": "https://cbarcoin.com",
+    "supply": "10000000000000000",
+    "gen": {
+      "logo": "logo.png",
+      "score": 5
+    }
+  }
