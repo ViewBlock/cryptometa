@@ -1,15 +1,15 @@
 {
   "name": "Akord",
-  "description": "A protocol for permanent storage, privacy and collaboration on Arweave.",
+  "description": "Easiest way to upload to Arweave, 100 MB FREE",
   "web": "https://akord.com/",
   "categories": [
     "storage"
   ],
   "links": {
-    "discord": "https://discord.com/invite/g4VXfauK5s",
     "twitter": "https://twitter.com/AkordTeam",
-    "facebook": "https://www.facebook.com/AkordTeam/",
-    "medium": "https://medium.com/@AkordTeam"
+    "discord": "https://discord.com/invite/g4VXfauK5s",
+    "linkedin": "https://www.linkedin.com/company/akord-co",
+    "github": "https://github.com/Akord-com"
   },
   "developers": [
     {
@@ -27,6 +27,10 @@
     {
       "name": "Alex Katalkin",
       "github": "Raskovan"
+    },
+    {
+      "name": "Kacper Gracki",
+      "github": "kgracki"
     }
   ],
   "gen": {
