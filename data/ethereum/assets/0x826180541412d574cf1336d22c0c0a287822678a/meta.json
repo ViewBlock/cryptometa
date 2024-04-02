@@ -1,0 +1,15 @@
+{
+  "name": "ChainFlip",
+  "symbol": "FLIP",
+  "web": "https://chainflip.io",
+  "links": {
+    "twitter": "chainflip",
+    "telegram": "chainflip_io_chat"
+  },
+  "product": true,
+  "trusted": true,
+  "gen": {
+    "logo": "logo.svg",
+    "score": 100
+  }
+}
