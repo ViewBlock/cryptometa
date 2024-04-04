@@ -3,8 +3,8 @@
   "symbol": "CBAR",
   "web": "https://cbarcoin.com",
   "supply": "10000000000000000",
-  "links": { 
-    "twitter": "https://twitter.com/CBARCoin", 
+  "links": {
+    "twitter": "https://twitter.com/CBARCoin"
   },
   "gen": {
     "logo": "logo.png",
