@@ -3,12 +3,11 @@
   "symbol": "CBAR",
   "web": "https://cbarcoin.com",
   "supply": "10000000000000000",
-  "whitepaper": "https://www.cbarcoin.com/whitepaper.pdf", 
   "links": { 
     "twitter": "https://twitter.com/CBARCoin", 
   },
   "gen": {
     "logo": "logo.png",
-    "score": 20
+    "score": 10
   }
 }
