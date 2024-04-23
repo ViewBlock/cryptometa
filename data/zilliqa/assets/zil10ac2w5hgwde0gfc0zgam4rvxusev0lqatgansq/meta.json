@@ -1,13 +1,16 @@
 {
-    "name": "MEOW",
-    "symbol": "MEOW",
-    "web": "https://meowzil.com/",
-    "links": {
-      "telegram": "https://t.me/meowzilliqa",
-      "twitter": "https://twitter.com/MEOWZILLIQA"
-    },
-    "gen": {
-      "logo": "logo.png",
-      "score": 0
-    }
+  "name": "MEOW",
+  "symbol": "MEOW",
+  "web": "https://meowzil.com/",
+  "links": {
+    "telegram": "https://t.me/meowzilliqa",
+    "twitter": "https://twitter.com/MEOWZILLIQA"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 10
   }
+}
