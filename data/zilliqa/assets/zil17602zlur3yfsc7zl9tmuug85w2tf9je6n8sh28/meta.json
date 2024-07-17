@@ -1,0 +1,21 @@
+{
+  "name": "The Winners Circle",
+  "symbol": "HRSE",
+  "web": "https://www.thewinnerscircle.io",
+  "decimals": "18",
+  "supply": "500000000",
+  "description": "The Winners Circle token",
+  "explorer": "https://viewblock.io/zilliqa/address/zil17602zlur3yfsc7zl9tmuug85w2tf9je6n8sh28",
+  "links": {
+      "twitter": "https://x.com/TWC_HRSE",
+      "telegram": "https://t.me/TWC_News",
+      "youtube": "https://www.youtube.com/@TWC_HRSE",
+      "facebook": "http://facebook.com/TWC.HRSE",
+      "instagram": "https://www.instagram.com/TWC_HRSE"
+  },
+  "trusted": true,
+  "gen": {
+      "logo": "logo.png",
+      "score": 100
+  }
+}
