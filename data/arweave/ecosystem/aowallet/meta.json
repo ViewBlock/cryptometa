@@ -1,0 +1,25 @@
+{
+  "name": "AoWallet",
+  "description": "All in one Ao & ArWeave wallet application. Include Wallets, Tokens, Faucets, Email, Chat, and others.",
+  "web": "https://www.aowallet.org/",
+  "categories": [
+    "wallet",
+    "defi"
+  ],
+  "addresses": [],
+  "links": {
+    "github": "chives-network/AoWallet",
+    "twitter": "AoWallet"
+  },
+  "developers": [
+    {
+      "name": "AoWallet",
+      "github": "chives-network/AoWallet",
+      "twitter": "AoWallet"
+    }
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "AoWallet"
+}
