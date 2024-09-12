@@ -1,0 +1,28 @@
+{
+  "name": "LiquidOps",
+  "description": "Lending & borrowing on ao.",
+  "web": "https://liquidops.io",
+  "categories": [
+    "Defi"
+  ],
+  "links": {
+    "twitter": "Liquid_Ops",
+    "github": "useLiquidOps"
+  },
+  "developers": [
+    {
+      "name": "Lorimer Jenkins",
+      "github": "LorimerJenkins",
+      "twitter": "lorimer_jenkins"
+    },
+    {
+      "name": "Marton Lederer",
+      "github": "martonlederer",
+      "twitter": "martonlederer"
+    }
+  ],
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "LiquidOps"
+}
