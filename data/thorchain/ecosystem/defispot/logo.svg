@@ -1,8 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
-<g transform="matrix(5.76 0 0 5.76 495.6 563.43)"  >
-<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-4.57" y="-4.57" rx="0" ry="0" width="9.14" height="9.14" />
-</g>
-<g transform="matrix(5.76 0 0 5.76 566.3 539.19)"  >
-<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-16.85, -8.5)" d="M 9.14062 0 L 9.14062 8.13954 L 17.9942 16.9931 L 24.5629 16.9931 L 24.5629 7.99674 L 16.5662 0 L 9.14062 0 Z" stroke-linecap="round" />
-</g>
+<svg width="150" height="150" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1">
+ <g>
+  <g transform="matrix(5.76, 0, 0, 5.76, 495.6, 563.43)" id="svg_1">
+   <rect fill-rule="nonzero" fill="black" stroke-miterlimit="4" stroke-linejoin="miter" stroke-dashoffset="0" stroke-linecap="butt" stroke-dasharray="none" stroke="none" height="9.14" width="9.14" y="-85.64633" x="-85.29905" vector-effect="non-scaling-stroke"/>
+  </g>
+  <g transform="matrix(5.76, 0, 0, 5.76, 495.6, 563.43)" id="svg_3">
+   <path fill-rule="nonzero" fill="black" stroke-miterlimit="4" stroke-linejoin="miter" stroke-dashoffset="0" stroke-dasharray="none" stroke="none" stroke-linecap="butt" d="m-76.19918,-93.78627l0,8.13954l8.85358,8.85356l6.5687,0l0,-8.99636l-7.9967,-7.99674l-7.42558,0z" vector-effect="non-scaling-stroke"/>
+  </g>
+ </g>
 </svg>
