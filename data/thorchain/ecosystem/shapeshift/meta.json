@@ -1,0 +1,8 @@
+{
+  "key": "shapeshift",
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg"
+  }
+}

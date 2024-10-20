@@ -1,9 +1,9 @@
 {
   "name": "Thorchain",
-  "symbol": "THOR",
+  "symbol": "RUNE",
   "web": "https://thorchain.org",
-  "explorer": "https://viewblock.io/thorchain",
+  "explorer": "https://runescan.io",
   "gen": {
-    "logo": "logo.svg"
+    "logo": "logo.png"
   }
 }

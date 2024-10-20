@@ -219,8 +219,14 @@ const main = async () => {
 
         const metaPath = join(path, 'ecosystem', key, 'meta.json')
 
+        let data = {}
+
+        try {
+          data = require(metaPath)
+        } catch {}
+
         const payload = {
-          ...require(metaPath),
+          ...data,
           key,
           gen: {
             logo: mainLogo,

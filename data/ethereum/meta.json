@@ -12,8 +12,6 @@
     "reddit": "r/ethereum"
   },
   "gen": {
-    "logo": "logo.svg",
-    "hasDark": true,
-    "darkExt": "svg"
+    "logo": "logo.png"
   }
 }
