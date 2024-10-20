@@ -90,7 +90,8 @@ const getParams = (key, data) => {
       (assetKey && (data._remap[key] || data._remap[key] || data._remap[`${chain}.${assetKey}`])))
 
   if (remapKey) return getParams(remapKey)
-  if (chain !== 'BNB' && (chain === assetKey || chain === data._symbols[assetKey])) return [chain]
+  if (chain !== 'binance' && (chain === assetKey || chain === data._symbols[assetKey]))
+    return [chain]
 
   return [chain, transformAsset(chain, assetKey)]
 }
