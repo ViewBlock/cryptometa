@@ -1,0 +1,18 @@
+{
+  "symbol": "BNB",
+  "name": "BNB",
+  "web": "https://binance.com",
+  "trusted": true,
+  "links": {
+    "reddit": "https://www.reddit.com/r/binanceexchange",
+    "medium": "https://medium.com/binanceexchange",
+    "coinmarketcap": "https://coinmarketcap.com/exchanges/binance",
+    "twitter": "https://twitter.com/binance",
+    "telegram": "https://t.me/binance_announcements",
+    "research": "https://research.binance.com/en/projects/bnb"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 100
+  }
+}
