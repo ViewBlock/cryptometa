@@ -3,5 +3,8 @@
   "symbol": "BSC",
   "explorer": "https://bscscan.com",
   "web": "https://www.binance.org/en/smartChain",
-  "whitepaper": "https://dex-bin.bnbstatic.com/static/Whitepaper_%20Binance%20Smart%20Chain.pdf"
+  "whitepaper": "https://dex-bin.bnbstatic.com/static/Whitepaper_%20Binance%20Smart%20Chain.pdf",
+  "gen": {
+    "logo": "logo.png"
+  }
 }

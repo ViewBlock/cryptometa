@@ -174,7 +174,7 @@ const main = async () => {
   })
 
   full._remap = {
-    bsc: 'binance',
+    // bsc: 'binance',
     huobi: 'ethereum.0x6f259637dcd74c767781e37bc6133cd6a68aa161',
     chiliz: 'ethereum.0x3506424f91fd33084466f402d5d97f05f8e3b4af',
     // polygon: 'ethereum.0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0',
