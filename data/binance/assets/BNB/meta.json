@@ -1,10 +1,8 @@
 {
   "symbol": "BNB",
   "name": "Binance Chain Native Token",
-  "email": null,
-  "web": "https://binance.com/",
-  "decimals": null,
-  "supply": 174153539.9,
+  "web": "https://binance.com",
+  "trusted": true,
   "links": {
     "reddit": "https://www.reddit.com/r/binanceexchange",
     "medium": "https://medium.com/binanceexchange",
@@ -15,7 +13,7 @@
     "research": "https://research.binance.com/en/projects/bnb"
   },
   "gen": {
-    "logo": "logo.png",
-    "score": 19
+    "logo": "logo.svg",
+    "score": 100
   }
 }
