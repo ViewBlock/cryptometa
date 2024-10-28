@@ -5,14 +5,17 @@
   "web": "https://kalijo.io/",
   "decimals": 18,
   "supply": 10000000,
+  "product": true,
+  "publicTeam": true,
   "whitepaper": "https://kalijo.io/litepaper.html",
   "links": {
     "twitter": "https://twitter.com/Kalijo_Zil",
     "github": "https://github.com/Plunderswap",
-    "telegram": "https://t.me/KalijoSEED"
+    "telegram": "https://t.me/KalijoSEED",
+    "linkedin": "https://www.linkedin.com/company/kalijo"
   },
   "gen": {
     "logo": "logo.svg",
-    "score": 29
+    "score": 90
   }
 }
