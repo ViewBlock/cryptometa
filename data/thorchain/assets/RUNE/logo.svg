@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100" height="100" viewBox="0 0 114 114" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient x1="100%" y1="50%" x2="-7.96148507%" y2="50%" id="linearGradient-1">
+      <stop stop-color="#33FF99" offset="0%"></stop>
+      <stop stop-color="#00CCFF" offset="100%"></stop>
+    </linearGradient>
+
+    <circle id="path-2" cx="50" cy="50" r="50"></circle>
+
+    <filter x="-10.0%" y="-10.0%" width="120.0%" height="120.0%" filterUnits="objectBoundingBox" id="filter-3">
+      <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+      <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+      <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+      <feColorMatrix values="0 0 0 0 0.314369351   0 0 0 0 0.8883757   0 0 0 0 0.759899616  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+    </filter>
+
+    <linearGradient x1="215.553867%" y1="50%" x2="-104.268174%" y2="60.8824956%" id="linearGradient-4">
+      <stop stop-color="#33FF99" offset="0%"></stop>
+      <stop stop-color="#00CCFF" offset="100%"></stop>
+    </linearGradient>
+
+    <polygon id="path-5" points="45.9220246 76 39 76 39 21 45.9220246 21 63.6409029 31.0068399 63.6409029 38.5683995 57.3207934 49.4028728 67.4028728 76 60.0294118 76 50.0225718 49.0266758 57.7722298 35.5588235 45.9220246 28.8625171"></polygon>
+    <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-6">
+      <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+      <feColorMatrix values="0 0 0 0 0.314369351   0 0 0 0 0.8883757   0 0 0 0 0.759899616  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+    </filter>
+  </defs>
+
+  <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g transform="translate(-307.000000, -152.000000)">
+      <g transform="translate(184.000000, 29.000000)">
+        <g transform="translate(130.000000, 130.000000)">
+          <g>
+            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+            <use stroke="url(#linearGradient-1)" stroke-width="2" fill="#1C2731" fill-rule="evenodd" xlink:href="#path-2"></use>
+          </g>
+          <g>
+            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+            <use fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#path-5"></use>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -4,6 +4,6 @@
   "web": "https://thorchain.org",
   "explorer": "https://runescan.io",
   "gen": {
-    "logo": "logo.png"
+    "logo": "logo.svg"
   }
 }
