@@ -181,7 +181,7 @@ const main = async () => {
     waves: 'ethereum.0x1cf4592ebffd730c7dc92c1bdffdfc3b9efcf29a',
 
     RUNE: 'thorchain',
-    'THOR.RUNE': 'thorchain',
+    'THOR.RUNE': 'thorchain.RUNE',
     'GAIA.ATOM': 'cosmos',
     GAIA: 'cosmos',
     // 'binance.ETH-1C9': 'ethereum',
