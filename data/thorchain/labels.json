@@ -16,10 +16,11 @@
   "thor1cqg8pyxnq03d88cl3xfn5wzjkguw5kh9enwte4": "Binance Cold",
   "thor1uz4fpyd5f5d6p9pzk8lxyj4qxnwq6f9utg0e7k": "Binance",
   "thor1v8ppstuf6e3x0r4glqc68d5jqcs2tf38cg2q6y": "Synth Module",
+  "thor1nm0rrq86ucezaf8uj35pq9fpwr5r82clphp95t": "Kraken Hot",
+  "thor1t2hav42urasnsvwa6x6fyezaex9f953plh72pq": "Kraken Cold",
+  "thor1mtqtupwgjwn397w3dx9fqmqgzrfzq3240frash": "Bybit",
+  "thor10qh5272ktq4wes8ex343ky9rsuehcypddjh08k": "Treasury Vultisig",
   "sthor1g98cy3n9mmjrpn0sxmn63lztelera37nn2xgw3": "Pool Module",
   "sthor1dheycdevq39qlkxs2a6wuuzyn4aqxhvepe6as4": "Reserve Module",
-  "sthor17gw75axcnr8747pkanye45pnrwk7p9c3ve0wxj": "Bond Module",
-  "thor1nm0rrq86ucezaf8uj35pq9fpwr5r82clphp95t": "Kraken",
-  "thor1mtqtupwgjwn397w3dx9fqmqgzrfzq3240frash": "Bybit",
-  "thor10qh5272ktq4wes8ex343ky9rsuehcypddjh08k": "Treasury Vultisig"
+  "sthor17gw75axcnr8747pkanye45pnrwk7p9c3ve0wxj": "Bond Module"
 }
