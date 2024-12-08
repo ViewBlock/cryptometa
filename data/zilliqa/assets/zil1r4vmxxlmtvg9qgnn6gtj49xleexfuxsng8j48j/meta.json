@@ -1,9 +1,9 @@
 {
-    "name": "HawkZilla",
-    "symbol": "HZIL",
-    "supply": "6942000000000000000",
-    "gen": {
-      "logo": "logo.png",
-      "score": 5
-    }
+  "name": "HawkZilla",
+  "symbol": "HZIL",
+  "supply": "6942000000000000000",
+  "gen": {
+    "logo": "logo.png",
+    "score": 0
   }
+}
