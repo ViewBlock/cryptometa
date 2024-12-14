@@ -1,0 +1,9 @@
+{
+    "name": "TacoDog",
+    "symbol": "TACODOG",
+    "supply": "4200000000",
+    "gen": {
+      "logo": "logo.png",
+      "score": 5
+    }
+  }
