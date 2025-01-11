@@ -1,0 +1,8 @@
+{
+  "name": "Base",
+  "symbol": "BASE",
+  "web": "https://www.base.org",
+  "gen": {
+    "logo": "logo.svg"
+  }
+}
