@@ -1,0 +1,9 @@
+{
+  "name": "Mayachain",
+  "symbol": "MAYA",
+  "web": "https://www.mayaprotocol.com",
+  "explorer": "https://mayascan.org",
+  "gen": {
+    "logo": "logo.png"
+  }
+}

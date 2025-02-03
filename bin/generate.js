@@ -182,6 +182,7 @@ const main = async () => {
 
     RUNE: 'thorchain',
     'THOR.RUNE': 'thorchain.RUNE',
+    'MAYA.CACAO': 'mayachain.CACAO',
     'GAIA.ATOM': 'cosmos',
     GAIA: 'cosmos',
     // 'binance.ETH-1C9': 'ethereum',
