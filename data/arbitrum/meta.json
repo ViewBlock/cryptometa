@@ -1,0 +1,8 @@
+{
+  "name": "Arbitrum",
+  "symbol": "ARB",
+  "web": "https://arbitrum.io",
+  "gen": {
+    "logo": "logo.svg"
+  }
+}
