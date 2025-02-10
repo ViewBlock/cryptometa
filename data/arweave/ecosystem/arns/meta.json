@@ -1,0 +1,8 @@
+{
+  "name": "ArNS",
+  "web": "https://arns.app",
+  "gen": {
+    "logo": "logo.svg"
+  },
+  "key": "arns"
+}
