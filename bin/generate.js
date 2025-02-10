@@ -184,12 +184,18 @@ const main = async () => {
     'THOR.RUNE': 'thorchain.RUNE',
 
     'ARB.ETH': 'ethereum',
+    'BASE.ETH': 'ethereum',
+
     'ARB.0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f':
       'ethereum.0x2260fac5e5542a773aa44fbcfedf7c193bc2c599',
-    'ARB.0xaf88d065e77c8cc2239327c5edb3a432268e5831':
-      'ethereum.0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48',
     'ARB.0x25d887ce7a35172c62febfd67a1856f20faebb00':
       'ethereum.0x6982508145454ce325ddbe47a25d4ec3d2311933',
+
+    // USDC
+    'BASE.0x833589fcd6edb6e08f4c7c32d4f71b54bda02913':
+      'ethereum.0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48',
+    'ARB.0xaf88d065e77c8cc2239327c5edb3a432268e5831':
+      'ethereum.0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48',
 
     'GAIA.ATOM': 'cosmos',
     GAIA: 'cosmos',

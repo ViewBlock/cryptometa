@@ -1,0 +1,9 @@
+{
+  "name": "cbBTC",
+  "symbol": "cbBTC",
+  "trusted": true,
+  "gen": {
+    "logo": "logo.png",
+    "score": 100
+  }
+}
