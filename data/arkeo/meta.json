@@ -1,0 +1,14 @@
+{
+  "name": "Arkeo",
+  "symbol": "ARKEO",
+  "web": "https://arkeo.network",
+  "explorer": "https://arkeology.network",
+  "links": {
+    "github": "arkeonetwork",
+    "twitter": "arkeonetwork",
+    "discord": "https://discord.gg/BfEHpm6uFc"
+  },
+  "gen": {
+    "logo": "logo.svg"
+  }
+}
