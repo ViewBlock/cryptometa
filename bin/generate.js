@@ -183,6 +183,12 @@ const main = async () => {
     RUNE: 'thorchain',
     'THOR.RUNE': 'thorchain.RUNE',
 
+    'GAIA.LVN': 'thorchain.LVN',
+    'GAIA.KUJI': 'thorchain.KUJI',
+    'GAIA.FUZN': 'thorchain.FUZN',
+    'GAIA.NSTK': 'thorchain.NSTK',
+    'GAIA.WINK': 'thorchain.WINK',
+
     'ARB.ETH': 'ethereum',
     'BASE.ETH': 'ethereum',
 
