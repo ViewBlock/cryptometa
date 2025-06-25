@@ -2,4 +2,3 @@ bin/fetchC*.js
 bin/fetchB*.js
 bin/fetchE*.js
 fallback.png
-.DS_Store
