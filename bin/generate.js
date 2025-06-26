@@ -182,6 +182,10 @@ const main = async () => {
 
     RUNE: 'thorchain',
     'THOR.RUNE': 'thorchain.RUNE',
+    'THOR.RUJI': 'thorchain.RUJI',
+    'THOR.NAMI': 'thorchain.NAMI',
+    'THOR.LQDY': 'thorchain.LQDY',
+    'THOR.AUTO': 'thorchain.AUTO',
 
     'GAIA.LVN': 'thorchain.LVN',
     'GAIA.KUJI': 'thorchain.KUJI',
