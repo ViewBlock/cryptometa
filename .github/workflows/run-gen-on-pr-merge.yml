@@ -1,0 +1,56 @@
+name: Run gen on PR merge
+
+permissions:
+  contents: write
+
+on:
+  pull_request:
+    types: [closed]
+
+jobs:
+  gen:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out base branch after merge
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.base.ref }}
+          fetch-depth: 0
+
+      - name: Set up Node.js 18
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+          cache: 'npm'
+
+      - name: Install system dependencies (canvas/imagemagick)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            libcairo2-dev \
+            libpango1.0-dev \
+            libjpeg-dev \
+            libgif-dev \
+            librsvg2-dev \
+            imagemagick
+
+      - name: Install npm dependencies
+        run: npm ci
+
+      - name: Run generator
+        run: npm run gen
+
+      - name: Commit and push generated changes
+        run: |
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git add -A
+            git commit -m "chore: full gen"
+            # Push back to the base branch of the PR
+            git push origin HEAD:${{ github.event.pull_request.base.ref }}
+          else
+            echo "No changes to commit"
+          fi
