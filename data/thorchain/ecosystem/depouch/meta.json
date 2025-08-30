@@ -1,0 +1,8 @@
+{
+  "key": "depouch",
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg"
+  }
+}
