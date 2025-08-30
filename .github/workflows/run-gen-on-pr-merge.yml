@@ -17,6 +17,7 @@ jobs:
         with:
           ref: ${{ github.event.pull_request.base.ref }}
           fetch-depth: 0
+          token: ${{ github.token }}
 
       - name: Set up Node.js 18
         uses: actions/setup-node@v4
@@ -54,3 +55,5 @@ jobs:
           else
             echo "No changes to commit"
           fi
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
