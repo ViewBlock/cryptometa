@@ -1,12 +1,13 @@
 {
-  "name": "Tyron SSI",
-  "description": "Tyron SSI is a Self-Sovereign Identity (SSI) protocol for users to own and control their digital identity and financial assets with Social Recovery.",
+  "name": "TYRON Network",
+  "description": "A network of decentralized identities that centres the control of information around you, the user. Your decentralized identity has Web3 wallets to give you complete control over your financial data, powered by the online security of Zilliqa and W3C Decentralized Identifiers (DIDs).",
   "web": "https://www.tyron.network/",
   "links": {
     "twitter": "https://twitter.com/ssiprotocol",
     "instagram": "https://www.instagram.com/ssiprotocol/",
+    "discord": "https://discord.gg/7HSvNDJEWm",
     "telegram": "https://t.me/ssiprotocol",
-    "linkedin": "https://www.linkedin.com/company/tyronssi/"
+    "linkedin": "https://www.linkedin.com/company/tyron-coop/"
   },
   "categories": [
     "wallet",
@@ -18,7 +19,7 @@
     "w3c"
   ],
   "gen": {
-    "logo": "logo.svg"
+    "logo": "logo.png"
   },
   "key": "tyron"
 }
