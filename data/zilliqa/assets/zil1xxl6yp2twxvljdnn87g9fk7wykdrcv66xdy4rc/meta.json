@@ -1,10 +1,10 @@
 {
-  "name": "LunarCrush Coin",
+  "name": "LunarCrush Earn",
   "symbol": "Lunr",
   "web": "https://www.lunarcrush.com",
   "decimals": 4,
   "supply": "250000000",
-  "whitepaper": "https://lunarcrush.com/litepaper.pdf",
+  "whitepaper": "https://www.lunrtoken.com/lunr.pdf",
   "links": {
     "twitter": "https://twitter.com/LunarCrushEarn",
     "discord": "https://discord.gg/CaNEDzhg"
