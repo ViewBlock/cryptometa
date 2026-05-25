@@ -1,0 +1,8 @@
+{
+  "name": "Sui",
+  "symbol": "SUI",
+  "web": "https://sui.io",
+  "gen": {
+    "logo": "logo.svg"
+  }
+}
