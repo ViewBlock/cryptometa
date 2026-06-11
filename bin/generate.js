@@ -186,6 +186,8 @@ const main = async () => {
     'THOR.NAMI': 'thorchain.NAMI',
     'THOR.LQDY': 'thorchain.LQDY',
     'THOR.AUTO': 'thorchain.AUTO',
+    'THOR.BRUNE': 'thorchain.BRUNE',
+    'THOR.RKUJI': 'thorchain.RKUJI',
 
     'GAIA.LVN': 'thorchain.LVN',
     'GAIA.KUJI': 'thorchain.KUJI',
@@ -206,6 +208,23 @@ const main = async () => {
       'ethereum.0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48',
     'ARB.0xaf88d065e77c8cc2239327c5edb3a432268e5831':
       'ethereum.0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48',
+    'BSC.0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d':
+      'ethereum.0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48',
+
+    // USDT
+    'AVAX.0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7':
+      'ethereum.0xdac17f958d2ee523a2206206994597c13d831ec7',
+    'BSC.0x55d398326f99059ff775485246999027b3197955':
+      'ethereum.0xdac17f958d2ee523a2206206994597c13d831ec7',
+    // Tron's meta symbol is TRX, so the THORChain "TRON" ticker only resolves
+    // through this exact-string key; the notation also uppercases the base58
+    // address, so an on-disk tron asset dir could never match it.
+    'TRON.TR7NHQJEKQXGTCI8Q8ZY4PL8OTSZGJLJ6T':
+      'ethereum.0xdac17f958d2ee523a2206206994597c13d831ec7',
+
+    // BUSD
+    'BSC.0xe9e7cea3dedca5984780bafc599bd69add087d56':
+      'ethereum.0x4fabb145d64652a948d72533023f6e7a623c7c53',
 
     'GAIA.ATOM': 'cosmos',
     GAIA: 'cosmos',
