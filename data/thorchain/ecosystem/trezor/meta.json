@@ -1,0 +1,8 @@
+{
+  "key": "trezor",
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg"
+  }
+}
